@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News Digest Clone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <nav class="site-nav">
+            <div class="nav-brand">
+                <a class="nav-title" href="/">AI News Digest Clone</a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#">About</a></li>
+                <li><a href="#">Subscribe</a></li>
+            </ul>
+        </nav>
+
+        <div class="page-header">
+            <h1 class="page-subtitle">The AI-edited AI briefing</h1>
+            <p class="page-tagline">Curated facts. Zero hype. 5 minutes.</p>
+        </div>
+
+        <ul class="article-list">
+            <li class="article-card">
+                <a href="#" class="card-link">
+                    <div class="card-header">
+                        <span class="card-date">{{ date }}</span>
+                    </div>
+                    
+                    <ol class="card-numbered">
+                        {% for item in news %}
+                        <li class="{% if loop.first %}lead{% endif %}">
+                            <span class="num">0{{ loop.index }}</span>
+                            <!-- 此处仅展示标题，如果是详情页会展示 summary -->
+                            <div class="item-content">
+                                <strong>{{ item.title }}</strong>
+                                <p class="item-summary">{{ item.summary }}</p>
+                                <span class="item-source">Via {{ item.source }}</span>
+                            </div>
+                        </li>
+                        {% endfor %}
+                    </ol>
+                </a>
+                <div class="card-stat">Automated curation from {{ total_sources }} recent items.</div>
+            </li>
+        </ul>
+        
+        <footer class="site-footer">
+            <p>Built with Python, Jinja2, and LLMs.</p>
+        </footer>
+    </div>
+</body>
+</html>

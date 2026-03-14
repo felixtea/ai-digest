@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "link": "https://openai.com/index/rakuten",
+    "source": "OpenAI",
+    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks."
+  },
+  {
+    "title": "Designing AI agents to resist prompt injection",
+    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "source": "OpenAI",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
+  },
+  {
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "link": "https://openai.com/index/wayfair",
+    "source": "OpenAI",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
+  },
+  {
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "link": "https://openai.com/index/equip-responses-api-computer-environment",
+    "source": "OpenAI",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
+  },
+  {
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "link": "https://openai.com/index/instruction-hierarchy-challenge",
+    "source": "OpenAI",
+    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks."
+  },
+  {
+    "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+    "link": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+    "source": "Hugging Face",
+    "summary": ""
+  },
+  {
+    "title": "Introducing Storage Buckets on the Hugging Face Hub",
+    "link": "https://huggingface.co/blog/storage-buckets",
+    "source": "Hugging Face",
+    "summary": ""
+  },
+  {
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "link": "https://huggingface.co/blog/async-rl-training-landscape",
+    "source": "Hugging Face",
+    "summary": ""
+  },
+  {
+    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "source": "Hugging Face",
+    "summary": ""
+  },
+  {
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "link": "https://huggingface.co/blog/ulysses-sp",
+    "source": "Hugging Face",
+    "summary": ""
+  },
+  {
+    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+    "link": "https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything",
+    "source": "Simon Willison",
+    "summary": "<p><strong><a href=\"https://claude.com/blog/1m-context-ga\">1M context is now generally available for Opus 4.6 and Sonnet 4.6</a></strong></p>\nHere's what surprised me:</p>\n<blockquote>\n<p>Standard pri"
+  },
+  {
+    "title": "Quoting Craig Mod",
+    "link": "https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything",
+    "source": "Simon Willison",
+    "summary": "<blockquote cite=\"https://craigmod.com/essays/software_bonkers/\"><p>Simply put: It’s a big mess, and no off-the-shelf accounting software does what I need. So after years of pain, I finally sat down l"
+  },
+  {
+    "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
+    "link": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything",
+    "source": "Simon Willison",
+    "summary": "<p><strong><a href=\"https://github.com/Shopify/liquid/pull/2056\">Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations</a></strong></p>\nPR from Shopify CEO Tobias Lütke against L"
+  },
+  {
+    "title": "MALUS - Clean Room as a Service",
+    "link": "https://simonwillison.net/2026/Mar/12/malus/#atom-everything",
+    "source": "Simon Willison",
+    "summary": "<p><strong><a href=\"https://malus.sh/\">MALUS - Clean Room as a Service</a></strong></p>\nBrutal satire on the whole vibe-porting license washing thing (<a href=\"https://simonwillison.net/2026/Mar/5/cha"
+  },
+  {
+    "title": "Coding After Coders: The End of Computer Programming as We Know It",
+    "link": "https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything",
+    "source": "Simon Willison",
+    "summary": "<p><strong><a href=\"https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?unlocked_article_code=1.SlA.DBan.wbQDi-hptjj6\">Coding After Coders: The End of Computer P"
+  }
+]
