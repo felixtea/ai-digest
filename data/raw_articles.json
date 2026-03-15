@@ -12,16 +12,16 @@
     "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
   },
   {
-    "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "link": "https://openai.com/index/equip-responses-api-computer-environment",
-    "source": "OpenAI",
-    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
-  },
-  {
     "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
     "link": "https://openai.com/index/wayfair",
     "source": "OpenAI",
     "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
+  },
+  {
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "link": "https://openai.com/index/equip-responses-api-computer-environment",
+    "source": "OpenAI",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
   },
   {
     "title": "Improving instruction hierarchy in frontier LLMs",
@@ -60,6 +60,18 @@
     "summary": ""
   },
   {
+    "title": "Quoting Jannis Leidel",
+    "link": "https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything",
+    "source": "Simon Willison",
+    "summary": "<blockquote cite=\"https://jazzband.co/news/2026/03/14/sunsetting-jazzband\"><p>GitHub’s <a href=\"https://www.theregister.com/2026/02/18/godot_maintainers_struggle_with_draining/\">slopocalypse</a> – the"
+  },
+  {
+    "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
+    "link": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything",
+    "source": "Simon Willison",
+    "summary": "<p>I was a speaker last month at the <a href=\"https://www.pragmaticsummit.com/\">Pragmatic Summit</a> in San Francisco, where I participated in a fireside chat session about <a href=\"https://simonwilli"
+  },
+  {
     "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
     "link": "https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything",
     "source": "Simon Willison",
@@ -76,17 +88,5 @@
     "link": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything",
     "source": "Simon Willison",
     "summary": "<p><strong><a href=\"https://github.com/Shopify/liquid/pull/2056\">Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations</a></strong></p>\nPR from Shopify CEO Tobias Lütke against L"
-  },
-  {
-    "title": "MALUS - Clean Room as a Service",
-    "link": "https://simonwillison.net/2026/Mar/12/malus/#atom-everything",
-    "source": "Simon Willison",
-    "summary": "<p><strong><a href=\"https://malus.sh/\">MALUS - Clean Room as a Service</a></strong></p>\nBrutal satire on the whole vibe-porting license washing thing (<a href=\"https://simonwillison.net/2026/Mar/5/cha"
-  },
-  {
-    "title": "Coding After Coders: The End of Computer Programming as We Know It",
-    "link": "https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything",
-    "source": "Simon Willison",
-    "summary": "<p><strong><a href=\"https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?unlocked_article_code=1.SlA.DBan.wbQDi-hptjj6\">Coding After Coders: The End of Computer P"
   }
 ]
