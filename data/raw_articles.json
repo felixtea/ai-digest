@@ -60,6 +60,12 @@
     "summary": ""
   },
   {
+    "title": "What is agentic engineering?",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything",
+    "source": "Simon Willison",
+    "summary": "<p><em><a href=\"https://simonwillison.net/guides/agentic-engineering-patterns/\">Agentic Engineering Patterns</a> &gt;</em></p>\n    <p>I use the term <strong>agentic engineering</strong> to describe th"
+  },
+  {
     "title": "Quoting Jannis Leidel",
     "link": "https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything",
     "source": "Simon Willison",
@@ -82,11 +88,5 @@
     "link": "https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything",
     "source": "Simon Willison",
     "summary": "<blockquote cite=\"https://craigmod.com/essays/software_bonkers/\"><p>Simply put: It’s a big mess, and no off-the-shelf accounting software does what I need. So after years of pain, I finally sat down l"
-  },
-  {
-    "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
-    "link": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything",
-    "source": "Simon Willison",
-    "summary": "<p><strong><a href=\"https://github.com/Shopify/liquid/pull/2056\">Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations</a></strong></p>\nPR from Shopify CEO Tobias Lütke against L"
   }
 ]
