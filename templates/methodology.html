@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ ui.nav_about }} | {{ ui.title }}</title>
+    <meta name="description" content="{{ ui.tagline }}">
+    <link rel="stylesheet" href="{{ base_path }}style.css">
+</head>
+<body>
+    <div class="container">
+        <nav class="site-nav">
+            <div class="nav-brand">
+                <a class="nav-title" href="{{ base_path }}{{ lang }}/index.html">{{ ui.title }}</a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="{{ base_path }}{{ lang }}/methodology.html">{{ ui.nav_about }}</a></li>
+                <li><a href="{{ base_path }}{{ lang }}/archive.html">{{ ui.nav_archive }}</a></li>
+            </ul>
+        </nav>
+
+        <div class="page-header">
+            <h1 class="page-subtitle">{{ ui.nav_about }}</h1>
+        </div>
+
+        <div class="article-content">
+            {% if lang == 'zh' %}
+            <h2>为什么做这个</h2>
+            <p>目前行业内的 AI 资讯存在大量的二次加工和情绪化引导，导致很难还原技术突破本身的原貌。这里旨在通过自动化工具提供完全客观中立的一手信息。</p>
+            
+            <h2>适合谁读</h2>
+            <p>如果你更看重客观中立，而不是观点输出；想知道「发生了什么」，而不是「这意味着什么」；希望信息来源可追溯，这正是为你准备的。</p>
+            
+            <h2>信息来源</h2>
+            <p>我们收录了包括 OpenAI、Anthropic 官博，MIT Tech Review，Hacker News，和业界领袖（Jack Clark, Simon Willison）在内的 25 个顶尖高质量来源，自动抓取并整理。</p>
+            {% else %}
+            <h2>Why built this</h2>
+            <p>The AI space is flooded with secondary commentary and hype. This project is designed to provide purely objective, primary-source information through automation.</p>
+            
+            <h2>Who is it for</h2>
+            <p>If you value objectivity and facts over opinions, want to know "what happened" instead of "what it means", and expect all sources to be traceable, this digest is for you.</p>
+            
+            <h2>Information Sources</h2>
+            <p>We monitor 25 high-quality, primary tech sources including OpenAI and Anthropic blogs, MIT Tech Review, Hacker News, and industry newsletters.</p>
+            {% endif %}
+        </div>
+        
+        <footer class="site-footer">
+            <p>{{ ui.footer_text }}</p>
+        </footer>
+    </div>
+</body>
+</html>

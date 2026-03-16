@@ -1,26 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ lang }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI News Digest Clone</title>
-    <link rel="stylesheet" href="style.css">
+    <title>{{ ui.title }} | {{ date }}</title>
+    <meta name="description" content="{{ ui.tagline }}">
+    <meta property="og:title" content="{{ ui.title }} | {{ date }}">
+    <meta property="og:description" content="{{ ui.tagline }}">
+    <link rel="stylesheet" href="{{ base_path }}style.css">
 </head>
 <body>
     <div class="container">
         <nav class="site-nav">
             <div class="nav-brand">
-                <a class="nav-title" href="/">AI News Digest Clone</a>
+                <a class="nav-title" href="{{ base_path }}{{ lang }}/index.html">{{ ui.title }}</a>
             </div>
             <ul class="nav-links">
-                <li><a href="#">About</a></li>
-                <li><a href="#">Subscribe</a></li>
+                <li><a href="{{ base_path }}{{ lang }}/methodology.html">{{ ui.nav_about }}</a></li>
+                <li><a href="{{ base_path }}{{ lang }}/archive.html">{{ ui.nav_archive }}</a></li>
+                <li><a href="{{ ui.nav_switch_url }}">{{ ui.nav_switch_lang }}</a></li>
             </ul>
         </nav>
 
         <div class="page-header">
-            <h1 class="page-subtitle">The AI-edited AI briefing</h1>
-            <p class="page-tagline">Curated facts. Zero hype. 5 minutes.</p>
+            <h1 class="page-subtitle">{{ ui.title }}</h1>
+            <p class="page-tagline">{{ ui.tagline }}</p>
         </div>
 
         <ul class="article-list">
@@ -31,25 +35,50 @@
                     </div>
                     
                     <ol class="card-numbered">
-                        {% for item in news %}
+                        {% for item in top_articles %}
                         <li class="{% if loop.first %}lead{% endif %}">
                             <span class="num">0{{ loop.index }}</span>
-                            <!-- 此处仅展示标题，如果是详情页会展示 summary -->
                             <div class="item-content">
-                                <strong>{{ item.title }}</strong>
-                                <p class="item-summary">{{ item.summary }}</p>
-                                <span class="item-source">Via {{ item.source }}</span>
+                                <strong><a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a></strong>
+                                <span class="item-source">{{ item.source }}</span>
+                                
+                                <p class="item-summary tl-dr"><strong>{{ ui.tl_dr_label }}:</strong> {{ item.tl_dr }}</p>
+                                
+                                <ul class="item-takeaways">
+                                    {% for point in item.key_takeaways %}
+                                    <li>{{ point }}</li>
+                                    {% endfor %}
+                                </ul>
+                                
+                                <p class="item-impact"><strong>{{ ui.impact_label }}:</strong> {{ item.impact }}</p>
                             </div>
                         </li>
                         {% endfor %}
                     </ol>
                 </a>
-                <div class="card-stat">Automated curation from {{ total_sources }} recent items.</div>
+                
+                <div class="card-stat">
+                    <a href="{{ base_path }}{{ lang }}/digest/{{ date_id }}-sources.html">{{ ui.stat_text }}</a>
+                </div>
             </li>
         </ul>
+
+        {% if mentions %}
+        <div class="honorable-mentions">
+            <h3>{{ ui.mentions_title }}</h3>
+            <ul class="mentions-list">
+                {% for mention in mentions %}
+                <li>
+                    <span class="mention-source">{{ mention.source }}</span>
+                    <a href="{{ mention.link }}" target="_blank" rel="noopener">{{ mention.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
         
         <footer class="site-footer">
-            <p>Built with Python, Jinja2, and LLMs.</p>
+            <p>{{ ui.footer_text }}</p>
         </footer>
     </div>
 </body>

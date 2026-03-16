@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ ui.nav_archive }} | {{ ui.title }}</title>
+    <meta name="description" content="{{ ui.tagline }}">
+    <link rel="stylesheet" href="{{ base_path }}style.css">
+</head>
+<body>
+    <div class="container">
+        <nav class="site-nav">
+            <div class="nav-brand">
+                <a class="nav-title" href="{{ base_path }}{{ lang }}/index.html">{{ ui.title }}</a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="{{ base_path }}{{ lang }}/methodology.html">{{ ui.nav_about }}</a></li>
+                <li><a href="{{ base_path }}{{ lang }}/archive.html">{{ ui.nav_archive }}</a></li>
+                <li><a href="{{ ui.nav_switch_url }}">{{ ui.nav_switch_lang }}</a></li>
+            </ul>
+        </nav>
+
+        <div class="page-header">
+            <h1 class="page-subtitle">{{ ui.nav_archive }}</h1>
+            <p class="page-tagline">{{ ui.tagline }}</p>
+        </div>
+
+        <ul class="article-list">
+            {% for digest in digests %}
+            <li class="article-card" style="padding: 1.5rem; margin-bottom: 1rem;">
+                <a href="{{ base_path }}{{ lang }}/digest/{{ digest.date_id }}.html" class="card-link">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <span class="card-date" style="margin: 0; font-size: 1.1rem; color: var(--text-main);">{{ digest.display_date }}</span>
+                        <span class="item-source" style="margin: 0;">{{ digest.total_sources }} sources</span>
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+        
+        <footer class="site-footer">
+            <p>{{ ui.footer_text }}</p>
+        </footer>
+    </div>
+</body>
+</html>

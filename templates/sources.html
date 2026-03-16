@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ ui.title }} | {{ date }} - Sources</title>
+    <meta name="description" content="{{ ui.tagline }}">
+    <link rel="stylesheet" href="{{ base_path }}style.css">
+    <style>
+        .source-url-list {
+            font-family: monospace;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-top: 2rem;
+            word-break: break-all;
+            background: var(--bg-hover);
+            padding: 1rem;
+            border-radius: 8px;
+        }
+        .source-url-list li { margin-bottom: 0.5rem; }
+        .source-url-list a { color: var(--accent-color); text-decoration: none; }
+        .source-url-list a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="site-nav">
+            <div class="nav-brand">
+                <a class="nav-title" href="{{ base_path }}{{ lang }}/index.html">{{ ui.title }}</a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="{{ base_path }}{{ lang }}/methodology.html">{{ ui.nav_about }}</a></li>
+                <li><a href="{{ base_path }}{{ lang }}/archive.html">{{ ui.nav_archive }}</a></li>
+                <li><a href="{{ ui.nav_switch_url }}">{{ ui.nav_switch_lang }}</a></li>
+            </ul>
+        </nav>
+
+        <div class="page-header">
+            <h1 class="page-subtitle">Sources / {{ date }}</h1>
+            <p class="page-tagline">
+                {% if lang == 'zh' %}
+                本页面记录了这期摘要完全透明的抓取原始链接信息。
+                {% else %}
+                This page documents absolute transparency by listing all raw links evaluated for this digest.
+                {% endif %}
+            </p>
+        </div>
+
+        <div class="article-content">
+            <h3>{% if lang == 'zh' %}最终采纳的内容{% else %}Curated Final Links{% endif %}</h3>
+            <ul class="source-url-list">
+                {% for item in top_articles %}
+                <li>✅ {{ item.source }}: <a href="{{ item.link }}" target="_blank">{{ item.link }}</a></li>
+                {% endfor %}
+                {% for item in mentions %}
+                <li>✅ {{ item.source }}: <a href="{{ item.link }}" target="_blank">{{ item.link }}</a></li>
+                {% endfor %}
+            </ul>
+
+            <h3 style="margin-top: 3rem;">{% if lang == 'zh' %}完整评估的链接库 (未经过滤){% else %}Raw Evaluated Set (Pre-filtering){% endif %}</h3>
+            <ul class="source-url-list">
+                {% for link in raw_links %}
+                <li><a href="{{ link }}" target="_blank">{{ link }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        
+        <footer class="site-footer">
+            <p>{{ ui.footer_text }}</p>
+        </footer>
+    </div>
+</body>
+</html>

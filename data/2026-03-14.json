@@ -1,0 +1,99 @@
+{
+  "date_id": "2026-03-14",
+  "total_sources": 51,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Anthropic Unveils Next-Generation Claude Models",
+          "zh": "Anthropic发布下一代Claude模型，主导代码基准测试"
+        },
+        "tl_dr": {
+          "en": "Anthropic released its newest iteration of Claude, outperforming GPT-4.",
+          "zh": "Anthropic发布了最新迭代的Claude，性能超越GPT-4。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Record 90%+ on SWE-bench.",
+            "Context windows expanded to 2M tokens.",
+            "New Agentic Actions API."
+          ],
+          "zh": [
+            "在SWE-bench上达到创纪录的90%+。",
+            "上下文窗口高效扩展至200万Token。",
+            "全新的Agentic Actions API允许模型安全控制终端。"
+          ]
+        },
+        "impact": {
+          "en": "Challenges OpenAI's dominance.",
+          "zh": "直接挑战了OpenAI在企业领域的统治地位。"
+        },
+        "source": "Anthropic",
+        "link": "https://anthropic.com"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Google Robot Framework Open Sourced",
+          "zh": "Google 开源机器人基础框架"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/rakuten",
+    "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "https://openai.com/index/equip-responses-api-computer-environment",
+    "https://deepmind.google/blog/10-years-of-alphago/",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+    "https://huggingface.co/blog/storage-buckets",
+    "https://huggingface.co/blog/async-rl-training-landscape",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "https://importai.substack.com/p/import-ai-448-ai-r-and-d-bytedances",
+    "https://importai.substack.com/p/import-ai-447-the-agi-economy-testing",
+    "https://importai.substack.com/p/import-ai-446-nuclear-llms-chinas",
+    "https://www.latent.space/p/ainews-context-drought",
+    "https://www.latent.space/p/ainews-the-high-return-activity-of",
+    "https://www.latent.space/p/turbopuffer",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything",
+    "https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything",
+    "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
+    "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+    "https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+    "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+    "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+    "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+    "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+    "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+    "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
+    "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
+    "https://www.404media.co/doge-deposition-videos-taken-down-after-judge-order-and-widespread-mockery/",
+    "https://www.404media.co/behind-the-blog-doge-bros-and-data-labelers/",
+    "https://www.404media.co/people-hate-datacenters-survey-finds/",
+    "https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/aws-strands-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/opus-4-6-context-compaction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://claude.com/blog/1m-context-ga",
+    "https://www.canirun.ai/",
+    "http://karpathy.github.io/2016/09/07/phd/"
+  ]
+}
