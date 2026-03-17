@@ -1,76 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI News Digest Clone</title>
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="robots" content="noindex">
+<script>
+(function(){
+  var lang = (navigator.language || navigator.userLanguage || "").slice(0,2);
+  if(lang === "zh") {
+      window.location.replace("zh/index.html");
+  } else {
+      window.location.replace("en/index.html");
+  }
+})();
+</script>
+<noscript><meta http-equiv="refresh" content="0;url=zh/index.html"></noscript>
 </head>
-<body>
-    <div class="container">
-        <nav class="site-nav">
-            <div class="nav-brand">
-                <a class="nav-title" href="/">AI News Digest Clone</a>
-            </div>
-            <ul class="nav-links">
-                <li><a href="#">About</a></li>
-                <li><a href="#">Subscribe</a></li>
-            </ul>
-        </nav>
-
-        <div class="page-header">
-            <h1 class="page-subtitle">The AI-edited AI briefing</h1>
-            <p class="page-tagline">Curated facts. Zero hype. 5 minutes.</p>
-        </div>
-
-        <ul class="article-list">
-            <li class="article-card">
-                <a href="#" class="card-link">
-                    <div class="card-header">
-                        <span class="card-date">March 16, 2026</span>
-                    </div>
-                    
-                    <ol class="card-numbered">
-                        
-                        <li class="lead">
-                            <span class="num">01</span>
-                            <!-- 此处仅展示标题，如果是详情页会展示 summary -->
-                            <div class="item-content">
-                                <strong>Claude's 1M Token Context Now Generally Available</strong>
-                                <p class="item-summary">Anthropic's Claude 4.6 models (Opus and Sonnet) have officially rolled out a 1-million-token context window for general use. This significant expansion enables LLMs to process vastly more information, facilitating deeper analysis and extended interactions for complex enterprise applications.</p>
-                                <span class="item-source">Via Anthropic</span>
-                            </div>
-                        </li>
-                        
-                        <li class="">
-                            <span class="num">02</span>
-                            <!-- 此处仅展示标题，如果是详情页会展示 summary -->
-                            <div class="item-content">
-                                <strong>OpenAI Details Progress in Building Secure and Reliable AI Agents</strong>
-                                <p class="item-summary">OpenAI showcases advancements in developing robust AI agents, including equipping its Responses API with a secure computer environment and implementing techniques to resist prompt injection attacks. These developments are crucial for enhancing agent reliability, safety, and steerability in complex applications.</p>
-                                <span class="item-source">Via OpenAI</span>
-                            </div>
-                        </li>
-                        
-                        <li class="">
-                            <span class="num">03</span>
-                            <!-- 此处仅展示标题，如果是详情页会展示 summary -->
-                            <div class="item-content">
-                                <strong>Ulysses Sequence Parallelism Enables Efficient Million-Token LLM Training</strong>
-                                <p class="item-summary">Hugging Face highlights Ulysses Sequence Parallelism, a novel technique designed to efficiently train large language models with million-token context windows. This method addresses critical memory limitations, accelerating the development of more powerful and contextually aware future LLMs.</p>
-                                <span class="item-source">Via Hugging Face</span>
-                            </div>
-                        </li>
-                        
-                    </ol>
-                </a>
-                <div class="card-stat">Automated curation from 15 recent items.</div>
-            </li>
-        </ul>
-        
-        <footer class="site-footer">
-            <p>Built with Python, Jinja2, and LLMs.</p>
-        </footer>
-    </div>
-</body>
+<body></body>
 </html>

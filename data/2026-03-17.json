@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-03-17",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "AI Agent Development Addresses Security and Alignment Gaps",
+          "zh": "AI代理开发着力弥补安全与对齐差距"
+        },
+        "tl_dr": {
+          "en": "Recent research from OpenAI, Microsoft, and arXiv details methods for enhancing AI agents' security against prompt injection, improving their utility in complex work environments, and aligning them through user interactions.",
+          "zh": "OpenAI、微软和arXiv的最新研究详述了增强AI代理抵御提示注入的安全性、提升其在复杂工作环境中的实用性以及通过用户交互进行对齐的方法。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI's ChatGPT employs constraints on risky actions and data protection mechanisms to resist prompt injection and social engineering in agent workflows.",
+            "Microsoft Research indicates genuinely useful AI agents must concurrently manage multiple interdependent tasks, such as client reports, budget spreadsheets, slide decks, and email backlogs.",
+            "Despite multi-turn user interactions being an abundant source of feedback (e.g., on incorrect responses or instruction failures), effective methods for language models to learn from them are currently absent."
+          ],
+          "zh": [
+            "OpenAI的ChatGPT通过限制危险行为和保护代理工作流程中的敏感数据来抵御提示注入和社会工程攻击。",
+            "微软研究指出，真正有用的AI代理必须能够同时管理多个相互依赖的任务，例如客户报告、预算表格、演示文稿和电子邮件积压。",
+            "尽管多轮用户交互是反馈的丰富来源（例如指示不正确响应或指令失败），但目前尚缺乏语言模型有效学习此类交互的方法。"
+          ]
+        },
+        "impact": {
+          "en": "These developments highlight ongoing efforts to make AI agents more secure, robust, and capable of handling complex real-world tasks, addressing critical barriers to broader enterprise adoption and autonomous operation.",
+          "zh": "这些进展凸显了使AI代理更安全、更强大并能够处理复杂现实世界任务的持续努力，这解决了企业更广泛采用和自主操作的关键障碍。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/"
+      },
+      {
+        "title": {
+          "en": "Mistral Releases New 119B Parameter Model",
+          "zh": "Mistral 发布新型 1190 亿参数模型"
+        },
+        "tl_dr": {
+          "en": "Mistral has released \"Mistral Small 4\", a new Apache 2 licensed, 119 billion parameter Mixture-of-Experts model.",
+          "zh": "Mistral 发布了“Mistral Small 4”，这是一个新的 Apache 2 许可、拥有 1190 亿参数的混合专家模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The model, named \"Mistral Small 4\", has 119 billion parameters.",
+            "It utilizes a Mixture-of-Experts (MoE) architecture with 6 billion active parameters.",
+            "The model is released under an Apache 2 license."
+          ],
+          "zh": [
+            "该模型名为“Mistral Small 4”，拥有 1190 亿参数。",
+            "它采用混合专家（MoE）架构，拥有 60 亿活跃参数。",
+            "该模型根据 Apache 2 许可发布。"
+          ]
+        },
+        "impact": {
+          "en": "This release integrates the capabilities of Mistral's specialized models (Magistral for reasoning, Pixtral for multimodal, Devstral for agentic coding) into a single versatile model, potentially streamlining development for various AI applications. Its Apache 2 license makes the model accessible for broader commercial and research use.",
+          "zh": "此次发布将 Mistral 专用模型（用于推理的 Magistral、用于多模态的 Pixtral 和用于智能体编码的 Devstral）的能力整合到一个多功能模型中，这可能简化各种 AI 应用的开发。其 Apache 2 许可使该模型可用于更广泛的商业和研究用途。"
+        },
+        "source": "Mistral AI",
+        "link": "https://mistral.ai/news/mistral-small-4"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Introduces AgentRx for AI Agent Debugging",
+          "zh": "微软研究院推出AgentRx框架以系统调试AI智能体"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research has introduced the AgentRx framework, designed for the systematic debugging of AI agents.",
+          "zh": "微软研究院推出了AgentRx框架，旨在为AI智能体提供系统化调试能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AI agents are evolving from simple chatbots to autonomous systems capable of managing cloud incidents and executing multi-step API workflows.",
+            "This transition introduces a transparency challenge, making it difficult to trace an AI agent's logic when it fails.",
+            "The AgentRx framework aims to provide systematic debugging, addressing issues such as AI agents hallucinating tool outputs."
+          ],
+          "zh": [
+            "AI智能体正从简单的聊天机器人发展为能够管理云事件和执行多步API工作流的自主系统。",
+            "这一转变带来了透明度挑战，使得在AI智能体失败时难以追溯其逻辑。",
+            "AgentRx框架旨在提供系统化调试，解决AI智能体出现工具输出幻觉等问题。"
+          ]
+        },
+        "impact": {
+          "en": "As AI agents become more autonomous and complex, systematic debugging frameworks like AgentRx are crucial for ensuring their reliability and understanding their failure modes, which is essential for broader industry adoption.",
+          "zh": "随着AI智能体变得更加自主和复杂，AgentRx等系统化调试框架对于确保其可靠性以及理解其故障模式至关重要，这对于AI行业的广泛采用是必不可少的。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Claude Code and What Comes Next",
+          "zh": "Claude Code and What Comes Next"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next"
+      },
+      {
+        "title": {
+          "en": "[AINews] Replit Agent 4: The Knowledge Work Agent",
+          "zh": "[AINews] Replit Agent 4: The Knowledge Work Agent"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-replit-agent-4-the-knowledge"
+      },
+      {
+        "title": {
+          "en": "From model to agent: Equipping the Responses API with a computer environment",
+          "zh": "From model to agent: Equipping the Responses API with a computer environment"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/equip-responses-api-computer-environment"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "zh": "Gemini 3.1 Flash-Lite: Built for intelligence at scale"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+          "zh": "Gemini 3.1 Pro: A smarter model for your most complex tasks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "https://openai.com/index/rakuten",
+    "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "https://openai.com/index/wayfair",
+    "https://openai.com/index/equip-responses-api-computer-environment",
+    "https://deepmind.google/blog/10-years-of-alphago/",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+    "https://huggingface.co/blog/storage-buckets",
+    "https://huggingface.co/blog/async-rl-training-landscape",
+    "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "https://huggingface.co/blog/ulysses-sp",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+    "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+    "https://www.latent.space/p/ainews-context-drought",
+    "https://www.latent.space/p/ainews-the-high-return-activity-of",
+    "https://www.latent.space/p/turbopuffer",
+    "https://www.latent.space/p/ainews-replit-agent-4-the-knowledge",
+    "https://www.latent.space/p/ainews-yann-lecuns-ami-labs-launches",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+    "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything",
+    "https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything",
+    "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything",
+    "https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything",
+    "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/the-next-phase-of-open-models",
+    "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
+    "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+    "https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35",
+    "https://www.interconnects.ai/p/how-much-does-distillation-really",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+    "https://magazine.sebastianraschka.com/p/technical-deepseek",
+    "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+    "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+    "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+    "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+    "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+    "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+    "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+    "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+    "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+    "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+    "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
+    "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
+    "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
+    "https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/",
+    "https://www.404media.co/chatgpt-loneliness-study-college-students-random-strangers-texting/",
+    "https://www.404media.co/witness-caught-using-smartglasses-in-court-blames-it-all-on-chatgpt/",
+    "https://www.404media.co/the-removed-doge-deposition-videos-have-already-been-backed-up-across-the-internet/",
+    "https://www.404media.co/alien-life-might-exist-on-the-starless-moons-of-rogue-planets-scientists-say/",
+    "https://www.infoq.com/news/2026/03/doordash-semantic-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/google-bayesian-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/aws-strands-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/opus-4-6-context-compaction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://mistral.ai/news/leanstral",
+    "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+    "https://kevinboone.me/small_web_is_big.html",
+    "https://github.com/rexrodeo/american-healthcare-conundrum",
+    "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
+    "https://arxiv.org/abs/2603.12287",
+    "https://arxiv.org/abs/2603.12372",
+    "https://arxiv.org/abs/2603.12483",
+    "https://arxiv.org/abs/2603.12710",
+    "https://arxiv.org/abs/2603.12733",
+    "https://arxiv.org/abs/2603.12270",
+    "https://arxiv.org/abs/2603.12271",
+    "https://arxiv.org/abs/2603.12272",
+    "https://arxiv.org/abs/2603.12273",
+    "https://arxiv.org/abs/2603.12275"
+  ]
+}
