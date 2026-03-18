@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-03-18",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Mistral Unveils Small 4 Model with 119B Parameters",
+          "zh": "Mistral 发布 Small 4 模型，拥有 1190 亿参数"
+        },
+        "tl_dr": {
+          "en": "Mistral has released \"Mistral Small 4,\" a new 119-billion parameter Mixture-of-Experts model.",
+          "zh": "Mistral 发布了“Mistral Small 4”，这是一款新的 1190 亿参数混合专家模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Mistral Small 4 is an Apache 2 licensed model.",
+            "It features 119 billion parameters, operating as a Mixture-of-Experts model with 6 billion active parameters.",
+            "The model unifies the functionalities of Magistral (reasoning), Pixtral (multimodal), and Devstral (agentic coding) into one versatile model."
+          ],
+          "zh": [
+            "Mistral Small 4 是一个采用 Apache 2 许可的模型。",
+            "该模型拥有 1190 亿参数，采用混合专家架构，其中 60 亿参数处于活跃状态。",
+            "它首次将 Magistral（推理）、Pixtral（多模态）和 Devstral（智能体编程）等旗舰模型的能力统一到单个通用模型中。"
+          ]
+        },
+        "impact": {
+          "en": "The unification of reasoning, multimodal, and agentic coding capabilities into a single model could streamline development and deployment for diverse AI applications. This release enhances the range of openly licensed models available to developers.",
+          "zh": "将推理、多模态和智能体编程能力统一到单一模型中，可能会简化各种 AI 应用的开发和部署。此次发布增加了开发者可用的开源许可模型的选择范围。"
+        },
+        "source": "Mistral AI News",
+        "link": "https://mistral.ai/news/mistral-small-4"
+      },
+      {
+        "title": {
+          "en": "Pentagon Plans Secure AI Training With Classified Data",
+          "zh": "五角大楼计划允许AI公司使用机密数据训练模型"
+        },
+        "tl_dr": {
+          "en": "The Pentagon is discussing plans to establish secure environments for generative AI companies to train military-specific models using classified data, while also seeking alternatives to existing AI partners.",
+          "zh": "五角大楼正在讨论建立安全环境的计划，以便生成式AI公司能够利用机密数据训练军用特定模型，同时也在寻求现有AI合作伙伴的替代方案。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The Pentagon is discussing setting up secure environments for generative AI companies.",
+            "These environments will enable training military-specific AI models on classified data.",
+            "Existing AI models, including Anthropic's Claude, are used in classified settings for tasks such as analyzing targets in Iran, but the Pentagon is developing alternatives to Anthropic."
+          ],
+          "zh": [
+            "五角大楼正在讨论为生成式AI公司设立安全环境。",
+            "这些环境将用于利用机密数据训练军用特定AI模型。",
+            "目前，Anthropic的Claude等AI模型已用于机密环境，如分析伊朗目标，同时五角大楼正在开发Anthropic的替代方案。"
+          ]
+        },
+        "impact": {
+          "en": "This move indicates a strategic shift by the US Department of Defense to directly integrate advanced AI training with sensitive national security data, potentially accelerating the development of specialized military AI capabilities while highlighting evolving partnerships in the sector.",
+          "zh": "此举表明美国国防部正战略性地将先进AI训练与敏感国家安全数据直接整合，可能加速专用军事AI能力的发展，并凸显了该领域合作伙伴关系的演变。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Unveils AgentRx for AI Agent Debugging",
+          "zh": "微软研究院发布AgentRx框架，助力AI代理系统调试"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research introduced the AgentRx framework to provide systematic debugging for AI agents, addressing challenges in transparency and failure analysis.",
+          "zh": "微软研究院推出了AgentRx框架，旨在为AI代理提供系统性调试，解决透明度和故障分析方面的挑战。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AI agents are evolving from simple chatbots to autonomous systems capable of complex operations.",
+            "These autonomous systems are designed to manage cloud incidents, navigate web interfaces, and execute multi-step API workflows.",
+            "The AgentRx framework specifically targets the transparency challenge when AI agents fail, such as through hallucinating tool outputs, by enabling systematic logic tracing."
+          ],
+          "zh": [
+            "AI代理正在从简单的聊天机器人向能够执行复杂操作的自主系统演进。",
+            "这些自主系统旨在管理云事件、导航网页界面并执行多步骤API工作流。",
+            "AgentRx框架通过实现系统性逻辑追踪，专门解决了AI代理在失败时（例如因工具输出幻觉）出现的透明度挑战。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of AgentRx addresses a critical transparency issue in AI agent development, which is essential for deploying reliable autonomous systems in complex operational environments.",
+          "zh": "AgentRx的推出解决了AI代理开发中的关键透明度问题，这对于在复杂操作环境中部署可靠的自主系统至关重要。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Claude Code and What Comes Next",
+          "zh": "Claude Code and What Comes Next"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next"
+      },
+      {
+        "title": {
+          "en": "Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning",
+          "zh": "Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2603.13243"
+      },
+      {
+        "title": {
+          "en": "AI Is Amplifying Software Engineering Performance, Says the 2025 DORA Report",
+          "zh": "AI Is Amplifying Software Engineering Performance, Says the 2025 DORA Report"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/03/ai-dora-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "zh": "Gemini 3.1 Flash-Lite: Built for intelligence at scale"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+          "zh": "Gemini 3.1 Pro: A smarter model for your most complex tasks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "https://openai.com/index/rakuten",
+    "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "https://deepmind.google/blog/10-years-of-alphago/",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
+    "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "https://huggingface.co/blog/storage-buckets",
+    "https://huggingface.co/blog/async-rl-training-landscape",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+    "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+    "https://www.latent.space/p/felix-anthropic",
+    "https://www.latent.space/p/ainews-nvidia-gtc-jensen-goes-hard",
+    "https://www.latent.space/p/ainews-context-drought",
+    "https://www.latent.space/p/ainews-the-high-return-activity-of",
+    "https://www.latent.space/p/turbopuffer",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+    "https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything",
+    "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything",
+    "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything",
+    "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything",
+    "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/the-next-phase-of-open-models",
+    "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
+    "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+    "https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35",
+    "https://www.interconnects.ai/p/how-much-does-distillation-really",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+    "https://magazine.sebastianraschka.com/p/technical-deepseek",
+    "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+    "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+    "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+    "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+    "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+    "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+    "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+    "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+    "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+    "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
+    "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
+    "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
+    "https://www.404media.co/was-life-seeded-from-space-complete-set-of-dna-ingredients-discovered-on-asteroid/",
+    "https://www.404media.co/ai-job-loss-research-ignores-how-ai-is-utterly-destroying-the-internet/",
+    "https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/",
+    "https://www.404media.co/chatgpt-loneliness-study-college-students-random-strangers-texting/",
+    "https://www.404media.co/witness-caught-using-smartglasses-in-court-blames-it-all-on-chatgpt/",
+    "https://www.infoq.com/news/2026/03/retrieval-production-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/ai-dora-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/booking-evolution-ai-manuel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/doordash-semantic-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/google-bayesian-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://terathon.com/blog/decade-slug.html",
+    "https://fidget-spinner.github.io/posts/jit-on-track.html",
+    "https://github.com/gsd-build/get-shit-done",
+    "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+    "https://mistral.ai/news/forge",
+    "https://arxiv.org/abs/2603.13236",
+    "https://arxiv.org/abs/2603.13237",
+    "https://arxiv.org/abs/2603.13239",
+    "https://arxiv.org/abs/2603.13243",
+    "https://arxiv.org/abs/2603.13245",
+    "https://arxiv.org/abs/2603.13230",
+    "https://arxiv.org/abs/2603.13249",
+    "https://arxiv.org/abs/2603.13256",
+    "https://arxiv.org/abs/2603.13259",
+    "https://arxiv.org/abs/2603.13260"
+  ]
+}
