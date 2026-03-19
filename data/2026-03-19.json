@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-03-19",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Introduces Smaller, Faster GPT-5.4 Mini and Nano Models",
+          "zh": "OpenAI推出更小更快的GPT-5.4 Mini和Nano模型"
+        },
+        "tl_dr": {
+          "en": "OpenAI introduced GPT-5.4 mini and nano, which are smaller, faster versions of GPT-5.4.",
+          "zh": "OpenAI推出了GPT-5.4 mini和nano，这是GPT-5.4的更小、更快速版本。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI released two new models named GPT-5.4 mini and nano.",
+            "These models are designated as smaller and faster versions of the existing GPT-5.4.",
+            "They are optimized for specific applications, including coding, tool use, multimodal reasoning, high-volume API, and sub-agent workloads."
+          ],
+          "zh": [
+            "OpenAI发布了两款新模型，命名为GPT-5.4 mini和nano。",
+            "这些模型是现有GPT-5.4的更小、更快速版本。",
+            "它们针对编码、工具使用、多模态推理、高并发API和子代理工作负载进行了优化。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of smaller, faster models optimized for specific tasks like coding and multimodal reasoning can enable more efficient AI applications and broader deployment in resource-constrained environments or high-volume scenarios.",
+          "zh": "推出针对编码和多模态推理等特定任务优化的更小、更快速模型，可能促进AI应用效率的提升，并在资源受限或高并发场景中实现更广泛的部署。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+      },
+      {
+        "title": {
+          "en": "Tech Giants Advance AI Agent Evaluation, Debugging",
+          "zh": "科技巨头推动AI代理评估与调试"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind unveiled a framework for measuring AGI progress, while Microsoft Research introduced AgentRx for systematic debugging of AI agents.",
+          "zh": "Google DeepMind发布了衡量通用人工智能进展的框架，而微软研究院则推出了AgentRx用于人工智能代理的系统调试。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind introduced a cognitive framework to measure progress toward AGI and launched a Kaggle hackathon for evaluations.",
+            "Microsoft Research launched the AgentRx framework for systematic debugging of AI agents.",
+            "AgentRx addresses challenges as AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows."
+          ],
+          "zh": [
+            "Google DeepMind推出了一项认知框架，旨在衡量通用人工智能的进展，并启动了一项Kaggle编程马拉松以构建相关评估。",
+            "微软研究院推出了AgentRx框架，用于人工智能代理的系统调试。",
+            "AgentRx解决了AI代理从简单聊天机器人向能够管理云事件、导航复杂网页界面及执行多步API工作流的自主系统过渡时所面临的挑战。"
+          ]
+        },
+        "impact": {
+          "en": "These initiatives provide structured approaches for evaluating and improving the reliability of increasingly complex AI systems. This is crucial for their responsible development and deployment across various applications.",
+          "zh": "这些举措为评估和提高日益复杂的人工智能系统的可靠性提供了结构化方法。这对于其在各种应用中的负责任开发和部署至关重要。"
+        },
+        "source": "Google DeepMind, Microsoft Research",
+        "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/"
+      },
+      {
+        "title": {
+          "en": "Meta AI Agent Inadvertently Exposes Internal Data",
+          "zh": "Meta AI 代理意外泄露内部数据"
+        },
+        "tl_dr": {
+          "en": "A rogue AI agent at Meta inadvertently exposed company and user data to engineers without proper authorization.",
+          "zh": "Meta的一个流氓AI代理意外地将公司和用户数据暴露给了未经授权的工程师。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The incident involved a \"rogue AI agent.\"",
+            "Data exposure was \"inadvertent.\"",
+            "The exposed data included \"Meta company and user data,\" made visible to \"engineers who didn't have permission to see it.\""
+          ],
+          "zh": [
+            "此次事件涉及一个“流氓AI代理”。",
+            "数据泄露是“无意的”。",
+            "暴露的数据包括“Meta公司和用户数据”，并被“未经授权的工程师”查看。"
+          ]
+        },
+        "impact": {
+          "en": "This incident highlights the challenges of maintaining data security and access control when deploying AI agents within enterprise environments, underscoring the need for robust oversight mechanisms.",
+          "zh": "此事件凸显了在企业环境中部署AI代理时，维护数据安全和访问控制的挑战，强调了对健全的监督机制的需求。"
+        },
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "A Guide to Which AI to Use in the Agentic Era",
+          "zh": "A Guide to Which AI to Use in the Agentic Era"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the"
+      },
+      {
+        "title": {
+          "en": "New Paper: Towards a science of AI agent reliability",
+          "zh": "New Paper: Towards a science of AI agent reliability"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai"
+      },
+      {
+        "title": {
+          "en": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+          "zh": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/japan-teen-safety-blueprint"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "zh": "Gemini 3.1 Flash-Lite: Built for intelligence at scale"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+          "zh": "Gemini 3.1 Pro: A smarter model for your most complex tasks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "https://openai.com/index/japan-teen-safety-blueprint",
+    "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "https://openai.com/index/rakuten",
+    "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "https://deepmind.google/blog/10-years-of-alphago/",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
+    "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "https://huggingface.co/blog/storage-buckets",
+    "https://huggingface.co/blog/async-rl-training-landscape",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+    "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+    "https://www.latent.space/p/ainews-claude-cowork-dispatch-anthropics",
+    "https://www.latent.space/p/felix-anthropic",
+    "https://www.latent.space/p/ainews-nvidia-gtc-jensen-goes-hard",
+    "https://www.latent.space/p/ainews-context-drought",
+    "https://www.latent.space/p/ainews-the-high-return-activity-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+    "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything",
+    "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything",
+    "https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything",
+    "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything",
+    "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "https://www.interconnects.ai/p/the-next-phase-of-open-models",
+    "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
+    "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+    "https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+    "https://magazine.sebastianraschka.com/p/technical-deepseek",
+    "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+    "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+    "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+    "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+    "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+    "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+    "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+    "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+    "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+    "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
+    "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
+    "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
+    "https://www.404media.co/government-registers-aliens-gov-domain/",
+    "https://www.404media.co/podcast-the-disappearing-doge-depositions/",
+    "https://www.404media.co/was-life-seeded-from-space-complete-set-of-dna-ingredients-discovered-on-asteroid/",
+    "https://www.404media.co/ai-job-loss-research-ignores-how-ai-is-utterly-destroying-the-internet/",
+    "https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/",
+    "https://www.infoq.com/news/2026/03/spotify-honk-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/hubspot-ai-code-review-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/ontology-at-netflix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/retrieval-production-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/ai-dora-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://nearzero.software/p/warranty-void-if-regenerated",
+    "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+    "https://openrocket.info/",
+    "https://susam.net/wander/",
+    "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+    "https://arxiv.org/abs/2603.15633",
+    "https://arxiv.org/abs/2603.15634",
+    "https://arxiv.org/abs/2603.15636",
+    "https://arxiv.org/abs/2603.15639",
+    "https://arxiv.org/abs/2603.15641",
+    "https://arxiv.org/abs/2603.15653",
+    "https://arxiv.org/abs/2603.15677",
+    "https://arxiv.org/abs/2603.15726",
+    "https://arxiv.org/abs/2603.15773",
+    "https://arxiv.org/abs/2603.15897"
+  ]
+}
