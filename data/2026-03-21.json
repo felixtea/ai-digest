@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-03-21",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Dreamer Launches as Agent Operating System, Offers Developer Prizes",
+          "zh": "Dreamer作为智能代理操作系统推出，提供开发者奖金"
+        },
+        "tl_dr": {
+          "en": "/dev/agents has exited stealth mode, rebranding as Dreamer, an agent operating system, and is offering $10,000 prizes for new tools.",
+          "zh": "/dev/agents已退出隐身模式，更名为Dreamer智能代理操作系统，并提供10,000美元的工具开发奖金。"
+        },
+        "key_takeaways": {
+          "en": [
+            "/dev/agents has rebranded and launched as Dreamer.",
+            "The platform's vision is described as \"staggeringly ambitious.\"",
+            "Dreamer is offering $10,000 prizes for the development of new tools."
+          ],
+          "zh": [
+            "/dev/agents已更名为Dreamer并推出。",
+            "该平台的愿景被描述为“极其宏大”。",
+            "Dreamer为开发新工具提供10,000美元奖金。"
+          ]
+        },
+        "impact": {
+          "en": "The launch of Dreamer and its incentive program for tool development could foster innovation within the emerging agent operating system sector. This initiative aims to expand the ecosystem for personal AI agents.",
+          "zh": "Dreamer的推出及其工具开发激励计划可能促进新兴代理操作系统领域的创新。这项举措旨在扩展个人AI代理的生态系统。"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/dreamer"
+      },
+      {
+        "title": {
+          "en": "OpenAI Acquires Astral, Targets Python Developer Tools",
+          "zh": "OpenAI收购Astral，着眼Python开发者工具"
+        },
+        "tl_dr": {
+          "en": "OpenAI has announced its acquisition of Astral, a company known for open-source Python projects like uv, ruff, and ty.",
+          "zh": "OpenAI已宣布收购Astral，该公司以uv、ruff和ty等开源Python项目闻名。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI is acquiring Astral.",
+            "Astral develops open-source Python projects including uv, ruff, and ty.",
+            "The acquisition's goal is to accelerate Codex growth for Python developer tools."
+          ],
+          "zh": [
+            "OpenAI正在收购Astral。",
+            "Astral开发了包括uv、ruff和ty在内的开源Python项目。",
+            "此次收购旨在加速Codex增长，以支持Python开发者工具。"
+          ]
+        },
+        "impact": {
+          "en": "This acquisition integrates established Python developer tooling with OpenAI's AI capabilities, potentially enhancing the development and deployment of AI-powered solutions within the Python ecosystem.",
+          "zh": "此次收购将已有的Python开发者工具与OpenAI的AI能力相结合，有望提升Python生态系统中AI驱动解决方案的开发和部署。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-to-acquire-astral"
+      },
+      {
+        "title": {
+          "en": "OpenAI Unveils Smaller, Faster GPT-5.4 Mini and Nano Models",
+          "zh": "OpenAI 发布更小、更快的 GPT-5.4 Mini 和 Nano 模型"
+        },
+        "tl_dr": {
+          "en": "OpenAI introduced GPT-5.4 mini and nano, which are smaller, faster versions of GPT-5.4.",
+          "zh": "OpenAI 推出了 GPT-5.4 mini 和 nano，它们是 GPT-5.4 更小、更快的版本。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GPT-5.4 mini and nano are smaller versions of the base GPT-5.4 model.",
+            "These new models are designed for faster performance compared to GPT-5.4.",
+            "Optimizations target coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+          ],
+          "zh": [
+            "GPT-5.4 mini 和 nano 是基础 GPT-5.4 模型的更小版本。",
+            "这些新模型旨在提供比 GPT-5.4 更快的性能。",
+            "其优化目标包括编码、工具使用、多模态推理以及高吞吐量API和子代理工作负载。"
+          ]
+        },
+        "impact": {
+          "en": "The release of smaller, faster models tailored for specific applications indicates OpenAI's focus on efficiency and scalability in AI deployment. This development could enable wider integration of advanced AI capabilities into high-volume and automated systems.",
+          "zh": "针对特定应用推出更小、更快的模型，表明OpenAI致力于提升AI部署的效率和可扩展性。这一进展可能促使先进AI能力更广泛地整合到高吞吐量和自动化系统中。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "How we monitor internal coding agents for misalignment",
+          "zh": "How we monitor internal coding agents for misalignment"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+      },
+      {
+        "title": {
+          "en": "Measuring progress toward AGI: A cognitive framework",
+          "zh": "Measuring progress toward AGI: A cognitive framework"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/"
+      },
+      {
+        "title": {
+          "en": "State of Open Source on Hugging Face: Spring 2026",
+          "zh": "State of Open Source on Hugging Face: Spring 2026"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026"
+      },
+      {
+        "title": {
+          "en": "[AINews] MiniMax 2.7: GLM-5 at 1/3 cost SOTA Open Model",
+          "zh": "[AINews] MiniMax 2.7: GLM-5 at 1/3 cost SOTA Open Model"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-minimax-27-glm-5-at-13-cost"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+          "zh": "Gemini 3.1 Pro: A smarter model for your most complex tasks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "https://openai.com/index/openai-to-acquire-astral",
+    "https://openai.com/index/japan-teen-safety-blueprint",
+    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "https://deepmind.google/blog/10-years-of-alphago/",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "https://huggingface.co/blog/storage-buckets",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+    "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+    "https://www.latent.space/p/dreamer",
+    "https://www.latent.space/p/ainews-every-lab-serious-enough-about",
+    "https://www.latent.space/p/ainews-minimax-27-glm-5-at-13-cost",
+    "https://www.latent.space/p/ainews-claude-cowork-dispatch-anthropics",
+    "https://www.latent.space/p/felix-anthropic",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+    "https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything",
+    "https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything",
+    "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything",
+    "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything",
+    "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "https://www.interconnects.ai/p/the-next-phase-of-open-models",
+    "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
+    "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+    "https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+    "https://magazine.sebastianraschka.com/p/technical-deepseek",
+    "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+    "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+    "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+    "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+    "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+    "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+    "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+    "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+    "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+    "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
+    "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
+    "https://www.404media.co/behind-the-blog-marathon-and-the-metaverse/",
+    "https://www.404media.co/tiny-city-fears-iran-drone-strikes-because-of-new-nuclear-weapons-datacenter/",
+    "https://www.404media.co/rip-metaverse-an-80-billion-dumpster-fire-nobody-wanted/",
+    "https://www.404media.co/tinder-plans-to-let-ai-scan-your-camera-roll/",
+    "https://www.404media.co/mapping-googles-unmappable-city/",
+    "https://www.infoq.com/news/2026/03/stripe-autonomous-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/stale-code-intelligence/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/claude-ai-firefox-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/mf-aiassisted-dev/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://opencode.ai/",
+    "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+    "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029",
+    "https://www.openui.com/blog/rust-wasm-parser",
+    "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+    "https://arxiv.org/abs/2603.18048",
+    "https://arxiv.org/abs/2603.18073",
+    "https://arxiv.org/abs/2603.18085",
+    "https://arxiv.org/abs/2603.18104",
+    "https://arxiv.org/abs/2603.18122",
+    "https://arxiv.org/abs/2603.18007",
+    "https://arxiv.org/abs/2603.18008",
+    "https://arxiv.org/abs/2603.18009",
+    "https://arxiv.org/abs/2603.18010",
+    "https://arxiv.org/abs/2603.18011"
+  ]
+}
