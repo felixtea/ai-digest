@@ -1,0 +1,221 @@
+{
+  "date_id": "2026-03-22",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Acquires Python Tool Developer Astral",
+          "zh": "OpenAI 收购 Python 工具开发商 Astral"
+        },
+        "tl_dr": {
+          "en": "OpenAI announced the acquisition of Astral, the company behind the open source Python projects uv, ruff, and ty.",
+          "zh": "OpenAI 宣布收购 Astral，该公司是开源 Python 项目 uv、ruff 和 ty 的开发者。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Astral develops open source Python projects including uv, ruff, and ty.",
+            "The acquisition aims to accelerate the growth of OpenAI's Codex.",
+            "This move is intended to power the next generation of Python developer tools."
+          ],
+          "zh": [
+            "Astral 开发了包括 uv、ruff 和 ty 在内的开源 Python 项目。",
+            "此次收购旨在加速 OpenAI 的 Codex 项目发展。",
+            "此举旨在为下一代 Python 开发者工具提供支持。"
+          ]
+        },
+        "impact": {
+          "en": "The integration of Astral's Python infrastructure tools into OpenAI's operations could streamline development workflows and enhance the capabilities of AI models reliant on Python tooling.",
+          "zh": "将 Astral 的 Python 基础设施工具整合到 OpenAI 的运营中，可能会简化开发工作流程，并增强依赖 Python 工具的 AI 模型的能力。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-to-acquire-astral"
+      },
+      {
+        "title": {
+          "en": "OpenAI Introduces Smaller, Faster GPT-5.4 Models",
+          "zh": "OpenAI发布更小、更快速的GPT-5.4模型"
+        },
+        "tl_dr": {
+          "en": "OpenAI has introduced GPT-5.4 mini and nano, which are smaller, faster versions of GPT-5.4.",
+          "zh": "OpenAI推出了GPT-5.4 mini和nano，这些是GPT-5.4的更小、更快速版本。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The new models, GPT-5.4 mini and nano, are designed as smaller iterations of the GPT-5.4 series.",
+            "They deliver increased operational speed compared to the foundational GPT-5.4 model.",
+            "Optimizations target specific applications including coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+          ],
+          "zh": [
+            "新模型GPT-5.4 mini和nano是GPT-5.4系列的更小版本。",
+            "与基础版GPT-5.4模型相比，它们的运行速度更快。",
+            "优化目标包括编码、工具使用、多模态推理以及高吞吐量的API和子代理工作负载。"
+          ]
+        },
+        "impact": {
+          "en": "The release of optimized smaller and faster models can facilitate more efficient deployment for specialized tasks, potentially reducing computational overhead and latency in AI applications. This expands the practical applicability of GPT-5.4 technology across various industrial and developer-centric uses.",
+          "zh": "推出经过优化、更小更快的模型，能提升专业任务的部署效率，可能降低AI应用的计算开销和延迟。这扩大了GPT-5.4技术在各种工业和开发者中心应用中的实际适用性。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+      },
+      {
+        "title": {
+          "en": "Hachette Withdraws Novel Over AI Text Generation Concerns",
+          "zh": "Hachette因AI文本生成疑虑撤回小说"
+        },
+        "tl_dr": {
+          "en": "Hachette Book Group has decided not to publish the horror novel \"Shy Girl\" due to concerns that artificial intelligence was used to generate its text.",
+          "zh": "Hachette图书集团决定不出版恐怖小说《害羞的女孩》，原因是担心该文本使用了人工智能生成。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Hachette Book Group pulled the horror novel \"Shy Girl.\"",
+            "The decision was based on concerns regarding the use of artificial intelligence to generate the novel's text.",
+            "This marks one of the first controversies of its kind involving AI use in publishing."
+          ],
+          "zh": [
+            "Hachette图书集团撤回了恐怖小说《害羞的女孩》。",
+            "此决定源于对小说文本使用人工智能生成的担忧。",
+            "该事件是出版业中首批涉及人工智能使用争议之一。"
+          ]
+        },
+        "impact": {
+          "en": "This incident highlights emerging challenges in content originality and authorship attribution within the publishing industry as AI-generated text becomes more prevalent. It underscores the need for clear policies and detection methods for AI-assisted works.",
+          "zh": "此事件凸显了在人工智能生成文本日益普及的背景下，出版业在内容原创性和作者归属方面面临的新挑战。它强调了制定明确的人工智能辅助作品政策和检测方法的必要性。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Trailer: The Shape of Things to Come",
+          "zh": "Trailer: The Shape of Things to Come"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/"
+      },
+      {
+        "title": {
+          "en": "[AINews] MiniMax 2.7: GLM-5 at 1/3 cost SOTA Open Model",
+          "zh": "[AINews] MiniMax 2.7: GLM-5 at 1/3 cost SOTA Open Model"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-minimax-27-glm-5-at-13-cost"
+      },
+      {
+        "title": {
+          "en": "Measuring progress toward AGI: A cognitive framework",
+          "zh": "Measuring progress toward AGI: A cognitive framework"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/"
+      },
+      {
+        "title": {
+          "en": "Equipping workers with insights about compensation",
+          "zh": "Equipping workers with insights about compensation"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "zh": "Gemini 3.1 Flash-Lite: Built for intelligence at scale"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "https://openai.com/index/openai-to-acquire-astral",
+    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "https://openai.com/index/japan-teen-safety-blueprint",
+    "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "https://deepmind.google/blog/10-years-of-alphago/",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "https://huggingface.co/blog/storage-buckets",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+    "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+    "https://www.latent.space/p/dreamer",
+    "https://www.latent.space/p/ainews-every-lab-serious-enough-about",
+    "https://www.latent.space/p/ainews-minimax-27-glm-5-at-13-cost",
+    "https://www.latent.space/p/ainews-claude-cowork-dispatch-anthropics",
+    "https://www.latent.space/p/felix-anthropic",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+    "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything",
+    "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything",
+    "https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything",
+    "https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything",
+    "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "https://www.interconnects.ai/p/the-next-phase-of-open-models",
+    "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
+    "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+    "https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+    "https://magazine.sebastianraschka.com/p/technical-deepseek",
+    "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+    "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+    "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+    "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+    "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+    "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+    "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+    "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+    "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+    "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
+    "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
+    "https://www.404media.co/scientists-narrow-down-the-hunt-for-aliens-to-45-planets/",
+    "https://www.404media.co/behind-the-blog-marathon-and-the-metaverse/",
+    "https://www.404media.co/tiny-city-fears-iran-drone-strikes-because-of-new-nuclear-weapons-datacenter/",
+    "https://www.404media.co/rip-metaverse-an-80-billion-dumpster-fire-nobody-wanted/",
+    "https://www.404media.co/tinder-plans-to-let-ai-scan-your-camera-roll/",
+    "https://www.infoq.com/news/2026/03/stripe-autonomous-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/stale-code-intelligence/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/claude-ai-firefox-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/mf-aiassisted-dev/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://news.dyne.org/child-protection-is-not-access-control/",
+    "https://tinygrad.org/#tinybox",
+    "https://tooscut.app/",
+    "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+    "https://news.ycombinator.com/from?site=github.com%2Faquasecurity",
+    "https://arxiv.org/abs/2603.18048",
+    "https://arxiv.org/abs/2603.18073",
+    "https://arxiv.org/abs/2603.18085",
+    "https://arxiv.org/abs/2603.18104",
+    "https://arxiv.org/abs/2603.18122"
+  ]
+}
