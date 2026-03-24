@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-03-24",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Microsoft Research Unveils AI Podcast Series; Dreamer Personal Agent OS Surfaces",
+          "zh": "微软研究院推出AI播客系列；Dreamer个人代理操作系统浮出水面"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research lead Doug Burger introduced a new podcast series exploring AI's future, while the /dev/agents project emerged from stealth as Dreamer, a personal agent OS.",
+          "zh": "微软研究院负责人Doug Burger推出探索AI未来的新播客系列，同时/dev/agents项目以个人代理操作系统Dreamer的身份脱离隐身状态。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Microsoft Research lead Doug Burger introduced a podcast series titled \"The Shape of Things to Come\".",
+            "The podcast series focuses on fundamental truths about AI and its future reshaping.",
+            "The /dev/agents project, a \"Personal Agent OS\", has exited stealth mode and is now named Dreamer."
+          ],
+          "zh": [
+            "微软研究院负责人Doug Burger推出名为“The Shape of Things to Come”的播客系列。",
+            "该播客系列聚焦于AI的基本真理及其对未来的重塑。",
+            "/dev/agents项目，一个“个人代理操作系统”，已脱离隐身模式并命名为Dreamer。"
+          ]
+        },
+        "impact": {
+          "en": "Microsoft Research's new podcast series offers insights into AI's foundational principles and future evolution from a leading industry perspective. Concurrently, the public launch of Dreamer as a Personal Agent OS introduces a new platform in the AI agent development space.",
+          "zh": "微软研究院的新播客系列从行业领先者的角度，提供了对AI基本原理和未来演变的见解。与此同时，Dreamer作为个人代理操作系统的公开推出，为AI代理开发领域引入了一个新平台。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Introduces Smaller, Faster GPT-5.4 Mini and Nano Models",
+          "zh": "OpenAI 推出更小、更快的 GPT-5.4 mini 和 nano 模型"
+        },
+        "tl_dr": {
+          "en": "OpenAI has announced GPT-5.4 mini and nano, which are optimized as smaller, faster versions of GPT-5.4 for specific AI workloads.",
+          "zh": "OpenAI 发布了 GPT-5.4 mini 和 nano 模型，它们是 GPT-5.4 的更小、更快速版本，并针对特定AI工作负载进行了优化。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GPT-5.4 mini and nano are smaller versions of GPT-5.4.",
+            "They are faster versions of GPT-5.4.",
+            "These models are optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+          ],
+          "zh": [
+            "GPT-5.4 mini 和 nano 是 GPT-5.4 的更小版本。",
+            "它们是 GPT-5.4 的更快版本。",
+            "这些模型针对编码、工具使用、多模态推理以及高并发API和子代理工作负载进行了优化。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of smaller and faster models optimized for specialized tasks may improve efficiency and reduce computational overhead for developers. This development could facilitate the deployment of AI in applications requiring specific capabilities and high throughput.",
+          "zh": "推出针对专业任务进行优化、更小更快的模型，可能会提高开发人员的效率并降低计算开销。这一进展有助于在需要特定能力和高吞吐量的应用中部署人工智能。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+      },
+      {
+        "title": {
+          "en": "AI Leaders Unveil Frameworks for AGI Measurement and Agent Debugging",
+          "zh": "人工智能巨头发布AGI评估与智能体调试框架"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind introduced a cognitive framework for measuring AGI progress and a related Kaggle hackathon, while Microsoft Research launched the AgentRx framework for systematic debugging of AI agents.",
+          "zh": "谷歌DeepMind发布了一项衡量AGI进展的认知框架并启动了Kaggle竞赛，同时微软研究院推出了AgentRx框架用于人工智能智能体的系统调试。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind introduced a cognitive framework designed to measure progress toward Artificial General Intelligence (AGI).",
+            "A Kaggle hackathon has been launched by Google DeepMind to facilitate the development of relevant evaluations for their AGI measurement framework.",
+            "Microsoft Research introduced the AgentRx framework to enable systematic debugging for AI agents, addressing transparency challenges as these agents become autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows."
+          ],
+          "zh": [
+            "谷歌DeepMind发布了一个认知框架，旨在衡量通用人工智能（AGI）的进展。",
+            "谷歌DeepMind启动了一项Kaggle编程竞赛，以构建与AGI衡量框架相关的评估工具。",
+            "微软研究院推出了AgentRx框架，旨在对AI智能体进行系统调试，以解决这些智能体向自主系统发展时出现的透明度挑战，这些智能体能够管理云事件、导航复杂网页界面并执行多步骤API工作流。"
+          ]
+        },
+        "impact": {
+          "en": "These new frameworks from major AI research organizations aim to provide more structured approaches to both evaluate the advancement of AGI and ensure the reliability and debuggability of increasingly complex AI agents. This development is critical for fostering transparency and guiding responsible development in the AI industry.",
+          "zh": "这些来自主要人工智能研究机构的新框架旨在为AGI的进展评估以及日益复杂的人工智能智能体的可靠性和可调试性提供更结构化的方法。这一进展对于促进人工智能行业的透明度和指导负责任的发展至关重要。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Creating with Sora Safely",
+          "zh": "Creating with Sora Safely"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/creating-with-sora-safely"
+      },
+      {
+        "title": {
+          "en": "How we monitor internal coding agents for misalignment",
+          "zh": "How we monitor internal coding agents for misalignment"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+      },
+      {
+        "title": {
+          "en": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
+          "zh": "Learning to Disprove: Formal Counterexample Generation with Large Language Models"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2603.19514"
+      },
+      {
+        "title": {
+          "en": "OpenAI to acquire Astral",
+          "zh": "OpenAI to acquire Astral"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-to-acquire-astral"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "zh": "Gemini 3.1 Flash-Lite: Built for intelligence at scale"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/creating-with-sora-safely",
+    "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "https://openai.com/index/openai-to-acquire-astral",
+    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "https://openai.com/index/japan-teen-safety-blueprint",
+    "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "https://deepmind.google/blog/10-years-of-alphago/",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "https://huggingface.co/blog/storage-buckets",
+    "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+    "https://www.latent.space/p/dreamer",
+    "https://www.latent.space/p/ainews-every-lab-serious-enough-about",
+    "https://www.latent.space/p/ainews-minimax-27-glm-5-at-13-cost",
+    "https://www.latent.space/p/ainews-claude-cowork-dispatch-anthropics",
+    "https://www.latent.space/p/felix-anthropic",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+    "https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything",
+    "https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything",
+    "https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything",
+    "https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything",
+    "https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/lossy-self-improvement",
+    "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "https://www.interconnects.ai/p/the-next-phase-of-open-models",
+    "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
+    "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+    "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+    "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+    "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+    "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+    "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+    "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
+    "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+    "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+    "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+    "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+    "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+    "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
+    "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
+    "https://www.404media.co/judge-allows-doge-deposition-videos-back-online/",
+    "https://www.404media.co/this-web-tool-sabotages-ai-chatbots-by-making-them-really-really-slow/",
+    "https://www.404media.co/ridicule-as-praxis-with-emily-bender-and-alex-hanna/",
+    "https://www.404media.co/an-adrenaline-junkie-billionaires-quest-to-become-a-cocaine-kingpin-marty-tibbitts-ylli-didani/",
+    "https://www.404media.co/scientists-narrow-down-the-hunt-for-aliens-to-45-planets/",
+    "https://www.infoq.com/news/2026/03/qcon-ai-at-the-edge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/qcon-million-sandboxes-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/stripe-autonomous-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://github.com/andreasjansson/win-3.1-backgrounds",
+    "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+    "https://ykumar.me/blog/eclip-autoresearch/",
+    "https://twitter.com/anemll/status/2035901335984611412",
+    "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
+    "https://arxiv.org/abs/2603.19429",
+    "https://arxiv.org/abs/2603.19461",
+    "https://arxiv.org/abs/2603.19500",
+    "https://arxiv.org/abs/2603.19514",
+    "https://arxiv.org/abs/2603.19515",
+    "https://arxiv.org/abs/2603.19247",
+    "https://arxiv.org/abs/2603.19248",
+    "https://arxiv.org/abs/2603.19249",
+    "https://arxiv.org/abs/2603.19250",
+    "https://arxiv.org/abs/2603.19251"
+  ]
+}
