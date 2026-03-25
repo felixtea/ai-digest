@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-03-25",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Foundation Details $1 Billion Investment Plans",
+          "zh": "OpenAI基金会公布10亿美元投资计划"
+        },
+        "tl_dr": {
+          "en": "The OpenAI Foundation announced plans to invest at least $1 billion across curing diseases, economic opportunity, AI resilience, and community programs.",
+          "zh": "OpenAI基金会宣布计划在治疗疾病、经济机会、AI韧性和社区项目上至少投资10亿美元。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The OpenAI Foundation commits to an investment of at least $1 billion.",
+            "Investment areas include efforts toward curing diseases.",
+            "Funds are also allocated for enhancing AI resilience."
+          ],
+          "zh": [
+            "OpenAI基金会承诺投资至少10亿美元。",
+            "投资领域包括治疗疾病的工作。",
+            "资金也分配用于增强AI韧性。"
+          ]
+        },
+        "impact": {
+          "en": "This investment signifies a commitment by the OpenAI Foundation to address critical societal challenges, including the robustness of AI systems. The focus on AI resilience indicates a strategic move to ensure the safe and stable development of artificial intelligence.",
+          "zh": "这项投资表明OpenAI基金会致力于解决关键社会挑战，其中包括AI系统的韧性。对AI韧性的关注表明了确保人工智能安全稳定发展的战略举措。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/update-on-the-openai-foundation"
+      },
+      {
+        "title": {
+          "en": "AI Leaders Introduce Frameworks for AGI Measurement and Agent Debugging",
+          "zh": "人工智能领导者推出通用人工智能衡量与智能体调试框架"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind introduced a cognitive framework to measure progress toward AGI, while Microsoft Research launched AgentRx for systematic debugging of AI agents.",
+          "zh": "Google DeepMind推出了一项衡量通用人工智能进展的认知框架，而微软研究院发布了AgentRx以实现对人工智能智能体的系统调试。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind's framework aims to quantify progress toward AGI, supported by a Kaggle hackathon for evaluation development.",
+            "Microsoft Research's AgentRx addresses the transparency challenge in AI agents as they evolve into autonomous systems.",
+            "AI agents are transitioning from simple chatbots to systems capable of handling cloud incidents, navigating complex web interfaces, and executing multi-step API workflows."
+          ],
+          "zh": [
+            "Google DeepMind的框架旨在量化通用人工智能的进展，并通过Kaggle黑客马拉松支持评估开发。",
+            "微软研究院的AgentRx框架解决了人工智能智能体在向自主系统演进过程中出现的透明度挑战。",
+            "人工智能智能体正在从简单的聊天机器人发展为能够处理云事件、导航复杂网页界面并执行多步骤API工作流的系统。"
+          ]
+        },
+        "impact": {
+          "en": "These developments provide structured approaches for assessing and improving the reliability and capabilities of advanced AI systems. They are critical for ensuring accountability and accelerating the responsible evolution of AI agents and AGI.",
+          "zh": "这些进展为评估和提高高级人工智能系统的可靠性和能力提供了结构化方法。它们对于确保问责制和加速人工智能智能体及通用人工智能的负责任发展至关重要。"
+        },
+        "source": "Google DeepMind and Microsoft Research",
+        "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/"
+      },
+      {
+        "title": {
+          "en": "Anthropic Grants Claude Code Enhanced Autonomy with New Auto Mode",
+          "zh": "Anthropic 为 Claude Code 推出新自动模式，提升自主性"
+        },
+        "tl_dr": {
+          "en": "Anthropic has introduced a new auto mode for Claude Code, enabling the AI to execute tasks with fewer human approvals while incorporating built-in safeguards.",
+          "zh": "Anthropic 为 Claude Code 推出了新的自动模式，允许其在内置安全措施下以更少的审批执行任务。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Anthropic released a new \"auto mode\" specifically for Claude Code.",
+            "The \"auto mode\" reduces the number of approvals required for task execution.",
+            "The system integrates built-in safeguards to maintain safety alongside increased autonomy."
+          ],
+          "zh": [
+            "Anthropic 为 Claude Code 推出了新的“自动模式”。",
+            "该“自动模式”减少了任务执行所需的审批次数。",
+            "系统集成了内置的安全措施，以在提高自主性的同时保持安全性。"
+          ]
+        },
+        "impact": {
+          "en": "This development signifies a broader industry trend toward more autonomous AI tools, impacting how AI systems interact with human oversight and execute complex tasks. It highlights the ongoing challenge of balancing operational speed with necessary safety protocols in AI deployment.",
+          "zh": "这一发展标志着人工智能行业向更自主工具的广泛趋势，影响人工智能系统如何与人类监督互动并执行复杂任务。它突显了在人工智能部署中平衡操作速度与必要安全协议的持续挑战。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Creating with Sora Safely",
+          "zh": "Creating with Sora Safely"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/creating-with-sora-safely"
+      },
+      {
+        "title": {
+          "en": "How we monitor internal coding agents for misalignment",
+          "zh": "How we monitor internal coding agents for misalignment"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+      },
+      {
+        "title": {
+          "en": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+          "zh": "Spotify tests new tool to stop AI slop from being attributed to real artists"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/"
+      },
+      {
+        "title": {
+          "en": "Trailer: The Shape of Things to Come",
+          "zh": "Trailer: The Shape of Things to Come"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/"
+      },
+      {
+        "title": {
+          "en": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+          "zh": "Categories of Inference-Time Scaling for Improved LLM Reasoning"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "https://openai.com/index/update-on-the-openai-foundation",
+    "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "https://openai.com/index/creating-with-sora-safely",
+    "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "https://deepmind.google/blog/10-years-of-alphago/",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "https://huggingface.co/blog/ServiceNow-AI/eva",
+    "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+    "https://www.latent.space/p/materials",
+    "https://www.latent.space/p/ainews-dreamer-joins-meta-superintelligence",
+    "https://www.latent.space/p/dreamer",
+    "https://www.latent.space/p/ainews-every-lab-serious-enough-about",
+    "https://www.latent.space/p/ainews-minimax-27-glm-5-at-13-cost",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+    "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything",
+    "https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything",
+    "https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything",
+    "https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything",
+    "https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/lossy-self-improvement",
+    "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "https://www.interconnects.ai/p/the-next-phase-of-open-models",
+    "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
+    "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+    "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+    "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+    "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+    "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+    "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+    "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+    "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+    "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+    "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+    "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+    "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
+    "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+    "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+    "https://www.404media.co/delivery-robot-drives-through-bus-stop-sh-shattering-glass-everywhere/",
+    "https://www.404media.co/a-top-google-search-result-for-claude-plugins-was-planted-by-hackers/",
+    "https://www.404media.co/this-company-is-secretly-turning-your-zoom-calls-into-ai-podcasts/",
+    "https://www.404media.co/judge-allows-doge-deposition-videos-back-online/",
+    "https://www.404media.co/this-web-tool-sabotages-ai-chatbots-by-making-them-really-really-slow/",
+    "https://www.infoq.com/news/2026/03/revenium-ai-tooling-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/ethical-ai-problem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/qcon-ai-at-the-edge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/qcon-million-sandboxes-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+    "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+    "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+    "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+    "https://twitter.com/soraofficialapp/status/2036532795984715896",
+    "https://arxiv.org/abs/2603.20213",
+    "https://arxiv.org/abs/2603.20260",
+    "https://arxiv.org/abs/2603.20267",
+    "https://arxiv.org/abs/2603.20270",
+    "https://arxiv.org/abs/2603.20276",
+    "https://arxiv.org/abs/2603.20206",
+    "https://arxiv.org/abs/2603.20208",
+    "https://arxiv.org/abs/2603.20209",
+    "https://arxiv.org/abs/2603.20210",
+    "https://arxiv.org/abs/2603.20212"
+  ]
+}
