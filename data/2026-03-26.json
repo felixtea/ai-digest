@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-03-26",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Agentic AI Shifts from Assistance to Execution in Commerce",
+          "zh": "代理式AI在商业领域从协助转向执行"
+        },
+        "tl_dr": {
+          "en": "Agentic AI represents a conceptual shift where digital agents move beyond providing information to directly executing complex, multi-step tasks such as booking trips.",
+          "zh": "代理式AI代表了一种概念转变，数字代理不再仅提供信息，而是直接执行复杂的、多步骤的任务，例如预订旅行。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Agentic AI enables a shift from providing assistance (e.g., lists of links) to executing purchases and assembling itineraries.",
+            "Its operation relies on 'truth and context' for decision-making and task completion.",
+            "It can handle complex user instructions involving multiple constraints, such as using points, adhering to a budget, and selecting preferred hotels."
+          ],
+          "zh": [
+            "代理式AI实现了从提供协助（例如链接列表）到执行购买和制定行程的转变。",
+            "其运行依赖于“真相和上下文”进行决策和任务完成。",
+            "它能够处理涉及多项限制的复杂用户指令，例如使用积分、遵守预算和选择偏好酒店。"
+          ]
+        },
+        "impact": {
+          "en": "This development signifies a fundamental change in AI's role, moving from a tool that provides information to one that autonomously completes user-defined objectives. This capability could streamline various commerce processes by automating tasks that currently require manual intervention after initial AI interaction.",
+          "zh": "这一发展标志着AI角色发生根本性变化，从一个提供信息的工具转变为一个自主完成用户定义目标的工具。这种能力可以通过自动化当前在AI交互后需要手动干预的任务，来简化各种商业流程。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/"
+      },
+      {
+        "title": {
+          "en": "Google Unveils Lyria 3 Pro Music Generation Model",
+          "zh": "谷歌发布Lyria 3 Pro音乐生成模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has launched Lyria 3 Pro, an upgraded music model designed to generate longer, more customizable tracks with structural awareness, expanding its integration into Google products.",
+          "zh": "谷歌DeepMind已推出Lyria 3 Pro，这是一款升级的音乐模型，旨在生成更长、更具结构感知和可定制的音轨，并将其整合到谷歌更多产品中。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Lyria 3 Pro is designed to generate longer music tracks.",
+            "The model incorporates structural awareness for music generation.",
+            "It allows for the creation of more customizable music tracks."
+          ],
+          "zh": [
+            "Lyria 3 Pro旨在生成更长的音乐音轨。",
+            "该模型在音乐生成中融入了结构感知能力。",
+            "它支持创建更可定制的音乐音轨。"
+          ]
+        },
+        "impact": {
+          "en": "This development indicates an advancement in AI's capability to create more complex and functional audio content, moving towards broader application in various digital services. It signifies Google's continued investment in the AI music generation sector.",
+          "zh": "这一进展表明人工智能在创建更复杂、功能性更强的音频内容方面的能力有所提升，推动其在各种数字服务中更广泛的应用。这标志着谷歌在AI音乐生成领域的持续投入。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/"
+      },
+      {
+        "title": {
+          "en": "AI Development Sees New Frameworks for AGI Measurement and Agent Debugging",
+          "zh": "人工智能发展推出AGI评估与代理调试新框架"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind introduced a cognitive framework to measure progress toward AGI and launched a Kaggle hackathon for evaluations, while Microsoft Research unveiled the AgentRx framework for systematic debugging of AI agents.",
+          "zh": "谷歌DeepMind引入了一个认知框架来衡量AGI进展并启动了相关的Kaggle黑客马拉松，而微软研究院则推出了AgentRx框架用于AI代理的系统调试。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind introduced a new cognitive framework designed to measure progress toward Artificial General Intelligence (AGI).",
+            "A Kaggle hackathon has been launched by Google DeepMind to facilitate the development of relevant evaluations for this AGI measurement framework.",
+            "Microsoft Research introduced the AgentRx framework for systematic debugging of AI agents, which aims to improve transparency in autonomous systems managing cloud incidents, complex web interfaces, and multi-step API workflows."
+          ],
+          "zh": [
+            "谷歌DeepMind推出了一项旨在衡量通用人工智能（AGI）进展的认知框架。",
+            "谷歌DeepMind已启动一个Kaggle黑客马拉松，以促进为AGI衡量框架开发相关评估。",
+            "微软研究院推出了AgentRx框架，用于AI代理的系统调试，旨在提高管理云事件、复杂网页界面和执行多步API工作流的自主系统透明度。"
+          ]
+        },
+        "impact": {
+          "en": "These initiatives address foundational challenges in AI, focusing on both the objective measurement of advanced intelligence and the development of robust, transparent debugging tools for increasingly autonomous AI systems. This could contribute to more reliable and accountable AI development.",
+          "zh": "这些举措解决了AI领域的根本性挑战，侧重于高级智能的客观衡量以及为日益自主的AI系统开发稳健、透明的调试工具。这有助于推动更可靠和负责任的AI发展。"
+        },
+        "source": "Google DeepMind, Microsoft Research",
+        "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Trailer: The Shape of Things to Come",
+          "zh": "Trailer: The Shape of Things to Come"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/"
+      },
+      {
+        "title": {
+          "en": "PlugMem: Transforming raw agent interactions into reusable knowledge",
+          "zh": "PlugMem: Transforming raw agent interactions into reusable knowledge"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/"
+      },
+      {
+        "title": {
+          "en": "This startup wants to change how mathematicians do math",
+          "zh": "This startup wants to change how mathematicians do math"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
+      },
+      {
+        "title": {
+          "en": "Introducing the OpenAI Safety Bug Bounty program",
+          "zh": "Introducing the OpenAI Safety Bug Bounty program"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/safety-bug-bounty"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "zh": "Gemini 3.1 Flash-Lite: Built for intelligence at scale"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/our-approach-to-the-model-spec",
+    "https://openai.com/index/safety-bug-bounty",
+    "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "https://openai.com/index/update-on-the-openai-foundation",
+    "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+    "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "https://deepmind.google/blog/10-years-of-alphago/",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "https://huggingface.co/blog/ServiceNow-AI/eva",
+    "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+    "https://www.latent.space/p/ainews-apples-war-on-slop",
+    "https://www.latent.space/p/materials",
+    "https://www.latent.space/p/ainews-dreamer-joins-meta-superintelligence",
+    "https://www.latent.space/p/dreamer",
+    "https://www.latent.space/p/ainews-every-lab-serious-enough-about",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+    "https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything",
+    "https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything",
+    "https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything",
+    "https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything",
+    "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/lossy-self-improvement",
+    "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "https://www.interconnects.ai/p/the-next-phase-of-open-models",
+    "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
+    "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+    "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+    "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+    "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+    "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+    "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+    "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+    "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+    "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+    "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+    "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+    "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+    "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+    "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
+    "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+    "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+    "https://www.404media.co/why-its-good-to-jack-off-frequently-according-to-science/",
+    "https://www.404media.co/disneys-openai-sora-disaster-shows-ai-will-not-save-hollywood/",
+    "https://www.404media.co/the-people-left-behind-by-the-metaverse/",
+    "https://www.404media.co/podcast-the-company-secretly-turning-your-zoom-meetings-into-podcasts/",
+    "https://www.404media.co/delivery-robot-drives-through-bus-stop-sh-shattering-glass-everywhere/",
+    "https://www.infoq.com/news/2026/03/qcon-next-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/uber-streaming-date-lake/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/revenium-ai-tooling-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/ethical-ai-problem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/qcon-ai-at-the-edge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+    "https://arcprize.org/arc-agi/3",
+    "https://fightchatcontrol.eu/?foo=bar",
+    "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
+    "https://www.claudescode.dev/?window=since_launch",
+    "https://arxiv.org/abs/2603.22306",
+    "https://arxiv.org/abs/2603.22312",
+    "https://arxiv.org/abs/2603.22345",
+    "https://arxiv.org/abs/2603.22347",
+    "https://arxiv.org/abs/2603.22350",
+    "https://arxiv.org/abs/2603.22288",
+    "https://arxiv.org/abs/2603.22289",
+    "https://arxiv.org/abs/2603.22290",
+    "https://arxiv.org/abs/2603.22291",
+    "https://arxiv.org/abs/2603.22293"
+  ]
+}
