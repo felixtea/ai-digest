@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-03-27",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Agentic AI Shifts from Assistance to Execution",
+          "zh": "智能代理AI：从辅助到执行的转变"
+        },
+        "tl_dr": {
+          "en": "Agentic AI is evolving to perform complex tasks by executing purchases and assembling itineraries rather than just providing information.",
+          "zh": "智能代理AI正在发展，能够通过执行购买和安排行程来完成复杂任务，而非仅仅提供信息。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Agentic AI represents a shift in capability from providing assistance to executing tasks.",
+            "It can assemble an itinerary and execute purchases, such as booking a family trip to Italy.",
+            "The AI can process multiple constraints, including using points, staying within budget, and considering past preferences for hotels."
+          ],
+          "zh": [
+            "智能代理AI的能力从提供辅助转向执行任务。",
+            "它能够安排行程并执行购买，例如预订家庭意大利之旅。",
+            "该AI可以处理多重限制，包括使用积分、控制预算以及考虑过往酒店偏好。"
+          ]
+        },
+        "impact": {
+          "en": "This evolution in AI capability suggests a future where digital agents can independently manage and complete multi-step tasks that involve real-world transactions and complex decision-making based on user preferences.",
+          "zh": "这一AI能力演变预示着未来，数字代理将能够独立管理并完成涉及实际交易和基于用户偏好的复杂决策的多步骤任务。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/"
+      },
+      {
+        "title": {
+          "en": "DeepMind Unveils AGI Progress Framework, Launches Kaggle Hackathon",
+          "zh": "DeepMind 发布 AGI 进展衡量框架并启动 Kaggle 黑客马拉松"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind introduced a cognitive framework designed to measure progress toward Artificial General Intelligence and initiated a Kaggle hackathon for developing related evaluations.",
+          "zh": "Google DeepMind 推出了一个旨在衡量通用人工智能 (AGI) 进展的认知框架，并启动了用于开发相关评估的 Kaggle 黑客马拉松。"
+        },
+        "key_takeaways": {
+          "en": [
+            "A cognitive framework has been introduced to measure progress toward AGI.",
+            "A Kaggle hackathon has been launched to build relevant evaluations.",
+            "The hackathon's objective is to construct evaluation tools for the framework."
+          ],
+          "zh": [
+            "已引入一个认知框架，用于衡量通用人工智能 (AGI) 的进展。",
+            "已启动一个 Kaggle 黑客马拉松，以构建相关的评估方法。",
+            "该黑客马拉松旨在为框架开发必要的评估工具。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative provides a structured approach for tracking the development of AGI, which is crucial for understanding and guiding the future trajectory of advanced AI systems. Standardized measurement tools can help focus research efforts and benchmark capabilities across the industry.",
+          "zh": "该举措为追踪通用人工智能 (AGI) 的发展提供了一种结构化方法，这对于理解和指导先进 AI 系统的未来发展轨迹至关重要。标准化的衡量工具可以帮助集中研究精力并对行业内的能力进行基准测试。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Launches Safety Bounty Program, Commits $1 Billion to Foundation Initiatives",
+          "zh": "OpenAI 推出安全漏洞奖励计划，基金会承诺投入 10 亿美元"
+        },
+        "tl_dr": {
+          "en": "OpenAI has introduced a Safety Bug Bounty program and announced plans for its Foundation to invest at least $1 billion in initiatives covering disease, economic opportunity, AI resilience, and community programs.",
+          "zh": "OpenAI 推出安全漏洞奖励计划，并宣布其基金会计划至少投资 10 亿美元，用于疾病治疗、经济机会、AI 韧性及社区项目。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI's Safety Bug Bounty program targets AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+            "The OpenAI Foundation plans to invest at least $1 billion.",
+            "This investment will support initiatives in curing diseases, economic opportunity, AI resilience, and community programs."
+          ],
+          "zh": [
+            "OpenAI 的安全漏洞奖励计划旨在识别 AI 滥用和安全风险，包括主体性漏洞、提示注入和数据窃取。",
+            "OpenAI 基金会计划至少投资 10 亿美元。",
+            "这笔投资将用于疾病治疗、经济机会、AI 韧性及社区项目。"
+          ]
+        },
+        "impact": {
+          "en": "These actions demonstrate OpenAI's dual focus on addressing the technical safety and ethical implications of AI development while also committing significant capital to broader societal benefits through its foundation. This dual approach aims to foster responsible AI advancement and application.",
+          "zh": "这些行动表明 OpenAI 双重关注：既解决 AI 开发的技术安全和伦理问题，又通过其基金会承诺大量资金用于更广泛的社会效益。这种双重策略旨在促进负责任的 AI 进步和应用。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/safety-bug-bounty"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "zh": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/"
+      },
+      {
+        "title": {
+          "en": "Lyria 3 Pro: Create longer tracks in more",
+          "zh": "Lyria 3 Pro: Create longer tracks in more"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/"
+      },
+      {
+        "title": {
+          "en": "Inside our approach to the Model Spec",
+          "zh": "Inside our approach to the Model Spec"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/our-approach-to-the-model-spec"
+      },
+      {
+        "title": {
+          "en": "A New Framework for Evaluating Voice Agents (EVA)",
+          "zh": "A New Framework for Evaluating Voice Agents (EVA)"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ServiceNow-AI/eva"
+      },
+      {
+        "title": {
+          "en": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+          "zh": "What's New in Mellea 0.4.0 + Granite Libraries Release"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-granite/granite-libraries"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/our-approach-to-the-model-spec",
+    "https://openai.com/index/safety-bug-bounty",
+    "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "https://openai.com/index/update-on-the-openai-foundation",
+    "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+    "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+    "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "https://deepmind.google/blog/10-years-of-alphago/",
+    "https://huggingface.co/blog/ServiceNow-AI/eva",
+    "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
+    "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+    "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
+    "https://www.latent.space/p/ainews-the-biggest-claude-launch",
+    "https://www.latent.space/p/ainews-apples-war-on-slop",
+    "https://www.latent.space/p/materials",
+    "https://www.latent.space/p/ainews-dreamer-joins-meta-superintelligence",
+    "https://www.latent.space/p/dreamer",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+    "https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything",
+    "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything",
+    "https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything",
+    "https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything",
+    "https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/lossy-self-improvement",
+    "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "https://www.interconnects.ai/p/the-next-phase-of-open-models",
+    "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
+    "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+    "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+    "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+    "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+    "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+    "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+    "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+    "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+    "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+    "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+    "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+    "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+    "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+    "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
+    "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+    "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+    "https://www.404media.co/apple-gives-fbi-a-users-real-name-hidden-behind-hide-my-email-feature/",
+    "https://www.404media.co/wikipedia-bans-ai-generated-content/",
+    "https://www.404media.co/police-used-flock-to-give-a-man-a-traffic-ticket/",
+    "https://www.404media.co/why-its-good-to-jack-off-frequently-according-to-science/",
+    "https://www.404media.co/disneys-openai-sora-disaster-shows-ai-will-not-save-hollywood/",
+    "https://www.infoq.com/news/2026/03/vercel-json-render/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/green-IT-AI-impact/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/qcon-next-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/uber-streaming-date-lake/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/revenium-ai-tooling-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://deploytarot.com/setup",
+    "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+    "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+    "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
+    "https://github.com/resumex/doom-over-dns",
+    "https://arxiv.org/abs/2603.23539",
+    "https://arxiv.org/abs/2603.23610",
+    "https://arxiv.org/abs/2603.23625",
+    "https://arxiv.org/abs/2603.23638",
+    "https://arxiv.org/abs/2603.23660",
+    "https://arxiv.org/abs/2603.23506",
+    "https://arxiv.org/abs/2603.23507",
+    "https://arxiv.org/abs/2603.23508",
+    "https://arxiv.org/abs/2603.23509",
+    "https://arxiv.org/abs/2603.23510"
+  ]
+}
