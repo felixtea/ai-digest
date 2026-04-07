@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-04-07",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "AI Researchers Discuss Machine Intelligence Limits",
+          "zh": "AI研究人员探讨机器智能边界"
+        },
+        "tl_dr": {
+          "en": "AI researchers Subutai Ahmad, Nicolò Fusi, and Doug Burger discussed transformer-based AI capabilities in comparison to the human brain, focusing on continual learning and efficiency, in a recent podcast.",
+          "zh": "AI研究员Subutai Ahmad、Nicolò Fusi和Doug Burger在最新播客中，对比了基于Transformer的AI与人脑的能力，重点讨论了持续学习和效率。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The podcast compared transformer-based AI with the human brain.",
+            "Continual learning was explored as a key aspect of AI development.",
+            "The efficiency of AI models was a significant discussion point."
+          ],
+          "zh": [
+            "播客对比了基于Transformer的AI与人脑。",
+            "持续学习作为AI发展的一个关键方面被探讨。",
+            "AI模型的效率是讨论的一个重要议题。"
+          ]
+        },
+        "impact": {
+          "en": "The podcast contributes to the ongoing theoretical discourse within the AI community concerning the fundamental nature of machine intelligence and its developmental path.",
+          "zh": "该播客有助于AI领域内关于机器智能本质及其发展路径的持续理论探讨。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/"
+      },
+      {
+        "title": {
+          "en": "DeepMind Unveils Gemma 4 Open Models for Advanced Reasoning",
+          "zh": "DeepMind发布Gemma 4开放模型，专注于高级推理"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has released Gemma 4, its most intelligent open models designed for advanced reasoning and agentic workflows.",
+          "zh": "Google DeepMind发布了Gemma 4，这是其迄今为止最智能的开放模型，专为高级推理和代理工作流而构建。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Gemma 4 is described by Google DeepMind as its most intelligent open models to date.",
+            "The models are purpose-built for advanced reasoning capabilities.",
+            "Gemma 4 is designed to support agentic workflows."
+          ],
+          "zh": [
+            "Gemma 4被Google DeepMind描述为迄今为止最智能的开放模型。",
+            "这些模型专为高级推理能力而构建。",
+            "Gemma 4旨在支持代理工作流。"
+          ]
+        },
+        "impact": {
+          "en": "The release of Gemma 4, described as DeepMind's most capable open models, could facilitate broader access and application in advanced AI development. Its focus on advanced reasoning and agentic workflows may influence the design of future AI systems.",
+          "zh": "DeepMind发布Gemma 4，被称作其能力最强的开放模型，这可能促进高级AI开发的广泛应用。其专注于高级推理和代理工作流，或将影响未来AI系统的设计。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+      },
+      {
+        "title": {
+          "en": "AI Leaders Introduce Frameworks for AGI Measurement, Agent Debugging",
+          "zh": "头部AI实验室推出AGI衡量与代理调试框架"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind introduced a cognitive framework to measure AGI progress and launched a Kaggle hackathon for evaluations, while Microsoft Research launched AgentRx, a framework for systematic debugging of AI agents.",
+          "zh": "Google DeepMind推出了一套衡量AGI进展的认知框架并启动Kaggle黑客马拉松以构建相关评估，同时微软研究院推出了AgentRx框架用于AI代理的系统调试。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind's new cognitive framework is designed to measure progress toward Artificial General Intelligence (AGI).",
+            "A Kaggle hackathon has been launched by Google DeepMind to facilitate the development of relevant AGI evaluations.",
+            "Microsoft Research introduced AgentRx, a framework for systematic debugging of AI agents to enhance transparency as agents evolve into autonomous systems."
+          ],
+          "zh": [
+            "Google DeepMind推出了一套新的认知框架，旨在衡量通用人工智能（AGI）的进展。",
+            "Google DeepMind已启动Kaggle黑客马拉松，以促进相关AGI评估工具的开发。",
+            "微软研究院推出了AgentRx框架，用于AI代理的系统调试，以增强随着代理演变为自主系统时的透明度。"
+          ]
+        },
+        "impact": {
+          "en": "These initiatives address critical challenges in AI development by providing methods for structured progress measurement and systematic debugging. This is essential for building robust, transparent, and trustworthy AI systems as their capabilities expand.",
+          "zh": "这些举措通过提供结构化的进展衡量方法和系统调试工具，解决了AI发展中的关键挑战。这对于随着AI能力扩展而构建强大、透明和值得信赖的AI系统至关重要。"
+        },
+        "source": "Google DeepMind and Microsoft Research",
+        "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Any Custom Frontend with Gradio's Backend",
+          "zh": "Any Custom Frontend with Gradio's Backend"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/introducing-gradio-server"
+      },
+      {
+        "title": {
+          "en": "Components of A Coding Agent",
+          "zh": "Components of A Coding Agent"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent"
+      },
+      {
+        "title": {
+          "en": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+          "zh": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2604.02334"
+      },
+      {
+        "title": {
+          "en": "OpenAI acquires TBPN",
+          "zh": "OpenAI acquires TBPN"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-acquires-tbpn"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "zh": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/introducing-openai-safety-fellowship",
+    "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "https://openai.com/index/openai-acquires-tbpn",
+    "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "https://openai.com/index/gradient-labs",
+    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+    "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+    "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "https://huggingface.co/blog/gemma4",
+    "https://huggingface.co/blog/Hcompany/holo3",
+    "https://huggingface.co/blog/tiiuae/falcon-perception",
+    "https://huggingface.co/blog/introducing-gradio-server",
+    "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
+    "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+    "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.latent.space/p/ainews-gemma-4-crosses-2-million",
+    "https://www.latent.space/p/ainews-good-friday",
+    "https://www.latent.space/p/pmarca",
+    "https://www.latent.space/p/ainews-gemma-4-the-best-small-multimodal",
+    "https://www.latent.space/p/moonlake",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything",
+    "https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything",
+    "https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything",
+    "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
+    "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/gemma-4-and-what-makes-an-open-model",
+    "https://www.interconnects.ai/p/latest-open-artifacts-20-new-orgs",
+    "https://www.interconnects.ai/p/lossy-self-improvement",
+    "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "https://www.interconnects.ai/p/the-next-phase-of-open-models",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+    "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+    "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+    "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+    "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+    "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+    "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+    "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+    "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+    "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+    "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+    "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
+    "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/",
+    "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+    "https://www.404media.co/multiple-hackers-warned-anti-porn-app-quittr-about-security-issue-for-months/",
+    "https://www.404media.co/wisconsin-age-verification-bill-vetoed/",
+    "https://www.404media.co/floridas-wildlife-cops-are-searching-thousands-of-flock-cameras-for-ice/",
+    "https://www.404media.co/gambling-is-thousands-of-years-older-than-we-thought-rewriting-human-evolution/",
+    "https://www.404media.co/behind-the-blog-systems-as-designed/",
+    "https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/tigerfs-postgresql-filesystem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/03/litellm-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://github.com/matthartman/ghost-pepper",
+    "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+    "https://www.freestyle.sh/",
+    "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+    "https://arxiv.org/abs/2604.02334",
+    "https://arxiv.org/abs/2604.02368",
+    "https://arxiv.org/abs/2604.02434",
+    "https://arxiv.org/abs/2604.02476",
+    "https://arxiv.org/abs/2604.02478",
+    "https://arxiv.org/abs/2604.02359",
+    "https://arxiv.org/abs/2604.02362",
+    "https://arxiv.org/abs/2604.02423",
+    "https://arxiv.org/abs/2604.02451",
+    "https://arxiv.org/abs/2604.02460"
+  ]
+}
