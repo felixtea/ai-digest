@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-04-09",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Unveils Gemma 4, Citing Advanced Reasoning Capabilities",
+          "zh": "Google DeepMind 发布 Gemma 4，宣称具备高级推理能力"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has released Gemma 4, an open model designed for advanced reasoning and agentic workflows, described as its most intelligent and byte-for-byte most capable open model to date.",
+          "zh": "Google DeepMind 发布了 Gemma 4，这是一款专为高级推理和代理工作流程设计的开放模型，被描述为其迄今为止最智能、并且字节对字节最强大的开放模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Gemma 4 is Google DeepMind's most intelligent open model to date.",
+            "It is purpose-built for advanced reasoning.",
+            "The model is also designed for agentic workflows."
+          ],
+          "zh": [
+            "Gemma 4 是 Google DeepMind 迄今为止最智能的开放模型。",
+            "它专为高级推理而构建。",
+            "该模型也专为代理工作流程而设计。"
+          ]
+        },
+        "impact": {
+          "en": "The release of Gemma 4 by Google DeepMind contributes to the open-source AI landscape, offering a new tool for developers focusing on advanced AI applications. Its focus on reasoning and agentic workflows may influence future AI development paradigms.",
+          "zh": "Google DeepMind 发布 Gemma 4 为开源人工智能领域做出了贡献，为专注于高级人工智能应用的开发者提供了一个新工具。它对推理和代理工作流程的侧重可能会影响未来的人工智能开发范式。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+      },
+      {
+        "title": {
+          "en": "Meta Superintelligence Lab Unveils Muse Spark Model",
+          "zh": "Meta 超智能实验室发布 Muse Spark 模型"
+        },
+        "tl_dr": {
+          "en": "Meta's Superintelligence Lab (MSL) has released Muse Spark, its first frontier model built on a completely new stack.",
+          "zh": "Meta 超智能实验室（MSL）发布了 Muse Spark，这是其基于全新技术栈构建的首个前沿模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Muse Spark is the first public model from Meta's Superintelligence Lab.",
+            "The model is built on a completely new technical stack.",
+            "Meta reports strong benchmarks but notes performance gaps in agentic and coding systems."
+          ],
+          "zh": [
+            "Muse Spark 是 Meta 超智能实验室发布的首个公共模型。",
+            "该模型构建于一个全新的技术栈之上。",
+            "Meta 报告了强劲的基准测试表现，但承认在代理和编码系统中存在性能差距。"
+          ]
+        },
+        "impact": {
+          "en": "The release introduces Meta's initial public offering from its Superintelligence Lab, indicating its entry into the frontier model space with a new architectural approach, despite noted areas for improvement.",
+          "zh": "此次发布标志着 Meta 超智能实验室首次向公众推出模型，表明其正在以新的架构方法进入前沿模型领域，尽管仍存在已指出的改进空间。"
+        },
+        "source": "Ars Technica (AI)",
+        "link": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/"
+      },
+      {
+        "title": {
+          "en": "Anthropic Restricts Access to New AI Model, Citing Security Concerns",
+          "zh": "Anthropic限制新AI模型访问，称存在安全顾虑"
+        },
+        "tl_dr": {
+          "en": "Anthropic has not publicly released its latest general-purpose AI model, Claude Mythos, instead making it available to a restricted set of preview partners under Project Glasswing due to its advanced cybersecurity research capabilities.",
+          "zh": "Anthropic尚未公开发布其最新通用AI模型Claude Mythos，而是通过Project Glasswing将其提供给一小部分受限预览合作伙伴，原因在于其先进的网络安全研究能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Anthropic's new AI model, Claude Mythos, is a general-purpose model described as similar to Claude Opus 4.6.",
+            "Access to Claude Mythos is restricted to a very limited set of preview partners under Project Glasswing, not publicly released.",
+            "Anthropic claims the model possesses significant cyber-security research abilities, making it the first model deemed too dangerous for public release since GPT-2."
+          ],
+          "zh": [
+            "Anthropic的新AI模型Claude Mythos是一款通用模型，被描述为与Claude Opus 4.6类似。",
+            "Claude Mythos尚未公开发布；其访问权限通过Project Glasswing限制给一小部分受限预览合作伙伴。",
+            "Anthropic声称该模型具有显著的网络安全研究能力，使其成为自GPT-2以来首个被认为过于危险而无法公开发布的模型。"
+          ]
+        },
+        "impact": {
+          "en": "This decision highlights growing industry caution regarding advanced AI capabilities, particularly in areas with potential dual-use applications like cybersecurity, and may influence future AI model release strategies.",
+          "zh": "此举表明业界对高级AI能力日益增长的谨慎态度，尤其是在网络安全等具有潜在军民两用性质的领域，并可能影响未来的AI模型发布策略。"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-anthropic-30b-arr-project"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Industrial policy for the Intelligence Age",
+          "zh": "Industrial policy for the Intelligence Age"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+      },
+      {
+        "title": {
+          "en": "OpenAI acquires TBPN",
+          "zh": "OpenAI acquires TBPN"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-acquires-tbpn"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "zh": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/"
+      },
+      {
+        "title": {
+          "en": "Lyria 3 Pro: Create longer tracks in more",
+          "zh": "Lyria 3 Pro: Create longer tracks in more"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/"
+      },
+      {
+        "title": {
+          "en": "Safetensors is Joining the PyTorch Foundation",
+          "zh": "Safetensors is Joining the PyTorch Foundation"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/next-phase-of-enterprise-ai",
+    "https://openai.com/index/introducing-child-safety-blueprint",
+    "https://openai.com/index/introducing-openai-safety-fellowship",
+    "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "https://openai.com/index/openai-acquires-tbpn",
+    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+    "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+    "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "https://huggingface.co/blog/ibm-research/altk-evolve",
+    "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+    "https://huggingface.co/blog/gemma4",
+    "https://huggingface.co/blog/Hcompany/holo3",
+    "https://huggingface.co/blog/tiiuae/falcon-perception",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
+    "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+    "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.latent.space/p/ainews-meta-superintelligence-labs",
+    "https://www.latent.space/p/ainews-anthropic-30b-arr-project",
+    "https://www.latent.space/p/harness-eng",
+    "https://www.latent.space/p/ainews-gemma-4-crosses-2-million",
+    "https://www.latent.space/p/ainews-good-friday",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything",
+    "https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything",
+    "https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything",
+    "https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything",
+    "https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/gemma-4-and-what-makes-an-open-model",
+    "https://www.interconnects.ai/p/latest-open-artifacts-20-new-orgs",
+    "https://www.interconnects.ai/p/lossy-self-improvement",
+    "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+    "https://www.interconnects.ai/p/the-next-phase-of-open-models",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+    "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+    "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+    "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+    "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+    "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+    "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+    "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+    "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+    "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+    "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
+    "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+    "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+    "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+    "https://www.404media.co/podcast-wildlife-cops-are-searching-ai-cameras-for-ice/",
+    "https://www.404media.co/trans-rights-privacy-online-cybersecurity-workshop-deadname-not-found/",
+    "https://www.404media.co/i-wish-i-didnt-care-about-marathon-player-numbers-but-i-do/",
+    "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
+    "https://www.404media.co/maine-datacenter-construction-bill-ld-307/",
+    "https://www.infoq.com/news/2026/04/cloudflare-ai-caching-strategies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/claude-code-source-leak/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+    "https://werwolv.net/posts/usb_for_sw_devs/",
+    "https://piechowski.io/post/git-commands-before-reading-code/",
+    "https://kalmanfilter.net",
+    "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+    "https://arxiv.org/abs/2604.04937",
+    "https://arxiv.org/abs/2604.04938",
+    "https://arxiv.org/abs/2604.04939",
+    "https://arxiv.org/abs/2604.04940",
+    "https://arxiv.org/abs/2604.04941",
+    "https://arxiv.org/abs/2604.04942",
+    "https://arxiv.org/abs/2604.04943",
+    "https://arxiv.org/abs/2604.04944",
+    "https://arxiv.org/abs/2604.05030",
+    "https://arxiv.org/abs/2604.05051"
+  ]
+}
