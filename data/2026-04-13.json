@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-04-13",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Releases Gemma 4 Open Models for Advanced Reasoning",
+          "zh": "谷歌DeepMind发布Gemma 4开源模型，专为高级推理设计"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has released Gemma 4, describing them as their most intelligent open models to date, built for advanced reasoning and agentic workflows.",
+          "zh": "谷歌DeepMind发布了Gemma 4，并将其描述为迄今为止最智能的开源模型，专为高级推理和智能体工作流构建。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Gemma 4 is identified as Google DeepMind's most capable open model, measured 'byte for byte'.",
+            "The models are characterized as Google DeepMind's 'most intelligent open models to date'.",
+            "Gemma 4 is 'purpose-built for advanced reasoning and agentic workflows'."
+          ],
+          "zh": [
+            "Gemma 4被谷歌DeepMind认定为“逐字节”衡量下最强大的开源模型。",
+            "这些模型被描述为谷歌DeepMind迄今为止“最智能的开源模型”。",
+            "Gemma 4是“专为高级推理和智能体工作流而构建”的。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of Gemma 4, positioned as highly capable open models for advanced reasoning and agentic workflows, provides new tools for developers and researchers in the AI community. This release may advance the capabilities of open-source AI solutions.",
+          "zh": "Gemma 4作为专为高级推理和智能体工作流设计的高性能开源模型的推出，为人工智能社区的开发者和研究人员提供了新工具。此次发布或将推动开源AI解决方案能力的进步。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+      },
+      {
+        "title": {
+          "en": "Meta Superintelligence Lab Unveils First Public AI Model",
+          "zh": "Meta 超智能实验室发布首个公开AI模型"
+        },
+        "tl_dr": {
+          "en": "Meta's Superintelligence Lab (MSL) has released its first public AI model, Muse Spark, which runs on their new stack.",
+          "zh": "Meta 超智能实验室(MSL)发布了其首个公开AI模型Muse Spark，该模型运行在其全新技术栈上。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Muse Spark is the inaugural public model from Meta's Superintelligence Lab (MSL).",
+            "The model is built and operates on MSL's completely new technology stack.",
+            "Meta reports strong benchmark performance for Muse Spark, while also acknowledging performance gaps in agentic and coding systems."
+          ],
+          "zh": [
+            "Muse Spark是Meta超智能实验室(MSL)发布的首个公开模型。",
+            "该模型构建并运行于MSL全新的技术栈上。",
+            "Meta报告Muse Spark取得了强劲的基准测试表现，但也指出其在智能体和编码系统方面存在性能差距。"
+          ]
+        },
+        "impact": {
+          "en": "The release of Muse Spark by Meta's Superintelligence Lab marks Meta's entry into the frontier AI model development space, introducing a new architecture that could influence future AI research and development, despite noted performance limitations in specific areas.",
+          "zh": "Meta超智能实验室发布Muse Spark标志着Meta进入前沿AI模型开发领域，推出了一种新的架构，尽管在特定领域存在性能限制，但这可能影响未来的AI研究与发展。"
+        },
+        "source": "Ars Technica (AI)",
+        "link": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/"
+      },
+      {
+        "title": {
+          "en": "DeepMind Introduces AGI Progress Measurement Framework",
+          "zh": "DeepMind推出AGI进展衡量框架"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind introduced a framework for measuring progress toward Artificial General Intelligence (AGI) and launched a Kaggle hackathon to develop relevant evaluations.",
+          "zh": "Google DeepMind推出了一项用于衡量通用人工智能（AGI）进展的框架，并启动了一项Kaggle黑客马拉松以开发相关的评估方法。"
+        },
+        "key_takeaways": {
+          "en": [
+            "A framework has been introduced by Google DeepMind.",
+            "The framework's purpose is to measure progress toward Artificial General Intelligence (AGI).",
+            "A Kaggle hackathon has been launched to build relevant evaluations for this framework."
+          ],
+          "zh": [
+            "Google DeepMind引入了一个框架。",
+            "该框架旨在衡量通用人工智能（AGI）的进展。",
+            "一项Kaggle黑客马拉松已启动，旨在构建相关的评估方法。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative provides a structured approach to quantifying advancements in AGI, potentially standardizing how AGI development is evaluated across the industry. Such standardization could facilitate clearer communication and more directed research efforts.",
+          "zh": "这一举措为量化AGI进展提供了一种结构化方法，可能标准化业界对AGI发展的评估方式。这种标准化有助于更清晰的沟通和更有针对性的研究工作。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "zh": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/"
+      },
+      {
+        "title": {
+          "en": "Lyria 3 Pro: Create longer tracks in more",
+          "zh": "Lyria 3 Pro: Create longer tracks in more"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/"
+      },
+      {
+        "title": {
+          "en": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+          "zh": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/waypoint-1-5"
+      },
+      {
+        "title": {
+          "en": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+          "zh": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-research/altk-evolve"
+      },
+      {
+        "title": {
+          "en": "Safetensors is Joining the PyTorch Foundation",
+          "zh": "Safetensors is Joining the PyTorch Foundation"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/academy/projects",
+    "https://openai.com/academy/marketing",
+    "https://openai.com/index/axios-developer-tool-compromise",
+    "https://openai.com/academy/custom-gpts",
+    "https://openai.com/academy/data-analysis",
+    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+    "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+    "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "https://huggingface.co/blog/waypoint-1-5",
+    "https://huggingface.co/blog/multimodal-sentence-transformers",
+    "https://huggingface.co/blog/ibm-research/altk-evolve",
+    "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+    "https://huggingface.co/blog/gemma4",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
+    "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+    "https://www.latent.space/p/ainews-ai-engineer-europe-2026",
+    "https://www.latent.space/p/ainews-meta-superintelligence-labs",
+    "https://www.latent.space/p/ainews-anthropic-30b-arr-project",
+    "https://www.latent.space/p/harness-eng",
+    "https://www.latent.space/p/ainews-gemma-4-crosses-2-million",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything",
+    "https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything",
+    "https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything",
+    "https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything",
+    "https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.normaltech.ai/p/could-ai-slow-science",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://www.interconnects.ai/p/gemma-4-and-what-makes-an-open-model",
+    "https://www.interconnects.ai/p/latest-open-artifacts-20-new-orgs",
+    "https://www.interconnects.ai/p/lossy-self-improvement",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+    "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+    "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+    "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+    "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+    "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+    "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
+    "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
+    "https://arstechnica.com/tech-policy/2026/04/state-police-corporal-created-porn-deepfakes-from-drivers-license-photos/",
+    "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+    "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
+    "https://www.404media.co/the-oldest-octopus-fossil-ever-isnt-an-octopus-at-all-scientists-discover/",
+    "https://www.404media.co/behind-the-blog-smoking-the-whole-carton/",
+    "https://www.404media.co/worlds-largest-group-of-chimps-waging-deadly-civil-war-scientists-discover/",
+    "https://www.404media.co/farmer-arrested-for-speaking-too-long-at-datacenter-town-hall-vows-to-fight/",
+    "https://www.404media.co/fbi-extracts-suspects-deleted-signal-messages-saved-in-iphone-notification-database-2/",
+    "https://www.infoq.com/news/2026/04/github-copilot-cli-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/etsy-vitess-sharding-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/google-cloud-postgresql/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/aaif-mcp-summit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/colab-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+    "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+    "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+    "https://blinry.org/diy-soft-drinks/",
+    "https://news.ycombinator.com/item?id=47741527"
+  ]
+}
