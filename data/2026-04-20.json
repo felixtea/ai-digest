@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-04-20",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Enhances Agents SDK with Sandbox Execution, Model-Native Harness",
+          "zh": "OpenAI 升级 Agents SDK，引入沙箱执行和模型原生线束"
+        },
+        "tl_dr": {
+          "en": "OpenAI has updated its Agents SDK to include native sandbox execution and a model-native harness, designed to help developers build secure, long-running agents.",
+          "zh": "OpenAI 更新了其 Agents SDK，增加了原生沙箱执行和模型原生线束功能，旨在帮助开发者构建安全的、长时间运行的智能体。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The Agents SDK now features native sandbox execution for enhanced security.",
+            "A new model-native harness supports the development of long-running agents.",
+            "Agents can operate securely across various files and tools within the updated SDK."
+          ],
+          "zh": [
+            "该 Agents SDK 现已具备原生沙箱执行功能，以增强安全性。",
+            "新增的模型原生线束支持开发长时间运行的智能体。",
+            "在更新后的 SDK 中，智能体能够安全地跨文件和工具进行操作。"
+          ]
+        },
+        "impact": {
+          "en": "This update provides developers with tools for more robust and secure AI agent development. It addresses challenges related to agent longevity and operational safety across diverse environments.",
+          "zh": "此次更新为开发者提供了更强大、更安全的 AI 智能体开发工具。它解决了智能体长期运行和在多样化环境中操作安全性的相关挑战。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Introduces Gemma 4 Open Models for Advanced Reasoning",
+          "zh": "谷歌DeepMind发布Gemma 4开放模型，聚焦高级推理"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has introduced Gemma 4, its latest open models described as its most capable to date and purpose-built for advanced reasoning and agentic workflows.",
+          "zh": "谷歌DeepMind发布了Gemma 4，这是其迄今为止最强大的开放模型，专为高级推理和代理工作流而设计。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Gemma 4 is characterized as \"byte for byte, the most capable open models.\"",
+            "It is described as Google DeepMind's \"most intelligent open models to date.\"",
+            "The models are \"purpose-built for advanced reasoning and agentic workflows.\""
+          ],
+          "zh": [
+            "Gemma 4被描述为“逐字节计算，能力最强的开放模型”。",
+            "它被认为是谷歌DeepMind“迄今为止最智能的开放模型”。",
+            "这些模型是“专为高级推理和代理工作流而构建”。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of Gemma 4 as a highly capable open model designed for advanced reasoning and agentic workflows offers a new resource for developers, potentially advancing the application of AI technologies in complex problem-solving and autonomous operations.",
+          "zh": "Gemma 4作为一款专为高级推理和代理工作流设计的高度强大的开放模型的推出，为开发者提供了新资源，有望推动AI技术在复杂问题解决和自主操作方面的应用。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Launches Cyber Defense Initiative with GPT-5.4-Cyber and $10M Grants",
+          "zh": "OpenAI 推出网络防御计划，采用 GPT-5.4-Cyber 并提供 1000 万美元 API 资助"
+        },
+        "tl_dr": {
+          "en": "Leading security firms and enterprises have joined OpenAI's Trusted Access for Cyber program, utilizing GPT-5.4-Cyber and $10 million in API grants to enhance global cyber defense.",
+          "zh": "领先的安全公司和企业已加入 OpenAI 的网络可信访问计划，利用 GPT-5.4-Cyber 和 1000 万美元的 API 资助以加强全球网络防御。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI's initiative is named 'Trusted Access for Cyber'.",
+            "The program utilizes the GPT-5.4-Cyber model.",
+            "Participants receive $10 million in API grants."
+          ],
+          "zh": [
+            "OpenAI 的这项计划名为“网络可信访问”计划。",
+            "该计划采用 GPT-5.4-Cyber 模型。",
+            "参与者将获得 1000 万美元的 API 资助。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative demonstrates a focused application of advanced AI models to critical security infrastructure. It signifies a trend towards collaborative efforts between AI developers and cybersecurity entities to address evolving digital threats.",
+          "zh": "该计划展示了先进 AI 模型在关键安全基础设施中的专注应用。它标志着 AI 开发者与网络安全实体之间，为应对不断演变的数字威胁而展开协作的趋势。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Codex for (almost) everything",
+          "zh": "Codex for (almost) everything"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/codex-for-almost-everything"
+      },
+      {
+        "title": {
+          "en": "Protecting people from harmful manipulation",
+          "zh": "Protecting people from harmful manipulation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/"
+      },
+      {
+        "title": {
+          "en": "Building a Fast Multilingual OCR Model with Synthetic Data",
+          "zh": "Building a Fast Multilingual OCR Model with Synthetic Data"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2"
+      },
+      {
+        "title": {
+          "en": "Introducing GPT-Rosalind for life sciences research",
+          "zh": "Introducing GPT-Rosalind for life sciences research"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-gpt-rosalind"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+          "zh": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/codex-for-almost-everything",
+    "https://openai.com/index/introducing-gpt-rosalind",
+    "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+    "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "https://huggingface.co/blog/ecom-rlve",
+    "https://huggingface.co/blog/transformers-to-mlx",
+    "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
+    "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+    "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
+    "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
+    "https://www.latent.space/p/ainews-rip-pull-requests-2005-2026",
+    "https://www.latent.space/p/ainews-humanitys-last-gasp",
+    "https://www.latent.space/p/notion",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
+    "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
+    "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
+    "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
+    "https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://www.interconnects.ai/p/gemma-4-and-what-makes-an-open-model",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+    "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+    "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+    "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+    "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+    "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+    "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+    "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+    "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+    "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
+    "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
+    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+    "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
+    "https://www.404media.co/babies-born-from-dead-parents-will-increase-with-new-tech-are-we-ready/",
+    "https://www.404media.co/faa-scraps-civil-and-criminal-penalties-for-flying-drones-near-ice-vehicles/",
+    "https://www.404media.co/the-destroyed-remnants-of-a-lost-world-are-falling-to-earth-scientists-discover/",
+    "https://www.404media.co/behind-the-blog-jazz-and-journalism/",
+    "https://www.404media.co/app-stores-apple-google-nudify-undress-deepfakes/",
+    "https://www.infoq.com/news/2026/04/deepmind-aletheia-agentic-math/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/aws-devops-agent-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/kubernetes-secure-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+    "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+    "https://www.legalnomads.com/fish-sauce/",
+    "https://github.com/outcomeops/context-engineering",
+    "https://mxmap.ch/"
+  ]
+}
