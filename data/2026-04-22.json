@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-04-22",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Unveils Gemma 4 Open Models",
+          "zh": "谷歌DeepMind发布Gemma 4开放模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind released Gemma 4, new open models designed for advanced reasoning and agentic workflows.",
+          "zh": "谷歌DeepMind发布了Gemma 4开放模型，专为高级推理和代理工作流设计。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The models are named Gemma 4.",
+            "They are described as Google DeepMind's most intelligent open models to date.",
+            "They are purpose-built for advanced reasoning and agentic workflows."
+          ],
+          "zh": [
+            "该模型系列名为Gemma 4。",
+            "它们被描述为谷歌DeepMind迄今最智能的开放模型。",
+            "这些模型专为高级推理和代理工作流而构建。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of Gemma 4 indicates Google DeepMind's ongoing commitment to open models, potentially advancing capabilities for advanced reasoning and agentic workflows across the AI industry.",
+          "zh": "Gemma 4的推出表明谷歌DeepMind持续致力于开放模型，可能推动人工智能行业在高级推理和代理工作流方面的能力发展。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+      },
+      {
+        "title": {
+          "en": "Meta to Use Employee Keystroke Data for AI Model Training",
+          "zh": "Meta将利用员工按键数据训练AI模型"
+        },
+        "tl_dr": {
+          "en": "Meta is implementing a new internal tool to record employee mouse movements and button clicks, converting this data to train its AI models.",
+          "zh": "Meta正在部署一项新的内部工具，用于记录员工的鼠标移动和按键点击，并将这些数据转换为训练其AI模型的数据。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Meta developed a new internal tool for data collection from its employees.",
+            "The tool captures employee interactions, including mouse movements, button clicks, and keyboard use.",
+            "The collected data is specifically for training Meta's AI models and agents."
+          ],
+          "zh": [
+            "Meta开发了一项新的内部工具，用于收集员工数据。",
+            "该工具捕获员工互动，包括鼠标移动、按键点击以及键盘使用。",
+            "收集到的数据专门用于训练Meta的AI模型和AI代理。"
+          ]
+        },
+        "impact": {
+          "en": "This action demonstrates the challenges faced by AI developers in acquiring high-quality interactive training data. It suggests that companies are exploring internal data sources to address these data scarcity issues for AI agent development.",
+          "zh": "此举表明AI开发者在获取高质量交互式训练数据方面面临挑战。这暗示公司正在探索内部数据源，以解决AI代理开发中的数据稀缺问题。"
+        },
+        "source": "Ars Technica (AI)",
+        "link": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Introduces ADeLe for AI Performance Prediction and Explanation",
+          "zh": "微软研究院推出 ADeLe，预测并解释人工智能性能"
+        },
+        "tl_dr": {
+          "en": "Microsoft researchers, in collaboration with Princeton University and Universitat Politècnica de València, introduced ADeLe to predict and explain AI performance across tasks.",
+          "zh": "微软研究人员与普林斯顿大学及瓦伦西亚理工大学合作，推出了 ADeLe，旨在预测和解释人工智能在不同任务上的性能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "ADeLe is designed to predict AI performance and explain underlying capabilities, addressing limitations of current benchmarks.",
+            "Existing AI benchmarks report performance on specific tasks but offer limited insight into the driving capabilities behind that performance.",
+            "ADeLe aims to explain AI model failures and reliably predict outcomes on novel tasks."
+          ],
+          "zh": [
+            "ADeLe 旨在预测人工智能性能并解释其潜在能力，以弥补当前基准测试的局限性。",
+            "现有的人工智能基准测试报告特定任务的性能，但对驱动其性能的底层能力提供的信息有限。",
+            "ADeLe 致力于解释人工智能模型的失败原因并可靠预测其在新任务上的表现。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative could enhance the understanding of how AI models function, enabling more effective diagnosis of performance issues and more accurate forecasting of model behavior on unseen tasks, thereby advancing AI development and deployment.",
+          "zh": "这一举措可能增强对人工智能模型工作原理的理解，从而更有效地诊断性能问题，并更准确地预测模型在未知任务上的行为，进而推动人工智能的开发和部署。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+          "zh": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Claude Dispatch and the Power of Interfaces",
+          "zh": "Claude Dispatch and the Power of Interfaces"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "zh": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+          "zh": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/"
+      },
+      {
+        "title": {
+          "en": "Introducing GPT-Rosalind for life sciences research",
+          "zh": "Introducing GPT-Rosalind for life sciences research"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-gpt-rosalind"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "https://openai.com/index/codex-for-almost-everything",
+    "https://openai.com/index/introducing-gpt-rosalind",
+    "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+    "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+    "https://huggingface.co/blog/cybersecurity-openness",
+    "https://huggingface.co/blog/ecom-rlve",
+    "https://huggingface.co/blog/transformers-to-mlx",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
+    "https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds",
+    "https://www.latent.space/p/noetik",
+    "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
+    "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
+    "https://www.latent.space/p/ainews-rip-pull-requests-2005-2026",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+    "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
+    "https://simonwillison.net/2026/Apr/21/scosman/#atom-everything",
+    "https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything",
+    "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+    "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+    "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+    "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
+    "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
+    "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+    "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+    "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+    "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+    "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+    "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+    "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
+    "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
+    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+    "https://www.404media.co/emergency-breaking-news-podcast-tim-cooked/",
+    "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/",
+    "https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/",
+    "https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/",
+    "https://www.404media.co/maddy-myers-mothership-interview/",
+    "https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/subagents-gemini-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/google-adk-1-0-new-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "https://twitter.com/spacex/status/2046713419978453374",
+    "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+    "https://www.brex.com/crabtrap",
+    "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+    "https://arxiv.org/abs/2604.15456",
+    "https://arxiv.org/abs/2604.15495",
+    "https://arxiv.org/abs/2604.15514",
+    "https://arxiv.org/abs/2604.15529",
+    "https://arxiv.org/abs/2604.15558",
+    "https://arxiv.org/abs/2604.16311",
+    "https://arxiv.org/abs/2604.16368",
+    "https://arxiv.org/abs/2604.16370",
+    "https://arxiv.org/abs/2604.16372",
+    "https://arxiv.org/abs/2604.16376"
+  ]
+}
