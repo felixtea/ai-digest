@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-04-23",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Releases Gemma 4 Open Models",
+          "zh": "谷歌DeepMind发布Gemma 4开源模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has released Gemma 4, its latest open models designed for advanced reasoning and agentic workflows.",
+          "zh": "谷歌DeepMind发布了Gemma 4，这是其迄今为止最智能的开源模型，专为高级推理和代理工作流程而构建。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The new models are named Gemma 4.",
+            "They are open models.",
+            "The models are characterized as Google DeepMind's \"most intelligent open models to date\", purpose-built for advanced reasoning and agentic workflows, and described as \"byte for byte, the most capable\"."
+          ],
+          "zh": [
+            "新模型命名为Gemma 4。",
+            "它们是开源模型。",
+            "这些模型被描述为谷歌DeepMind“迄今为止最智能的开源模型”，专为高级推理和代理工作流程而构建，并被认为是“逐字节地最强大”。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of new \"most intelligent open models\" by Google DeepMind could enhance capabilities available to developers and researchers using open-source AI, particularly for tasks involving advanced reasoning and agentic workflows.",
+          "zh": "谷歌DeepMind发布新的“最智能开源模型”，这可能增强开源AI开发者和研究人员可用的能力，尤其是在涉及高级推理和代理工作流程的任务中。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+      },
+      {
+        "title": {
+          "en": "Qwen3.6-27B Achieves Flagship Coding Performance",
+          "zh": "通义千问3.6-27B模型编程性能达旗舰水平"
+        },
+        "tl_dr": {
+          "en": "Qwen released its Qwen3.6-27B open-weight model, which achieved flagship-level agentic coding performance, surpassing its previous generation Qwen3.5-397B-A17B across all major coding benchmarks.",
+          "zh": "通义千问发布了其开源模型Qwen3.6-27B，该模型在所有主要编程基准测试中均实现了旗舰级的代理编程性能，超越了前代Qwen3.5-397B-A17B。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Qwen3.6-27B is a 27-billion parameter dense model.",
+            "It achieved flagship-level agentic coding performance.",
+            "The model surpassed the prior-generation open-source flagship, Qwen3.5-397B-A17B (397B total / 17B active MoE), across all major coding benchmarks."
+          ],
+          "zh": [
+            "Qwen3.6-27B 是一个270亿参数的密集模型。",
+            "它实现了旗舰级的代理编程性能。",
+            "该模型在所有主要编程基准测试中均超越了前一代开源旗舰模型Qwen3.5-397B-A17B（总计3970亿参数/170亿活跃MoE）。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates that a smaller, dense model can achieve and surpass the coding performance of significantly larger and more complex sparse models, potentially lowering the computational resources required for advanced AI coding capabilities.",
+          "zh": "这一进展表明，一个更小、更密集的模型能够达到并超越显著更大、更复杂的稀疏模型的编程性能，这可能降低实现高级AI编程能力所需的计算资源。"
+        },
+        "source": "Qwen",
+        "link": "https://qwen.ai/blog?id=qwen3.6-27b"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Introduces ADeLe for AI Performance Prediction and Explanation",
+          "zh": "微软研究院推出ADeLe：预测并解释AI性能的新方法"
+        },
+        "tl_dr": {
+          "en": "Microsoft researchers, in collaboration with Princeton University and Universitat Politècnica de València, introduced ADeLe to predict and explain AI performance across tasks.",
+          "zh": "微软研究院与普林斯顿大学及瓦伦西亚理工大学合作，推出了ADeLe，旨在预测并解释跨任务的AI性能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Current AI benchmarks report Large Language Model (LLM) performance on specific tasks but offer limited insight into underlying capabilities.",
+            "ADeLe aims to explain failures and reliably predict outcomes on new tasks, areas where existing benchmarks fall short.",
+            "The ADeLe framework was introduced by Microsoft researchers in collaboration with Princeton University and Universitat Politècnica de València."
+          ],
+          "zh": [
+            "现有AI基准测试报告大型语言模型（LLM）在特定任务上的表现，但对底层能力提供的信息有限。",
+            "ADeLe旨在解释故障并可靠地预测新任务的结果，这是当前基准测试的不足之处。",
+            "ADeLe框架由微软研究院与普林斯顿大学和瓦伦西亚理工大学合作推出。"
+          ]
+        },
+        "impact": {
+          "en": "This development could provide deeper insights into Large Language Model capabilities, moving beyond simple benchmark scores. It may enable better diagnosis of model failures and more reliable predictions for new tasks, potentially enhancing AI development.",
+          "zh": "这项进展可能为大型语言模型的能力提供更深入的见解，超越简单的基准分数。它有望更好地诊断模型故障，并更可靠地预测新任务，从而可能提升AI开发水平。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Making ChatGPT better for clinicians",
+          "zh": "Making ChatGPT better for clinicians"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/making-chatgpt-better-for-clinicians"
+      },
+      {
+        "title": {
+          "en": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+          "zh": "Gemma 4 VLA Demo on Jetson Orin Nano Super"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/gemma4"
+      },
+      {
+        "title": {
+          "en": "AutoAdapt: Automated domain adaptation for large language models",
+          "zh": "AutoAdapt: Automated domain adaptation for large language models"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/"
+      },
+      {
+        "title": {
+          "en": "This AI Tool Rips Off Open Source Software Without Violating Copyright",
+          "zh": "This AI Tool Rips Off Open Source Software Without Violating Copyright"
+        },
+        "source": "404 Media",
+        "link": "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+          "zh": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "https://openai.com/academy/workspace-agents",
+    "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "https://openai.com/index/introducing-openai-privacy-filter",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "https://huggingface.co/blog/nvidia/gemma4",
+    "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "https://huggingface.co/blog/cybersecurity-openness",
+    "https://huggingface.co/blog/ecom-rlve",
+    "https://huggingface.co/blog/transformers-to-mlx",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.latent.space/p/shopify",
+    "https://www.latent.space/p/ainews-openai-launches-gpt-image",
+    "https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds",
+    "https://www.latent.space/p/noetik",
+    "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything",
+    "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
+    "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything",
+    "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
+    "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+    "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+    "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+    "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
+    "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+    "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+    "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+    "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+    "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
+    "https://www.404media.co/trump-2027-budget-nuclear-weapons/",
+    "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
+    "https://www.404media.co/podcast-how-algorithms-make-us-feel-bad-and-weird/",
+    "https://www.404media.co/emergency-breaking-news-podcast-tim-cooked/",
+    "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/",
+    "https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/cloudflare-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+    "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+    "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+    "https://lataco.com/stop-sgv-data-center-building",
+    "https://qwen.ai/blog?id=qwen3.6-27b",
+    "https://arxiv.org/abs/2604.18645",
+    "https://arxiv.org/abs/2604.18724",
+    "https://arxiv.org/abs/2604.18789",
+    "https://arxiv.org/abs/2604.18805",
+    "https://arxiv.org/abs/2604.18838",
+    "https://arxiv.org/abs/2604.18592",
+    "https://arxiv.org/abs/2604.18712",
+    "https://arxiv.org/abs/2604.18715",
+    "https://arxiv.org/abs/2604.18722",
+    "https://arxiv.org/abs/2604.18729"
+  ]
+}
