@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-04-24",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Unveils Gemma 4 Open Models",
+          "zh": "谷歌DeepMind发布Gemma 4开源模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has released Gemma 4, new open models designed for advanced reasoning and agentic workflows.",
+          "zh": "谷歌DeepMind发布了Gemma 4，这是专为高级推理和代理工作流设计的新型开源模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind describes Gemma 4 as its most intelligent open models to date.",
+            "The models are purpose-built for advanced reasoning workflows.",
+            "The models are purpose-built for agentic workflows."
+          ],
+          "zh": [
+            "谷歌DeepMind将Gemma 4描述为其迄今为止最智能的开源模型。",
+            "这些模型专为高级推理工作流而构建。",
+            "这些模型专为代理工作流而构建。"
+          ]
+        },
+        "impact": {
+          "en": "The release of Gemma 4 by Google DeepMind contributes to the open model ecosystem, offering tools specifically designed for advanced AI applications such as reasoning and agentic systems. This development provides new resources for researchers and developers working on these specialized areas.",
+          "zh": "谷歌DeepMind发布Gemma 4，丰富了开源模型生态系统，为推理和代理系统等高级AI应用提供了专门设计的工具。这一进展为致力于这些专业领域的研究人员和开发者提供了新资源。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Mentions GPT-5.5 System Card; Details Undisclosed",
+          "zh": "OpenAI 提及 GPT-5.5 系统卡；详细信息未披露"
+        },
+        "tl_dr": {
+          "en": "OpenAI News published a title referencing a 'GPT-5.5 System Card', but no specific details about the model were provided in the available excerpts.",
+          "zh": "OpenAI 新闻发布了一个提及“GPT-5.5 系统卡”的标题，但可用摘要中未提供有关该模型的具体细节。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The provided source material did not include technical specifications for GPT-5.5.",
+            "No numerical benchmarks or performance data for GPT-5.5 were detailed in the excerpts.",
+            "Information regarding the release status or specific capabilities of GPT-5.5 was absent."
+          ],
+          "zh": [
+            "提供的源材料中未包含 GPT-5.5 的技术规格。",
+            "摘要中未详细说明 GPT-5.5 的数值基准或性能数据。",
+            "关于 GPT-5.5 发布状态或具体能力的信息缺失。"
+          ]
+        },
+        "impact": {
+          "en": "Without disclosed technical specifications or performance metrics, the significance and potential implications of GPT-5.5 for the AI industry cannot be assessed.",
+          "zh": "由于缺乏公开的技术规格或性能指标，无法评估 GPT-5.5 对人工智能行业的重要性和潜在影响。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-5-5-system-card"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Introduces Automated LLM Domain Adaptation System",
+          "zh": "微软研究院推出自动化大型语言模型领域适应系统"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research introduced AutoAdapt, a system designed to address the challenges of adapting Large Language Models for reliable deployment in domain-specific, high-stakes environments.",
+          "zh": "微软研究院推出了AutoAdapt系统，旨在解决大型语言模型在特定领域、高风险环境中可靠部署的适应性挑战。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Large Language Models (LLMs) experience performance and reliability degradation in high-stakes settings.",
+            "Current domain adaptation for LLMs is a slow and manual process.",
+            "Existing domain adaptation methods are difficult to reproduce, hindering reliable deployment."
+          ],
+          "zh": [
+            "大型语言模型（LLM）在高风险环境中存在性能和可靠性下降的问题。",
+            "目前大型语言模型的领域适应过程缓慢且需手动操作。",
+            "现有领域适应方法难以重现，阻碍了可靠部署。"
+          ]
+        },
+        "impact": {
+          "en": "Automating domain adaptation could improve the reliability and deployment efficiency of LLMs in critical sectors such as law, medicine, and cloud incident response, which currently face significant challenges.",
+          "zh": "自动化领域适应有望提升大型语言模型在法律、医疗和云事件响应等关键领域的可靠性和部署效率，这些领域目前面临严峻挑战。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+          "zh": "Gemma 4 VLA Demo on Jetson Orin Nano Super"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/gemma4"
+      },
+      {
+        "title": {
+          "en": "ADeLe: Predicting and explaining AI performance across tasks",
+          "zh": "ADeLe: Predicting and explaining AI performance across tasks"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/"
+      },
+      {
+        "title": {
+          "en": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+          "zh": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/decoupled-diloco/"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "zh": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+          "zh": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/gpt-5-5-system-card",
+    "https://openai.com/index/introducing-gpt-5-5",
+    "https://openai.com/academy/what-is-codex",
+    "https://openai.com/academy/codex-automations",
+    "https://openai.com/academy/codex-plugins-and-skills",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "https://huggingface.co/blog/nvidia/gemma4",
+    "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "https://huggingface.co/blog/cybersecurity-openness",
+    "https://huggingface.co/blog/ecom-rlve",
+    "https://huggingface.co/blog/transformers-to-mlx",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.latent.space/p/unsupervised-learning-2026",
+    "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
+    "https://www.latent.space/p/shopify",
+    "https://www.latent.space/p/ainews-openai-launches-gpt-image",
+    "https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
+    "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+    "https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything",
+    "https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything",
+    "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+    "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+    "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+    "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
+    "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+    "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+    "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+    "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+    "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+    "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+    "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
+    "https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/",
+    "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
+    "https://www.404media.co/trump-2027-budget-nuclear-weapons/",
+    "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
+    "https://www.404media.co/podcast-how-algorithms-make-us-feel-bad-and-weird/",
+    "https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/cloudflare-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://openai.com/index/introducing-gpt-5-5/",
+    "https://socket.dev/blog/bitwarden-cli-compromised",
+    "https://github.com/refactoringhq/tolaria",
+    "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
+    "https://blog.meshcore.io/2026/04/23/the-split",
+    "https://arxiv.org/abs/2604.19749",
+    "https://arxiv.org/abs/2604.19751",
+    "https://arxiv.org/abs/2604.19753",
+    "https://arxiv.org/abs/2604.19754",
+    "https://arxiv.org/abs/2604.19755",
+    "https://arxiv.org/abs/2604.19762",
+    "https://arxiv.org/abs/2604.19764",
+    "https://arxiv.org/abs/2604.19765",
+    "https://arxiv.org/abs/2604.19766",
+    "https://arxiv.org/abs/2604.19768"
+  ]
+}
