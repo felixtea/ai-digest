@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-04-25",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Unveils Gemma 4 Open Models",
+          "zh": "谷歌DeepMind发布Gemma 4开放模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind introduced Gemma 4, describing it as its most intelligent open models designed for advanced reasoning and agentic workflows.",
+          "zh": "谷歌DeepMind推出了Gemma 4，称其为迄今为止最智能的开放模型，专为高级推理和代理工作流而构建。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Gemma 4 is described as the most capable open models 'byte for byte'.",
+            "They are Google DeepMind's most intelligent open models to date.",
+            "The models are purpose-built for advanced reasoning and agentic workflows."
+          ],
+          "zh": [
+            "Gemma 4 被描述为“字节对字节”而言最强大的开放模型。",
+            "它们是谷歌DeepMind迄今为止最智能的开放模型。",
+            "这些模型专为高级推理和代理工作流而构建。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of Gemma 4 as highly capable open models from Google DeepMind provides new resources for developers and researchers, potentially advancing innovation in AI reasoning and agentic applications.",
+          "zh": "谷歌DeepMind推出Gemma 4作为高性能开放模型，为开发者和研究人员提供了新资源，可能推动AI推理和代理应用领域的创新。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+      },
+      {
+        "title": {
+          "en": "DeepSeek Unveils V4 Series with Million-Token Context Models",
+          "zh": "DeepSeek发布V4系列模型，支持百万级上下文"
+        },
+        "tl_dr": {
+          "en": "Chinese AI lab DeepSeek released preview models DeepSeek-V4-Pro and DeepSeek-V4-Flash, part of its new V4 series, both featuring a 1 million token context.",
+          "zh": "中国人工智能实验室DeepSeek发布了V4系列的两款预览模型：DeepSeek-V4-Pro和DeepSeek-V4-Flash，均具备100万个token的上下文能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "DeepSeek released two preview models, DeepSeek-V4-Pro and DeepSeek-V4-Flash, as part of its V4 series.",
+            "Both DeepSeek-V4 preview models feature a 1 million token context window.",
+            "Both models are built using a Mixture of Experts (MoE) architecture."
+          ],
+          "zh": [
+            "DeepSeek发布了V4系列的两款预览模型：DeepSeek-V4-Pro和DeepSeek-V4-Flash。",
+            "两款DeepSeek-V4预览模型均支持100万个token的上下文窗口。",
+            "两款模型均采用专家混合（MoE）架构。"
+          ]
+        },
+        "impact": {
+          "en": "The release of models with a 1 million token context, particularly optimized for agent use, marks a notable advancement in long-context AI capabilities. The adoption of the Mixture of Experts architecture may influence model efficiency and performance in complex tasks, offering new tools for developers.",
+          "zh": "具备100万个token上下文能力的模型发布，特别是针对代理应用进行了优化，标志着长上下文人工智能能力的重要进展。专家混合架构的采用可能会影响模型在复杂任务中的效率和性能，为开发者提供了新工具。"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/deepseekv4"
+      },
+      {
+        "title": {
+          "en": "Google Plans Up to $40 Billion Investment in Anthropic",
+          "zh": "谷歌计划向Anthropic投资高达400亿美元"
+        },
+        "tl_dr": {
+          "en": "Google plans to invest up to $40 billion in AI firm Anthropic, comprising both cash and compute resources.",
+          "zh": "谷歌计划向人工智能公司Anthropic投资高达400亿美元，包括现金和计算资源。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google's planned investment in Anthropic can reach up to $40 billion.",
+            "The investment will be provided through a combination of cash and compute resources.",
+            "This funding occurs amidst a competitive race among AI rivals to secure massive compute capacity."
+          ],
+          "zh": [
+            "谷歌计划对Anthropic的投资最高可达400亿美元。",
+            "该投资将以现金和计算资源相结合的方式提供。",
+            "这笔资金是在人工智能竞争对手争相 확보 大量计算能力的背景下进行的。"
+          ]
+        },
+        "impact": {
+          "en": "This significant investment highlights the intense competition among major tech companies to secure and control advanced AI research and compute infrastructure, which is critical for developing next-generation AI models.",
+          "zh": "这项重大投资凸显了主要科技公司在争夺和控制先进人工智能研究和计算基础设施方面的激烈竞争，这是开发下一代人工智能模型的关键因素。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+          "zh": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/decoupled-diloco/"
+      },
+      {
+        "title": {
+          "en": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+          "zh": "Gemma 4 VLA Demo on Jetson Orin Nano Super"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/gemma4"
+      },
+      {
+        "title": {
+          "en": "AutoAdapt: Automated domain adaptation for large language models",
+          "zh": "AutoAdapt: Automated domain adaptation for large language models"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/"
+      },
+      {
+        "title": {
+          "en": "ADeLe: Predicting and explaining AI performance across tasks",
+          "zh": "ADeLe: Predicting and explaining AI performance across tasks"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/"
+      },
+      {
+        "title": {
+          "en": "Introducing GPT-5.5",
+          "zh": "Introducing GPT-5.5"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-gpt-5-5"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/introducing-gpt-5-5",
+    "https://openai.com/index/gpt-5-5-system-card",
+    "https://openai.com/academy/codex-automations",
+    "https://openai.com/academy/top-10-use-cases-codex-for-work",
+    "https://openai.com/academy/codex-plugins-and-skills",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "https://huggingface.co/blog/deepseekv4",
+    "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "https://huggingface.co/blog/nvidia/gemma4",
+    "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "https://huggingface.co/blog/cybersecurity-openness",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp",
+    "https://www.latent.space/p/unsupervised-learning-2026",
+    "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
+    "https://www.latent.space/p/shopify",
+    "https://www.latent.space/p/ainews-openai-launches-gpt-image",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+    "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+    "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
+    "https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything",
+    "https://simonwillison.net/2026/Apr/24/weekly/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+    "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+    "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+    "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+    "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+    "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+    "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+    "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+    "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+    "https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/",
+    "https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/",
+    "https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/",
+    "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
+    "https://www.404media.co/trump-2027-budget-nuclear-weapons/",
+    "https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/cloudflare-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+    "https://hhh.hn/rodecaster-duo-fw/",
+    "https://www.thehistoryblog.com/archives/75877",
+    "https://www.flowmusic.app/",
+    "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+    "https://arxiv.org/abs/2604.20862",
+    "https://arxiv.org/abs/2604.20972",
+    "https://arxiv.org/abs/2604.20987",
+    "https://arxiv.org/abs/2604.20995",
+    "https://arxiv.org/abs/2604.21003",
+    "https://arxiv.org/abs/2604.20878",
+    "https://arxiv.org/abs/2604.20996",
+    "https://arxiv.org/abs/2604.21045",
+    "https://arxiv.org/abs/2604.21057",
+    "https://arxiv.org/abs/2604.21070"
+  ]
+}
