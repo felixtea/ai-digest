@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-04-26",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "DeepMind Unveils Gemma 4 Open Models",
+          "zh": "DeepMind发布Gemma 4开放模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind released Gemma 4, describing it as their most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+          "zh": "谷歌DeepMind发布了Gemma 4，称其为迄今为止最智能的开放模型，专为高级推理和智能体工作流构建。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Gemma 4 is identified by Google DeepMind as their most intelligent open models to date.",
+            "The models are purpose-built for advanced reasoning capabilities.",
+            "The models are also purpose-built for agentic workflows."
+          ],
+          "zh": [
+            "Gemma 4被谷歌DeepMind认定为迄今最智能的开放模型。",
+            "该模型专为实现高级推理能力而构建。",
+            "该模型也专为支持智能体工作流而构建。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of Gemma 4 as an advanced open model by Google DeepMind contributes to the open-source AI ecosystem, potentially influencing development in reasoning and agentic applications.",
+          "zh": "谷歌DeepMind推出Gemma 4这一先进的开放模型，为开源AI生态系统做出贡献，可能影响推理和智能体应用领域的发展。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Releases GPT-5.5 API Access and Prompting Guide",
+          "zh": "OpenAI 发布 GPT-5.5 API 访问并提供提示指南"
+        },
+        "tl_dr": {
+          "en": "OpenAI has made GPT-5.5 available through its API and published a comprehensive guide for effective prompting.",
+          "zh": "OpenAI 已通过 API 开放 GPT-5.5，并发布了详细的有效提示指南。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GPT-5.5 is now accessible via the OpenAI API, as documented at developers.openai.com/api/docs/models/gpt-5.5.",
+            "An official prompting guide for GPT-5.5 has been released by OpenAI, available at developers.openai.com/api/docs/guides/prompt-guidance?model=gpt-5.5.",
+            "The guide includes recommendations, such as a trick for applications that require considerable processing time before generating a user-visible response."
+          ],
+          "zh": [
+            "GPT-5.5 现已通过 OpenAI API 可用，具体信息可在 developers.openai.com/api/docs/models/gpt-5.5 查阅。",
+            "OpenAI 发布了 GPT-5.5 的官方提示指南，可在 developers.openai.com/api/docs/guides/prompt-guidance?model=gpt-5.5 获取。",
+            "该指南提供了建议，其中包括针对在生成用户可见响应前需要大量思考时间的应用的特定技巧。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides developers with direct access to GPT-5.5 and official resources to optimize its implementation, potentially enhancing the performance and efficiency of AI applications leveraging the new model.",
+          "zh": "这一进展为开发者提供了直接访问 GPT-5.5 的途径和优化其实现的官方资源，可能提升利用该新模型的人工智能应用的性能和效率。"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Anthropic Debuts Managed Agents, Tests AI Commerce Marketplace",
+          "zh": "Anthropic推出托管代理服务并测试AI商务市场"
+        },
+        "tl_dr": {
+          "en": "Anthropic launched Managed Agents on Claude, providing a managed execution layer for AI agent workflows, and also conducted an experiment with an agent-on-agent commerce marketplace.",
+          "zh": "Anthropic在Claude上推出了托管代理服务，提供AI代理工作流的托管执行层，并同步进行了一项代理间电子商务市场的实验。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Managed Agents on Claude separate agent logic from runtime concerns such as orchestration, sandboxing, state management, and credentials.",
+            "The system supports long-running, multi-step workflows, including integration with external tools, error recovery, and session continuity through a meta-harness architecture.",
+            "Anthropic experimentally created a classified marketplace where AI agents acted as both buyers and sellers, facilitating real transactions for goods and money."
+          ],
+          "zh": [
+            "Claude上的托管代理服务将代理逻辑与编排、沙盒、状态管理和凭证等运行时问题分离。",
+            "该系统支持长周期、多步骤工作流，包括通过元线束架构实现外部工具集成、错误恢复和会话连续性。",
+            "Anthropic实验性地创建了一个分类市场，AI代理在此市场中同时充当买家和卖家，促成了真实商品和金钱的交易。"
+          ]
+        },
+        "impact": {
+          "en": "These developments aim to simplify the creation and deployment of complex AI agent-based applications by abstracting runtime complexities. The agent-on-agent commerce experiment illustrates a practical, albeit early, real-world application for autonomous AI agents, indicating a potential pathway for AI to engage in economic transactions.",
+          "zh": "这些进展旨在通过抽象运行时复杂性，简化复杂AI代理应用的创建和部署。代理间电子商务实验展示了自主AI代理的一个实际但处于早期阶段的真实世界应用，预示着AI参与经济交易的潜在途径。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+          "zh": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/decoupled-diloco/"
+      },
+      {
+        "title": {
+          "en": "ADeLe: Predicting and explaining AI performance across tasks",
+          "zh": "ADeLe: Predicting and explaining AI performance across tasks"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/"
+      },
+      {
+        "title": {
+          "en": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+          "zh": "Gemma 4 VLA Demo on Jetson Orin Nano Super"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/gemma4"
+      },
+      {
+        "title": {
+          "en": "Automations",
+          "zh": "Automations"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/academy/codex-automations"
+      },
+      {
+        "title": {
+          "en": "llm 0.31",
+          "zh": "llm 0.31"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/introducing-gpt-5-5",
+    "https://openai.com/index/gpt-5-5-system-card",
+    "https://openai.com/academy/codex-automations",
+    "https://openai.com/academy/top-10-use-cases-codex-for-work",
+    "https://openai.com/academy/codex-plugins-and-skills",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "https://huggingface.co/blog/deepseekv4",
+    "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "https://huggingface.co/blog/nvidia/gemma4",
+    "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "https://huggingface.co/blog/cybersecurity-openness",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
+    "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp",
+    "https://www.latent.space/p/unsupervised-learning-2026",
+    "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
+    "https://www.latent.space/p/shopify",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
+    "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
+    "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+    "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+    "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+    "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+    "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+    "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+    "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+    "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+    "https://www.404media.co/a-mysterious-golden-orb-was-discovered-under-the-sea-we-finally-know-what-it-is/",
+    "https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/",
+    "https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/",
+    "https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/",
+    "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
+    "https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/cloudflare-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://fabiensanglard.net/usbcheat/index.html",
+    "https://fffff.at/free-universal-construction-kit/",
+    "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
+    "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+    "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/"
+  ]
+}
