@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-04-27",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Unveils New Open Model Gemma 4",
+          "zh": "谷歌DeepMind发布全新开源模型Gemma 4"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind announced the release of Gemma 4, stating it represents their most intelligent open models to date, designed for advanced reasoning and agentic workflows.",
+          "zh": "谷歌DeepMind宣布发布Gemma 4，称其为迄今为止最智能的开源模型，专为高级推理和代理工作流而设计。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind released Gemma 4, positioned as their most capable open models \"byte for byte\".",
+            "The Gemma 4 models are purpose-built for advanced reasoning.",
+            "They are also designed to support agentic workflows."
+          ],
+          "zh": [
+            "谷歌DeepMind发布了Gemma 4，并将其定位为“逐字节”计算下最具能力的开源模型。",
+            "Gemma 4模型专为实现高级推理而构建。",
+            "这些模型还旨在支持代理工作流。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of models optimized for advanced reasoning and agentic workflows can influence the development trajectory of open-source AI applications. This release contributes to the competitive landscape of open models, potentially fostering innovation in various AI domains.",
+          "zh": "针对高级推理和代理工作流优化的模型推出，可能影响开源AI应用的发展轨迹。此次发布有助于推动开源模型领域的竞争，并可能促进各个AI领域的创新。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+      },
+      {
+        "title": {
+          "en": "Decoupled DiLoCo Advance Boosts Distributed AI Training Resilience",
+          "zh": "Decoupled DiLoCo 提升分布式AI训练弹性"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind introduced Decoupled DiLoCo, a new method designed for resilient, distributed AI training.",
+          "zh": "Google DeepMind 推出 Decoupled DiLoCo，这是一种为弹性分布式AI训练设计的新方法。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The new method is named Decoupled DiLoCo.",
+            "It focuses on enhancing resilience in AI training processes.",
+            "The system is applied within a distributed AI training framework."
+          ],
+          "zh": [
+            "该新方法名为 Decoupled DiLoCo。",
+            "它专注于增强AI训练过程的弹性。",
+            "该系统应用于分布式AI训练框架内。"
+          ]
+        },
+        "impact": {
+          "en": "Improving resilience in distributed AI training can lead to more stable and efficient development of large-scale AI models, potentially reducing failure rates and improving resource utilization in complex AI systems.",
+          "zh": "提高分布式AI训练的弹性有助于更稳定高效地开发大规模AI模型，可能降低复杂AI系统中的故障率并提高资源利用率。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/decoupled-diloco/"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Unveils ADeLe for AI Performance Prediction and Explanation",
+          "zh": "微软研究院推出 ADeLe，旨在预测并解释 AI 性能"
+        },
+        "tl_dr": {
+          "en": "Microsoft researchers, in collaboration with Princeton University and Universitat Politècnica de València, introduced ADeLe to predict and explain AI performance across tasks, aiming to provide insight beyond traditional benchmarks.",
+          "zh": "微软研究人员与普林斯顿大学和瓦伦西亚理工大学合作，推出了 ADeLe，旨在预测和解释 AI 在各项任务中的性能，以弥补传统 AI 基准测试的不足。"
+        },
+        "key_takeaways": {
+          "en": [
+            "ADeLe was developed by Microsoft researchers in collaboration with Princeton University and Universitat Politècnica de València.",
+            "Its primary function is to predict and explain AI performance across various tasks.",
+            "ADeLe addresses current AI benchmark limitations, which report LLM performance but lack insight into underlying capabilities, failure explanations, or reliable predictions for new tasks."
+          ],
+          "zh": [
+            "ADeLe 由微软研究人员与普林斯顿大学和瓦伦西亚理工大学合作开发。",
+            "其主要功能是预测和解释 AI 在不同任务中的性能。",
+            "ADeLe 旨在解决现有 AI 基准测试的局限性，即这些测试仅报告大型语言模型 (LLM) 在特定任务上的表现，但未能深入揭示其潜在能力、解释失败原因或可靠预测新任务的结果。"
+          ]
+        },
+        "impact": {
+          "en": "This development offers a method to move beyond simple performance metrics by explaining AI failures and predicting outcomes on new tasks. It could lead to a more nuanced understanding of AI model capabilities, facilitating targeted improvements and more reliable deployment.",
+          "zh": "这一进展提供了一种超越简单性能指标的方法，能够解释 AI 失败原因并预测新任务的结果。这可能促使对 AI 模型能力产生更细致的理解，从而促进有针对性的改进和更可靠的部署。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Anthropic created a test marketplace for agent-on-agent commerce",
+          "zh": "Anthropic created a test marketplace for agent-on-agent commerce"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/"
+      },
+      {
+        "title": {
+          "en": "GPT-5.5 System Card",
+          "zh": "GPT-5.5 System Card"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-5-5-system-card"
+      },
+      {
+        "title": {
+          "en": "llm 0.31",
+          "zh": "llm 0.31"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+          "zh": "Gemma 4 VLA Demo on Jetson Orin Nano Super"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/gemma4"
+      },
+      {
+        "title": {
+          "en": "How to Use Transformers.js in a Chrome Extension",
+          "zh": "How to Use Transformers.js in a Chrome Extension"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/transformersjs-chrome-extension"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/our-principles",
+    "https://openai.com/index/gpt-5-5-system-card",
+    "https://openai.com/index/introducing-gpt-5-5",
+    "https://openai.com/academy/top-10-use-cases-codex-for-work",
+    "https://openai.com/academy/codex-how-to-start",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "https://huggingface.co/blog/deepseekv4",
+    "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "https://huggingface.co/blog/nvidia/gemma4",
+    "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "https://huggingface.co/blog/cybersecurity-openness",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
+    "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp",
+    "https://www.latent.space/p/unsupervised-learning-2026",
+    "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
+    "https://www.latent.space/p/shopify",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
+    "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
+    "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+    "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+    "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+    "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+    "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+    "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+    "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+    "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+    "https://www.404media.co/a-mysterious-golden-orb-was-discovered-under-the-sea-we-finally-know-what-it-is/",
+    "https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/",
+    "https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/",
+    "https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/",
+    "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
+    "https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/cloudflare-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+    "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+    "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+    "https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca",
+    "https://dystroy.org/blog/box-to-save-memory/"
+  ]
+}
