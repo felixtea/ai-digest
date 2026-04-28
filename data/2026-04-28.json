@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-04-28",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Microsoft, OpenAI Amend Partnership, Remove AGI Clause",
+          "zh": "微软与OpenAI修订合作，解除AGI条款"
+        },
+        "tl_dr": {
+          "en": "OpenAI and Microsoft announced an amended agreement, simplifying their partnership and removing a clause that would have nullified Microsoft's commercial IP rights upon the achievement of AGI.",
+          "zh": "OpenAI与微软宣布修正合作协议，简化了合作关系，并解除了原先规定在AGI实现时微软商业IP权利失效的条款。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The original partnership included a clause stating that Microsoft's commercial IP rights to OpenAI's technology would become null and void upon AGI achievement.",
+            "This AGI clause was tracked on openai.com, appearing as early as July 22nd, 2019.",
+            "The amended agreement aims to simplify the partnership, add long-term clarity, and support continued AI innovation at scale."
+          ],
+          "zh": [
+            "原合作协议包含一项条款，规定在AGI实现时，微软对OpenAI技术的商业IP权利将失效。",
+            "此AGI条款可追溯至2019年7月22日，并曾出现在openai.com上多年。",
+            "修订后的协议旨在简化合作关系，增加长期清晰度，并支持大规模的持续AI创新。"
+          ]
+        },
+        "impact": {
+          "en": "The removal of the AGI clause provides Microsoft with long-term clarity regarding its commercial IP rights to OpenAI's technology. This amendment reflects an evolving framework for defining and managing intellectual property in the context of advanced AI development and commercialization.",
+          "zh": "AGI条款的解除为微软在OpenAI技术上的商业IP权利提供了长期清晰度。此修订反映了在先进AI开发和商业化背景下，定义和管理知识产权的框架正在演变。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/next-phase-of-microsoft-partnership"
+      },
+      {
+        "title": {
+          "en": "OpenAI Reportedly Exploring AI Phone with Hardware Partners",
+          "zh": "OpenAI据报与硬件伙伴探讨AI手机项目"
+        },
+        "tl_dr": {
+          "en": "Industry analyst Ming-Chi Kuo suggests OpenAI is exploring the development of an AI phone, potentially collaborating with MediaTek, Qualcomm, and Luxshare.",
+          "zh": "行业分析师郭明錤指出，OpenAI正探寻AI手机的开发，并可能与联发科、高通和立讯精密合作。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI's hardware plans have previously involved rumors of launching earbuds.",
+            "Industry analyst Ming-Chi Kuo issued a new note detailing the phone possibility.",
+            "Potential collaborators for the phone project include MediaTek, Qualcomm, and Luxshare."
+          ],
+          "zh": [
+            "OpenAI的硬件计划此前已有推出耳机的传闻。",
+            "行业分析师郭明錤发布了关于手机可能性的新报告。",
+            "该手机项目潜在的合作方包括联发科、高通和立讯精密。"
+          ]
+        },
+        "impact": {
+          "en": "If materialized, an OpenAI-designed phone could shift the paradigm from apps to AI agents, potentially influencing future mobile device interfaces and functionality across the AI industry. This represents a move by a leading AI company into hardware.",
+          "zh": "如果实现，OpenAI设计的手机可能将移动设备的范式从应用程序转向AI代理，从而影响AI行业未来的移动设备界面和功能。这标志着一家领先AI公司向硬件领域的拓展。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/"
+      },
+      {
+        "title": {
+          "en": "Arizona State University Tests AI for Lecture Processing",
+          "zh": "亚利桑那州立大学测试人工智能讲座处理工具"
+        },
+        "tl_dr": {
+          "en": "Arizona State University is beta testing ASU Atomic, a new tool that processes faculty lectures into short clips for AI-generated learning materials.",
+          "zh": "亚利桑那州立大学正在测试一项名为ASU Atomic的新工具，该工具将教师讲座分解为极短的片段，供AI生成学习材料。"
+        },
+        "key_takeaways": {
+          "en": [
+            "ASU Atomic is a new tool in beta testing at Arizona State University.",
+            "The tool processes faculty lectures by chopping them into extremely short clips.",
+            "AI then attempts to convert these clips into learning materials."
+          ],
+          "zh": [
+            "ASU Atomic是亚利桑那州立大学正在测试中的一项新工具。",
+            "该工具将教师讲座处理成极其简短的视频片段。",
+            "人工智能随后尝试将这些片段转化为学习材料。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative represents an early academic application of AI in content creation and raises questions regarding intellectual property and content quality in AI-generated educational resources.",
+          "zh": "这一举措代表了人工智能在内容创作方面的早期学术应用，并引发了关于人工智能生成教育资源的知识产权和内容质量问题。"
+        },
+        "source": "404 Media",
+        "link": "https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "OpenAI available at FedRAMP Moderate",
+          "zh": "OpenAI available at FedRAMP Moderate"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-available-at-fedramp-moderate"
+      },
+      {
+        "title": {
+          "en": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+          "zh": "Gemma 4 VLA Demo on Jetson Orin Nano Super"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/gemma4"
+      },
+      {
+        "title": {
+          "en": "ADeLe: Predicting and explaining AI performance across tasks",
+          "zh": "ADeLe: Predicting and explaining AI performance across tasks"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/"
+      },
+      {
+        "title": {
+          "en": "Speech translation in Google Meet is now rolling out to mobile devices",
+          "zh": "Speech translation in Google Meet is now rolling out to mobile devices"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Announcing our partnership with the Republic of Korea",
+          "zh": "Announcing our partnership with the Republic of Korea"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "https://openai.com/index/choco",
+    "https://openai.com/index/our-principles",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "https://huggingface.co/blog/deepseekv4",
+    "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "https://huggingface.co/blog/nvidia/gemma4",
+    "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.latent.space/p/appliedintuition",
+    "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
+    "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp",
+    "https://www.latent.space/p/unsupervised-learning-2026",
+    "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+    "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
+    "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything",
+    "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
+    "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+    "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+    "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+    "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+    "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+    "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+    "https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/",
+    "https://www.404media.co/people-using-ai-to-represent-themselves-in-court-are-clogging-the-system/",
+    "https://www.404media.co/did-a-time-traveling-superintelligent-ai-try-to-warn-about-white-house-correspondents-dinner-shooting-an-investigation/",
+    "https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/",
+    "https://www.404media.co/government-hacking-tools-are-now-in-criminals-hands-with-lorenzo-franceschi-bicchierai/",
+    "https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/uber-junit4-junit5-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/junior-developer-pipeline-crisis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/cloudflare-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://vivianvoss.net/blog/integrated-by-design-launch",
+    "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "https://talkie-lm.com/introducing-talkie",
+    "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+    "https://arxiv.org/abs/2604.21935",
+    "https://arxiv.org/abs/2604.21936",
+    "https://arxiv.org/abs/2604.21937",
+    "https://arxiv.org/abs/2604.21965",
+    "https://arxiv.org/abs/2604.22026",
+    "https://arxiv.org/abs/2604.22002",
+    "https://arxiv.org/abs/2604.22027",
+    "https://arxiv.org/abs/2604.22038",
+    "https://arxiv.org/abs/2604.22061",
+    "https://arxiv.org/abs/2604.22062"
+  ]
+}
