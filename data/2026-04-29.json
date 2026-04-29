@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-04-29",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Microsoft Research Introduces ADeLe for AI Performance Prediction",
+          "zh": "微软研究院推出ADeLe，预测与解释AI性能"
+        },
+        "tl_dr": {
+          "en": "Microsoft researchers, in collaboration with Princeton University and Universitat Politècnica de València, introduced ADeLe to predict and explain AI performance across tasks, addressing limitations of current benchmarks.",
+          "zh": "微软研究院研究人员与普林斯顿大学及瓦伦西亚理工大学合作，推出了ADeLe，旨在预测和解释AI在不同任务中的表现，以解决当前基准测试的局限性。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Current AI benchmarks report performance on specific tasks but provide limited insight into underlying capabilities, failing to explain failures or reliably predict new outcomes.",
+            "ADeLe is designed to predict and explain AI performance across various tasks by offering deeper insights into an AI's underlying capabilities.",
+            "The development of ADeLe is a collaborative effort between Microsoft researchers, Princeton University, and Universitat Politècnica de València."
+          ],
+          "zh": [
+            "当前AI基准测试仅报告特定任务性能，但对潜在能力洞察有限，无法解释故障或可靠预测新结果。",
+            "ADeLe旨在通过深入洞察AI的底层能力，预测和解释AI在不同任务中的表现。",
+            "ADeLe的开发是微软研究院研究人员与普林斯顿大学及瓦伦西亚理工大学之间的合作成果。"
+          ]
+        },
+        "impact": {
+          "en": "This development aims to improve the understanding of AI model capabilities and limitations beyond simple benchmarks. Better insight into AI performance could facilitate more effective deployment and development of large language models in the industry.",
+          "zh": "这一发展旨在超越简单的基准测试，增进对AI模型能力和局限性的理解。对AI性能的更深入洞察有助于行业内更有效地部署和开发大型语言模型。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Models, Codex, and Agents Now Accessible on AWS",
+          "zh": "OpenAI 模型、Codex 及代理现已可在 AWS 上使用"
+        },
+        "tl_dr": {
+          "en": "OpenAI's GPT models, Codex, and Managed Agents are now available on Amazon Web Services, enabling enterprises to build AI solutions within their AWS environments.",
+          "zh": "OpenAI 的 GPT 模型、Codex 和托管代理现已在亚马逊网络服务 (AWS) 上提供，使企业能够在其 AWS 环境中构建 AI 解决方案。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Access to OpenAI GPT models is now provided via AWS.",
+            "OpenAI Codex is now available on AWS.",
+            "OpenAI Managed Agents are now available on AWS."
+          ],
+          "zh": [
+            "OpenAI GPT 模型现可通过 AWS 访问。",
+            "OpenAI Codex 现已在 AWS 上提供。",
+            "OpenAI 托管代理现已在 AWS 上提供。"
+          ]
+        },
+        "impact": {
+          "en": "This availability on AWS offers enterprises the capability to integrate OpenAI's AI technologies directly into their existing cloud infrastructure, potentially streamlining secure AI development and deployment for AWS users.",
+          "zh": "此次在 AWS 上的可用性使企业能够将 OpenAI 的 AI 技术直接集成到其现有云基础设施中，这可能为 AWS 用户简化安全的 AI 开发与部署流程。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-on-aws"
+      },
+      {
+        "title": {
+          "en": "Slack Engineers Optimize AI Agent Context Management",
+          "zh": "Slack工程师优化AI代理上下文管理"
+        },
+        "tl_dr": {
+          "en": "Slack engineers implemented structured memory, validation, and distilled truth to manage context in long-running multi-agent systems, moving away from chat log accumulation.",
+          "zh": "为管理长期运行多代理系统中的上下文，Slack工程师放弃累积聊天日志，转而采用结构化记忆、验证和提炼事实。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Context management shifted from accumulating chat logs for productivity.",
+            "Structured memory is employed to maintain coherence in agent systems.",
+            "Validation and distilled truth mechanisms ensure the accuracy of long-running systems."
+          ],
+          "zh": [
+            "上下文管理不再通过累积聊天日志来维持系统生产力。",
+            "采用结构化记忆以保持代理系统中的连贯性。",
+            "利用验证和提炼事实机制确保长期运行系统的准确性。"
+          ]
+        },
+        "impact": {
+          "en": "This approach addresses a core challenge in AI agent development: maintaining coherence and accuracy over extended interactions. This is crucial for reliable and productive AI applications in enterprise environments.",
+          "zh": "这种方法解决了AI代理开发中的一个核心挑战：在长时间交互中保持连贯性和准确性。这对于企业环境中可靠且高效的AI应用至关重要。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/04/slack-agent-context-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "OpenAI available at FedRAMP Moderate",
+          "zh": "OpenAI available at FedRAMP Moderate"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-available-at-fedramp-moderate"
+      },
+      {
+        "title": {
+          "en": "Choco automates food distribution with AI agents",
+          "zh": "Choco automates food distribution with AI agents"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/choco"
+      },
+      {
+        "title": {
+          "en": "Announcing our partnership with the Republic of Korea",
+          "zh": "Announcing our partnership with the Republic of Korea"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "zh": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+          "zh": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/openai-on-aws",
+    "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "https://openai.com/index/choco",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "https://huggingface.co/blog/deepseekv4",
+    "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://www.latent.space/p/ainews-imagegen-is-on-the-path-to",
+    "https://www.latent.space/p/appliedintuition",
+    "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
+    "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp",
+    "https://www.latent.space/p/unsupervised-learning-2026",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
+    "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
+    "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+    "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
+    "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+    "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+    "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+    "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+    "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+    "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
+    "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+    "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+    "https://www.404media.co/scientists-investigated-a-frequency-linked-to-paranormal-encounters-the-results-were-unsettling/",
+    "https://www.404media.co/sxsw-used-ai-powered-trademark-tool-to-censor-dissent-on-instagram/",
+    "https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/",
+    "https://www.404media.co/people-using-ai-to-represent-themselves-in-court-are-clogging-the-system/",
+    "https://www.404media.co/did-a-time-traveling-superintelligent-ai-try-to-warn-about-white-house-correspondents-dinner-shooting-an-investigation/",
+    "https://www.infoq.com/news/2026/04/slack-agent-context-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/agents-cli-google-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/uber-junit4-junit5-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://mitchellh.com/writing/ghostty-leaving-github",
+    "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+    "https://lucumr.pocoo.org/2026/4/28/before-github/",
+    "https://dustri.org/b/carrot-disclosure-forgejo.html",
+    "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+    "https://arxiv.org/abs/2604.22777",
+    "https://arxiv.org/abs/2604.22934",
+    "https://arxiv.org/abs/2604.22951",
+    "https://arxiv.org/abs/2604.22958",
+    "https://arxiv.org/abs/2604.22979",
+    "https://arxiv.org/abs/2604.22771",
+    "https://arxiv.org/abs/2604.22880",
+    "https://arxiv.org/abs/2604.22937",
+    "https://arxiv.org/abs/2604.22939",
+    "https://arxiv.org/abs/2604.22985"
+  ]
+}
