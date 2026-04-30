@@ -1,0 +1,221 @@
+{
+  "date_id": "2026-04-30",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Expands Compute Infrastructure for AGI Development",
+          "zh": "OpenAI 拓展 AGI 计算基础设施"
+        },
+        "tl_dr": {
+          "en": "OpenAI is scaling its Stargate project and adding new data center capacity to build the compute infrastructure necessary for Artificial General Intelligence (AGI) and to meet increasing AI demand.",
+          "zh": "OpenAI 正在扩展其 Stargate 项目并增加新的数据中心容量，以构建支持通用人工智能 (AGI) 所需的计算基础设施，并满足日益增长的 AI 需求。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI is scaling the \"Stargate\" project.",
+            "The compute infrastructure is designed to power AGI.",
+            "New data center capacity is being added."
+          ],
+          "zh": [
+            "OpenAI 正在扩展“Stargate”项目。",
+            "计算基础设施旨在为 AGI 提供支持。",
+            "正在增加新的数据中心容量。"
+          ]
+        },
+        "impact": {
+          "en": "This development indicates OpenAI's strategic investment in foundational hardware capabilities to support advanced AI models, addressing a critical bottleneck in the pursuit of AGI.",
+          "zh": "这一发展表明 OpenAI 在基础硬件能力方面的战略投资，以支持高级 AI 模型，解决 AGI 发展中的关键瓶颈。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+      },
+      {
+        "title": {
+          "en": "Software String Triggers Unintended Billing",
+          "zh": "特定字符串导致软件意外计费"
+        },
+        "tl_dr": {
+          "en": "A specific string, \"HERMES.md,\" when present in commit messages, causes requests to be routed to an extra usage billing system.",
+          "zh": "提交消息中若包含特定字符串“HERMES.md”，会导致相关请求被路由至额外使用计费系统。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The string \"HERMES.md\" serves as the specific trigger.",
+            "The trigger is located within commit messages.",
+            "The outcome is the routing of requests to an additional usage billing system."
+          ],
+          "zh": [
+            "特定字符串“HERMES.md”被确定为触发因素。",
+            "触发因素存在于代码提交消息中。",
+            "结果是请求被路由至一个额外的使用计费系统。"
+          ]
+        },
+        "impact": {
+          "en": "For the AI industry, this issue highlights the critical need for robust parsing and billing logic in software development, particularly in complex systems involving code repositories and usage-based services. Unforeseen interactions between code metadata and operational workflows can lead to unintended financial implications for users and providers.",
+          "zh": "对于AI行业而言，此问题凸显了在软件开发中，尤其是在涉及代码仓库和基于使用的服务等复杂系统中，对健壮的解析和计费逻辑的迫切需求。代码元数据与操作工作流之间意外的交互可能给用户和提供商带来意想不到的财务影响。"
+        },
+        "source": "Hacker News",
+        "link": "https://github.com/anthropics/claude-code/issues/53262"
+      },
+      {
+        "title": {
+          "en": "OpenAI Models, Agents Now Available on AWS Platform",
+          "zh": "OpenAI 模型与代理服务现已登陆 AWS 平台"
+        },
+        "tl_dr": {
+          "en": "OpenAI's GPT models, Codex, and Managed Agents are now accessible on Amazon Web Services, allowing enterprises to develop secure AI applications within their AWS environments.",
+          "zh": "OpenAI 的 GPT 模型、Codex 和托管代理服务现已在 Amazon Web Services 上线，使企业能够在其 AWS 环境中构建安全的 AI 应用程序。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI GPT models are available on AWS.",
+            "OpenAI Codex is available on AWS.",
+            "OpenAI Managed Agents are available on AWS."
+          ],
+          "zh": [
+            "OpenAI GPT 模型现已在 AWS 上可用。",
+            "OpenAI Codex 现已在 AWS 上可用。",
+            "OpenAI 托管代理服务现已在 AWS 上可用。"
+          ]
+        },
+        "impact": {
+          "en": "This integration provides AWS enterprise customers with direct access to OpenAI's advanced AI capabilities. It aims to accelerate AI development and deployment within existing cloud infrastructure while enhancing data security for corporate applications.",
+          "zh": "此次集成使 AWS 企业客户能够直接访问 OpenAI 的高级 AI 功能。此举旨在加速现有云基础设施内的 AI 开发与部署，同时增强企业应用程序的数据安全性。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-on-aws"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "OpenAI available at FedRAMP Moderate",
+          "zh": "OpenAI available at FedRAMP Moderate"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-available-at-fedramp-moderate"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "zh": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+          "zh": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/"
+      },
+      {
+        "title": {
+          "en": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+          "zh": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+      },
+      {
+        "title": {
+          "en": "Announcing our partnership with the Republic of Korea",
+          "zh": "Announcing our partnership with the Republic of Korea"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "https://openai.com/index/openai-on-aws",
+    "https://openai.com/index/our-commitment-to-community-safety",
+    "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "https://huggingface.co/blog/inference-providers-deepinfra",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "https://www.latent.space/p/ainews-not-much-happened-today",
+    "https://www.latent.space/p/ainews-imagegen-is-on-the-path-to",
+    "https://www.latent.space/p/appliedintuition",
+    "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
+    "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
+    "https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything",
+    "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
+    "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
+    "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+    "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+    "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+    "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+    "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+    "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+    "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+    "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+    "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
+    "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+    "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+    "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/",
+    "https://www.404media.co/dhs-plans-to-buy-more-predator-style-drones/",
+    "https://www.404media.co/apple-fixes-bug-that-let-fbi-extract-deleted-signal-messages-after-404-media-coverage/",
+    "https://www.404media.co/podcast-how-this-trippy-image-started-a-massive-conspiracy-theory/",
+    "https://www.404media.co/scientists-investigated-a-frequency-linked-to-paranormal-encounters-the-results-were-unsettling/",
+    "https://www.infoq.com/news/2026/04/sauce-labs-ai-test-creation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/mistral-ai-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/qconai-boston-2026-schedule-live/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/slack-agent-context-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/agents-cli-google-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://zed.dev/blog/zed-1-0",
+    "https://copy.fail/",
+    "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
+    "https://github.com/anthropics/claude-code/issues/53262",
+    "https://opentrafficmap.org/",
+    "https://arxiv.org/abs/2604.22777",
+    "https://arxiv.org/abs/2604.22934",
+    "https://arxiv.org/abs/2604.22951",
+    "https://arxiv.org/abs/2604.22958",
+    "https://arxiv.org/abs/2604.22979",
+    "https://arxiv.org/abs/2604.24770",
+    "https://arxiv.org/abs/2604.24927",
+    "https://arxiv.org/abs/2604.24929",
+    "https://arxiv.org/abs/2604.24940",
+    "https://arxiv.org/abs/2604.24942"
+  ]
+}
