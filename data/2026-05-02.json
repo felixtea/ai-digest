@@ -1,0 +1,221 @@
+{
+  "date_id": "2026-05-02",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Scales Stargate for AGI Compute Infrastructure",
+          "zh": "OpenAI 扩展 Stargate 以构建 AGI 计算基础设施"
+        },
+        "tl_dr": {
+          "en": "OpenAI is scaling its Stargate project to develop compute infrastructure for AGI, increasing data center capacity to address rising AI demand.",
+          "zh": "OpenAI 正在扩展其 Stargate 项目，以构建支持 AGI 的计算基础设施，并增加数据中心容量以满足日益增长的 AI 需求。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI is scaling its internal Stargate project.",
+            "The initiative aims to build compute infrastructure for Artificial General Intelligence (AGI).",
+            "New data center capacity is being added to meet growing AI demand."
+          ],
+          "zh": [
+            "OpenAI 正在扩展其内部的 Stargate 项目。",
+            "该计划旨在构建用于通用人工智能 (AGI) 的计算基础设施。",
+            "正在增加新的数据中心容量以满足日益增长的 AI 需求。"
+          ]
+        },
+        "impact": {
+          "en": "This expansion of compute infrastructure directly addresses a critical bottleneck in AI development, potentially accelerating the path toward Artificial General Intelligence. It signifies a significant investment in the foundational resources required to advance frontier AI models.",
+          "zh": "此次计算基础设施的扩展直接解决了 AI 发展的关键瓶颈，可能加速通用人工智能的实现。这标志着对推动前沿 AI 模型所需基础资源的重大投资。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+      },
+      {
+        "title": {
+          "en": "NVIDIA Introduces Open Models for Quantum Computing Challenges",
+          "zh": "英伟达推出用于解决量子计算挑战的开放模型"
+        },
+        "tl_dr": {
+          "en": "NVIDIA has launched a new family of open models named NVIDIA Ising to address quantum processor calibration and quantum error correction.",
+          "zh": "英伟达推出了一系列名为NVIDIA Ising的开放模型，旨在解决量子处理器校准和量子纠错问题。"
+        },
+        "key_takeaways": {
+          "en": [
+            "NVIDIA Ising models are designed for quantum processor calibration.",
+            "They target quantum error correction, identified as a main engineering challenge.",
+            "The models aim to mitigate noise and instability in qubits, which reduce the reliability of computations."
+          ],
+          "zh": [
+            "NVIDIA Ising模型旨在进行量子处理器校准。",
+            "它们针对量子纠错，这被认定为一项主要的工程挑战。",
+            "这些模型旨在减轻量子比特中的噪声和不稳定性，这些因素会降低计算的可靠性。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of these models addresses critical engineering challenges in quantum computing, potentially enhancing the scalability and reliability of quantum systems. Improved quantum system stability could accelerate research and development in quantum algorithms and AI applications that leverage quantum principles.",
+          "zh": "这些模型的推出解决了量子计算中的关键工程挑战，有望提升量子系统的可扩展性和可靠性。量子系统稳定性的提高可能加速量子算法及利用量子原理的AI应用的研究与开发。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/04/nvidia-ising-quantum/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "NVIDIA Introduces Nemotron 3 Nano Omni for Multimodal AI",
+          "zh": "英伟达推出Nemotron 3 Nano Omni多模态AI"
+        },
+        "tl_dr": {
+          "en": "NVIDIA announced Nemotron 3 Nano Omni, a new solution providing long-context multimodal intelligence for documents, audio, and video agents.",
+          "zh": "英伟达发布了Nemotron 3 Nano Omni，这是一种为文档、音频和视频代理提供长上下文多模态智能的新解决方案。"
+        },
+        "key_takeaways": {
+          "en": [
+            "NVIDIA has introduced a new intelligence solution.",
+            "The solution is named Nemotron 3 Nano Omni.",
+            "It is designed for long-context multimodal intelligence across documents, audio, and video agents."
+          ],
+          "zh": [
+            "英伟达推出了一款新的智能解决方案。",
+            "该解决方案名为Nemotron 3 Nano Omni。",
+            "它专为处理文档、音频和视频代理的长上下文多模态智能而设计。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of Nemotron 3 Nano Omni expands NVIDIA's offerings in multimodal AI, addressing complex tasks involving diverse data types for various agent applications.",
+          "zh": "Nemotron 3 Nano Omni的推出扩展了英伟达在多模态AI领域的产品，旨在处理涉及多样化数据类型的复杂代理应用中的复杂任务。"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "zh": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/"
+      },
+      {
+        "title": {
+          "en": "Introducing Advanced Account Security",
+          "zh": "Introducing Advanced Account Security"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/advanced-account-security"
+      },
+      {
+        "title": {
+          "en": "Announcing our partnership with the Republic of Korea",
+          "zh": "Announcing our partnership with the Republic of Korea"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      },
+      {
+        "title": {
+          "en": "DeepInfra on Hugging Face Inference Providers 🔥",
+          "zh": "DeepInfra on Hugging Face Inference Providers 🔥"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/inference-providers-deepinfra"
+      },
+      {
+        "title": {
+          "en": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+          "zh": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/advanced-account-security",
+    "https://openai.com/index/where-the-goblins-came-from",
+    "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "https://openai.com/index/our-commitment-to-community-safety",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "https://huggingface.co/blog/inference-providers-deepinfra",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "https://www.latent.space/p/ainews-agents-for-everything-else",
+    "https://www.latent.space/p/ainews-the-inference-inflection",
+    "https://www.latent.space/p/ainews-not-much-happened-today",
+    "https://www.latent.space/p/ainews-imagegen-is-on-the-path-to",
+    "https://www.latent.space/p/appliedintuition",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
+    "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
+    "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+    "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything",
+    "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+    "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+    "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+    "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+    "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
+    "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+    "https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/",
+    "https://www.404media.co/behind-the-blog-big-questions-of-consciousness/",
+    "https://www.404media.co/buy-marathon-compiler-kill/",
+    "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+    "https://www.404media.co/japan-cardboard-drones-air-kamuy/",
+    "https://www.infoq.com/news/2026/05/meta-ai-agents-hyperscale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/nvidia-ising-quantum/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/cloudflare-agent-memory-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/vercel-open-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/sauce-labs-ai-test-creation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+    "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+    "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+    "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+    "https://news.ycombinator.com/item?id=47975571",
+    "https://arxiv.org/abs/2604.26999",
+    "https://arxiv.org/abs/2604.27007",
+    "https://arxiv.org/abs/2604.27082",
+    "https://arxiv.org/abs/2604.27092",
+    "https://arxiv.org/abs/2604.27096",
+    "https://arxiv.org/abs/2604.26986",
+    "https://arxiv.org/abs/2604.27039",
+    "https://arxiv.org/abs/2604.27043",
+    "https://arxiv.org/abs/2604.27093",
+    "https://arxiv.org/abs/2604.27115"
+  ]
+}
