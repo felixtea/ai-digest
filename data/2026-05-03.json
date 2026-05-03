@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-05-03",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Scales Stargate for AI Compute Infrastructure",
+          "zh": "OpenAI 扩展 Stargate 以建设 AI 计算基础设施"
+        },
+        "tl_dr": {
+          "en": "OpenAI is scaling Stargate to build compute infrastructure and add data center capacity to meet growing AI demand.",
+          "zh": "OpenAI 正在扩展 Stargate 项目，以建设计算基础设施并增加数据中心容量，从而满足日益增长的AI需求。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI is scaling Stargate.",
+            "The project aims to build compute infrastructure.",
+            "It involves adding new data center capacity."
+          ],
+          "zh": [
+            "OpenAI 正在扩展 Stargate 项目。",
+            "该项目旨在构建计算基础设施。",
+            "其中包括增加新的数据中心容量。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative addresses the increasing need for processing power, which is critical for the advancement of AI models and AGI development.",
+          "zh": "这一举措旨在解决日益增长的计算能力需求，这对于推动AI模型发展和通用人工智能（AGI）的实现至关重要。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+      },
+      {
+        "title": {
+          "en": "NVIDIA Unveils Ising Open Models for Quantum Computing",
+          "zh": "英伟达推出Ising开源模型，助力量子计算"
+        },
+        "tl_dr": {
+          "en": "NVIDIA has introduced a new family of open models named NVIDIA Ising to address challenges in quantum processor calibration and quantum error correction.",
+          "zh": "英伟达发布了一系列名为NVIDIA Ising的开源模型，旨在解决量子处理器校准和量子纠错方面的挑战。"
+        },
+        "key_takeaways": {
+          "en": [
+            "NVIDIA Ising is a new family of open models.",
+            "They are designed to address quantum processor calibration.",
+            "They are also designed for quantum error correction."
+          ],
+          "zh": [
+            "NVIDIA Ising是一个新的开源模型家族。",
+            "其设计目的是解决量子处理器校准问题。",
+            "其设计目的也包括量子纠错。"
+          ]
+        },
+        "impact": {
+          "en": "These models target two main engineering challenges—processor calibration and error correction—which limit the scalability and reliability of current quantum systems. Addressing these issues could advance the practical application of quantum computing.",
+          "zh": "这些模型旨在解决量子处理器校准和量子纠错这两个主要工程挑战，它们限制了当前量子系统的可扩展性和计算可靠性。解决这些问题可能推动量子计算的实际应用。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/04/nvidia-ising-quantum/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "UK Institute Evaluates OpenAI's GPT-5.5 Cyber Capabilities",
+          "zh": "英国机构评估OpenAI GPT-5.5网络安全能力"
+        },
+        "tl_dr": {
+          "en": "The UK's AI Security Institute evaluated OpenAI's GPT-5.5 for its capabilities in finding security vulnerabilities.",
+          "zh": "英国人工智能安全研究所评估了OpenAI的GPT-5.5在发现安全漏洞方面的能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The evaluation was performed by the UK's AI Security Institute (AISI).",
+            "OpenAI's GPT-5.5 was assessed for its ability to identify security vulnerabilities.",
+            "GPT-5.5's performance in this area was found to be comparable to Claude Mythos, with GPT-5.5 being generally available."
+          ],
+          "zh": [
+            "此次评估由英国人工智能安全研究所（AISI）进行。",
+            "OpenAI的GPT-5.5被评估了其识别安全漏洞的能力。",
+            "GPT-5.5在此领域的表现被认为与Claude Mythos相当，且GPT-5.5已普遍可用。"
+          ]
+        },
+        "impact": {
+          "en": "This evaluation provides an independent assessment of a frontier AI model's capability in cybersecurity, particularly in identifying vulnerabilities. The general availability of GPT-5.5 means its capabilities are accessible, distinguishing it from previously evaluated models.",
+          "zh": "此次评估为前沿AI模型在网络安全，尤其是在识别漏洞方面的能力提供了独立评估。GPT-5.5的普遍可用性意味着其能力已可被访问，这使其与之前评估的模型有所不同。"
+        },
+        "source": "UK's AI Security Institute",
+        "link": "https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+          "zh": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "zh": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/"
+      },
+      {
+        "title": {
+          "en": "Announcing our partnership with the Republic of Korea",
+          "zh": "Announcing our partnership with the Republic of Korea"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      },
+      {
+        "title": {
+          "en": "Introducing Advanced Account Security",
+          "zh": "Introducing Advanced Account Security"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/advanced-account-security"
+      },
+      {
+        "title": {
+          "en": "Our commitment to community safety",
+          "zh": "Our commitment to community safety"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/our-commitment-to-community-safety"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/advanced-account-security",
+    "https://openai.com/index/where-the-goblins-came-from",
+    "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "https://openai.com/index/our-commitment-to-community-safety",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "https://huggingface.co/blog/inference-providers-deepinfra",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
+    "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
+    "https://www.latent.space/p/ainews-agents-for-everything-else",
+    "https://www.latent.space/p/ainews-the-inference-inflection",
+    "https://www.latent.space/p/ainews-not-much-happened-today",
+    "https://www.latent.space/p/ainews-imagegen-is-on-the-path-to",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
+    "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
+    "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
+    "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+    "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+    "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+    "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+    "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+    "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+    "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
+    "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+    "https://www.404media.co/this-personality-trait-makes-dreams-more-bizarre-scientists-discover/",
+    "https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/",
+    "https://www.404media.co/behind-the-blog-big-questions-of-consciousness/",
+    "https://www.404media.co/buy-marathon-compiler-kill/",
+    "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+    "https://www.infoq.com/news/2026/05/ducklake-sql-catalog/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/meta-ai-agents-hyperscale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/nvidia-ising-quantum/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/cloudflare-agent-memory-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/04/vercel-open-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://github.com/microsoft/vscode/pull/310226",
+    "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+    "https://ladybird.org/newsletter/2026-04-30/",
+    "https://code.videolan.org/videolan/dav2d",
+    "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/"
+  ]
+}
