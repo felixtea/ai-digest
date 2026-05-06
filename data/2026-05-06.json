@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-05-06",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Research Identifies Causal Explanations for LLM Jailbreaks",
+          "zh": "大型语言模型越狱：新研究探究其因果机制"
+        },
+        "tl_dr": {
+          "en": "New research investigates why safety-trained large language models can be induced to answer harmful requests through jailbreak prompts.",
+          "zh": "一项新研究正深入探讨经过安全训练的大型语言模型为何仍能被越狱提示诱导，从而响应有害请求。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The research paper is identified as arXiv:2605.00123v1, announced as a new publication.",
+            "It focuses on why safety-trained large language models (LLMs) can often be induced to generate harmful responses via jailbreak prompts.",
+            "Previous studies have explored jailbreak success by analyzing LLM's intermediate representations."
+          ],
+          "zh": [
+            "该研究论文的标识符为 arXiv:2605.00123v1，且被标注为“新发布”类型。",
+            "研究核心在于理解已接受安全训练的LLM如何被越狱提示引诱，以生成有害回复。",
+            "此前研究曾通过分析模型中间表示，来探究越狱成功的机制。"
+          ]
+        },
+        "impact": {
+          "en": "A lack of understanding regarding LLM susceptibility to jailbreaks means future autonomous models operating in high-stakes environments may also be vulnerable to such attacks. This research aims to address that fundamental challenge.",
+          "zh": "由于对LLM易受越狱攻击的原因缺乏深入理解，未来在更高风险场景中自主运行的尖端模型也可能面临类似威胁。本研究旨在应对这一核心挑战。"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2605.00123"
+      },
+      {
+        "title": {
+          "en": "GPT-5.5 Instant Updates ChatGPT's Default Model",
+          "zh": "GPT-5.5 Instant 更新 ChatGPT 默认模型"
+        },
+        "tl_dr": {
+          "en": "OpenAI has updated ChatGPT's default model to GPT-5.5 Instant, featuring smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+          "zh": "OpenAI 已将 ChatGPT 的默认模型更新为 GPT-5.5 Instant，该模型提供更智能、更准确的答案，减少幻觉，并改进了个性化控制。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The default model for ChatGPT has been updated to GPT-5.5 Instant.",
+            "GPT-5.5 Instant provides smarter and more accurate responses.",
+            "The new model features reduced instances of hallucinations and improved personalization controls."
+          ],
+          "zh": [
+            "ChatGPT 的默认模型已更新至 GPT-5.5 Instant。",
+            "GPT-5.5 Instant 提供更智能、更准确的回答。",
+            "新模型减少了幻觉的发生，并改进了个性化控制。"
+          ]
+        },
+        "impact": {
+          "en": "This update enhances the reliability and user experience of a prominent AI chatbot, potentially setting a new standard for conversational AI capabilities.",
+          "zh": "此次更新提升了主流 AI 聊天机器人的可靠性和用户体验，可能为会话式 AI 能力设定新标准。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-5-5-instant"
+      },
+      {
+        "title": {
+          "en": "DeepMind Unveils Audio Model With Granular Speech Control",
+          "zh": "DeepMind 发布具有精细语音控制的音频模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has introduced its newest audio model, Gemini 3.1 Flash TTS, which incorporates granular audio tags for precise control over expressive AI speech generation.",
+          "zh": "谷歌DeepMind推出了其最新的音频模型Gemini 3.1 Flash TTS，该模型引入了精细音频标签，可实现对富有表现力的AI语音生成的精确控制。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The audio model, Gemini 3.1 Flash TTS, is Google DeepMind's newest offering in AI speech.",
+            "It features granular audio tags that provide specific control.",
+            "The model's design focuses on directing AI speech for expressive audio generation."
+          ],
+          "zh": [
+            "该音频模型Gemini 3.1 Flash TTS是谷歌DeepMind在AI语音领域的最新产品。",
+            "它具有提供特定控制的精细音频标签。",
+            "该模型的设计侧重于指导AI语音以实现富有表现力的音频生成。"
+          ]
+        },
+        "impact": {
+          "en": "This development enhances the ability to customize AI-generated speech with greater precision. It could lead to more nuanced and contextually appropriate synthetic voices for various applications within the AI industry.",
+          "zh": "这一发展提高了精确定制AI生成语音的能力。它可能为AI行业内的各种应用带来更细致、更符合语境的合成语音。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "DeepInfra on Hugging Face Inference Providers 🔥",
+          "zh": "DeepInfra on Hugging Face Inference Providers 🔥"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/inference-providers-deepinfra"
+      },
+      {
+        "title": {
+          "en": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+          "zh": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+      },
+      {
+        "title": {
+          "en": "Enabling a new model for healthcare with AI co-clinician",
+          "zh": "Enabling a new model for healthcare with AI co-clinician"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/ai-co-clinician/"
+      },
+      {
+        "title": {
+          "en": "Announcing our partnership with the Republic of Korea",
+          "zh": "Announcing our partnership with the Republic of Korea"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      },
+      {
+        "title": {
+          "en": "Granite 4.1 LLMs: How They’re Built",
+          "zh": "Granite 4.1 LLMs: How They’re Built"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-granite/granite-4-1"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/gpt-5-5-instant-system-card",
+    "https://openai.com/index/gpt-5-5-instant",
+    "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "https://openai.com/index/openai-pwc-finance-collaboration",
+    "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "https://huggingface.co/blog/inference-providers-deepinfra",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "https://huggingface.co/blog/deepseekv4",
+    "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
+    "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.latent.space/p/lupsasca",
+    "https://www.latent.space/p/ainews-the-other-vs-the-utility",
+    "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
+    "https://www.latent.space/p/ainews-agents-for-everything-else",
+    "https://www.latent.space/p/ainews-the-inference-inflection",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
+    "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
+    "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
+    "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
+    "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+    "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+    "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+    "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+    "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
+    "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+    "https://www.404media.co/uk-iphone-ipad-ios-users-porn-age-verification/",
+    "https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/",
+    "https://www.404media.co/nature-retracts-paper-on-the-benefits-of-chatgpt-in-education/",
+    "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+    "https://www.404media.co/how-a-universitys-censorship-conference-got-censored/",
+    "https://www.infoq.com/news/2026/05/anthropic-claude-code-auto-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/mistral-agents-lechat/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloudflare-security-dashboard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/ducklake-sql-catalog/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://dnssec-analyzer.verisignlabs.com/nic.de",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+    "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+    "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+    "https://susam.net/inverse-laws-of-robotics.html",
+    "https://arxiv.org/abs/2605.00060",
+    "https://arxiv.org/abs/2605.00073",
+    "https://arxiv.org/abs/2605.00123",
+    "https://arxiv.org/abs/2605.00136",
+    "https://arxiv.org/abs/2605.00224",
+    "https://arxiv.org/abs/2605.00847",
+    "https://arxiv.org/abs/2605.00905",
+    "https://arxiv.org/abs/2605.00994",
+    "https://arxiv.org/abs/2605.01006",
+    "https://arxiv.org/abs/2605.01011"
+  ]
+}
