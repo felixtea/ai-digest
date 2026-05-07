@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-05-07",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Microsoft Research Identifies Network-Level Risks in Interconnected AI Agents",
+          "zh": "微软研究院发现互联AI代理网络级风险"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research found that safe individual AI agents do not ensure a secure ecosystem when interconnected, highlighting the need for new approaches to address network-level risks.",
+          "zh": "微软研究院发现，安全的单个AI代理无法保证互联生态系统的安全性，强调需要新方法来解决网络级风险。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Interconnected AI agents can lead to an unsafe ecosystem, even if individual agents are safe.",
+            "Microsoft Research is investigating the failure points when AI agents interact at scale.",
+            "New approaches are required to address risks that emerge at the network level of AI agents."
+          ],
+          "zh": [
+            "即使单个AI代理是安全的，互联的AI代理也可能导致不安全的生态系统。",
+            "微软研究院正在研究AI代理大规模交互时出现的问题。",
+            "需要新方法来解决AI代理网络层面出现的风险。"
+          ]
+        },
+        "impact": {
+          "en": "This finding indicates that safety measures for individual AI agents may be insufficient for multi-agent systems. It underscores the necessity for comprehensive safety and security strategies as AI agent networks proliferate within the industry.",
+          "zh": "这一发现表明，针对单个AI代理的安全措施可能不足以应对多代理系统。它强调了随着AI代理网络在行业中普及，需要全面的人工智能安全策略。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/"
+      },
+      {
+        "title": {
+          "en": "AI Models Fail to Challenge User Assumptions, Research Finds",
+          "zh": "研究发现：人工智能模型未能质疑用户预设"
+        },
+        "tl_dr": {
+          "en": "New research indicates that large language models often do not challenge inaccurate assumptions in user queries, potentially reinforcing misinformation.",
+          "zh": "最新研究指出，大型语言模型常无法质疑用户查询中包含的不准确预设，可能因此加剧错误信息。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Prior work notes Large Language Models (LLMs) frequently fail to identify and challenge factually inaccurate assumptions within user queries.",
+            "This failure can lead to LLMs reinforcing existing misinformed opinions held by users, rather than correcting them.",
+            "The current study re-evaluates Large Reasoning Models (LRMs) for their ability to address such presuppositions, considering recent advances in reasoning capabilities."
+          ],
+          "zh": [
+            "先前的研究指出，大型语言模型 (LLMs) 经常无法识别并质疑用户查询中包含的事实性错误预设。",
+            "这种失败可能导致LLMs强化用户已有的错误观念，而非纠正它们。",
+            "鉴于推理能力的最新进展，当前研究正在重新评估大型推理模型 (LRMs) 处理此类预设的能力。"
+          ]
+        },
+        "impact": {
+          "en": "This research addresses a critical limitation in current AI models, as their inability to challenge user presuppositions could undermine their reliability as information sources and potentially spread misinformation at scale. Improving this capability is crucial for the development of trustworthy AI systems.",
+          "zh": "这项研究解决了当前人工智能模型的一个关键局限，因为它们无法质疑用户预设可能损害其作为信息来源的可靠性，并可能大规模传播错误信息。提升这项能力对于开发值得信赖的人工智能系统至关重要。"
+        },
+        "source": "arXiv CS.CL",
+        "link": "https://arxiv.org/abs/2605.03050"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Forms Diverse AI Partnerships",
+          "zh": "Google DeepMind 建立多元化人工智能合作关系"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has partnered with the Republic of Korea to advance scientific breakthroughs using frontier AI models and with EVE Online for AI model testing.",
+          "zh": "Google DeepMind 已与韩国合作，利用前沿人工智能模型推动科学突破，并与 EVE Online 合作进行人工智能模型测试。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind's collaboration with the Republic of Korea focuses on accelerating scientific breakthroughs.",
+            "The partnership with EVE Online is dedicated to testing AI models.",
+            "EVE Online developer CCP Games spent $120M to become independent and rebranded as Fenris Creations."
+          ],
+          "zh": [
+            "Google DeepMind 与韩国的合作重点是加速科学突破。",
+            "与 EVE Online 的合作致力于人工智能模型测试。",
+            "EVE Online 的开发商 CCP Games 斥资 1.2 亿美元实现独立，并更名为 Fenris Creations。"
+          ]
+        },
+        "impact": {
+          "en": "These partnerships highlight Google DeepMind's broad strategy for AI development, spanning from fundamental scientific research with governmental bodies to practical model validation in complex gaming environments. Such varied collaborations are instrumental in expanding AI capabilities and integrating them across diverse sectors.",
+          "zh": "这些合作凸显了 Google DeepMind 广泛的人工智能开发策略，涵盖与政府机构进行的基础科学研究以及在复杂游戏环境中进行实际模型验证。这种多样化的合作对于扩展人工智能能力并将其整合到不同领域至关重要。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "A guide to understanding AI as normal technology",
+          "zh": "A guide to understanding AI as normal technology"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "zh": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/"
+      },
+      {
+        "title": {
+          "en": "Uber uses OpenAI to help people earn smarter and book faster",
+          "zh": "Uber uses OpenAI to help people earn smarter and book faster"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/uber"
+      },
+      {
+        "title": {
+          "en": "GPT-5.5 Instant System Card",
+          "zh": "GPT-5.5 Instant System Card"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-5-5-instant-system-card"
+      },
+      {
+        "title": {
+          "en": "Granite 4.1 LLMs: How They’re Built",
+          "zh": "Granite 4.1 LLMs: How They’re Built"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-granite/granite-4-1"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/singular-bank",
+    "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "https://openai.com/index/introducing-b2b-signals",
+    "https://openai.com/index/uber",
+    "https://openai.com/index/gpt-5-5-instant-system-card",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "https://huggingface.co/blog/inference-providers-deepinfra",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
+    "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
+    "https://www.latent.space/p/lupsasca",
+    "https://www.latent.space/p/ainews-the-other-vs-the-utility",
+    "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
+    "https://www.latent.space/p/ainews-agents-for-everything-else",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
+    "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
+    "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
+    "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
+    "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+    "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+    "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+    "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+    "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+    "https://www.404media.co/podcast-flock-used-cameras-at-a-childrens-gymnastics-center-for-a-sales-pitch/",
+    "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
+    "https://www.404media.co/uk-iphone-ipad-ios-users-porn-age-verification/",
+    "https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/",
+    "https://www.404media.co/nature-retracts-paper-on-the-benefits-of-chatgpt-in-education/",
+    "https://www.infoq.com/news/2026/05/linkedin-unified-hiring-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/google-8th-tpu-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/anthropic-claude-code-auto-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/mistral-agents-lechat/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloudflare-security-dashboard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+    "https://api-docs.deepseek.com/quick_start/pricing",
+    "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+    "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+    "https://blog.val.town/better-auth",
+    "https://arxiv.org/abs/2605.00839",
+    "https://arxiv.org/abs/2605.00841",
+    "https://arxiv.org/abs/2605.00842",
+    "https://arxiv.org/abs/2605.00846",
+    "https://arxiv.org/abs/2605.00909",
+    "https://arxiv.org/abs/2605.02915",
+    "https://arxiv.org/abs/2605.03050",
+    "https://arxiv.org/abs/2605.03052",
+    "https://arxiv.org/abs/2605.03073",
+    "https://arxiv.org/abs/2605.03092"
+  ]
+}
