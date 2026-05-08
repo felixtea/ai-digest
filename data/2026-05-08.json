@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-05-08",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Enhances API with New Voice Intelligence Models",
+          "zh": "OpenAI 在API中推出新的语音智能模型"
+        },
+        "tl_dr": {
+          "en": "OpenAI has released new real-time voice models in its API, capable of reasoning, translating, and transcribing speech.",
+          "zh": "OpenAI已在其API中推出新的实时语音模型，具备推理、翻译和转录语音的能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "New voice models operate in realtime.",
+            "The models are integrated into the OpenAI API.",
+            "They are capable of reasoning, translating, and transcribing speech."
+          ],
+          "zh": [
+            "新的语音模型支持实时操作。",
+            "这些模型已集成到OpenAI API中。",
+            "它们能够进行语音推理、翻译和转录。"
+          ]
+        },
+        "impact": {
+          "en": "These models could enhance various applications, including customer service systems, education platforms, and creator tools, by enabling more natural and intelligent voice experiences.",
+          "zh": "这些模型能通过实现更自然、智能的语音体验，从而增强客户服务系统、教育平台以及创作者工具等多种应用。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind's AlphaEvolve Leverages Gemini for Cross-Sector Impact",
+          "zh": "谷歌DeepMind的AlphaEvolve利用Gemini实现跨领域影响"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind's AlphaEvolve, a Gemini-powered coding agent, is expanding its influence across business, infrastructure, and science sectors.",
+          "zh": "谷歌DeepMind的AlphaEvolve作为一款由Gemini驱动的编码代理，正在商业、基础设施和科学领域扩大其影响力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AlphaEvolve operates as a coding agent.",
+            "It is powered by Gemini algorithms.",
+            "The agent's impact spans across business, infrastructure, and scientific fields."
+          ],
+          "zh": [
+            "AlphaEvolve作为一款编码代理运作。",
+            "它由Gemini算法驱动。",
+            "该代理的影响范围涵盖商业、基础设施和科学领域。"
+          ]
+        },
+        "impact": {
+          "en": "The application of Gemini-powered algorithms through AlphaEvolve demonstrates a growing trend of AI agents influencing diverse sectors, highlighting practical applications of advanced AI models.",
+          "zh": "AlphaEvolve通过Gemini驱动算法的应用，预示着AI代理将更广泛地影响不同领域，展现了先进AI模型的实际应用。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphaevolve-impact/"
+      },
+      {
+        "title": {
+          "en": "LLMs Prone to Hallucinations in Academic Writing, Study Finds",
+          "zh": "研究发现大型语言模型在学术写作中易出现幻觉"
+        },
+        "tl_dr": {
+          "en": "A study investigated four large language models, including ChatGPT, Grok, Gemini, and Copilot, for hallucinations specifically in academic writing across 80 prompts and four categories.",
+          "zh": "一项研究调查了包括ChatGPT、Grok、Gemini和Copilot在内的四种大型语言模型在80个提示和四个类别中，专门针对学术写作的幻觉情况。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Four large language models were specifically investigated: ChatGPT, Grok, Gemini, and Copilot.",
+            "The study designed 80 prompts to evaluate hallucination tendencies.",
+            "Prompts were structured across four categories: reference generation, factual explanation, abstract generation, and writing improvement."
+          ],
+          "zh": [
+            "研究专门调查了四种大型语言模型：ChatGPT、Grok、Gemini和Copilot。",
+            "该研究设计了80个提示以评估幻觉倾向。",
+            "提示结构分为四个类别：参考文献生成、事实解释、摘要生成和写作改进。"
+          ]
+        },
+        "impact": {
+          "en": "This investigation highlights the persistent challenge of hallucinations in large language models, particularly when generating academic content, indicating a need for improved factual accuracy for broader application.",
+          "zh": "这项调查突显了大型语言模型在生成学术内容时幻觉的持续挑战，表明为实现更广泛的应用，需要提高事实准确性。"
+        },
+        "source": "arXiv",
+        "link": "https://arxiv.org/abs/2605.04171"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Introducing Trusted Contact in ChatGPT",
+          "zh": "Introducing Trusted Contact in ChatGPT"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt"
+      },
+      {
+        "title": {
+          "en": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+          "zh": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
+      },
+      {
+        "title": {
+          "en": "Enabling a new model for healthcare with AI co-clinician",
+          "zh": "Enabling a new model for healthcare with AI co-clinician"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/ai-co-clinician/"
+      },
+      {
+        "title": {
+          "en": "Announcing our partnership with the Republic of Korea",
+          "zh": "Announcing our partnership with the Republic of Korea"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      },
+      {
+        "title": {
+          "en": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+          "zh": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "https://openai.com/index/parloa",
+    "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "https://openai.com/index/testing-ads-in-chatgpt",
+    "https://deepmind.google/blog/alphaevolve-impact/",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "https://huggingface.co/blog/inference-providers-deepinfra",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
+    "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
+    "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
+    "https://www.latent.space/p/lupsasca",
+    "https://www.latent.space/p/ainews-the-other-vs-the-utility",
+    "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
+    "https://simonwillison.net/2026/May/7/big-words/#atom-everything",
+    "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
+    "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
+    "https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+    "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+    "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+    "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+    "https://www.404media.co/ice-plans-to-develop-own-smart-glasses-to-supplement-its-facial-recognition-app/",
+    "https://www.404media.co/hello-boss-inside-the-chinese-realtime-deepfake-software-powering-scams-around-the-world/",
+    "https://www.404media.co/fish-psilocybin-magic-mushrooms-study-psychedelics/",
+    "https://www.404media.co/podcast-flock-used-cameras-at-a-childrens-gymnastics-center-for-a-sales-pitch/",
+    "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
+    "https://www.infoq.com/news/2026/05/openai-websocket-responses-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/linkedin-unified-hiring-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/google-8th-tpu-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/anthropic-claude-code-auto-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+    "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "https://www.not-ship.com/burning-man-moop/",
+    "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "https://xeiaso.net/blog/2026/abstain-from-install/",
+    "https://arxiv.org/abs/2605.02910",
+    "https://arxiv.org/abs/2605.03034",
+    "https://arxiv.org/abs/2605.03067",
+    "https://arxiv.org/abs/2605.03078",
+    "https://arxiv.org/abs/2605.03101",
+    "https://arxiv.org/abs/2605.04065",
+    "https://arxiv.org/abs/2605.04066",
+    "https://arxiv.org/abs/2605.04080",
+    "https://arxiv.org/abs/2605.04157",
+    "https://arxiv.org/abs/2605.04171"
+  ]
+}
