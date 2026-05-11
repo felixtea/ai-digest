@@ -1,0 +1,131 @@
+{
+  "date_id": "2026-05-11",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Testing ads in ChatGPT",
+          "zh": "Testing ads in ChatGPT"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/testing-ads-in-chatgpt"
+      },
+      {
+        "title": {
+          "en": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "zh": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphaevolve-impact/"
+      },
+      {
+        "title": {
+          "en": "Can we AI our way to a more sustainable world?",
+          "zh": "Can we AI our way to a more sustainable world?"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/"
+      },
+      {
+        "title": {
+          "en": "A Visual Guide to Attention Variants in Modern LLMs",
+          "zh": "A Visual Guide to Attention Variants in Modern LLMs"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/visual-attention-variants"
+      },
+      {
+        "title": {
+          "en": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+          "zh": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/running-codex-safely",
+    "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "https://openai.com/index/parloa",
+    "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "https://openai.com/index/testing-ads-in-chatgpt",
+    "https://deepmind.google/blog/alphaevolve-impact/",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "https://huggingface.co/blog/allenai/emo",
+    "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
+    "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
+    "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+    "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
+    "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
+    "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
+    "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
+    "https://www.latent.space/p/lupsasca",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
+    "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything",
+    "https://simonwillison.net/2026/May/9/luke-curley/#atom-everything",
+    "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
+    "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+    "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+    "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+    "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+    "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+    "https://www.404media.co/scientists-studied-906-mafia-marriages-and-found-something-surprising/",
+    "https://www.404media.co/university-claims-withholding-water-from-nuclear-weapons-data-center-is-unlawfully-discriminatory-to-data-centers/",
+    "https://www.404media.co/behind-the-blog-storage-woes-and-rss/",
+    "https://www.404media.co/the-biggest-student-data-privacy-disaster-in-history-canvas-hack-shows-the-danger-of-centralized-edtech/",
+    "https://www.404media.co/ice-plans-to-develop-own-smart-glasses-to-supplement-its-facial-recognition-app/",
+    "https://www.infoq.com/news/2026/05/mysql-97-lts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloudflare-dynamic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/github-agentic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/openai-websocket-responses-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+    "https://jola.dev/posts/running-local-models-on-m4",
+    "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/"
+  ]
+}
