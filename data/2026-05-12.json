@@ -1,0 +1,170 @@
+{
+  "date_id": "2026-05-12",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "DeepMind's AlphaEvolve Agent Leverages Gemini for Cross-Sector Impact",
+          "zh": "DeepMind AlphaEvolve 智能体利用 Gemini 引擎实现跨领域影响"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind's AlphaEvolve, a Gemini-powered coding agent, is applying its algorithms across business, infrastructure, and science sectors.",
+          "zh": "Google DeepMind 的 AlphaEvolve，一款由 Gemini 驱动的编码智能体，正将其算法应用于商业、基础设施和科学领域。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AlphaEvolve functions as a coding agent.",
+            "Its operations are powered by Gemini algorithms.",
+            "It is driving impact across business, infrastructure, and science fields."
+          ],
+          "zh": [
+            "AlphaEvolve 的功能是作为一款编码智能体。",
+            "其运行由 Gemini 算法提供支持。",
+            "它正在推动商业、基础设施和科学领域的影响力。"
+          ]
+        },
+        "impact": {
+          "en": "The deployment of AlphaEvolve as a Gemini-powered coding agent highlights an expanding application of AI in driving impact across diverse sectors such as business, infrastructure, and science.",
+          "zh": "将 AlphaEvolve 作为由 Gemini 驱动的编码智能体进行部署，突显了人工智能在推动商业、基础设施和科学等多元领域产生影响方面的日益扩大的应用。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphaevolve-impact/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Running Codex safely at OpenAI",
+          "zh": "Running Codex safely at OpenAI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/running-codex-safely"
+      },
+      {
+        "title": {
+          "en": "OpenAI launches DeployCo to help businesses build around intelligence",
+          "zh": "OpenAI launches DeployCo to help businesses build around intelligence"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-launches-the-deployment-company"
+      },
+      {
+        "title": {
+          "en": "Enabling a new model for healthcare with AI co-clinician",
+          "zh": "Enabling a new model for healthcare with AI co-clinician"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/ai-co-clinician/"
+      },
+      {
+        "title": {
+          "en": "A blueprint for using AI to strengthen democracy",
+          "zh": "A blueprint for using AI to strengthen democracy"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/"
+      },
+      {
+        "title": {
+          "en": "EMO: Pretraining mixture of experts for emergent modularity",
+          "zh": "EMO: Pretraining mixture of experts for emergent modularity"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/allenai/emo"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/signals/research/2026q1-update",
+    "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "https://openai.com/index/openai-launches-the-deployment-company",
+    "https://openai.com/index/running-codex-safely",
+    "https://deepmind.google/blog/alphaevolve-impact/",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "https://huggingface.co/blog/allenai/emo",
+    "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+    "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
+    "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
+    "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+    "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
+    "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
+    "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
+    "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
+    "https://www.latent.space/p/lupsasca",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
+    "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
+    "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything",
+    "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
+    "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+    "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+    "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+    "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+    "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+    "https://www.404media.co/how-the-world-became-a-casino/",
+    "https://www.404media.co/your-ai-use-is-breaking-my-brain/",
+    "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+    "https://www.404media.co/scientists-studied-906-mafia-marriages-and-found-something-surprising/",
+    "https://www.404media.co/university-claims-withholding-water-from-nuclear-weapons-data-center-is-unlawfully-discriminatory-to-data-centers/",
+    "https://www.infoq.com/news/2026/05/coder-agents-self-hosted-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/netflix-ml-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/mysql-97-lts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloudflare-dynamic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/github-agentic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+    "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+    "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+    "https://github.com/mamba-studio/TypedMemory",
+    "https://about.gitlab.com/blog/gitlab-act-2/",
+    "https://arxiv.org/abs/2605.06671",
+    "https://arxiv.org/abs/2605.06672",
+    "https://arxiv.org/abs/2605.06682",
+    "https://arxiv.org/abs/2605.06690",
+    "https://arxiv.org/abs/2605.06696",
+    "https://arxiv.org/abs/2605.06673",
+    "https://arxiv.org/abs/2605.06765",
+    "https://arxiv.org/abs/2605.06832",
+    "https://arxiv.org/abs/2605.06886",
+    "https://arxiv.org/abs/2605.06897"
+  ]
+}
