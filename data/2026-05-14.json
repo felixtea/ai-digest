@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-05-14",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "DeepMind Introduces Gemini-Powered AlphaEvolve; LLM Inference Scaling Discussed",
+          "zh": "DeepMind发布Gemini驱动的AlphaEvolve；大语言模型推理扩展获探讨"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind launched AlphaEvolve, a Gemini-powered coding agent impacting diverse fields, while parallel research explores categories of inference-time scaling to improve large language model reasoning.",
+          "zh": "Google DeepMind推出了由Gemini驱动的编码代理AlphaEvolve，该代理正在影响多个领域，与此同时，并行研究正在探索用于提升大语言模型推理能力的推理时间扩展类别。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AlphaEvolve is identified as a coding agent by Google DeepMind.",
+            "The agent's algorithms are powered by Gemini technology.",
+            "AlphaEvolve is designed to scale impact across business, infrastructure, and science."
+          ],
+          "zh": [
+            "AlphaEvolve被Google DeepMind定义为一个编码代理。",
+            "该代理的算法由Gemini技术提供支持。",
+            "AlphaEvolve旨在扩大在商业、基础设施和科学领域的影响力。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of a new AI agent for coding, powered by advanced models like Gemini, demonstrates progress in applying AI to practical domains. Concurrently, advancements in LLM inference scaling are critical for improving the efficiency and capabilities of large language models, addressing a core challenge in the AI industry.",
+          "zh": "推出由Gemini等先进模型驱动的新型AI编码代理，表明了AI在实际应用领域取得的进展。同时，大语言模型推理扩展的进步对于提高大语言模型的效率和能力至关重要，解决了AI行业的一个核心挑战。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphaevolve-impact/"
+      },
+      {
+        "title": {
+          "en": "DeepMind Forges Dual AI Partnerships with South Korea and EVE Online",
+          "zh": "DeepMind 与韩国和《EVE Online》建立双重 AI 合作关系"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has entered partnerships with the Republic of Korea to accelerate scientific breakthroughs using frontier AI models and with EVE Online for AI model testing.",
+          "zh": "Google DeepMind 已与大韩民国建立合作，利用前沿 AI 模型加速科学突破，并与《EVE Online》建立合作，进行 AI 模型测试。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind partnered with the Republic of Korea to accelerate scientific breakthroughs using frontier AI models.",
+            "Google DeepMind also partnered with EVE Online for AI model testing.",
+            "EVE Online's developer, CCP Games, spent $120M to go independent and rebranded as Fenris Creations."
+          ],
+          "zh": [
+            "Google DeepMind 与大韩民国合作，利用前沿 AI 模型加速科学突破。",
+            "Google DeepMind 也与《EVE Online》合作，进行 AI 模型测试。",
+            "《EVE Online》的开发商 CCP Games 斥资 1.2 亿美元实现独立，并更名为 Fenris Creations。"
+          ]
+        },
+        "impact": {
+          "en": "These collaborations demonstrate Google DeepMind's strategy to apply its AI models across diverse domains, from governmental scientific research to complex gaming environments. This broadens the scope for AI model development and validation against real-world and simulated challenges.",
+          "zh": "这些合作表明 Google DeepMind 正在将其 AI 模型应用于不同领域的策略，涵盖从政府科学研究到复杂游戏环境。这拓宽了 AI 模型开发和针对现实世界及模拟挑战进行验证的范围。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      },
+      {
+        "title": {
+          "en": "DeepMind Partners with Global Consultancies for AI Deployment",
+          "zh": "DeepMind 与全球咨询公司合作部署AI"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind is collaborating with global consultancies to deploy frontier AI technologies to organizations worldwide.",
+          "zh": "Google DeepMind 正与全球咨询公司合作，旨在将前沿AI技术引入世界各地的组织。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind is establishing new partnerships.",
+            "The designated partners are global consultancies.",
+            "The initiative aims to bring frontier AI to organizations around the world."
+          ],
+          "zh": [
+            "Google DeepMind 正在建立新的合作伙伴关系。",
+            "指定的合作伙伴是全球咨询公司。",
+            "该倡议旨在将前沿AI技术推广至全球的组织。"
+          ]
+        },
+        "impact": {
+          "en": "This collaboration aims to accelerate the adoption of advanced AI technologies across various industries globally, facilitating wider practical application of frontier AI.",
+          "zh": "这项合作旨在加速全球各行业对先进AI技术的采纳，促进前沿AI的更广泛实际应用。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Building a safe, effective sandbox to enable Codex on Windows",
+          "zh": "Building a safe, effective sandbox to enable Codex on Windows"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/building-codex-windows-sandbox"
+      },
+      {
+        "title": {
+          "en": "Enabling a new model for healthcare with AI co-clinician",
+          "zh": "Enabling a new model for healthcare with AI co-clinician"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/ai-co-clinician/"
+      },
+      {
+        "title": {
+          "en": "How NVIDIA engineers and researchers build with Codex",
+          "zh": "How NVIDIA engineers and researchers build with Codex"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/nvidia"
+      },
+      {
+        "title": {
+          "en": "Building Blocks for Foundation Model Training and Inference on AWS",
+          "zh": "Building Blocks for Foundation Model Training and Inference on AWS"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks"
+      },
+      {
+        "title": {
+          "en": "EMO: Pretraining mixture of experts for emergent modularity",
+          "zh": "EMO: Pretraining mixture of experts for emergent modularity"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/allenai/emo"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/building-codex-windows-sandbox",
+    "https://openai.com/academy/how-finance-teams-use-codex",
+    "https://openai.com/index/what-parameter-golf-taught-us",
+    "https://openai.com/index/autoscout24",
+    "https://openai.com/index/nvidia",
+    "https://deepmind.google/blog/alphaevolve-impact/",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "https://huggingface.co/blog/allenai/emo",
+    "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+    "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+    "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+    "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+    "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
+    "https://www.latent.space/p/ainews-the-end-of-finetuning",
+    "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
+    "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
+    "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
+    "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
+    "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything",
+    "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
+    "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
+    "https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+    "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+    "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+    "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+    "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+    "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
+    "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+    "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+    "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+    "https://www.404media.co/washington-post-make-it-make-sense-opinion-podcast/",
+    "https://www.404media.co/war-and-data-centers-are-driving-up-the-cost-of-fiber-optic-cable/",
+    "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
+    "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+    "https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/",
+    "https://www.infoq.com/news/2026/05/anthropic-claude-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/aws-workspaces-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/coder-agents-self-hosted-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/netflix-ml-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/mysql-97-lts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+    "https://fredchan.org/blog/locality-domains-guide/",
+    "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+    "https://ardoedo.it/kempelen/",
+    "https://www.jackhogan.me/blog/marco-polo",
+    "https://arxiv.org/abs/2605.08200",
+    "https://arxiv.org/abs/2605.08220",
+    "https://arxiv.org/abs/2605.08354",
+    "https://arxiv.org/abs/2605.08360",
+    "https://arxiv.org/abs/2605.08368",
+    "https://arxiv.org/abs/2605.11128",
+    "https://arxiv.org/abs/2605.11143",
+    "https://arxiv.org/abs/2605.11153",
+    "https://arxiv.org/abs/2605.11167",
+    "https://arxiv.org/abs/2605.11195"
+  ]
+}
