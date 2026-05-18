@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-05-18",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Codex Aids Business, Data Teams",
+          "zh": "OpenAI Codex 助力业务和数据团队"
+        },
+        "tl_dr": {
+          "en": "OpenAI's Codex is utilized by business operations and data science teams to generate various operational documents and analytical reports from existing work inputs.",
+          "zh": "OpenAI的Codex被业务运营和数据科学团队用于从现有工作输入中生成各类运营文件和分析报告。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Business operations teams leverage Codex to create initiative briefs, strategy updates, and leadership decision packets.",
+            "Data science teams utilize Codex to build root-cause briefs, impact readouts, and KPI memos.",
+            "Codex generates these varied documents for both functions by processing \"real work inputs\"."
+          ],
+          "zh": [
+            "业务运营团队利用Codex创建倡议简报、战略更新和领导决策包。",
+            "数据科学团队运用Codex构建根本原因简报、影响解读和关键绩效指标备忘录。",
+            "Codex通过处理“真实工作输入”为这两种职能生成各种文档。"
+          ]
+        },
+        "impact": {
+          "en": "The application of AI tools like Codex streamlines documentation creation for core business and analytical functions. This can enhance efficiency by automating the drafting of reports and strategic communications within enterprises.",
+          "zh": "Codex等AI工具的应用简化了核心业务和分析职能的文档创建流程。这可以通过自动化企业内部报告和战略沟通的起草来提高效率。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+      },
+      {
+        "title": {
+          "en": "OpenAI Partners With Malta for Nation-Scale AI Access",
+          "zh": "OpenAI与马耳他合作推广全国性人工智能普及"
+        },
+        "tl_dr": {
+          "en": "OpenAI has partnered with Malta to provide ChatGPT Plus access and AI training to all Maltese citizens.",
+          "zh": "OpenAI与马耳他建立合作关系，旨在向所有马耳他公民提供ChatGPT Plus访问权限及人工智能培训。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI has established a partnership with the nation of Malta.",
+            "The collaboration specifically includes providing ChatGPT Plus access to citizens.",
+            "Training programs will be offered to develop practical AI skills and promote responsible AI usage."
+          ],
+          "zh": [
+            "OpenAI已与马耳他国家建立合作伙伴关系。",
+            "此次合作具体包括向公民提供ChatGPT Plus访问权限。",
+            "将提供培训项目，旨在培养实用人工智能技能并推广负责任的人工智能使用。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative marks a national-level effort to democratize advanced AI access and education, setting a precedent for how governments might integrate AI services and training into public infrastructure. It could influence future partnerships between AI developers and sovereign states.",
+          "zh": "这一举措标志着在国家层面普及先进人工智能访问和教育的努力，为政府如何将人工智能服务和培训整合到公共基础设施中树立了先例。它可能影响未来人工智能开发者与主权国家之间的合作模式。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/malta-chatgpt-plus-partnership"
+      },
+      {
+        "title": {
+          "en": "arXiv Implements Year-Long Ban for AI-Generated Submissions",
+          "zh": "arXiv 对提交AI生成内容的作者实施一年禁令"
+        },
+        "tl_dr": {
+          "en": "arXiv will ban submitters of AI-generated content, described as 'hallucinations' or 'slop,' for a year.",
+          "zh": "arXiv 将对提交AI生成内容（被称为“幻觉”或“糟粕”）的作者处以一年禁令。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Submitting AI-generated content to arXiv will result in a one-year ban from further submissions.",
+            "The new policy targets AI-generated materials described as 'hallucinations' or 'slop.'",
+            "An arXiv moderator announced the policy on social media due to an influx of such content."
+          ],
+          "zh": [
+            "向 arXiv 提交AI生成内容将导致一年内无法再次提交。",
+            "新政策旨在处理被描述为“幻觉”或“糟粕”的AI生成材料。",
+            "一位arXiv版主在社交媒体上宣布了这项政策，以应对此类内容的涌入。"
+          ]
+        },
+        "impact": {
+          "en": "This policy change reflects the growing challenge academic preprint servers face in maintaining research integrity amidst an influx of AI-generated content. It sets a precedent for how scientific platforms manage submissions from advanced generative AI tools.",
+          "zh": "这项政策变化反映了学术预印本服务器在AI生成内容涌入的情况下，维护研究诚信所面临的日益严峻的挑战。它为科学平台如何管理来自高级生成式AI工具的投稿设定了先例。"
+        },
+        "source": "404 Media",
+        "link": "https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Claude Dispatch and the Power of Interfaces",
+          "zh": "Claude Dispatch and the Power of Interfaces"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of"
+      },
+      {
+        "title": {
+          "en": "A guide to understanding AI as normal technology",
+          "zh": "A guide to understanding AI as normal technology"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal"
+      },
+      {
+        "title": {
+          "en": "Components of A Coding Agent",
+          "zh": "Components of A Coding Agent"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent"
+      },
+      {
+        "title": {
+          "en": "Databricks brings GPT-5.5 to enterprise agent workflows",
+          "zh": "Databricks brings GPT-5.5 to enterprise agent workflows"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/databricks"
+      },
+      {
+        "title": {
+          "en": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "zh": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphaevolve-impact/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "https://openai.com/index/databricks",
+    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "https://openai.com/index/personal-finance-chatgpt",
+    "https://deepmind.google/blog/alphaevolve-impact/",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "https://huggingface.co/blog/continuous_async",
+    "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "https://huggingface.co/blog/allenai/emo",
+    "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+    "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+    "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+    "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+    "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
+    "https://www.latent.space/p/ainews-everything-is-conductor",
+    "https://www.latent.space/p/abridge",
+    "https://www.latent.space/p/ainews-codex-rises-claude-meters",
+    "https://www.latent.space/p/ainews-the-end-of-finetuning",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
+    "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+    "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
+    "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
+    "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+    "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+    "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+    "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+    "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+    "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
+    "https://www.404media.co/scientists-discover-strange-new-crystal-formed-by-nuclear-blast/",
+    "https://www.404media.co/tech-companies-to-discuss-irans-future-during-private-conference-at-uber-hq/",
+    "https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/",
+    "https://www.404media.co/behind-the-blog-new-music-and-a-crash-out/",
+    "https://www.404media.co/mayo-clinic-is-using-ai-to-listen-to-emergency-room-visits/",
+    "https://www.infoq.com/news/2026/05/openai-symphony-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/monzo-data-mesh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/ubuntu-on-device-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/anthropic-routines-claude/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://gencad.github.io/",
+    "https://www.jdhodges.com/blog/thinkpad-history/",
+    "https://github.com/open-energy-transition/grid2poster",
+    "https://www.metalevel.at/prolog/horror",
+    "https://xca-attacks.github.io/fabricked/"
+  ]
+}
