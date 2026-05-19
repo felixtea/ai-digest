@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-05-19",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Details Codex Applications for Business and Sales Teams",
+          "zh": "OpenAI 阐述 Codex 在商业运营与销售团队中的应用"
+        },
+        "tl_dr": {
+          "en": "OpenAI has outlined how its Codex model is applied by business operations and sales teams to automate the creation of various internal documents from existing inputs.",
+          "zh": "OpenAI 阐述了其 Codex 模型如何被商业运营和销售团队应用于从现有输入中自动创建各种内部文档。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Codex assists business operations teams in generating documents such as initiative briefs, strategy updates, leadership decision packets, and progress updates.",
+            "Sales teams leverage Codex to create pipeline briefs, meeting preparation packets, forecast reviews, and account plans.",
+            "Codex also supports sales teams in diagnosing stalled deals and producing related documentation."
+          ],
+          "zh": [
+            "Codex 协助商业运营团队生成诸如倡议简报、战略更新、领导决策包和进度更新等文档。",
+            "销售团队利用 Codex 制作销售渠道简报、会议准备包、预测评审和客户计划。",
+            "Codex 还支持销售团队诊断停滞交易并生成相关文档。"
+          ]
+        },
+        "impact": {
+          "en": "The specified applications of Codex demonstrate AI's direct utility in streamlining administrative and strategic document generation across core business functions. This can potentially increase operational efficiency and reduce manual effort in content creation.",
+          "zh": "Codex 的具体应用展示了人工智能在简化核心业务职能中行政和战略文档生成方面的直接效用。这可能提高运营效率并减少内容创建中的人工工作量。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex"
+      },
+      {
+        "title": {
+          "en": "Anthropic Acquires Stainless, Key AI Dev Tools Provider",
+          "zh": "Anthropic 收购关键 AI 开发工具提供商 Stainless"
+        },
+        "tl_dr": {
+          "en": "Anthropic acquired Stainless, a New York-based startup known for automating software development kit creation and maintenance.",
+          "zh": "Anthropic 收购了位于纽约的初创公司 Stainless，该公司以自动化软件开发工具包的创建和维护而闻名。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Stainless, a New York-based startup, was founded in 2022.",
+            "The company specializes in automating the creation and maintenance of software development kits (SDKs).",
+            "Prominent users of Stainless's tools included OpenAI, Google, and Cloudflare."
+          ],
+          "zh": [
+            "Stainless 是一家成立于 2022 年的纽约初创公司。",
+            "该公司专注于自动化软件开发工具包（SDK）的创建和维护。",
+            "Stainless 工具的知名用户包括 OpenAI、Google 和 Cloudflare。"
+          ]
+        },
+        "impact": {
+          "en": "The acquisition suggests Anthropic's focus on streamlining developer interactions with its APIs and improving the efficiency of its ecosystem for third-party integrations. This move aims to enhance developer experience and accelerate AI application development.",
+          "zh": "此次收购表明 Anthropic 致力于简化开发者与其 API 的交互，并提高其生态系统进行第三方集成的效率。此举旨在提升开发者体验并加速 AI 应用的开发。"
+        },
+        "source": "Anthropic",
+        "link": "https://www.anthropic.com/news/anthropic-acquires-stainless"
+      },
+      {
+        "title": {
+          "en": "Hugging Face Establishes Open Leaderboard for AI Agents",
+          "zh": "Hugging Face 设立 AI 代理开放排行榜"
+        },
+        "tl_dr": {
+          "en": "Hugging Face has introduced 'The Open Agent Leaderboard' as a platform for evaluating AI agents.",
+          "zh": "Hugging Face 推出了“开放代理排行榜”，作为评估人工智能代理的平台。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The platform is named 'The Open Agent Leaderboard'.",
+            "Its primary function is the evaluation and ranking of AI agents.",
+            "The URL indicates a potential collaboration or contribution from IBM Research."
+          ],
+          "zh": [
+            "该平台名为“开放代理排行榜”。",
+            "其主要功能是评估和排名人工智能代理。",
+            "URL 显示 IBM Research 可能参与合作或做出贡献。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative provides a common benchmark for the AI agent ecosystem, enabling developers and researchers to assess model performance consistently and objectively.",
+          "zh": "此举为人工智能代理生态系统提供了一个通用基准，使开发者和研究人员能够一致且客观地评估模型性能。"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Partnering with industry leaders to accelerate AI transformation",
+          "zh": "Partnering with industry leaders to accelerate AI transformation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/"
+      },
+      {
+        "title": {
+          "en": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "zh": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphaevolve-impact/"
+      },
+      {
+        "title": {
+          "en": "Enabling a new model for healthcare with AI co-clinician",
+          "zh": "Enabling a new model for healthcare with AI co-clinician"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/ai-co-clinician/"
+      },
+      {
+        "title": {
+          "en": "Announcing our partnership with the Republic of Korea",
+          "zh": "Announcing our partnership with the Republic of Korea"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      },
+      {
+        "title": {
+          "en": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+          "zh": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/dell-codex-enterprise-partnership",
+    "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "https://openai.com/index/databricks",
+    "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "https://deepmind.google/blog/alphaevolve-impact/",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "https://huggingface.co/blog/continuous_async",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+    "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+    "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+    "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+    "https://www.latent.space/p/the-fourth-law",
+    "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
+    "https://www.latent.space/p/ainews-everything-is-conductor",
+    "https://www.latent.space/p/abridge",
+    "https://www.latent.space/p/ainews-codex-rises-claude-meters",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
+    "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
+    "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+    "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
+    "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+    "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+    "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+    "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
+    "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+    "https://www.404media.co/podcast-the-physical-politics-of-the-internet-with-britt-paris/",
+    "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
+    "https://www.404media.co/scientists-discover-strange-new-crystal-formed-by-nuclear-blast/",
+    "https://www.404media.co/tech-companies-to-discuss-irans-future-during-private-conference-at-uber-hq/",
+    "https://www.infoq.com/news/2026/05/code-with-claude/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloudflare-stripe-agent-commerce/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/openai-symphony-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/monzo-data-mesh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/ubuntu-on-device-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://clickclickclick.click/",
+    "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+    "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "https://hyperpolyglot.org/lisp",
+    "https://archestra.ai/blog/only-responsible-ai",
+    "https://arxiv.org/abs/2605.15202",
+    "https://arxiv.org/abs/2605.15204",
+    "https://arxiv.org/abs/2605.15205",
+    "https://arxiv.org/abs/2605.15215",
+    "https://arxiv.org/abs/2605.15217",
+    "https://arxiv.org/abs/2605.15220",
+    "https://arxiv.org/abs/2605.15282",
+    "https://arxiv.org/abs/2605.15304",
+    "https://arxiv.org/abs/2605.15362",
+    "https://arxiv.org/abs/2605.15365"
+  ]
+}
