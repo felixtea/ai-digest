@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-05-21",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Establishes Multi-Year AI Partnership in Singapore",
+          "zh": "OpenAI在新加坡建立多年期人工智能合作关系"
+        },
+        "tl_dr": {
+          "en": "OpenAI has launched a multi-year AI partnership in Singapore aimed at expanding deployment, developing local talent, and supporting businesses and public services with AI.",
+          "zh": "OpenAI已在新加坡启动一项多年期人工智能合作，旨在扩展部署、培养本地人才并支持企业和公共服务利用人工智能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The initiative is structured as a multi-year AI partnership.",
+            "A primary objective is to expand AI deployment within Singapore.",
+            "The partnership focuses on building local AI talent and supporting businesses and public services."
+          ],
+          "zh": [
+            "此项倡议被构建为一项为期多年的人工智能合作。",
+            "一个主要目标是扩展人工智能在新加坡的部署。",
+            "该合作侧重于培养本地人工智能人才并支持企业和公共服务。"
+          ]
+        },
+        "impact": {
+          "en": "This partnership signifies OpenAI's direct engagement in regional AI development, potentially accelerating AI adoption and skill development in Singapore's commercial and public sectors.",
+          "zh": "此次合作标志着OpenAI直接参与区域人工智能发展，可能加速人工智能在新加坡商业和公共部门的采纳和技能培养。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-openai-for-singapore"
+      },
+      {
+        "title": {
+          "en": "Google Releases Gemini 3.5 Flash, Expands Product Integration",
+          "zh": "谷歌发布Gemini 3.5 Flash，扩展产品整合"
+        },
+        "tl_dr": {
+          "en": "Google officially launched Gemini 3.5 Flash at Google I/O, making it generally available globally across various key products.",
+          "zh": "谷歌在Google I/O大会上正式发布了Gemini 3.5 Flash，该模型现已在全球范围内的多个核心产品中普遍可用。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google released Gemini 3.5 Flash.",
+            "The model achieved general availability immediately, bypassing a preview phase.",
+            "It is globally available today to billions of people via products like the Gemini app and AI Mode."
+          ],
+          "zh": [
+            "谷歌发布了Gemini 3.5 Flash模型。",
+            "该模型直接实现普遍可用，跳过了预览阶段。",
+            "它已通过Gemini应用和AI模式等产品在全球范围内向数十亿用户推出。"
+          ]
+        },
+        "impact": {
+          "en": "The immediate general availability and broad integration of Gemini 3.5 Flash across Google's core products indicates a strategic push for rapid AI capability deployment and widespread user adoption, potentially influencing industry benchmarks for model rollout.",
+          "zh": "Gemini 3.5 Flash的即时普遍可用性及其在谷歌核心产品中的广泛整合，表明了谷歌在快速部署AI能力和扩大用户采纳方面的战略举措，这可能影响行业模型推出的基准。"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "OpenAI Model Disproves Discrete Geometry Conjecture",
+          "zh": "OpenAI 模型推翻离散几何学核心猜想"
+        },
+        "tl_dr": {
+          "en": "An OpenAI model disproved an 80-year-old conjecture in discrete geometry by solving the unit distance problem.",
+          "zh": "OpenAI 模型通过解决单位距离问题，推翻了一个存在80年的离散几何学猜想。"
+        },
+        "key_takeaways": {
+          "en": [
+            "An OpenAI model was employed in the research.",
+            "The model disproved a central conjecture in discrete geometry.",
+            "The conjecture, related to the unit distance problem, had existed for 80 years."
+          ],
+          "zh": [
+            "研究中使用了OpenAI模型。",
+            "该模型推翻了离散几何学中的一个核心猜想。",
+            "这个与单位距离问题相关的猜想已存在80年。"
+          ]
+        },
+        "impact": {
+          "en": "This marks a milestone in AI-driven mathematics, demonstrating artificial intelligence's capability to solve long-standing problems in pure mathematics.",
+          "zh": "这标志着AI驱动数学的一个里程碑，展示了人工智能解决纯数学领域长期存在问题的能力。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
+          "zh": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash"
+      },
+      {
+        "title": {
+          "en": "The Open Agent Leaderboard",
+          "zh": "The Open Agent Leaderboard"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+      },
+      {
+        "title": {
+          "en": "Fast-tracking genetic leads to reverse cellular aging",
+          "zh": "Fast-tracking genetic leads to reverse cellular aging"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      },
+      {
+        "title": {
+          "en": "Simulate real-world places with Project Genie and Street View",
+          "zh": "Simulate real-world places with Project Genie and Street View"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/"
+      },
+      {
+        "title": {
+          "en": "Advancing content provenance for a safer, more transparent AI ecosystem",
+          "zh": "Advancing content provenance for a safer, more transparent AI ecosystem"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/advancing-content-provenance"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "https://openai.com/index/ramp",
+    "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "https://openai.com/index/introducing-openai-for-singapore",
+    "https://openai.com/index/advancing-content-provenance",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+    "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "https://huggingface.co/blog/ettin-reranker",
+    "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+    "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+    "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+    "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+    "https://www.latent.space/p/railway",
+    "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
+    "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
+    "https://www.latent.space/p/the-fourth-law",
+    "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+    "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
+    "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+    "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
+    "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+    "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+    "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+    "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+    "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+    "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+    "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+    "https://www.404media.co/township-leader-resigns-in-tears-over-openai-data-center-death-threats/",
+    "https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/",
+    "https://www.404media.co/podcast-elites-just-dont-get-ai/",
+    "https://www.404media.co/streamer-realtime-deepfakes-himself-into-mr-beast-says-he-loves-touching-little-boys/",
+    "https://www.404media.co/are-we-dating-the-same-guy-lawsuit-ai-attorney-nikko-dambrosio/",
+    "https://www.infoq.com/news/2026/05/grab-multi-agent-support-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/claude-mcp-tunnels/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/agoda-multimodal-content-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/code-with-claude/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloudflare-stripe-agent-commerce/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+    "https://dos.zone/",
+    "https://docs.flipper.net/one/general/tech-specs",
+    "https://legiscan.com/CO/bill/SB051/2026",
+    "https://arxiv.org/abs/2605.18801",
+    "https://arxiv.org/abs/2605.18818",
+    "https://arxiv.org/abs/2605.18937",
+    "https://arxiv.org/abs/2605.19008",
+    "https://arxiv.org/abs/2605.19010",
+    "https://arxiv.org/abs/2605.19066",
+    "https://arxiv.org/abs/2605.19069",
+    "https://arxiv.org/abs/2605.19077",
+    "https://arxiv.org/abs/2605.19149",
+    "https://arxiv.org/abs/2605.19173"
+  ]
+}
