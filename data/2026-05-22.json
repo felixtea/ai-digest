@@ -1,0 +1,198 @@
+{
+  "date_id": "2026-05-22",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Hugging Face Launches Open Agent Leaderboard",
+          "zh": "Hugging Face 推出开放智能体排行榜"
+        },
+        "tl_dr": {
+          "en": "Hugging Face has launched the Open Agent Leaderboard to evaluate and benchmark the performance of AI agents.",
+          "zh": "Hugging Face 已推出开放智能体排行榜，旨在评估和基准测试人工智能智能体的性能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The initiative is named \"The Open Agent Leaderboard\", indicating a focus on AI agents.",
+            "The term \"Open\" in the leaderboard's name implies public access or transparent contributions for evaluation.",
+            "As a \"Leaderboard\", its primary function is to rank and benchmark the performance of various AI agent systems."
+          ],
+          "zh": [
+            "该倡议名为“开放智能体排行榜”，表明其专注于人工智能智能体。",
+            "排行榜名称中的“开放”一词暗示了公共访问或透明的评估贡献。",
+            "作为“排行榜”，其主要功能是对各种人工智能智能体系统的性能进行排名和基准测试。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative provides a standardized platform for evaluating AI agents, which can foster development and transparency in the rapidly evolving field of AI.",
+          "zh": "该倡议为评估人工智能智能体提供了一个标准化平台，有助于促进快速发展的人工智能领域的发展和透明度。"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Develops Vega for Digital Identity",
+          "zh": "微软研究院开发Vega数字身份验证系统"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research has developed Vega, a system using zero-knowledge proofs for digital identity that shares only necessary credential information.",
+          "zh": "微软研究院开发了Vega系统，该系统利用零知识证明技术处理数字身份，仅分享所需的凭证信息。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Vega converts a complete digital credential into a single proof.",
+            "It employs zero-knowledge proofs to reveal only required information.",
+            "The system is designed for performance compatible with real-world applications."
+          ],
+          "zh": [
+            "Vega将完整的数字凭证转化为单个证明。",
+            "它利用零知识证明技术，仅披露所需信息。",
+            "该系统设计为具备可在实际应用中运行的性能。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides a method for more private and efficient digital identity verification within the AI industry, enabling users to control shared data.",
+          "zh": "这项开发为AI时代的数字身份验证提供了一种更私密和高效的方法，使用户能够控制共享数据。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+          "zh": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
+      },
+      {
+        "title": {
+          "en": "My Workflow for Understanding LLM Architectures",
+          "zh": "My Workflow for Understanding LLM Architectures"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms"
+      },
+      {
+        "title": {
+          "en": "AdventHealth advances whole-person care with OpenAI",
+          "zh": "AdventHealth advances whole-person care with OpenAI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/adventhealth"
+      },
+      {
+        "title": {
+          "en": "How Ramp engineers accelerate code review with Codex",
+          "zh": "How Ramp engineers accelerate code review with Codex"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/ramp"
+      },
+      {
+        "title": {
+          "en": "The next phase of OpenAI’s Education for Countries",
+          "zh": "The next phase of OpenAI’s Education for Countries"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/the-next-phase-of-education-for-countries"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/adventhealth",
+    "https://openai.com/index/ramp",
+    "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "https://openai.com/index/introducing-openai-for-singapore",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "https://huggingface.co/blog/ettin-reranker",
+    "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+    "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+    "https://www.latent.space/p/daytona",
+    "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+    "https://www.latent.space/p/railway",
+    "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
+    "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+    "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+    "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
+    "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+    "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+    "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+    "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+    "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+    "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+    "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
+    "https://www.404media.co/this-archivist-has-saved-175-000-articles-from-30-years-of-writing-about-magic-the-gathering/",
+    "https://www.404media.co/the-oldest-evidence-of-animal-sex-has-been-found-and-its-mind-boggling/",
+    "https://www.404media.co/township-leader-resigns-in-tears-over-openai-data-center-death-threats/",
+    "https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/",
+    "https://www.infoq.com/news/2026/05/bintrail-mysql-timetravel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/qconai-boston-2026-talks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/grab-multi-agent-support-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/claude-mcp-tunnels/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/agoda-multimodal-content-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://valhovey.github.io/gaia-mary/",
+    "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+    "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+    "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+    "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+    "https://arxiv.org/abs/2605.18801",
+    "https://arxiv.org/abs/2605.18818",
+    "https://arxiv.org/abs/2605.18937",
+    "https://arxiv.org/abs/2605.19008",
+    "https://arxiv.org/abs/2605.19010",
+    "https://arxiv.org/abs/2605.20191",
+    "https://arxiv.org/abs/2605.20192",
+    "https://arxiv.org/abs/2605.20193",
+    "https://arxiv.org/abs/2605.20194",
+    "https://arxiv.org/abs/2605.20195"
+  ]
+}
