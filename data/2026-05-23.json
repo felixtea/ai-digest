@@ -1,0 +1,198 @@
+{
+  "date_id": "2026-05-23",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Hugging Face Announces Ettin Reranker Family",
+          "zh": "Hugging Face 宣布推出 Ettin Reranker 系列"
+        },
+        "tl_dr": {
+          "en": "Hugging Face introduced the Ettin Reranker Family, but no specific functional or technical details were present in the provided source material.",
+          "zh": "Hugging Face 推出了 Ettin Reranker 系列，但所提供的原始资料中没有具体的功能或技术细节。"
+        },
+        "key_takeaways": {
+          "en": [
+            "No specific technical specifications or features of the Ettin Reranker Family were detailed in the excerpt.",
+            "No numerical performance metrics or benchmarks were provided in the source material.",
+            "The functional purpose or target applications of the reranker family were not described."
+          ],
+          "zh": [
+            "摘录中未详细说明 Ettin Reranker 系列的具体技术规格或功能。",
+            "原始资料中未提供任何数值性能指标或基准。",
+            "未描述该 reranker 系列的功能目的或目标应用。"
+          ]
+        },
+        "impact": {
+          "en": "Without specific technical and performance details, the potential implications or significance of the Ettin Reranker Family for the AI industry cannot be assessed.",
+          "zh": "由于缺乏具体的技术和性能细节，目前无法评估 Ettin Reranker 系列对人工智能行业的潜在影响或重要性。"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ettin-reranker"
+      },
+      {
+        "title": {
+          "en": "AI Tool Identifies Factors for Cellular Rejuvenation",
+          "zh": "人工智能工具识别细胞再生因子"
+        },
+        "tl_dr": {
+          "en": "Biologists utilized Co-Scientist to discover novel genetic factors capable of successfully rejuvenating human cells.",
+          "zh": "生物学家利用Co-Scientist发现了能够成功使人类细胞再生的新颖基因因子。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Biologists employed the Co-Scientist tool.",
+            "The research aimed to find novel factors.",
+            "These factors successfully rejuvenated human cells."
+          ],
+          "zh": [
+            "生物学家应用了Co-Scientist工具。",
+            "研究旨在发现新颖因子。",
+            "这些因子成功地使人类细胞再生。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates the application of AI in accelerating biological discovery, potentially advancing research into cellular aging and related health conditions.",
+          "zh": "这一进展表明人工智能在加速生物发现方面的应用，可能推动细胞衰老及相关健康状况的研究。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+          "zh": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"
+      },
+      {
+        "title": {
+          "en": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "zh": "An OpenAI model has disproved a central conjecture in discrete geometry"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+      },
+      {
+        "title": {
+          "en": "Simulate real-world places with Project Genie and Street View",
+          "zh": "Simulate real-world places with Project Genie and Street View"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/"
+      },
+      {
+        "title": {
+          "en": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "zh": "OpenAI named a Leader in enterprise coding agents by Gartner"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gartner-2026-agentic-coding-leader"
+      },
+      {
+        "title": {
+          "en": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "zh": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "https://openai.com/index/virgin-atlantic",
+    "https://openai.com/index/adventhealth",
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "https://huggingface.co/blog/ettin-reranker",
+    "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+    "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+    "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+    "https://www.latent.space/p/daytona",
+    "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+    "https://www.latent.space/p/railway",
+    "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+    "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+    "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+    "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+    "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+    "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+    "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+    "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+    "https://www.404media.co/heres-the-bodycam-footage-of-the-cybertruck-that-drove-into-a-lake/",
+    "https://www.404media.co/behind-the-blog-the-attention-wars/",
+    "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
+    "https://www.404media.co/this-archivist-has-saved-175-000-articles-from-30-years-of-writing-about-magic-the-gathering/",
+    "https://www.404media.co/the-oldest-evidence-of-animal-sex-has-been-found-and-its-mind-boggling/",
+    "https://www.infoq.com/news/2026/05/uber-eats-ranking-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/ai-engineering-certification-pro/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/discord-scylladb-automation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/xai-grok-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloudflare-agent-platform-stack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+    "https://dontquotetheai.com/",
+    "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+    "https://www.anthropic.com/research/glasswing-initial-update",
+    "https://www.stopstratos.org",
+    "https://arxiv.org/abs/2605.20189",
+    "https://arxiv.org/abs/2605.20190",
+    "https://arxiv.org/abs/2605.20423",
+    "https://arxiv.org/abs/2605.20425",
+    "https://arxiv.org/abs/2605.20467",
+    "https://arxiv.org/abs/2605.21609",
+    "https://arxiv.org/abs/2605.21712",
+    "https://arxiv.org/abs/2605.21713",
+    "https://arxiv.org/abs/2605.21726",
+    "https://arxiv.org/abs/2605.21748"
+  ]
+}
