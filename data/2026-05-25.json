@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-05-25",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "AI Rewording of Bug Reports Leads to 'Huge Mess'",
+          "zh": "AI改写错误报告导致“巨大混乱”"
+        },
+        "tl_dr": {
+          "en": "Armin Ronacher observed that AI-reworded issue submissions often contain inaccurate conclusions and guesswork on root causes, creating a significant mess in problem reporting.",
+          "zh": "阿明·罗纳赫观察到，经AI改写的错误报告提交内容常包含不准确的结论和对根本原因的猜测，造成了问题报告中的巨大混乱。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Issue submissions frequently deviate from the original reporter's voice.",
+            "An AI tool, termed a 'clanker,' rewords observed problems, leading to a 'huge mess.'",
+            "AI-produced conclusions are often inaccurate but expressed with confidence, resulting in guesswork for root causes."
+          ],
+          "zh": [
+            "提交的问题报告常常偏离了原始报告者的本意。",
+            "一个被称为“clanker”的AI工具改写了观察到的问题，导致“巨大混乱”。",
+            "AI得出的结论常不准确但充满自信，造成对根本原因的完全猜测。"
+          ]
+        },
+        "impact": {
+          "en": "The use of AI to rephrase technical issues can hinder accurate problem diagnosis and resolution in software development. This impacts efficiency and reliability by introducing misleading information into issue tracking systems.",
+          "zh": "使用AI工具改写技术问题可能会阻碍软件开发中准确的问题诊断和解决。这会通过向问题追踪系统引入误导性信息来影响效率和可靠性。"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Unveils Vega for Digital Identity Proofs",
+          "zh": "微软研究院推出Vega零知识证明系统"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research introduced Vega, a system that transforms a full credential into a single proof for digital identity, designed for performance in real-world applications.",
+          "zh": "微软研究院推出了Vega，这是一个将完整凭证转化为单个证明的系统，用于数字身份验证，并能在实际应用中实现良好性能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Vega converts an entire credential into a single proof.",
+            "It enables sharing only necessary information, without revealing extraneous data.",
+            "The system is designed for performance compatible with real-world applications."
+          ],
+          "zh": [
+            "Vega将完整的凭证转换为单一证明。",
+            "它仅分享所需信息，不多不少。",
+            "该系统在实际应用中展现出可用性能。"
+          ]
+        },
+        "impact": {
+          "en": "This development offers a method for secure and private digital identity verification within AI systems, addressing data minimization challenges in AI interactions. By enabling selective disclosure of information, Vega could enhance privacy and trust in AI-driven services requiring identity authentication.",
+          "zh": "这项进展为人工智能时代提供了一种安全且私密的数字身份验证方法，解决了AI交互中的数据最小化挑战。通过实现信息的选择性披露，Vega可以增强需要身份验证的AI驱动服务的隐私和信任。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Named Leader in Gartner's Enterprise AI Coding Agents Report",
+          "zh": "OpenAI被高德纳评为企业级AI编码代理领导者"
+        },
+        "tl_dr": {
+          "en": "OpenAI was recognized as a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents.",
+          "zh": "OpenAI在高德纳2026年企业级AI编码代理魔力象限中被评为领导者。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI achieved leader status in the Gartner Magic Quadrant for Enterprise AI Coding Agents.",
+            "The specific report is the 2026 Gartner Magic Quadrant.",
+            "OpenAI's Codex was cited for both innovation and enterprise-scale deployment."
+          ],
+          "zh": [
+            "OpenAI在高德纳企业级AI编码代理魔力象限中获得领导者地位。",
+            "具体报告为高德纳2026年企业级AI编码代理魔力象限。",
+            "OpenAI的Codex因其创新性和企业级部署能力获得认可。"
+          ]
+        },
+        "impact": {
+          "en": "This recognition by Gartner validates the increasing maturity and practical application of AI coding agents like Codex in enterprise environments, signaling their growing role in software development.",
+          "zh": "高德纳的这一认可验证了Codex等AI编码代理在企业环境中的日益成熟和实际应用，预示着它们在软件开发中将扮演越来越重要的角色。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gartner-2026-agentic-coding-leader"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "[AINews] All Model Labs are now Agent Labs",
+          "zh": "[AINews] All Model Labs are now Agent Labs"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent"
+      },
+      {
+        "title": {
+          "en": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "zh": "An OpenAI model has disproved a central conjecture in discrete geometry"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+      },
+      {
+        "title": {
+          "en": "Fast-tracking genetic leads to reverse cellular aging",
+          "zh": "Fast-tracking genetic leads to reverse cellular aging"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      },
+      {
+        "title": {
+          "en": "Simulate real-world places with Project Genie and Street View",
+          "zh": "Simulate real-world places with Project Genie and Street View"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/"
+      },
+      {
+        "title": {
+          "en": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+          "zh": "OlmoEarth v1.1: A more efficient family of Earth observation models"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "https://openai.com/index/virgin-atlantic",
+    "https://openai.com/index/adventhealth",
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "https://huggingface.co/blog/ettin-reranker",
+    "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+    "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+    "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+    "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+    "https://www.latent.space/p/daytona",
+    "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+    "https://www.latent.space/p/railway",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+    "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
+    "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
+    "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+    "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+    "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+    "https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/",
+    "https://www.404media.co/heres-the-bodycam-footage-of-the-cybertruck-that-drove-into-a-lake/",
+    "https://www.404media.co/behind-the-blog-the-attention-wars/",
+    "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
+    "https://www.404media.co/this-archivist-has-saved-175-000-articles-from-30-years-of-writing-about-magic-the-gathering/",
+    "https://www.infoq.com/news/2026/05/google-genkit-middleware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/aws-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/google-cross-engine-iceberg/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/uber-eats-ranking-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/ai-engineering-certification-pro/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://audiomass.co/?multitrack=1",
+    "https://esengine.github.io/DeepSeek-Reasonix/",
+    "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+    "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+    "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
+  ]
+}
