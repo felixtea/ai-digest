@@ -1,0 +1,170 @@
+{
+  "date_id": "2026-05-26",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Developers Report AI-Generated Bug Reports Lead to Inaccuracy",
+          "zh": "开发者报告：AI生成错误报告导致不准确和猜测"
+        },
+        "tl_dr": {
+          "en": "Armin Ronacher observes a frustrating failure mode where AI-generated issue reports, often poorly prompted, are inaccurate yet confident, leading to guesswork on root causes.",
+          "zh": "阿明·罗纳赫指出，当前一种令人沮丧的故障模式是，人们提交的AI生成问题报告常因提示不当而导致不准确但充满自信的结论，从而造成对根本原因的完全猜测。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Issue reports are submitted \"not in their own voice\" after being processed by an AI \"clanker.\"",
+            "AI-generated conclusions are \"more often than not inaccurate\" despite being \"always full of confidence.\"",
+            "Poor prompting of AI tools results in \"complete guesswork on root causes\" for reported problems."
+          ],
+          "zh": [
+            "提交的问题报告并非以报告者本人语调呈现，而是经由AI“笨拙的工具”处理并改写。",
+            "AI生成的结论“往往不准确”，但“总是充满自信”。",
+            "对AI工具的糟糕提示导致对所报告问题根本原因的“完全猜测”。"
+          ]
+        },
+        "impact": {
+          "en": "This observation highlights a challenge in leveraging AI tools for developer workflows, where poorly generated reports can hinder efficient problem diagnosis and resolution within the AI industry.",
+          "zh": "这一观察凸显了在开发者工作流程中利用AI工具所面临的挑战，即质量不佳的AI生成报告可能阻碍高效的问题诊断和解决，进而影响AI行业的开发效率。"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "zh": "OpenAI named a Leader in enterprise coding agents by Gartner"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gartner-2026-agentic-coding-leader"
+      },
+      {
+        "title": {
+          "en": "Microsoft Introduces MDASH for Large-Scale AI Vulnerability Research",
+          "zh": "Microsoft Introduces MDASH for Large-Scale AI Vulnerability Research"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/05/microsoft-mdash/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "zh": "An OpenAI model has disproved a central conjecture in discrete geometry"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+      },
+      {
+        "title": {
+          "en": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "zh": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+      },
+      {
+        "title": {
+          "en": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+          "zh": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "https://openai.com/index/virgin-atlantic",
+    "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "https://openai.com/index/adventhealth",
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/agent-glossary",
+    "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "https://huggingface.co/blog/ettin-reranker",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+    "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+    "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+    "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+    "https://www.latent.space/p/daytona",
+    "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+    "https://www.latent.space/p/railway",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+    "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+    "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
+    "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
+    "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+    "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+    "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+    "https://www.404media.co/an-incomplete-list-of-successful-anti-data-center-legislation/",
+    "https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/",
+    "https://www.404media.co/heres-the-bodycam-footage-of-the-cybertruck-that-drove-into-a-lake/",
+    "https://www.404media.co/behind-the-blog-the-attention-wars/",
+    "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
+    "https://www.infoq.com/news/2026/05/microsoft-mdash/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/gemma4-multi-token-prediction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/google-genkit-middleware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/aws-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/google-cross-engine-iceberg/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+    "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+    "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+    "https://github.com/boratanrikulu/gobee",
+    "https://arxiv.org/abs/2605.22866",
+    "https://arxiv.org/abs/2605.22874",
+    "https://arxiv.org/abs/2605.22875",
+    "https://arxiv.org/abs/2605.22878",
+    "https://arxiv.org/abs/2605.22883",
+    "https://arxiv.org/abs/2605.22826",
+    "https://arxiv.org/abs/2605.22828",
+    "https://arxiv.org/abs/2605.22834",
+    "https://arxiv.org/abs/2605.22843",
+    "https://arxiv.org/abs/2605.22880"
+  ]
+}
