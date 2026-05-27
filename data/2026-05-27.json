@@ -1,0 +1,170 @@
+{
+  "date_id": "2026-05-27",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Hugging Face Announces Ettin Reranker Family",
+          "zh": "Hugging Face 发布 Ettin Reranker 系列"
+        },
+        "tl_dr": {
+          "en": "Hugging Face introduced a new product family named Ettin Reranker via a blog post.",
+          "zh": "Hugging Face 通过一篇博客文章宣布推出名为 Ettin Reranker 的新产品系列。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The announcement was made by Hugging Face.",
+            "The introduced product family is named 'Ettin Reranker Family'.",
+            "Details are available through the official blog post."
+          ],
+          "zh": [
+            "Hugging Face 进行了此次发布。",
+            "所推出的产品系列名为“Ettin Reranker Family”。",
+            "详情可通过官方博客文章获取。"
+          ]
+        },
+        "impact": {
+          "en": "This introduction by Hugging Face indicates continued development in specialized AI models for potential application in information processing systems.",
+          "zh": "Hugging Face 的此次发布表明其在专有 AI 模型方面持续发展，可能应用于信息处理系统。"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ettin-reranker"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "zh": "OpenAI named a Leader in enterprise coding agents by Gartner"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gartner-2026-agentic-coding-leader"
+      },
+      {
+        "title": {
+          "en": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+          "zh": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
+      },
+      {
+        "title": {
+          "en": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "zh": "An OpenAI model has disproved a central conjecture in discrete geometry"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+      },
+      {
+        "title": {
+          "en": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "zh": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+      },
+      {
+        "title": {
+          "en": "Fast-tracking genetic leads to reverse cellular aging",
+          "zh": "Fast-tracking genetic leads to reverse cellular aging"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "https://openai.com/index/virgin-atlantic",
+    "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "https://openai.com/index/adventhealth",
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/agent-glossary",
+    "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "https://huggingface.co/blog/ettin-reranker",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+    "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+    "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+    "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+    "https://www.latent.space/p/daytona",
+    "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+    "https://www.latent.space/p/railway",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+    "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+    "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+    "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
+    "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "https://www.404media.co/millions-of-people-are-installing-malware-on-their-partners-phones-with-zack-whittaker/",
+    "https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/",
+    "https://www.404media.co/an-incomplete-list-of-successful-anti-data-center-legislation/",
+    "https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/",
+    "https://www.404media.co/heres-the-bodycam-footage-of-the-cybertruck-that-drove-into-a-lake/",
+    "https://www.infoq.com/news/2026/05/online-cohort-certification-prog/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/google-synthid-content-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/microsoft-mdash/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/gemma4-multi-token-prediction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/google-genkit-middleware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+    "https://brgsk.xyz/agent-memory-anatomy/",
+    "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+    "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+    "https://developers.cloudflare.com/flagship/",
+    "https://arxiv.org/abs/2605.23908",
+    "https://arxiv.org/abs/2605.23909",
+    "https://arxiv.org/abs/2605.23926",
+    "https://arxiv.org/abs/2605.23928",
+    "https://arxiv.org/abs/2605.23929",
+    "https://arxiv.org/abs/2605.23910",
+    "https://arxiv.org/abs/2605.23912",
+    "https://arxiv.org/abs/2605.23917",
+    "https://arxiv.org/abs/2605.23924",
+    "https://arxiv.org/abs/2605.23954"
+  ]
+}
