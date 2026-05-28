@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-05-28",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Organizations Report Readiness Gap in AI Agent Adoption",
+          "zh": "组织报告AI智能体采纳存在准备度差距"
+        },
+        "tl_dr": {
+          "en": "Despite high ambition for AI agent adoption, most organizations report a lack of readiness in current operations and infrastructure.",
+          "zh": "尽管对AI智能体采纳雄心勃勃，但大多数组织表示其当前运营和基础设施尚未做好准备。"
+        },
+        "key_takeaways": {
+          "en": [
+            "85% of organizations aim for agentic operations within three years.",
+            "76% of organizations state their existing operations and infrastructure are insufficient for this change.",
+            "Readiness deficiencies are observed across organizational people, processes, and workflows."
+          ],
+          "zh": [
+            "85%的组织计划在未来三年内实现智能体化运营。",
+            "76%的组织表示其现有运营和基础设施无法支持这一变革。",
+            "组织在人员、流程和工作流程方面普遍缺乏准备。"
+          ]
+        },
+        "impact": {
+          "en": "This disconnect between ambition and operational readiness indicates a significant challenge for the widespread implementation of enterprise-level AI agents, potentially slowing adoption and necessitating strategic adjustments in organizational design.",
+          "zh": "这种雄心与运营准备度之间的脱节表明企业级AI智能体广泛实施面临重大挑战，可能减缓采纳速度，并要求组织设计进行战略调整。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
+      },
+      {
+        "title": {
+          "en": "Google AI Agent System Development Claims Face Scrutiny",
+          "zh": "谷歌AI代理系统开发主张面临审查"
+        },
+        "tl_dr": {
+          "en": "Claims that Google's AI agents built an operating system for $916 are currently undergoing independent evaluation.",
+          "zh": "谷歌AI代理系统以916美元开发操作系统的说法正接受独立评估。"
+        },
+        "key_takeaways": {
+          "en": [
+            "A claim asserts Google's AI agents developed an operating system for $916.",
+            "The independent evaluation of AI agent claims is emphasized.",
+            "Google's AI demonstrates an inability to spell, including its own name."
+          ],
+          "zh": [
+            "一项主张称谷歌AI代理系统以916美元开发了操作系统。",
+            "强调了对AI代理系统主张进行独立评估的重要性。",
+            "谷歌的AI表现出无法拼写，包括其自身名称的能力。"
+          ]
+        },
+        "impact": {
+          "en": "The scrutiny of AI agent development claims and reported functional limitations underscores the necessity for rigorous, independent verification within the AI industry to maintain credibility and trust in reported capabilities.",
+          "zh": "对AI代理系统开发主张的审查和已报告的功能限制，强调了AI行业内进行严格独立验证的必要性，以维护对所报告能力的信任和信誉。"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/did-googles-ai-agents-really-build"
+      },
+      {
+        "title": {
+          "en": "LLMs Refine Themselves Without External Guidance",
+          "zh": "大型语言模型无需外部指导即可自我精炼"
+        },
+        "tl_dr": {
+          "en": "Researchers proposed Self-Verified Distillation, an algorithm enabling post-trained large language models to improve using only unlabeled prompts across math, science, and coding domains, without external teachers or tools.",
+          "zh": "研究人员提出了一种名为“自验证蒸馏”的算法，使经过后训练的大型语言模型能够在数学、科学和编程领域，仅使用未标记的提示进行自我改进，无需外部教师或工具。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The Self-Verified Distillation algorithm facilitates post-training refinement for LLMs.",
+            "It operates exclusively with unlabeled seed questions, removing the need for external teachers or tools.",
+            "The method's efficacy has been explored across three distinct reasoning domains: math, science, and coding."
+          ],
+          "zh": [
+            "“自验证蒸馏”算法促进了大型语言模型的后训练精炼。",
+            "该方法仅使用未标记的种子问题运行，消除了对外部教师或工具的需求。",
+            "该方法的有效性已在三个不同的推理领域进行探索：数学、科学和编码。"
+          ]
+        },
+        "impact": {
+          "en": "This approach offers a pathway for LLM improvement that reduces reliance on human-labeled data and external feedback, potentially lowering development costs and accelerating model evolution in specific reasoning tasks.",
+          "zh": "这种方法为LLM的改进提供了一条新途径，减少了对人工标注数据和外部反馈的依赖，可能降低开发成本并加速模型在特定推理任务中的演进。"
+        },
+        "source": "arXiv CS.CL",
+        "link": "https://arxiv.org/abs/2605.26132"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "[AINews] All Model Labs are now Agent Labs",
+          "zh": "[AINews] All Model Labs are now Agent Labs"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent"
+      },
+      {
+        "title": {
+          "en": "I think Anthropic and OpenAI have found product-market fit",
+          "zh": "I think Anthropic and OpenAI have found product-market fit"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "AI Won’t Automatically Make Legal Services Cheaper",
+          "zh": "AI Won’t Automatically Make Legal Services Cheaper"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/ai-wont-automatically-make-legal"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini Omni",
+          "zh": "Introducing Gemini Omni"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-omni/"
+      },
+      {
+        "title": {
+          "en": "Fast-tracking genetic leads to reverse cellular aging",
+          "zh": "Fast-tracking genetic leads to reverse cellular aging"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/cisco",
+    "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "https://openai.com/index/warp",
+    "https://openai.com/index/election-safeguards-2026",
+    "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "https://huggingface.co/blog/delta-weight-sync",
+    "https://huggingface.co/blog/agent-glossary",
+    "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+    "https://www.latent.space/p/esmfold2",
+    "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+    "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+    "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+    "https://www.latent.space/p/daytona",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+    "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
+    "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
+    "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+    "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+    "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "https://www.404media.co/lobotomized-character-ai-is-showing-what-ai-enshittification-looks-like/",
+    "https://www.404media.co/podcast-how-deepfakes-destroyed-a-high-school/",
+    "https://www.404media.co/millions-of-people-are-installing-malware-on-their-partners-phones-with-zack-whittaker/",
+    "https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/",
+    "https://www.404media.co/an-incomplete-list-of-successful-anti-data-center-legislation/",
+    "https://www.infoq.com/news/2026/05/azure-logic-apps-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/kulkarni-deep-research-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/online-cohort-certification-prog/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/google-synthid-content-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/microsoft-mdash/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
+    "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+    "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+    "https://arxiv.org/abs/2605.26182",
+    "https://arxiv.org/abs/2605.26242",
+    "https://arxiv.org/abs/2605.26252",
+    "https://arxiv.org/abs/2605.26256",
+    "https://arxiv.org/abs/2605.26279",
+    "https://arxiv.org/abs/2605.26132",
+    "https://arxiv.org/abs/2605.26133",
+    "https://arxiv.org/abs/2605.26275",
+    "https://arxiv.org/abs/2605.26293",
+    "https://arxiv.org/abs/2605.26346"
+  ]
+}
