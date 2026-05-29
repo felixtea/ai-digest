@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-05-29",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Organizations Unprepared for Agentic AI Adoption",
+          "zh": "组织尚未为代理式人工智能应用做好准备"
+        },
+        "tl_dr": {
+          "en": "A disconnect exists between organizations' ambition to adopt agentic AI and their current operational readiness, despite rapidly growing adoption.",
+          "zh": "尽管企业级代理式人工智能应用正在快速增长，但在组织采用代理式人工智能的雄心与其当前运营准备之间存在脱节。"
+        },
+        "key_takeaways": {
+          "en": [
+            "85% of organizations aim to become agentic within the next three years.",
+            "76% of organizations report their current operations and infrastructure are insufficient for agentic AI integration.",
+            "A lack of readiness is observed across people, processes, and workflows for supporting agentic AI."
+          ],
+          "zh": [
+            "85% 的组织目标在未来三年内实现代理式AI转型。",
+            "76% 的组织表示其当前的运营和基础设施无法支持代理式AI的变革。",
+            "在人员、流程和工作流方面，组织缺乏支持代理式AI的准备。"
+          ]
+        },
+        "impact": {
+          "en": "This trend indicates that the widespread implementation of agentic AI agents in enterprises faces significant organizational and infrastructural challenges. The gap between ambition and current capability may slow down broader AI adoption and necessitate strategic planning in organizational design.",
+          "zh": "这一趋势表明，企业中代理式AI代理的广泛实施面临重大的组织和基础设施挑战。雄心与当前能力之间的差距可能会减缓更广泛的AI应用，并需要在组织设计中进行战略规划。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
+      },
+      {
+        "title": {
+          "en": "Biohub Develops Protein World Model, Featuring ESMC-6B and ESMFold2",
+          "zh": "Biohub开发蛋白质世界模型，整合ESMC-6B和ESMFold2"
+        },
+        "tl_dr": {
+          "en": "Biohub has developed a Protein World Model, including ESMC-6B and ESMFold2, which processed 6.8 billion proteins and 1.1 billion structures.",
+          "zh": "Biohub已开发出蛋白质世界模型，其中包含ESMC-6B和ESMFold2，该模型处理了68亿个蛋白质和11亿个结构。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The Protein World Model incorporates ESMC-6B and ESMFold2.",
+            "It was trained on 6.8 billion proteins.",
+            "The model utilized 1.1 billion protein structures."
+          ],
+          "zh": [
+            "蛋白质世界模型整合了ESMC-6B和ESMFold2。",
+            "该模型在68亿个蛋白质上进行了训练。",
+            "该模型利用了11亿个蛋白质结构。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates AI's growing capability in biological modeling, potentially advancing fields like antibody design and programmable biology. It signifies AI's role in understanding and engineering complex biological systems.",
+          "zh": "这一进展展示了人工智能在生物建模方面的日益增长的能力，可能推动抗体设计和可编程生物学等领域的发展。它标志着人工智能在理解和工程复杂生物系统中的作用。"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/esmfold2"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Announces Gemini Omni",
+          "zh": "谷歌DeepMind宣布推出Gemini Omni"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind announced 'Introducing Gemini Omni', but no specific details about the product's capabilities or factual occurrences were provided in the source excerpt.",
+          "zh": "谷歌DeepMind宣布推出“Introducing Gemini Omni”，但源材料摘录中未提供有关该产品功能或具体事件的详细信息。"
+        },
+        "key_takeaways": {
+          "en": [
+            "No specific technical details were provided in the source material.",
+            "No numerical performance metrics were mentioned.",
+            "The excerpt did not describe any specific features or functionalities."
+          ],
+          "zh": [
+            "源材料中未提供具体的技细节。",
+            "未提及任何数值性能指标。",
+            "摘要未描述任何具体功能或特性。"
+          ]
+        },
+        "impact": {
+          "en": "Due to the lack of factual content in the provided excerpt, the specific impact on the AI industry cannot be determined from this source.",
+          "zh": "由于所提供摘录中缺乏事实内容，无法从该来源确定对人工智能行业的具体影响。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-omni/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+          "zh": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/agent-glossary"
+      },
+      {
+        "title": {
+          "en": "[AINews] All Model Labs are now Agent Labs",
+          "zh": "[AINews] All Model Labs are now Agent Labs"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent"
+      },
+      {
+        "title": {
+          "en": "OpenAI’s Frontier Governance Framework",
+          "zh": "OpenAI’s Frontier Governance Framework"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-frontier-governance-framework"
+      },
+      {
+        "title": {
+          "en": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "zh": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+      },
+      {
+        "title": {
+          "en": "Fast-tracking genetic leads to reverse cellular aging",
+          "zh": "Fast-tracking genetic leads to reverse cellular aging"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/endava",
+    "https://openai.com/index/openai-frontier-governance-framework",
+    "https://openai.com/index/cisco",
+    "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "https://openai.com/index/election-safeguards-2026",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "https://huggingface.co/blog/delta-weight-sync",
+    "https://huggingface.co/blog/agent-glossary",
+    "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/cognition",
+    "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+    "https://www.latent.space/p/esmfold2",
+    "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+    "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
+    "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
+    "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+    "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
+    "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+    "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
+    "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://www.404media.co/cities-are-covering-flock-cameras-with-trash-bags/",
+    "https://www.404media.co/sun-magnetic-activity-changes-study/",
+    "https://www.404media.co/cracked-oura-can-you-use-oura-without-monthly-subscription/",
+    "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
+    "https://www.404media.co/lobotomized-character-ai-is-showing-what-ai-enshittification-looks-like/",
+    "https://www.infoq.com/news/2026/05/cloudflare-claude-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/azure-logic-apps-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/kulkarni-deep-research-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/online-cohort-certification-prog/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/google-synthid-content-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.anthropic.com/news/claude-opus-4-8",
+    "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+    "https://nick.winans.io/blog/nice-nano/",
+    "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+    "https://shvbsle.in/various-llm-smells/",
+    "https://arxiv.org/abs/2605.27373",
+    "https://arxiv.org/abs/2605.27379",
+    "https://arxiv.org/abs/2605.27551",
+    "https://arxiv.org/abs/2605.27566",
+    "https://arxiv.org/abs/2605.27567",
+    "https://arxiv.org/abs/2605.27374",
+    "https://arxiv.org/abs/2605.27375",
+    "https://arxiv.org/abs/2605.27376",
+    "https://arxiv.org/abs/2605.27377",
+    "https://arxiv.org/abs/2605.27378"
+  ]
+}
