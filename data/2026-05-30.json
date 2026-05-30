@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-05-30",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Expands Biodefense AI Access with Rosalind Program",
+          "zh": "OpenAI 通过 Rosalind 项目扩大生物防御AI访问权限"
+        },
+        "tl_dr": {
+          "en": "OpenAI launched Rosalind Biodefense, offering trusted access to GPT-Rosalind for vetted developers and U.S. government partners in biodefense, public health, and pandemic preparedness.",
+          "zh": "OpenAI 推出 Rosalind 生物防御项目，向经过审查的开发者和美国政府合作伙伴提供 GPT-Rosalind 的可信访问权限，以推进生物防御、公共卫生和疫情防范工作。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI launched the Rosalind Biodefense program.",
+            "Access to GPT-Rosalind is granted to vetted developers.",
+            "U.S. government partners also receive access for biodefense, public health, and pandemic preparedness."
+          ],
+          "zh": [
+            "OpenAI 推出了 Rosalind 生物防御项目。",
+            "GPT-Rosalind 的访问权限授予经过审查的开发者。",
+            "美国政府合作伙伴也获得访问权限，用于生物防御、公共卫生和疫情防范。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative represents a targeted deployment of frontier AI capabilities to enhance biodefense, public health, and pandemic preparedness. It underscores the industry's focus on applying advanced models to critical societal challenges through controlled access.",
+          "zh": "此举代表着前沿AI能力在生物防御、公共卫生和疫情防范等关键社会问题上的定向部署。它凸显了该行业通过受控访问，将高级模型应用于重要社会挑战的关注。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
+      },
+      {
+        "title": {
+          "en": "Cognitive Categorical Transformer Achieves Lower Perplexity on WikiText-103",
+          "zh": "认知范畴Transformer在WikiText-103上实现更低困惑度"
+        },
+        "tl_dr": {
+          "en": "A new 306-million-parameter architecture, the Cognitive Categorical Transformer (CCT), achieved a validation perplexity of 21.27 on WikiText-103, outperforming an identically fine-tuned GPT-2 Small's 24.19.",
+          "zh": "一项新的3.06亿参数架构，认知范畴Transformer (CCT)，在WikiText-103上实现了21.27的验证困惑度，优于经过相同微调的GPT-2 Small的24.19。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The Cognitive Categorical Transformer (CCT) is a 306-million-parameter language model architecture.",
+            "CCT augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and cognitive science inspirations.",
+            "On WikiText-103, CCT reached 21.27 validation perplexity, compared to 24.19 for an identically fine-tuned GPT-2 Small, under a matched-step protocol (215,000 optimizer steps)."
+          ],
+          "zh": [
+            "认知范畴Transformer (CCT) 是一种拥有3.06亿参数的语言模型架构。",
+            "CCT通过结合范畴理论和认知科学启发的认知基础组件，增强了预训练的GPT-2 Small骨干模型。",
+            "在WikiText-103上，CCT在匹配步骤协议（215,000个优化器步骤）下实现了21.27的验证困惑度，而相同微调的GPT-2 Small则为24.19。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates an alternative approach to improving language model performance by integrating cognitive science principles and category theory. It suggests avenues for developing more efficient or structurally distinct AI architectures, even for smaller models.",
+          "zh": "这项进展通过整合认知科学原理和范畴理论，展示了一种改进语言模型性能的替代方法。它为开发更高效或结构独特的AI架构提供了可能性，即使是对于小型模型。"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2605.28864"
+      },
+      {
+        "title": {
+          "en": "Report Offers Insights from China's Leading AI Labs",
+          "zh": "报告提供中国领先人工智能实验室见解"
+        },
+        "tl_dr": {
+          "en": "A newly published report details lessons learned from direct discussions with most of China's prominent artificial intelligence laboratories.",
+          "zh": "一份新发布的报告详细阐述了通过与中国大多数主要人工智能实验室直接交流所获得的经验教训。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The report is based on a personal trip and direct conversations.",
+            "Discussions were held with a majority of leading AI labs in China.",
+            "The outcome consolidates key lessons derived from these interactions."
+          ],
+          "zh": [
+            "该报告基于一次个人行程和直接对话。",
+            "讨论对象为中国大多数领先的人工智能实验室。",
+            "成果汇集了这些交流中得出的关键经验。"
+          ]
+        },
+        "impact": {
+          "en": "This report offers a direct perspective on the internal workings and developments within China's significant AI research sector, which is relevant for understanding global AI advancements.",
+          "zh": "这份报告为理解中国重要人工智能研究领域的内部运作和发展提供了直接视角，对全球人工智能发展具有参考价值。"
+        },
+        "source": "Interconnects",
+        "link": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "zh": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+      },
+      {
+        "title": {
+          "en": "Fast-tracking genetic leads to reverse cellular aging",
+          "zh": "Fast-tracking genetic leads to reverse cellular aging"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini Omni",
+          "zh": "Introducing Gemini Omni"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-omni/"
+      },
+      {
+        "title": {
+          "en": "Boston Children’s uses AI to unlock new diagnoses",
+          "zh": "Boston Children’s uses AI to unlock new diagnoses"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/boston-childrens-hospital"
+      },
+      {
+        "title": {
+          "en": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+          "zh": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-research/itbench-aa"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/boston-childrens-hospital",
+    "https://openai.com/index/braintrust",
+    "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "https://openai.com/index/endava",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/torch-profiler",
+    "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "https://huggingface.co/blog/delta-weight-sync",
+    "https://huggingface.co/blog/agent-glossary",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+    "https://www.latent.space/p/cognition",
+    "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+    "https://www.latent.space/p/esmfold2",
+    "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+    "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
+    "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
+    "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
+    "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://www.404media.co/behind-the-blog-being-new-and-some-numbers/",
+    "https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/",
+    "https://www.404media.co/cities-are-covering-flock-cameras-with-trash-bags/",
+    "https://www.404media.co/sun-magnetic-activity-changes-study/",
+    "https://www.404media.co/cracked-oura-can-you-use-oura-without-monthly-subscription/",
+    "https://www.infoq.com/news/2026/05/ai-nginx-higress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/github-agentic-token-savings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloudflare-claude-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/azure-logic-apps-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/kulkarni-deep-research-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://noperator.dev/posts/you-can-just-say-it/",
+    "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+    "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+    "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+    "https://arxiv.org/abs/2605.28849",
+    "https://arxiv.org/abs/2605.28855",
+    "https://arxiv.org/abs/2605.28864",
+    "https://arxiv.org/abs/2605.28883",
+    "https://arxiv.org/abs/2605.28897",
+    "https://arxiv.org/abs/2605.28822",
+    "https://arxiv.org/abs/2605.28823",
+    "https://arxiv.org/abs/2605.28824",
+    "https://arxiv.org/abs/2605.28825",
+    "https://arxiv.org/abs/2605.28826"
+  ]
+}
