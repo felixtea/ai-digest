@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-05-31",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Launches Biodefense Program, Expands GPT-Rosalind Access",
+          "zh": "OpenAI 推出生物防御计划，扩大 GPT-Rosalind 访问权限"
+        },
+        "tl_dr": {
+          "en": "OpenAI has launched Rosalind Biodefense to expand trusted access to GPT-Rosalind for vetted developers and U.S. government partners focused on biodefense, public health, and pandemic preparedness.",
+          "zh": "OpenAI 推出 Rosalind 生物防御计划，旨在向经审查的开发者和美国政府合作伙伴扩展 GPT-Rosalind 的可信访问权限，以推进生物防御、公共卫生和疫情准备工作。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI launched a new initiative named Rosalind Biodefense.",
+            "The program expands trusted access to the GPT-Rosalind model.",
+            "Access is granted to vetted developers and U.S. government partners for biodefense, public health, and pandemic preparedness."
+          ],
+          "zh": [
+            "OpenAI 启动了名为 Rosalind 生物防御的新计划。",
+            "该计划扩展了 GPT-Rosalind 模型的可信访问权限。",
+            "访问权限授予经审查的开发者和美国政府合作伙伴，用于生物防御、公共卫生和疫情准备。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative demonstrates a focused application of frontier AI in critical national security and public health domains. It indicates an increasing trend of AI providers collaborating with governmental bodies on high-stakes, specialized applications.",
+          "zh": "这一举措展示了前沿人工智能在国家安全和公共卫生关键领域的专注应用。它表明人工智能提供商与政府机构在高风险、专业应用方面的合作趋势日益增长。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Source Lacks Antigravity 2.0 Details",
+          "zh": "谷歌DeepMind源材料缺失Antigravity 2.0详情"
+        },
+        "tl_dr": {
+          "en": "The provided Google DeepMind source for 'Introducing Google Antigravity 2.0' contained no factual information regarding the product's features or specifics.",
+          "zh": "所提供的谷歌DeepMind关于“推出谷歌Antigravity 2.0”的源材料中，不包含该产品功能或具体细节的任何事实信息。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The excerpt for 'Introducing Google Antigravity 2.0' was empty, providing no content.",
+            "No technical specifications, numerical data, or specific functionalities were present.",
+            "Details regarding the product's purpose or capabilities could not be extracted from the source."
+          ],
+          "zh": [
+            "“推出谷歌Antigravity 2.0”的摘录为空，未提供任何内容。",
+            "源材料中未包含任何技术规格、数值数据或具体功能。",
+            "无法从源材料中提取有关该产品用途或能力的详细信息。"
+          ]
+        },
+        "impact": {
+          "en": "The absence of information in the provided source prevents any assessment of the product's potential implications or role within the AI industry.",
+          "zh": "所提供源材料中信息的缺失，使得无法评估该产品对人工智能行业的潜在影响或作用。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/"
+      },
+      {
+        "title": {
+          "en": "Co-Scientist Identifies Genetic Factors for Cellular Rejuvenation",
+          "zh": "Co-Scientist识别出细胞年轻化的遗传因子"
+        },
+        "tl_dr": {
+          "en": "Biologists utilized Co-Scientist to identify novel genetic factors capable of successfully rejuvenating human cells.",
+          "zh": "生物学家使用Co-Scientist成功发现可逆转细胞衰老的遗传因子。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The AI tool employed for discovery was Co-Scientist.",
+            "The research identified novel genetic factors.",
+            "These factors were successfully demonstrated to rejuvenate human cells."
+          ],
+          "zh": [
+            "用于发现的AI工具是Co-Scientist。",
+            "研究识别出了新型遗传因子。",
+            "这些因子被成功证实可使人类细胞恢复活力。"
+          ]
+        },
+        "impact": {
+          "en": "The application of Co-Scientist in genetic research demonstrates AI's capacity to accelerate the discovery of biological mechanisms, potentially streamlining processes for therapeutic development within the AI-driven drug discovery sector.",
+          "zh": "Co-Scientist在遗传研究中的应用展示了AI加速生物机制发现的能力，有望简化AI驱动药物发现领域中的治疗开发过程。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "zh": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+      },
+      {
+        "title": {
+          "en": "Boston Children’s uses AI to unlock new diagnoses",
+          "zh": "Boston Children’s uses AI to unlock new diagnoses"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/boston-childrens-hospital"
+      },
+      {
+        "title": {
+          "en": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+          "zh": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-research/itbench-aa"
+      },
+      {
+        "title": {
+          "en": "Reachy Mini goes fully local",
+          "zh": "Reachy Mini goes fully local"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/local-reachy-mini-conversation"
+      },
+      {
+        "title": {
+          "en": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+          "zh": "Data Formulator 0.7: AI-powered data analytics for enterprise data"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/boston-childrens-hospital",
+    "https://openai.com/index/braintrust",
+    "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "https://openai.com/index/endava",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/torch-profiler",
+    "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "https://huggingface.co/blog/delta-weight-sync",
+    "https://huggingface.co/blog/agent-glossary",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+    "https://www.latent.space/p/cognition",
+    "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+    "https://www.latent.space/p/esmfold2",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+    "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+    "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+    "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+    "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/",
+    "https://www.404media.co/behind-the-blog-being-new-and-some-numbers/",
+    "https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/",
+    "https://www.404media.co/cities-are-covering-flock-cameras-with-trash-bags/",
+    "https://www.404media.co/sun-magnetic-activity-changes-study/",
+    "https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/meta-cdc-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/ai-nginx-higress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/github-agentic-token-savings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/cloudflare-claude-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+    "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+    "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+    "https://github.com/wolfSSL/wolfCOSE"
+  ]
+}
