@@ -1,0 +1,160 @@
+{
+  "date_id": "2026-06-01",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Launches GPT-Rosalind for Biodefense Applications",
+          "zh": "OpenAI推出GPT-Rosalind用于生物防御应用"
+        },
+        "tl_dr": {
+          "en": "OpenAI launched Rosalind Biodefense, providing trusted access to GPT-Rosalind for vetted developers and U.S. government partners in biodefense, public health, and pandemic preparedness.",
+          "zh": "OpenAI推出了Rosalind生物防御计划，为经过审查的开发者和美国政府合作伙伴提供GPT-Rosalind的受信任访问权限，以用于生物防御、公共卫生和流行病防范。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI initiated Rosalind Biodefense.",
+            "The program expands trusted access to the GPT-Rosalind model.",
+            "Access is granted to vetted developers and U.S. government partners."
+          ],
+          "zh": [
+            "OpenAI启动了Rosalind生物防御计划。",
+            "该计划扩展了对GPT-Rosalind模型的受信任访问权限。",
+            "访问对象为经过审查的开发者和美国政府合作伙伴。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative demonstrates the application of frontier AI models in critical national security and public health domains, indicating a strategic direction for AI deployment beyond general-purpose use.",
+          "zh": "这一举措展示了前沿人工智能模型在国家安全和公共卫生等关键领域的应用，预示着AI部署超越通用用途的战略方向。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Boston Children’s uses AI to unlock new diagnoses",
+          "zh": "Boston Children’s uses AI to unlock new diagnoses"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/boston-childrens-hospital"
+      },
+      {
+        "title": {
+          "en": "Fast-tracking genetic leads to reverse cellular aging",
+          "zh": "Fast-tracking genetic leads to reverse cellular aging"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      },
+      {
+        "title": {
+          "en": "Simulate real-world places with Project Genie and Street View",
+          "zh": "Simulate real-world places with Project Genie and Street View"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/"
+      },
+      {
+        "title": {
+          "en": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+          "zh": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-research/itbench-aa"
+      },
+      {
+        "title": {
+          "en": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+          "zh": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/boston-childrens-hospital",
+    "https://openai.com/index/braintrust",
+    "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "https://openai.com/index/endava",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/torch-profiler",
+    "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "https://huggingface.co/blog/delta-weight-sync",
+    "https://huggingface.co/blog/agent-glossary",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+    "https://www.latent.space/p/cognition",
+    "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+    "https://www.latent.space/p/esmfold2",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+    "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
+    "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
+    "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+    "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://www.interconnects.ai/p/the-distillation-panic",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+    "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/",
+    "https://www.404media.co/behind-the-blog-being-new-and-some-numbers/",
+    "https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/",
+    "https://www.404media.co/cities-are-covering-flock-cameras-with-trash-bags/",
+    "https://www.404media.co/sun-magnetic-activity-changes-study/",
+    "https://www.infoq.com/news/2026/05/duckdb-quack-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/meta-cdc-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/ai-nginx-higress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/github-agentic-token-savings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+    "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
+    "https://prismml.com/news/bonsai-image-4b",
+    "https://github.com/tanrikuluozlem/burn",
+    "https://jbkempf.com/blog/2026/dav2d/"
+  ]
+}
