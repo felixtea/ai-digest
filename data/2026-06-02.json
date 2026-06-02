@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-06-02",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Initiates 1GW Data Center Project in Michigan for Stargate",
+          "zh": "OpenAI 在密歇根启动 Stargate 1GW 数据中心项目"
+        },
+        "tl_dr": {
+          "en": "OpenAI has begun construction on a 1GW data center project in Michigan, part of its Stargate initiative to build AI infrastructure.",
+          "zh": "OpenAI 已在密歇根州启动一个 1GW 数据中心项目的建设，该项目是其 Stargate 计划的一部分，旨在构建人工智能基础设施。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI is building a data center as part of its Stargate initiative.",
+            "The data center project is located in Michigan.",
+            "The planned capacity for the data center is 1GW."
+          ],
+          "zh": [
+            "OpenAI 正在建设一个数据中心，作为其 Stargate 计划的一部分。",
+            "该数据中心项目位于密歇根州。",
+            "该数据中心的规划容量为 1GW。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative represents a foundational expansion of AI infrastructure, which is critical for supporting the future development and deployment of AI technologies. The project aims to expand AI access and create jobs.",
+          "zh": "这一举措代表了人工智能基础设施的根本性扩展，这对支持未来人工智能技术的发展和部署至关重要。该项目旨在扩大人工智能的访问并创造就业机会。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/stargate-michigan-data-center"
+      },
+      {
+        "title": {
+          "en": "Enterprises Face Readiness Gap in AI Agent Adoption",
+          "zh": "企业在采纳AI智能体方面面临准备度差距"
+        },
+        "tl_dr": {
+          "en": "Despite 85% of organizations aiming for agentic AI adoption within three years, 76% report their current operations and infrastructure are unprepared.",
+          "zh": "尽管85%的企业计划在未来三年内采用AI智能体，但有76%的企业表示其现有运营和基础设施尚未做好准备。"
+        },
+        "key_takeaways": {
+          "en": [
+            "85% of organizations express a desire to become \"agentic\" within the next three years.",
+            "76% of these organizations indicate their existing operations and infrastructure are insufficient for this transformation.",
+            "The identified lack of readiness spans people, processes, and workflows."
+          ],
+          "zh": [
+            "85%的企业表示希望在未来三年内实现“智能体化”。",
+            "其中76%的企业指出其目前的运营和基础设施无法支持这一转变。",
+            "准备不足的问题体现在人员、流程和工作流程等多个方面。"
+          ]
+        },
+        "impact": {
+          "en": "This gap between ambition and operational capability indicates a significant challenge for the widespread integration of enterprise-level AI agents, potentially hindering broader industry adoption despite high demand.",
+          "zh": "这种雄心与实际运营能力之间的差距表明，企业级AI智能体的广泛整合面临重大挑战，尽管需求旺盛，但这可能阻碍其在整个行业的进一步普及。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
+      },
+      {
+        "title": {
+          "en": "Meta AI Vulnerability Exposed Instagram Accounts",
+          "zh": "Meta AI漏洞致Instagram账户被访问"
+        },
+        "tl_dr": {
+          "en": "Hackers reportedly gained access to high-profile Instagram accounts by asking Meta's AI support bot to link target accounts with new emails.",
+          "zh": "据报道，黑客通过请求Meta的AI支持机器人将目标账户与新邮箱关联，从而获得了对高知名度Instagram账户的访问权限。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Hackers initiated conversations with Meta's AI support bot.",
+            "The AI bot was asked to link target Instagram accounts with new email addresses.",
+            "The method successfully provided hackers with access to high-profile Instagram accounts."
+          ],
+          "zh": [
+            "黑客通过与Meta的AI支持机器人进行对话来发起攻击。",
+            "该AI机器人被要求将目标Instagram账户与新的电子邮件地址关联。",
+            "此方法成功使黑客获得了对高知名度Instagram账户的访问权限。"
+          ]
+        },
+        "impact": {
+          "en": "This exploit highlights the significant risks associated with offloading technical support functions to AI systems, particularly concerning account security and user data integrity.",
+          "zh": "此次漏洞凸显了将技术支持职能外包给AI系统所带来的重大风险，尤其是在账户安全和用户数据完整性方面。"
+        },
+        "source": "404 Media",
+        "link": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "OpenAI frontier models and Codex are now available on AWS",
+          "zh": "OpenAI frontier models and Codex are now available on AWS"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
+      },
+      {
+        "title": {
+          "en": "Open-world evaluations for measuring frontier AI capabilities",
+          "zh": "Open-world evaluations for measuring frontier AI capabilities"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/open-world-evaluations-for-measuring"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini Omni",
+          "zh": "Introducing Gemini Omni"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-omni/"
+      },
+      {
+        "title": {
+          "en": "Fast-tracking genetic leads to reverse cellular aging",
+          "zh": "Fast-tracking genetic leads to reverse cellular aging"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      },
+      {
+        "title": {
+          "en": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+          "zh": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "https://openai.com/index/stargate-michigan-data-center",
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "https://openai.com/index/boston-childrens-hospital",
+    "https://openai.com/index/braintrust",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "https://huggingface.co/blog/torch-profiler",
+    "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/video-agents",
+    "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+    "https://www.latent.space/p/cognition",
+    "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything",
+    "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+    "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+    "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
+    "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+    "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/",
+    "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+    "https://www.404media.co/we-sued-ice-to-get-its-spyware-contract-the-agency-is-redacting-essentially-everything/",
+    "https://www.404media.co/ai-grifters-are-making-anti-data-center-slop-with-ai/",
+    "https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/",
+    "https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/badhost-ai-systems-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/duckdb-quack-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/meta-cdc-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "https://debug.com/",
+    "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+    "https://30fps.net/pages/255-vs-256-division/",
+    "https://arxiv.org/abs/2605.30512",
+    "https://arxiv.org/abs/2605.30542",
+    "https://arxiv.org/abs/2605.30563",
+    "https://arxiv.org/abs/2605.30570",
+    "https://arxiv.org/abs/2605.30576",
+    "https://arxiv.org/abs/2605.30400",
+    "https://arxiv.org/abs/2605.30407",
+    "https://arxiv.org/abs/2605.30415",
+    "https://arxiv.org/abs/2605.30443",
+    "https://arxiv.org/abs/2605.30459"
+  ]
+}
