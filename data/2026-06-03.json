@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-06-03",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Organizational Readiness Lags AI Ambition",
+          "zh": "企业组织结构滞后于AI雄心"
+        },
+        "tl_dr": {
+          "en": "Many organizations aspire to integrate agentic AI within three years but lack the necessary operational and infrastructural readiness.",
+          "zh": "尽管许多组织计划在三年内整合代理AI，但它们普遍缺乏必要的运营和基础设施准备。"
+        },
+        "key_takeaways": {
+          "en": [
+            "85% of organizations aim to be 'agentic' within the next three years.",
+            "76% of organizations report their current operations and infrastructure cannot support this change.",
+            "Lack of readiness is cited across people, processes, and workflows."
+          ],
+          "zh": [
+            "85%的组织计划在未来三年内实现“代理化”。",
+            "76%的组织表示其当前运营和基础设施无法支持这一变革。",
+            "组织在人员、流程和工作流方面存在准备不足的问题。"
+          ]
+        },
+        "impact": {
+          "en": "The disparity between organizations' AI adoption goals and their current capabilities indicates significant operational and structural challenges in widespread enterprise-level AI agent deployment. This may slow the pace of AI integration in businesses.",
+          "zh": "组织在AI采纳目标与其现有能力之间的差距表明，在企业级AI代理的广泛部署中存在重大的运营和结构性挑战。这可能会减缓AI在企业中的整合速度。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Clarifies AI Delegation Reliability Paper",
+          "zh": "微软研究院澄清AI委托可靠性论文"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research issued a clarification regarding their paper 'LLMs Corrupt Your Documents When You Delegate,' which generated discussion on AI system reliability in delegated workflows.",
+          "zh": "微软研究院就其论文《当你委托时，大型语言模型会破坏你的文档》发布了澄清，该论文引发了关于委托工作流中AI系统可靠性的讨论。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The paper titled 'LLMs Corrupt Your Documents When You Delegate' prompted discussion.",
+            "The discussion focuses on the reliability of AI systems in delegated workflows.",
+            "The research aims to develop robust evaluation methods for long-horizon delegated workflows."
+          ],
+          "zh": [
+            "题为《当你委托时，大型语言模型会破坏你的文档》的论文引发了讨论。",
+            "讨论聚焦于委托工作流中AI系统的可靠性问题。",
+            "该研究旨在为长周期委托工作流开发鲁棒的评估方法。"
+          ]
+        },
+        "impact": {
+          "en": "This research and subsequent clarification highlight the ongoing challenges in ensuring the reliability of AI systems, particularly Large Language Models, when integrated into automated or delegated processes. It underscores the importance of developing robust evaluation methods for such applications within the AI industry.",
+          "zh": "这项研究及其后续澄清凸显了将AI系统（特别是大型语言模型）整合到自动化或委托流程中时，确保其可靠性所面临的持续挑战。它强调了在AI行业中为此类应用开发鲁棒评估方法的重要性。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/"
+      },
+      {
+        "title": {
+          "en": "DuckDB Unveils Quack Protocol for Networked Multi-User Analytics",
+          "zh": "DuckDB发布Quack协议 赋能网络多用户分析"
+        },
+        "tl_dr": {
+          "en": "DuckDB has announced Quack, a new remote protocol over HTTP, enabling multiple DuckDB instances to connect to a single database over a network, adding client-server capabilities to the previously embedded database.",
+          "zh": "DuckDB近日宣布推出Quack协议，这是一种基于HTTP的新型远程协议，允许通过网络使多个DuckDB实例连接并操作同一数据库，从而为此前主要为本地嵌入式数据库引入了客户端-服务器功能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "DuckDB has introduced Quack, a new remote protocol.",
+            "The protocol operates over HTTP.",
+            "Quack enables multi-user analytics by allowing multiple DuckDB instances to connect to a shared database over a network, introducing client-server capabilities."
+          ],
+          "zh": [
+            "DuckDB推出了名为“Quack”的新型远程协议。",
+            "该协议通过HTTP运行。",
+            "它使多个DuckDB实例能够通过网络连接并操作同一数据库，从而实现多用户分析，并引入了客户端-服务器功能。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides DuckDB with capabilities for collaborative data analytics, which can support AI/ML workflows requiring shared access to data for model training, evaluation, and deployment in networked environments.",
+          "zh": "这一进展为DuckDB带来了协同数据分析能力，可支持AI/ML工作流在网络环境中对数据进行共享访问，以进行模型训练、评估和部署。"
+        },
+        "source": "InfoQ",
+        "link": "https://www.infoq.com/news/2026/05/duckdb-quack-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Introducing Gemini Omni",
+          "zh": "Introducing Gemini Omni"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-omni/"
+      },
+      {
+        "title": {
+          "en": "Fast-tracking genetic leads to reverse cellular aging",
+          "zh": "Fast-tracking genetic leads to reverse cellular aging"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      },
+      {
+        "title": {
+          "en": "Simulate real-world places with Project Genie and Street View",
+          "zh": "Simulate real-world places with Project Genie and Street View"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/"
+      },
+      {
+        "title": {
+          "en": "Travelers deploys AI-powered claims countrywide with OpenAI",
+          "zh": "Travelers deploys AI-powered claims countrywide with OpenAI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/travelers"
+      },
+      {
+        "title": {
+          "en": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+          "zh": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/JetBrains/mellum2-launch"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/travelers",
+    "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "https://openai.com/index/codex-for-knowledge-work",
+    "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/Hcompany/holo31",
+    "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "https://huggingface.co/blog/torch-profiler",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/github",
+    "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
+    "https://www.latent.space/p/video-agents",
+    "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+    "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+    "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
+    "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
+    "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+    "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
+    "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
+    "https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/",
+    "https://www.404media.co/here-is-the-contract-for-palantirs-super-api-for-the-irs/",
+    "https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/",
+    "https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/badhost-ai-systems-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/duckdb-quack-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/meta-cdc-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://github.com/c0dejedi/nbd-vram",
+    "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "https://www.lumafield.com/scan-of-the-month/byd",
+    "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+    "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "https://arxiv.org/abs/2606.00002",
+    "https://arxiv.org/abs/2606.00005",
+    "https://arxiv.org/abs/2606.00007",
+    "https://arxiv.org/abs/2606.00008",
+    "https://arxiv.org/abs/2606.00009",
+    "https://arxiv.org/abs/2606.00012",
+    "https://arxiv.org/abs/2606.00014",
+    "https://arxiv.org/abs/2606.00016",
+    "https://arxiv.org/abs/2606.00020",
+    "https://arxiv.org/abs/2606.00021"
+  ]
+}
