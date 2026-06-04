@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-06-04",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "DeepMind AI Identifies Factors Rejuvenating Human Cells",
+          "zh": "DeepMind AI 识别出使人类细胞恢复活力的因素"
+        },
+        "tl_dr": {
+          "en": "Biologists utilized Google DeepMind's Co-Scientist AI to discover novel factors that successfully rejuvenated human cells.",
+          "zh": "生物学家利用Google DeepMind的Co-Scientist人工智能，发现了能够成功使人类细胞恢复活力的新型因子。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The Co-Scientist AI platform, developed by Google DeepMind, was employed in biological research.",
+            "Its application led to the identification of novel biological factors.",
+            "These identified factors demonstrated successful rejuvenation of human cells."
+          ],
+          "zh": [
+            "由Google DeepMind开发的Co-Scientist人工智能平台被应用于生物学研究。",
+            "其应用识别出了新型生物因子。",
+            "这些被识别出的因子成功地使人类细胞恢复了活力。"
+          ]
+        },
+        "impact": {
+          "en": "This demonstrates AI's practical utility in accelerating biological discovery, specifically in the field of cellular aging research. The ability to identify novel therapeutic targets could have implications for age-related health interventions.",
+          "zh": "这展示了人工智能在加速生物发现方面的实际效用，尤其是在细胞衰老研究领域。识别新型治疗靶点的能力可能对与年龄相关的健康干预措施产生影响。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+      },
+      {
+        "title": {
+          "en": "Microsoft Introduces New MAI Models, Featuring 1T-Parameter MAI-Thinking-1",
+          "zh": "微软发布新型MAI模型，推出拥有1万亿参数的MAI-Thinking-1"
+        },
+        "tl_dr": {
+          "en": "Microsoft announced two new Large Language Models, MAI-Thinking-1 and MAI-Code-1-Flash, at its Build conference.",
+          "zh": "微软在其Build大会上发布了两款新型大型语言模型：MAI-Thinking-1和MAI-Code-1-Flash。"
+        },
+        "key_takeaways": {
+          "en": [
+            "MAI-Thinking-1, a reasoning-focused LLM, features 1 trillion parameters with 35 billion active parameters.",
+            "MAI-Code-1-Flash, a coding-focused LLM, contains 137 billion parameters with 5 billion active parameters.",
+            "MAI-Code-1-Flash is purpose-built for GitHub Copilot."
+          ],
+          "zh": [
+            "专注于推理的MAI-Thinking-1大语言模型拥有1万亿参数，其中350亿为活跃参数。",
+            "专注于代码的MAI-Code-1-Flash大语言模型包含1370亿参数，其中50亿为活跃参数。",
+            "MAI-Code-1-Flash专为GitHub Copilot构建。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of these large-scale and specialized models by Microsoft signifies continued advancement in AI capabilities, particularly for complex reasoning and dedicated code generation tasks. This development could influence the direction of future AI application development.",
+          "zh": "微软推出这些大规模和专业化模型，标志着人工智能能力在复杂推理和专用代码生成任务方面的持续进步。这一发展可能会影响未来人工智能应用的方向。"
+        },
+        "source": "Microsoft",
+        "link": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Organizations Face Readiness Gap in Enterprise AI Agent Adoption",
+          "zh": "企业在采纳AI智能体方面面临准备度差距"
+        },
+        "tl_dr": {
+          "en": "A significant majority of organizations aim to integrate AI agents within three years, but most report their current infrastructure and operations cannot support this transition.",
+          "zh": "尽管85%的组织计划在未来三年内采用AI智能体，但76%表示其现有运营和基础设施无法支持这一变革。"
+        },
+        "key_takeaways": {
+          "en": [
+            "85% of organizations express a goal to become 'agentic' within the next three years.",
+            "76% of organizations indicate their current operations and infrastructure are insufficient for supporting AI agent integration.",
+            "Reported unreadiness spans people, processes, and workflows within organizations."
+          ],
+          "zh": [
+            "85%的组织表达了在未来三年内实现“智能体化”的目标。",
+            "76%的组织指出其现有运营和基础设施不足以支持AI智能体的整合。",
+            "报告显示，组织在人员、流程和工作流程方面普遍缺乏准备。"
+          ]
+        },
+        "impact": {
+          "en": "This disparity between ambition and operational readiness highlights a critical challenge for the rapid adoption of enterprise-level AI agents. It suggests that while intent is high, significant internal restructuring is required to effectively leverage AI agent capabilities across industries.",
+          "zh": "这种雄心与运营准备度之间的差异，凸显了企业级AI智能体快速普及面临的关键挑战。这表明，尽管采用意愿强烈，但各行业需要进行重大的内部重组才能有效利用AI智能体能力。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "How Wasmer used Codex to build a Node.js runtime for the edge",
+          "zh": "How Wasmer used Codex to build a Node.js runtime for the edge"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/wasmer"
+      },
+      {
+        "title": {
+          "en": "Arm Open-Sources Metis, an AI Security Framework Outperforming Traditional SAST Tools",
+          "zh": "Arm Open-Sources Metis, an AI Security Framework Outperforming Traditional SAST Tools"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini Omni",
+          "zh": "Introducing Gemini Omni"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-omni/"
+      },
+      {
+        "title": {
+          "en": "Simulate real-world places with Project Genie and Street View",
+          "zh": "Simulate real-world places with Project Genie and Street View"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/"
+      },
+      {
+        "title": {
+          "en": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+          "zh": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "https://openai.com/index/wasmer",
+    "https://openai.com/index/public-policy-agenda",
+    "https://openai.com/index/frontier-safety-blueprint",
+    "https://openai.com/index/travelers",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/axiom",
+    "https://www.latent.space/p/satya-2026",
+    "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
+    "https://www.latent.space/p/github",
+    "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+    "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+    "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+    "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
+    "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+    "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+    "https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/",
+    "https://www.404media.co/podcast-hackers-asked-meta-ai-to-let-them-in-it-worked/",
+    "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+    "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
+    "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
+    "https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/badhost-ai-systems-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/duckdb-quack-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/meta-cdc-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "https://burntsushi.net/encephalitis/",
+    "https://github.com/Panzerschrek/U-00DC-Sprache/",
+    "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "https://arxiv.org/abs/2606.02673",
+    "https://arxiv.org/abs/2606.02775",
+    "https://arxiv.org/abs/2606.02791",
+    "https://arxiv.org/abs/2606.02798",
+    "https://arxiv.org/abs/2606.02802",
+    "https://arxiv.org/abs/2606.02584",
+    "https://arxiv.org/abs/2606.02741",
+    "https://arxiv.org/abs/2606.02750",
+    "https://arxiv.org/abs/2606.02776",
+    "https://arxiv.org/abs/2606.02780"
+  ]
+}
