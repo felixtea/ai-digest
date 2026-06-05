@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-06-05",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Proposes AI-Powered Biodefense Strategy",
+          "zh": "OpenAI 提出人工智能驱动的生物防御策略"
+        },
+        "tl_dr": {
+          "en": "OpenAI has published an action plan focused on AI-powered biological resilience.",
+          "zh": "OpenAI 发布了一项关于人工智能驱动的生物韧性行动计划。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI released a plan addressing the application of AI in biological resilience.",
+            "The plan is framed under the context of \"Biodefense in the Intelligence Age.\"",
+            "It outlines actions for leveraging AI capabilities to enhance biosecurity."
+          ],
+          "zh": [
+            "OpenAI 发布了一项关于人工智能应用于生物韧性的计划。",
+            "该计划在“智能时代的生物防御”背景下提出。",
+            "它概述了利用人工智能能力增强生物安全的行动。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative highlights an industry focus on critical security applications and the proactive development of frameworks for managing AI's societal implications, particularly in sensitive domains like biological defense.",
+          "zh": "这一举措凸显了行业对关键安全应用的关注，以及在生物防御等敏感领域主动开发管理人工智能社会影响的框架。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/biodefense-in-the-intelligence-age"
+      },
+      {
+        "title": {
+          "en": "Microsoft Unveils Two New MAI Large Language Models",
+          "zh": "微软发布两款全新MAI大型语言模型"
+        },
+        "tl_dr": {
+          "en": "Microsoft announced two new text-based large language models, MAI-Thinking-1 and MAI-Code-1-Flash, during Microsoft Build.",
+          "zh": "微软在Build大会上发布了两款新的文本大型语言模型：MAI-Thinking-1和MAI-Code-1-Flash。"
+        },
+        "key_takeaways": {
+          "en": [
+            "MAI-Thinking-1 features 1 trillion total parameters with 35 billion active parameters for reasoning tasks.",
+            "MAI-Code-1-Flash has 137 billion total parameters and 5 billion active parameters, purpose-built for GitHub C.",
+            "MAI-Thinking-1 is currently available to \"select early partners\"."
+          ],
+          "zh": [
+            "MAI-Thinking-1总参数量为1万亿，其中350亿为活跃参数，用于推理任务。",
+            "MAI-Code-1-Flash总参数量为1370亿，其中50亿为活跃参数，专为GitHub C打造。",
+            "MAI-Thinking-1目前面向\"精选早期合作伙伴\"提供。"
+          ]
+        },
+        "impact": {
+          "en": "These new models demonstrate Microsoft's continued investment in developing specialized AI capabilities, particularly for complex reasoning and code generation, which could influence future AI application development and enterprise integration.",
+          "zh": "这些新模型表明微软持续投入开发专用AI能力，特别是在复杂推理和代码生成方面，这可能影响未来的AI应用开发和企业集成。"
+        },
+        "source": "Microsoft AI",
+        "link": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Unveils Gemini Omni",
+          "zh": "谷歌DeepMind发布Gemini Omni"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind announced the introduction of Gemini Omni, a new model, but specific details were not provided in the source excerpt.",
+          "zh": "谷歌DeepMind宣布推出新模型Gemini Omni，但源材料摘录中未提供具体细节。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Specific technical capabilities were not detailed in the provided excerpt.",
+            "No numerical performance metrics were disclosed in the source material.",
+            "Information regarding its architecture or intended applications was absent from the excerpt."
+          ],
+          "zh": [
+            "所提供的摘录中未详细说明具体技术能力。",
+            "源材料中未披露任何数值性能指标。",
+            "摘录中缺少有关其架构或预期应用的信息。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of a new model like Gemini Omni could potentially influence the AI industry by expanding capabilities or setting new benchmarks, but its actual significance cannot be determined without specific feature and performance data.",
+          "zh": "像Gemini Omni这样的新模型的推出，可能会通过扩展功能或设定新基准来影响人工智能行业，但若无具体特性和性能数据，其实际重要性无法确定。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-omni/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Introducing new capabilities to GPT-Rosalind",
+          "zh": "Introducing new capabilities to GPT-Rosalind"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+      },
+      {
+        "title": {
+          "en": "Arm Open-Sources Metis, an AI Security Framework Outperforming Traditional SAST Tools",
+          "zh": "Arm Open-Sources Metis, an AI Security Framework Outperforming Traditional SAST Tools"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "zh": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+      },
+      {
+        "title": {
+          "en": "Simulate real-world places with Project Genie and Street View",
+          "zh": "Simulate real-world places with Project Genie and Street View"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/"
+      },
+      {
+        "title": {
+          "en": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
+          "zh": "Vega: Zero-knowledge proofs for digital identity in the age of AI"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/endava-frontiers",
+    "https://openai.com/index/chatgpt-memory-dreaming",
+    "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "https://openai.com/index/wasmer",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/andon",
+    "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
+    "https://www.latent.space/p/axiom",
+    "https://www.latent.space/p/satya-2026",
+    "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
+    "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
+    "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+    "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+    "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+    "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/",
+    "https://www.404media.co/the-lego-bricks-and-minifigs-reckless-benyoutube-scandal-has-broken-containment-can-no-longer-be-ignored/",
+    "https://www.404media.co/immigrant-rights-lawyers-file-lawsuit-over-palantirs-elite/",
+    "https://www.404media.co/new-york-court-ai-citations-landberg-case/",
+    "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+    "https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/badhost-ai-systems-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/duckdb-quack-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/05/meta-cdc-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://arxiv.org/abs/2606.04032",
+    "https://github.com/anthropics/defending-code-reference-harness",
+    "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+    "https://www.anthropic.com/institute/recursive-self-improvement",
+    "https://tiki.li/blog/blqsort",
+    "https://arxiv.org/abs/2606.04037",
+    "https://arxiv.org/abs/2606.04150",
+    "https://arxiv.org/abs/2606.04152",
+    "https://arxiv.org/abs/2606.04202",
+    "https://arxiv.org/abs/2606.04223",
+    "https://arxiv.org/abs/2606.04095",
+    "https://arxiv.org/abs/2606.04109",
+    "https://arxiv.org/abs/2606.04118",
+    "https://arxiv.org/abs/2606.04120",
+    "https://arxiv.org/abs/2606.04127"
+  ]
+}
