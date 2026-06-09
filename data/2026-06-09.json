@@ -1,0 +1,141 @@
+{
+  "date_id": "2026-06-09",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Siri AI at WWDC 2026",
+          "zh": "Siri AI at WWDC 2026"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Built to benefit everyone: our plan",
+          "zh": "Built to benefit everyone: our plan"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/built-to-benefit-everyone-our-plan"
+      },
+      {
+        "title": {
+          "en": "Introducing the OpenAI Economic Research Exchange",
+          "zh": "Introducing the OpenAI Economic Research Exchange"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/economic-research-exchange"
+      },
+      {
+        "title": {
+          "en": "Dreaming: Better memory for a more helpful ChatGPT",
+          "zh": "Dreaming: Better memory for a more helpful ChatGPT"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/chatgpt-memory-dreaming"
+      },
+      {
+        "title": {
+          "en": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "zh": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/openai-submits-confidential-s-1",
+    "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "https://openai.com/index/economic-research-exchange",
+    "https://openai.com/index/endava-frontiers",
+    "https://openai.com/index/chatgpt-memory-dreaming",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://huggingface.co/blog/openenv-agentic-rl",
+    "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "https://huggingface.co/blog/hf-cli-for-agents",
+    "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+    "https://www.latent.space/p/bad-envs",
+    "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+    "https://www.latent.space/p/andon",
+    "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
+    "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+    "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+    "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+    "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+    "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+    "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
+    "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
+    "https://www.404media.co/its-so-not-over-for-hollywood-with-devindra-hardawar/",
+    "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
+    "https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/",
+    "https://www.infoq.com/news/2026/06/google-gemma4-12b-local-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/infoq-turns-20/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/microsoft-discovery-majorana-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/extenddb-dynamodb-adapter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://openai.com/index/openai-submits-confidential-s-1/",
+    "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+    "https://www.apple.com/apple-intelligence/",
+    "https://vorpus.github.io/performativeUI/",
+    "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "https://arxiv.org/abs/2606.06514",
+    "https://arxiv.org/abs/2606.06518",
+    "https://arxiv.org/abs/2606.06519",
+    "https://arxiv.org/abs/2606.06523",
+    "https://arxiv.org/abs/2606.06526",
+    "https://arxiv.org/abs/2606.06586",
+    "https://arxiv.org/abs/2606.06614",
+    "https://arxiv.org/abs/2606.06622",
+    "https://arxiv.org/abs/2606.06635",
+    "https://arxiv.org/abs/2606.06646"
+  ]
+}
