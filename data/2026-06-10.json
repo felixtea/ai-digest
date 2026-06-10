@@ -1,0 +1,218 @@
+{
+  "date_id": "2026-06-10",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Claude Fable 5 Pricing Integrated Into AgentsView Tool",
+          "zh": "Claude Fable 5 模型价格集成至 AgentsView 工具"
+        },
+        "tl_dr": {
+          "en": "Simon Willison configured a custom price for the newly released Claude Fable 5 model within the AgentsView tool to track token usage.",
+          "zh": "Simon Willison 在 AgentsView 工具中为新发布的 Claude Fable 5 模型配置了自定义价格，以追踪其令牌使用情况。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Claude Fable 5 was released today, requiring immediate pricing updates for usage tracking.",
+            "AgentsView is a tool designed for monitoring token usage across various coding agents.",
+            "The new model's pricing was manually added to AgentsView's database, as it was not included by default."
+          ],
+          "zh": [
+            "Claude Fable 5 于今日发布，需要立即更新价格以进行使用追踪。",
+            "AgentsView 是一款用于监控不同编码代理的令牌使用情况的工具。",
+            "新模型的定价被手动添加到 AgentsView 的价格数据库中，因为它最初未被包含。"
+          ]
+        },
+        "impact": {
+          "en": "This event highlights the ongoing need for tools to quickly adapt to new AI model releases for accurate usage monitoring and cost management, and demonstrates AI's utility in development tasks.",
+          "zh": "此事件突显了工具需要快速适应新人工智能模型发布以实现准确使用监控和成本管理的持续需求，并展示了人工智能在开发任务中的实用性。"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "OpenAI Files Confidential S-1 with SEC",
+          "zh": "OpenAI向SEC秘密提交S-1文件"
+        },
+        "tl_dr": {
+          "en": "OpenAI has confirmed the confidential submission of a draft S-1 document to the U.S. Securities and Exchange Commission, with no timing determined for further actions.",
+          "zh": "OpenAI已证实向美国证券交易委员会秘密提交了一份S-1草案文件，但尚未确定后续行动的时间。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI submitted a draft S-1 document to the SEC.",
+            "The S-1 submission was made confidentially.",
+            "OpenAI has not yet determined the timing for any subsequent actions related to this filing."
+          ],
+          "zh": [
+            "OpenAI已向美国证券交易委员会（SEC）提交了一份S-1草案文件。",
+            "这份S-1文件是秘密提交的。",
+            "OpenAI尚未确定与此次提交相关的任何后续行动时间。"
+          ]
+        },
+        "impact": {
+          "en": "This confidential S-1 submission indicates OpenAI is exploring paths towards a potential public offering, which could significantly alter its funding structure and market presence within the AI industry. A public listing would also provide increased financial transparency.",
+          "zh": "这份秘密提交的S-1文件表明OpenAI正在探索潜在的公开募股途径，此举可能显著改变其融资结构和在人工智能行业中的市场地位。上市也将增加公司的财务透明度。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-submits-confidential-s-1"
+      },
+      {
+        "title": {
+          "en": "",
+          "zh": ""
+        },
+        "tl_dr": {
+          "en": "",
+          "zh": ""
+        },
+        "key_takeaways": {
+          "en": [],
+          "zh": []
+        },
+        "impact": {
+          "en": "",
+          "zh": ""
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "The Open Source Community is backing OpenEnv for Agentic RL",
+          "zh": "The Open Source Community is backing OpenEnv for Agentic RL"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/openenv-agentic-rl"
+      },
+      {
+        "title": {
+          "en": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "zh": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      },
+      {
+        "title": {
+          "en": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "zh": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+      },
+      {
+        "title": {
+          "en": "Claude Dispatch and the Power of Interfaces",
+          "zh": "Claude Dispatch and the Power of Interfaces"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of"
+      },
+      {
+        "title": {
+          "en": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+          "zh": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/nextdoor",
+    "https://openai.com/index/notion",
+    "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "https://openai.com/index/openai-submits-confidential-s-1",
+    "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+    "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "https://huggingface.co/blog/github-ci-hf-jobs",
+    "https://huggingface.co/blog/openenv-agentic-rl",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+    "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+    "https://www.latent.space/p/bad-envs",
+    "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+    "https://www.latent.space/p/andon",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+    "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
+    "https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything",
+    "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
+    "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+    "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+    "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/",
+    "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+    "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
+    "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
+    "https://www.infoq.com/news/2026/06/google-gemma4-12b-local-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/infoq-turns-20/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/microsoft-discovery-majorana-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/extenddb-dynamodb-adapter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+    "https://aarushgupta.io/posts/kan-fpga/",
+    "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/",
+    "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "https://arxiv.org/abs/2606.07549",
+    "https://arxiv.org/abs/2606.07577",
+    "https://arxiv.org/abs/2606.07594",
+    "https://arxiv.org/abs/2606.07718",
+    "https://arxiv.org/abs/2606.07720",
+    "https://arxiv.org/abs/2606.06586",
+    "https://arxiv.org/abs/2606.06614",
+    "https://arxiv.org/abs/2606.06622",
+    "https://arxiv.org/abs/2606.06635",
+    "https://arxiv.org/abs/2606.06646"
+  ]
+}
