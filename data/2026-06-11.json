@@ -1,0 +1,160 @@
+{
+  "date_id": "2026-06-11",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Unveils DiffusionGemma for Faster Text Generation",
+          "zh": "Google DeepMind 发布 DiffusionGemma 以加快文本生成"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has launched DiffusionGemma, a new model capable of 4x faster text generation.",
+          "zh": "Google DeepMind 发布了 DiffusionGemma，一个可将文本生成速度提高四倍的新模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "DiffusionGemma accelerates text generation by a factor of 4x.",
+            "An earlier experimental Gemini Diffusion model preview achieved 857 tokens/second.",
+            "The previous Gemini Diffusion model was briefly released in May of last year without further announcements."
+          ],
+          "zh": [
+            "DiffusionGemma 将文本生成速度提高了四倍。",
+            "此前发布的实验性 Gemini Diffusion 模型预览版曾达到 857 词元/秒的速度。",
+            "之前的 Gemini Diffusion 模型于去年五月短暂发布，此后未再发布相关公告。"
+          ]
+        },
+        "impact": {
+          "en": "This advancement indicates progress in optimizing AI model performance, potentially reducing the computational resources and time required for text generation tasks. Improved speed can enhance the practicality and user experience of AI-powered applications.",
+          "zh": "这一进展表明 AI 模型性能优化取得了进步，可能降低文本生成任务所需的计算资源和时间。速度的提升可以增强 AI 驱动型应用的实用性和用户体验。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
+          "zh": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos"
+      },
+      {
+        "title": {
+          "en": "PRC-linked influence operations are targeting AI debates in the US",
+          "zh": "PRC-linked influence operations are targeting AI debates in the US"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
+      },
+      {
+        "title": {
+          "en": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "zh": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      },
+      {
+        "title": {
+          "en": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+          "zh": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
+      },
+      {
+        "title": {
+          "en": "Access OpenAI models and Codex through your Oracle cloud commitment",
+          "zh": "Access OpenAI models and Codex through your Oracle cloud commitment"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-on-oracle-cloud"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "https://openai.com/index/openai-on-oracle-cloud",
+    "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "https://openai.com/index/lseg",
+    "https://openai.com/index/nextdoor",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+    "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+    "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "https://huggingface.co/blog/github-ci-hf-jobs",
+    "https://huggingface.co/blog/openenv-agentic-rl",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+    "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+    "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+    "https://www.latent.space/p/bad-envs",
+    "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+    "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+    "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
+    "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
+    "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+    "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "https://www.404media.co/scientists-just-accidentally-discovered-a-strange-hidden-rule-of-human-nature/",
+    "https://www.404media.co/podcast-google-employees-meme-about-how-bad-their-ai-is/",
+    "https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/",
+    "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+    "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/",
+    "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "https://github.com/philipl/pifs",
+    "https://www.adafruit.com/product/6125?src=raspberrypi",
+    "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+    "https://arxiv.org/abs/2606.10044",
+    "https://arxiv.org/abs/2606.10062",
+    "https://arxiv.org/abs/2606.10086",
+    "https://arxiv.org/abs/2606.10094",
+    "https://arxiv.org/abs/2606.10147",
+    "https://arxiv.org/abs/2606.09830",
+    "https://arxiv.org/abs/2606.09854",
+    "https://arxiv.org/abs/2606.09856",
+    "https://arxiv.org/abs/2606.09900",
+    "https://arxiv.org/abs/2606.10061"
+  ]
+}
