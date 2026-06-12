@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-06-12",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "BBVA Deploys ChatGPT Enterprise to 100,000 Employees",
+          "zh": "BBVA 向十万名员工部署 ChatGPT Enterprise"
+        },
+        "tl_dr": {
+          "en": "BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI for AI-powered banking transformation worldwide.",
+          "zh": "BBVA 已向十万名员工推广 ChatGPT Enterprise，并与 OpenAI 合作加速全球银行业的 AI 转型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "BBVA scaled ChatGPT Enterprise.",
+            "The deployment reached 100,000 employees.",
+            "The partnership is with OpenAI for AI-powered banking transformation worldwide."
+          ],
+          "zh": [
+            "BBVA 推广了 ChatGPT Enterprise。",
+            "部署范围覆盖了十万名员工。",
+            "此次合作旨在与 OpenAI 共同加速全球 AI 驱动的银行业转型。"
+          ]
+        },
+        "impact": {
+          "en": "This deployment demonstrates a significant enterprise adoption of large language models in a regulated sector like banking. It indicates a trend towards integrating AI for operational transformation at a large scale.",
+          "zh": "此次部署展示了大型语言模型在银行等受监管行业的重大企业应用。这预示着将人工智能大规模整合以实现运营转型的趋势。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/bbva"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Unveils Gemma 4 12B Multimodal Model",
+          "zh": "Google DeepMind 发布 Gemma 4 12B 多模态模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has introduced Gemma 4 12B, described as a unified, encoder-free multimodal model.",
+          "zh": "Google DeepMind 推出了 Gemma 4 12B，这是一款被描述为统一的、无编码器的多模态模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The model is named Gemma 4 12B, implying a size of 12 billion parameters.",
+            "It features an encoder-free architecture.",
+            "It operates as a unified multimodal model."
+          ],
+          "zh": [
+            "该模型名为 Gemma 4 12B，暗示其规模为120亿参数。",
+            "它采用了无编码器架构。",
+            "它作为一个统一的多模态模型运行。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of a new encoder-free multimodal model from a major AI research institution indicates ongoing advancements in efficient and integrated AI architectures, potentially influencing future model design and capabilities across various applications.",
+          "zh": "主要人工智能研究机构推出新的无编码器多模态模型，表明高效集成AI架构的持续进步，可能影响未来各种应用的机器学习模型设计和功能。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/"
+      },
+      {
+        "title": {
+          "en": "Anthropic's Claude Fable 5 Launch Marked by Controversial Usage Policies",
+          "zh": "Anthropic Claude Fable 5 发布，伴随争议性使用政策"
+        },
+        "tl_dr": {
+          "en": "Anthropic launched its Mythos-class model, Claude Fable 5, which included controversial usage policies.",
+          "zh": "Anthropic 发布了其 Mythos 级别模型 Claude Fable 5，并附带了引发争议的使用政策。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Anthropic introduced its Mythos-class model, named Claude Fable 5.",
+            "The release of Claude Fable 5 was associated with controversial usage policies.",
+            "The model is referenced as 'Mythos but Safe' within its announcement."
+          ],
+          "zh": [
+            "Anthropic 推出了其 Mythos 级别模型，命名为 Claude Fable 5。",
+            "Claude Fable 5 的发布伴随着争议性使用政策。",
+            "该模型在其发布中被描述为“Mythos 但安全”。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of controversial usage policies alongside a new frontier AI system highlights ongoing industry challenges in defining and implementing AI safety guidelines. This points to the increasing complexity of governance as AI capabilities advance.",
+          "zh": "新一代前沿人工智能系统伴随争议性使用政策的发布，凸显了行业在定义和实施AI安全准则方面面临的持续挑战。这表明随着AI能力的提升，治理的复杂性日益增加。"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Extending Human Intelligence Through AI",
+          "zh": "Extending Human Intelligence Through AI"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/"
+      },
+      {
+        "title": {
+          "en": "OpenAI to acquire Ona",
+          "zh": "OpenAI to acquire Ona"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-to-acquire-ona"
+      },
+      {
+        "title": {
+          "en": "Access OpenAI models and Codex through your Oracle cloud commitment",
+          "zh": "Access OpenAI models and Codex through your Oracle cloud commitment"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-on-oracle-cloud"
+      },
+      {
+        "title": {
+          "en": "DiffusionGemma: 4x faster text generation",
+          "zh": "DiffusionGemma: 4x faster text generation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      },
+      {
+        "title": {
+          "en": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "zh": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/openai-to-acquire-ona",
+    "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "https://openai.com/index/bbva",
+    "https://openai.com/index/openai-on-oracle-cloud",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+    "https://huggingface.co/blog/torch-mlp-fusion",
+    "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "https://huggingface.co/blog/github-ci-hf-jobs",
+    "https://huggingface.co/blog/openenv-agentic-rl",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+    "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+    "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+    "https://www.latent.space/p/bad-envs",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+    "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+    "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+    "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+    "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+    "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+    "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+    "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+    "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+    "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "https://www.404media.co/software-update-automatically-turns-off-amazon-delivery-drivers-ac-during-dangerous-summer-heat/",
+    "https://www.404media.co/amazon-data-centers-in-mississippi-have-already-raised-electricity-rates-for-local-customers-report-suggests/",
+    "https://www.404media.co/flock-leaked-cops-license-plate-searches-via-duckduckgo-bing/",
+    "https://www.404media.co/elias-thorne-chatbots-llms-chatgpt-lighthouse-keeper-story/",
+    "https://www.404media.co/scientists-just-accidentally-discovered-a-strange-hidden-rule-of-human-nature/",
+    "https://www.infoq.com/news/2026/06/openai-frontier-models-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/postgresql-pg-durable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/azure-apim-ai-gateway-build/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/google-gemma4-12b-local-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/infoq-turns-20/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://fablepool.com",
+    "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "https://tombedor.dev/human-attention-and-human-effort/",
+    "https://mimo.xiaomi.com/mimocode",
+    "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "https://arxiv.org/abs/2606.11207",
+    "https://arxiv.org/abs/2606.11245",
+    "https://arxiv.org/abs/2606.11337",
+    "https://arxiv.org/abs/2606.11349",
+    "https://arxiv.org/abs/2606.11379",
+    "https://arxiv.org/abs/2606.11196",
+    "https://arxiv.org/abs/2606.11198",
+    "https://arxiv.org/abs/2606.11199",
+    "https://arxiv.org/abs/2606.11200",
+    "https://arxiv.org/abs/2606.11202"
+  ]
+}
