@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-06-15",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "BBVA Deploys ChatGPT Enterprise to 100,000 Employees",
+          "zh": "BBVA 为十万员工部署 ChatGPT 企业版"
+        },
+        "tl_dr": {
+          "en": "BBVA scaled ChatGPT Enterprise to 100,000 employees globally in partnership with OpenAI to accelerate AI-powered banking transformation.",
+          "zh": "BBVA 与 OpenAI 合作，在全球范围内将 ChatGPT 企业版扩展到 10 万名员工，以加速由人工智能驱动的银行业转型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "BBVA implemented OpenAI's ChatGPT Enterprise.",
+            "The deployment reached 100,000 employees across BBVA's global operations.",
+            "The initiative is a partnership with OpenAI to accelerate AI-powered banking transformation worldwide."
+          ],
+          "zh": [
+            "BBVA 实施了 OpenAI 的 ChatGPT 企业版。",
+            "此次部署覆盖了 BBVA 全球业务的 10 万名员工。",
+            "此举是与 OpenAI 的合作，旨在加速全球范围内由人工智能驱动的银行业转型。"
+          ]
+        },
+        "impact": {
+          "en": "This deployment showcases a substantial enterprise-level adoption of OpenAI's technology, highlighting the increasing integration of AI models like ChatGPT Enterprise into core business operations for large-scale transformation within the financial sector.",
+          "zh": "此次部署展示了 OpenAI 技术在企业层面的大规模应用，突显了 ChatGPT 企业版等人工智能模型日益融入核心业务运营，以实现金融行业大规模转型的趋势。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/bbva"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Introduces New Multimodal Model Gemma 4 12B",
+          "zh": "谷歌DeepMind发布多模态模型Gemma 4 12B"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind announced Gemma 4 12B, described as a unified, encoder-free multimodal model.",
+          "zh": "谷歌DeepMind宣布推出Gemma 4 12B，该模型被描述为一个统一的、无编码器的多模态模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The new model is identified as Gemma 4 12B.",
+            "It features a unified architecture.",
+            "The model operates as an encoder-free multimodal system."
+          ],
+          "zh": [
+            "该新模型被命名为Gemma 4 12B。",
+            "它采用统一的架构设计。",
+            "该模型是一个无编码器的多模态系统。"
+          ]
+        },
+        "impact": {
+          "en": "This introduction marks continued development in multimodal AI, showcasing an alternative architectural approach with its unified and encoder-free design.",
+          "zh": "此次发布标志着多模态人工智能的持续发展，以其统一且无编码器的设计展示了一种不同的架构方法。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research: AI Augments, Not Replaces, Human Intelligence",
+          "zh": "微软研究院：AI是人类智能的延伸而非替代"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research states that understanding AI as an extension of human intelligence, rather than a replacement, provides a more grounded approach for building trustworthy AI systems.",
+          "zh": "微软研究院指出，将AI理解为人类智能的延伸而非替代，能为构建值得信赖的AI系统提供更扎实的方法。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AI is explicitly defined as an extension of human intelligence.",
+            "The concept rejects AI as a direct replacement for human intelligence.",
+            "This framework is presented as a foundational path for developing trustworthy AI systems."
+          ],
+          "zh": [
+            "AI被明确定义为人类智能的延伸。",
+            "该理念驳斥了AI将直接替代人类智能的观点。",
+            "这一框架被视为开发值得信赖的AI系统的基础路径。"
+          ]
+        },
+        "impact": {
+          "en": "This position from Microsoft Research sets a philosophical and developmental direction for AI, emphasizing collaboration over substitution. It influences how AI models and applications are conceptualized and integrated, potentially guiding the industry towards more ethical and user-centric designs.",
+          "zh": "微软研究院的这一立场为AI设定了哲学和发展方向，强调协作而非替代。它影响AI模型和应用的构思与整合方式，可能引导行业走向更道德、以用户为中心的设计。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Why AI hasn’t replaced software engineers, and won’t",
+          "zh": "Why AI hasn’t replaced software engineers, and won’t"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Introducing the OpenAI Partner Network",
+          "zh": "Introducing the OpenAI Partner Network"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-openai-partner-network"
+      },
+      {
+        "title": {
+          "en": "DiffusionGemma: 4x faster text generation",
+          "zh": "DiffusionGemma: 4x faster text generation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      },
+      {
+        "title": {
+          "en": "Investing in multi-agent AI safety research",
+          "zh": "Investing in multi-agent AI safety research"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
+      },
+      {
+        "title": {
+          "en": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "zh": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/introducing-openai-partner-network",
+    "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "https://openai.com/index/preply",
+    "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "https://openai.com/index/bbva",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+    "https://huggingface.co/blog/allenai/olmo-eval",
+    "https://huggingface.co/blog/torch-mlp-fusion",
+    "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "https://huggingface.co/blog/github-ci-hf-jobs",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+    "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+    "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+    "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
+    "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
+    "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
+    "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+    "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "https://www.404media.co/scientists-discover-vast-ancient-necropolis-teeming-with-strange-new-creatures/",
+    "https://www.404media.co/you-will-not-speak-on-flock-tonight-county-commissioner-refuses-to-let-residents-opposing-flock-speak-at-meeting/",
+    "https://www.404media.co/behind-the-blog-world-cup-madness-and-film-reviews/",
+    "https://www.404media.co/software-update-automatically-turns-off-amazon-delivery-drivers-ac-during-dangerous-summer-heat/",
+    "https://www.404media.co/amazon-data-centers-in-mississippi-have-already-raised-electricity-rates-for-local-customers-report-suggests/",
+    "https://www.infoq.com/news/2026/06/elasticache-valkey-durability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/terraform-mcp-server-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/google-colab-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/angular-agent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+    "https://github.com/tamnd/kage",
+    "https://github.com/nex-agi/Nex-N2/issues/4",
+    "https://screen.toys/firewood/",
+    "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html"
+  ]
+}
