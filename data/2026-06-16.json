@@ -1,0 +1,141 @@
+{
+  "date_id": "2026-06-16",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+          "zh": "\"They screwed us\": Personality clashes sent Anthropic's models offline"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Why AI hasn’t replaced software engineers, and won’t",
+          "zh": "Why AI hasn’t replaced software engineers, and won’t"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Sign of the future: GPT-5.5",
+          "zh": "Sign of the future: GPT-5.5"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55"
+      },
+      {
+        "title": {
+          "en": "Five things you need to know about AI",
+          "zh": "Five things you need to know about AI"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/"
+      },
+      {
+        "title": {
+          "en": "Introducing the OpenAI Partner Network",
+          "zh": "Introducing the OpenAI Partner Network"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-openai-partner-network"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/introducing-openai-partner-network",
+    "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "https://openai.com/index/preply",
+    "https://openai.com/index/bbva",
+    "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+    "https://huggingface.co/blog/allenai/olmo-eval",
+    "https://huggingface.co/blog/torch-mlp-fusion",
+    "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "https://huggingface.co/blog/github-ci-hf-jobs",
+    "https://huggingface.co/blog/openenv-agentic-rl",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+    "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+    "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
+    "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+    "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
+    "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
+    "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+    "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "https://www.404media.co/disclosure-days-delusion-that-people-would-think-alien-videos-are-not-ai/",
+    "https://www.404media.co/judge-rules-blacked-com-can-sue-meta-for-scraping-its-porn/",
+    "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
+    "https://www.404media.co/the-opsec-rave-wave-with-imani-thompson/",
+    "https://www.404media.co/scientists-discover-vast-ancient-necropolis-teeming-with-strange-new-creatures/",
+    "https://www.infoq.com/news/2026/06/claude-code-harnesses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/claude-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/elasticache-valkey-durability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/terraform-mcp-server-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://roman.pt/posts/linkedin-backdoor/",
+    "https://www.richardosgood.com/posts/banned-book-library/",
+    "https://www.iroh.computer/blog/v1",
+    "https://michaelenger.com/blog/i-love-the-computer/",
+    "https://tinywind.io",
+    "https://arxiv.org/abs/2606.13682",
+    "https://arxiv.org/abs/2606.13683",
+    "https://arxiv.org/abs/2606.13703",
+    "https://arxiv.org/abs/2606.13707",
+    "https://arxiv.org/abs/2606.13710",
+    "https://arxiv.org/abs/2606.13685",
+    "https://arxiv.org/abs/2606.13686",
+    "https://arxiv.org/abs/2606.13751",
+    "https://arxiv.org/abs/2606.13756",
+    "https://arxiv.org/abs/2606.13808"
+  ]
+}
