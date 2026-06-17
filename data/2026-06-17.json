@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-06-17",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Anthropic Suspends New AI Model, Pauses SDK Billing",
+          "zh": "Anthropic 暂停新 AI 模型并中止 SDK 计费调整"
+        },
+        "tl_dr": {
+          "en": "Anthropic launched its Claude Fable 5 model on June 9, 2026, but took it offline shortly after due to a U.S. government export directive, while also pausing a planned token-based billing increase for its Claude Agent SDK.",
+          "zh": "Anthropic 于2026年6月9日发布 Claude Fable 5 模型后不久因美国政府出口指令将其下线，同时暂停了原计划提高 Claude Agent SDK 用户代币计费的变更。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Claude Fable 5 was launched on June 9, 2026, then taken offline shortly after due to a U.S. government export directive.",
+            "The model shares architecture with Claude Mythos 5, supports extensive token usage, and includes mandatory data retention requirements.",
+            "Anthropic paused a planned token-based billing increase for its Claude Agent SDK, which would have heavily increased costs for power users."
+          ],
+          "zh": [
+            "Claude Fable 5 于2026年6月9日发布，随后因美国政府出口指令不久后即被下线。",
+            "该模型与 Claude Mythos 5 共享架构，支持大量代币使用，并包含强制数据保留要求。",
+            "Anthropic 暂停了原计划针对 Claude Agent SDK 的代币计费增长，此举原将大幅增加高级用户的成本。"
+          ]
+        },
+        "impact": {
+          "en": "The suspension of Claude Fable 5 and the pause in billing changes indicate challenges in AI model deployment and policy compliance, potentially affecting Anthropic's product roadmap and partner integrations like Microsoft, as well as user costs.",
+          "zh": "Claude Fable 5 的暂停以及计费变更的中止，表明 AI 模型部署和政策合规方面存在挑战，这可能影响 Anthropic 的产品路线图、与微软等合作伙伴的集成，以及用户成本。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/06/claude-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Introduces Vega for Zero-Knowledge Digital Identity",
+          "zh": "微软研究院推出Vega，实现零知识数字身份"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research has introduced Vega, a system leveraging zero-knowledge proofs to transform full credentials into single proofs, sharing only necessary information with performance suitable for real applications.",
+          "zh": "微软研究院推出了Vega系统，该系统利用零知识证明将完整凭证转换为单一证明，仅共享必要信息，并具备适用于实际应用的性能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Vega employs zero-knowledge proofs for digital identity verification.",
+            "The system converts a full digital credential into a single proof.",
+            "It is designed to share only essential information and offers performance suitable for real applications."
+          ],
+          "zh": [
+            "Vega系统采用零知识证明技术进行数字身份验证。",
+            "该系统将完整的数字凭证转换为单一证明。",
+            "其设计旨在仅共享必要信息，并具备适用于实际应用的性能。"
+          ]
+        },
+        "impact": {
+          "en": "This development indicates a focus on enhancing privacy and efficiency in digital identity verification, potentially influencing future standards for secure data sharing in AI-driven environments.",
+          "zh": "这一进展表明了对增强数字身份验证隐私和效率的关注，可能影响未来人工智能驱动环境中安全数据共享的标准。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/"
+      },
+      {
+        "title": {
+          "en": "Data Centers Face Grid Integration, Local Resource Challenges",
+          "zh": "数据中心面临电网整合与本地资源挑战"
+        },
+        "tl_dr": {
+          "en": "Integrating new data centers requires addressing electric grid flexibility for rapid deployment and managing significant local resource impacts, despite low overall consumption.",
+          "zh": "新建数据中心需要解决电网灵活性问题以实现快速部署，同时管理其显著的本地资源影响，尽管总体消耗相对较低。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Sudden spikes in electricity demand, such as \"millions of Brits\" making tea, highlight the need for flexible grid integration for data centers.",
+            "AI data centers' total water use is considered \"a drop in the bucket\" compared to overall consumption.",
+            "Even \"moderately sized data centers\" can exert an \"outsized local impact\" on resources."
+          ],
+          "zh": [
+            "突然的电力需求高峰，例如“数百万英国人”同时烧水泡茶，凸显了数据中心灵活电网整合的必要性。",
+            "与总体消耗相比，AI数据中心的“总用水量微不足道”。",
+            "即使是“中等规模的数据中心”也可能对本地资源产生“超乎寻常的局部影响”。"
+          ]
+        },
+        "impact": {
+          "en": "The AI industry's expansion depends on overcoming these infrastructure hurdles. Effective solutions for grid management and localized resource consumption are crucial for scalable and sustainable data center deployment.",
+          "zh": "人工智能产业的扩张取决于克服这些基础设施障碍。电网管理和本地化资源消耗的有效解决方案对于可扩展和可持续的数据中心部署至关重要。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "OpenAI to acquire Ona",
+          "zh": "OpenAI to acquire Ona"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-to-acquire-ona"
+      },
+      {
+        "title": {
+          "en": "Introducing the OpenAI Partner Network",
+          "zh": "Introducing the OpenAI Partner Network"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-openai-partner-network"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+          "zh": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/"
+      },
+      {
+        "title": {
+          "en": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "zh": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      },
+      {
+        "title": {
+          "en": "DiffusionGemma: 4x faster text generation",
+          "zh": "DiffusionGemma: 4x faster text generation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/deployment-simulation",
+    "https://openai.com/index/introducing-openai-partner-network",
+    "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "https://openai.com/index/preply",
+    "https://openai.com/index/openai-to-acquire-ona",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "https://huggingface.co/blog/allenai/olmo-eval",
+    "https://huggingface.co/blog/torch-mlp-fusion",
+    "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "https://huggingface.co/blog/github-ci-hf-jobs",
+    "https://huggingface.co/blog/openenv-agentic-rl",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
+    "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+    "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+    "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+    "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
+    "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
+    "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+    "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "https://www.404media.co/hackers-publish-knicks-and-madison-square-garden-data-online/",
+    "https://www.404media.co/hackers-are-hijacking-entire-roblox-games-now/",
+    "https://www.404media.co/disclosure-days-delusion-that-people-would-think-alien-videos-are-not-ai/",
+    "https://www.404media.co/judge-rules-blacked-com-can-sue-meta-for-scraping-its-porn/",
+    "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
+    "https://www.infoq.com/news/2026/06/stack-overflow-for-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/postgresql-19-graph-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/claude-code-harnesses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/claude-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/elasticache-valkey-durability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+    "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "https://arxiv.org/abs/2606.14838",
+    "https://arxiv.org/abs/2606.14885",
+    "https://arxiv.org/abs/2606.14892",
+    "https://arxiv.org/abs/2606.14923",
+    "https://arxiv.org/abs/2606.14935",
+    "https://arxiv.org/abs/2606.14832",
+    "https://arxiv.org/abs/2606.14867",
+    "https://arxiv.org/abs/2606.14875",
+    "https://arxiv.org/abs/2606.14943",
+    "https://arxiv.org/abs/2606.14961"
+  ]
+}
