@@ -1,0 +1,198 @@
+{
+  "date_id": "2026-06-18",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Z.ai Releases GLM-5.2: A Leading Open-Weights Text LLM",
+          "zh": "Z.ai 发布 GLM-5.2：领先的开放权重文本大型语言模型"
+        },
+        "tl_dr": {
+          "en": "Chinese AI lab Z.ai released its GLM-5.2 large language model with full open weights under an MIT license on June 16th.",
+          "zh": "中国人工智能实验室 Z.ai 于 6 月 16 日发布了 GLM-5.2 大型语言模型，其开放权重采用 MIT 许可。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GLM-5.2 was released with full open weights under an MIT license on June 16th, following an initial subscriber release.",
+            "The model is a 753B parameter LLM, requiring 1.51TB of storage, and incorporates 40 active parameters within a Mixture of Experts architecture.",
+            "It is a text-input-only model and has been identified as the leading open-weights model on Artificial Analysis."
+          ],
+          "zh": [
+            "GLM-5.2 于 6 月 16 日发布，其完整开放权重采用 MIT 许可，此前已面向编程计划订阅者发布。",
+            "该模型是一个拥有 7530 亿参数的大型语言模型，需要 1.51TB 存储空间，并包含 40 个活跃参数的专家混合 (Mixture of Experts) 架构。",
+            "它是一个仅限文本输入的模型，并已被确认为 Artificial Analysis 上领先的开放权重模型。"
+          ]
+        },
+        "impact": {
+          "en": "The availability of a powerful, open-weights text-only LLM under an MIT license provides a significant resource to the AI industry. This release has the potential to accelerate research and development within the open-source community.",
+          "zh": "以 MIT 许可提供强大的、仅限文本的开放权重大型语言模型，为人工智能行业提供了重要资源。此次发布有潜力加速开源社区内的研究与开发。"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Grid Demands and Local Impacts Shape Data Center Deployment",
+          "zh": "电网需求与局部影响塑造数据中心部署"
+        },
+        "tl_dr": {
+          "en": "Rapid data center deployment faces challenges related to power grid flexibility and potential outsized local resource impacts.",
+          "zh": "数据中心的快速部署面临电网灵活性以及潜在的超乎寻常的局部资源影响等挑战。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The collective activation of millions of electric kettles caused a significant power surge, illustrating grid flexibility challenges.",
+            "Even moderately sized data centers can exert an outsized local impact on resources or infrastructure.",
+            "Ensuring grid flexibility is critical for expediting the deployment of new data centers."
+          ],
+          "zh": [
+            "数百万英国人集体使用电热水壶导致显著的电力激增，凸显了电网灵活性的挑战。",
+            "即使是中等规模的数据中心，也可能对当地资源或基础设施产生超乎寻常的局部影响。",
+            "确保电网灵活性对于加快新数据中心的部署至关重要。"
+          ]
+        },
+        "impact": {
+          "en": "The rapid expansion of AI infrastructure necessitates robust power grid solutions and careful consideration of local resource strains for sustainable deployment.",
+          "zh": "人工智能基础设施的快速扩展，要求电网具备强大的解决方案，并需审慎考虑当地资源压力，以实现可持续部署。"
+        },
+        "source": "MIT Tech Review",
+        "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+          "zh": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK"
+        },
+        "source": "Ars Technica (AI)",
+        "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/"
+      },
+      {
+        "title": {
+          "en": "Unlocking UK house-building with AI-accelerated planning",
+          "zh": "Unlocking UK house-building with AI-accelerated planning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+      },
+      {
+        "title": {
+          "en": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "zh": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      },
+      {
+        "title": {
+          "en": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+          "zh": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/ai-chemist-improves-reaction"
+      },
+      {
+        "title": {
+          "en": "Nothing from Something: Can a Language Model Discover 0?",
+          "zh": "Nothing from Something: Can a Language Model Discover 0?"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2606.17289"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/ai-chemist-improves-reaction",
+    "https://openai.com/index/introducing-life-sci-bench",
+    "https://openai.com/index/deployment-simulation",
+    "https://openai.com/index/introducing-openai-partner-network",
+    "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "https://huggingface.co/blog/allenai/molmomotion",
+    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "https://huggingface.co/blog/torch-mlp-fusion",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.latent.space/p/radical-ai",
+    "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+    "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
+    "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+    "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+    "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+    "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+    "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
+    "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+    "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+    "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
+    "https://www.404media.co/podcast-the-government-wants-to-end-anonymity-on-phones/",
+    "https://www.404media.co/hackers-publish-knicks-and-madison-square-garden-data-online/",
+    "https://www.404media.co/hackers-are-hijacking-entire-roblox-games-now/",
+    "https://www.404media.co/disclosure-days-delusion-that-people-would-think-alien-videos-are-not-ai/",
+    "https://www.infoq.com/news/2026/06/github-copilot-app/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/stack-overflow-for-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/postgresql-19-graph-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/claude-code-harnesses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/claude-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://lore.org/",
+    "https://storiedcolors.com/",
+    "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+    "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+    "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "https://arxiv.org/abs/2606.17209",
+    "https://arxiv.org/abs/2606.17220",
+    "https://arxiv.org/abs/2606.17266",
+    "https://arxiv.org/abs/2606.17269",
+    "https://arxiv.org/abs/2606.17289",
+    "https://arxiv.org/abs/2606.17162",
+    "https://arxiv.org/abs/2606.17164",
+    "https://arxiv.org/abs/2606.17168",
+    "https://arxiv.org/abs/2606.17174",
+    "https://arxiv.org/abs/2606.17175"
+  ]
+}
