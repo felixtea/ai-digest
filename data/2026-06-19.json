@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-06-19",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Implements AI Control Roadmap for System Security",
+          "zh": "谷歌DeepMind实施AI控制路线图以保障系统安全"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind is securing its internal systems by implementing an AI Control Roadmap, integrating traditional safeguards with real-time monitoring.",
+          "zh": "谷歌DeepMind正在通过实施AI控制路线图来保障其内部系统安全，该路线图结合了传统保障措施和实时监控。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The initiative specifically targets the security of internal systems.",
+            "Security measures are guided by a defined AI Control Roadmap.",
+            "The roadmap combines traditional safeguards with real-time monitoring protocols."
+          ],
+          "zh": [
+            "该举措明确针对内部系统的安全保障。",
+            "安全措施由既定的AI控制路线图指导。",
+            "该路线图结合了传统保障措施和实时监控协议。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative establishes a precedent for how major AI developers address the internal security of advanced AI agent systems. It indicates a structured, multi-faceted approach to managing risks within the AI industry.",
+          "zh": "这一举措为主要人工智能开发者如何处理先进AI代理系统的内部安全树立了先例。它表明人工智能行业内部正采取一种结构化、多方面的风险管理方法。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
+      },
+      {
+        "title": {
+          "en": "GLM-5.2 Emerges as Leading Frontend Coding Model; Speculative Decoding Research Advances",
+          "zh": "GLM-5.2成为领先前端编码模型；推测解码研究取得进展"
+        },
+        "tl_dr": {
+          "en": "GLM-5.2 has been identified as a new top open model for frontend coding, while research aims to overcome speculative decoding's scaling limitations.",
+          "zh": "GLM-5.2已被确认为前端编码领域的新顶级开放模型，同时研究旨在克服推测解码的扩展限制。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GLM-5.2 is recognized as the leading open model globally for frontend coding tasks.",
+            "Speculative decoding (SD) accelerates large language models by drafting and verifying multiple tokens in parallel.",
+            "Prior SD methods face a scaling ceiling and causality-efficiency dilemma, with new approaches like JetFlow exploring parallel tree drafting."
+          ],
+          "zh": [
+            "GLM-5.2被认为是全球前端编码任务领域的领先开放模型。",
+            "推测解码（SD）通过并行草拟和验证多个token来加速大型语言模型。",
+            "此前SD方法面临扩展瓶颈和因果-效率困境，JetFlow等新方法正探索并行树草稿。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of GLM-5.2 sets a new performance benchmark for open-source frontend coding models. Concurrently, advancements in speculative decoding address core efficiency challenges in LLM inference, potentially leading to faster and more scalable AI deployments.",
+          "zh": "GLM-5.2的推出为开源前端编码模型树立了新的性能基准。同时，推测解码技术的进步解决了大型语言模型推理中的核心效率挑战，可能促使更快、更具扩展性的人工智能部署。"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding"
+      },
+      {
+        "title": {
+          "en": "Hugging Face Details Research Agent Vulnerability 'MosaicLeaks'",
+          "zh": "Hugging Face 披露 AI 研究代理漏洞 'MosaicLeaks'"
+        },
+        "tl_dr": {
+          "en": "Hugging Face introduced 'MosaicLeaks,' a concept questioning the confidentiality capabilities of AI research agents.",
+          "zh": "Hugging Face 介绍了“MosaicLeaks”，这是一个质疑人工智能研究代理保密能力的议题。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The subject 'MosaicLeaks' has been identified by Hugging Face.",
+            "It pertains to the confidentiality capabilities of 'research agents' in AI.",
+            "The information is published on the Hugging Face blog."
+          ],
+          "zh": [
+            "Hugging Face 提出了“MosaicLeaks”这一主题。",
+            "它涉及人工智能中“研究代理”的保密能力。",
+            "该信息已在 Hugging Face 博客上发布。"
+          ]
+        },
+        "impact": {
+          "en": "This raises awareness about potential privacy and security challenges inherent in the design and operation of AI research agents.",
+          "zh": "这提高了人们对人工智能研究代理设计和操作中潜在的隐私和安全挑战的认识。"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Improving health intelligence in ChatGPT",
+          "zh": "Improving health intelligence in ChatGPT"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+      },
+      {
+        "title": {
+          "en": "Is it agentic enough? Benchmarking open models on your own tooling",
+          "zh": "Is it agentic enough? Benchmarking open models on your own tooling"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/is-it-agentic-enough"
+      },
+      {
+        "title": {
+          "en": "Want to get a data center online quickly? Give it some flex.",
+          "zh": "Want to get a data center online quickly? Give it some flex."
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
+      },
+      {
+        "title": {
+          "en": "Learning to lead in a hybrid human-AI enterprise",
+          "zh": "Learning to lead in a hybrid human-AI enterprise"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
+      },
+      {
+        "title": {
+          "en": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "zh": "Using AI to help physicians diagnose rare genetic diseases affecting children"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/diagnose-rare-childhood-diseases"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "https://openai.com/index/ai-chemist-improves-reaction",
+    "https://openai.com/index/introducing-life-sci-bench",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "https://huggingface.co/blog/peft-beyond-lora",
+    "https://huggingface.co/blog/is-it-agentic-enough",
+    "https://huggingface.co/blog/allenai/molmomotion",
+    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.latent.space/p/anj",
+    "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+    "https://www.latent.space/p/radical-ai",
+    "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+    "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+    "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+    "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+    "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+    "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "https://www.interconnects.ai/p/farewell-ai2",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/",
+    "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+    "https://www.404media.co/salesforces-internal-ai-leaderboard-has-teams-competing-for-little-trophies/",
+    "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
+    "https://www.404media.co/podcast-the-government-wants-to-end-anonymity-on-phones/",
+    "https://www.infoq.com/news/2026/06/microsoft-scout-openclaw-build/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/github-copilot-app/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/stack-overflow-for-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/postgresql-19-graph-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/claude-code-harnesses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.nsf.gov/news/update-ocean-observatories-initiative",
+    "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "https://orchidfiles.com/github-repositories-distributing-malware/",
+    "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+    "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "https://arxiv.org/abs/2606.18271",
+    "https://arxiv.org/abs/2606.18385",
+    "https://arxiv.org/abs/2606.18413",
+    "https://arxiv.org/abs/2606.18543",
+    "https://arxiv.org/abs/2606.18557",
+    "https://arxiv.org/abs/2606.18273",
+    "https://arxiv.org/abs/2606.18372",
+    "https://arxiv.org/abs/2606.18381",
+    "https://arxiv.org/abs/2606.18389",
+    "https://arxiv.org/abs/2606.18394"
+  ]
+}
