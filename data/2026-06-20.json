@@ -1,0 +1,198 @@
+{
+  "date_id": "2026-06-20",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "ChatGPT Health Intelligence Improved by GPT-5.5 Instant",
+          "zh": "ChatGPT健康智能通过GPT-5.5 Instant获得提升"
+        },
+        "tl_dr": {
+          "en": "GPT-5.5 Instant has improved ChatGPT's health and wellness responses by enhancing reasoning, context, communication, and incorporating physician-informed evaluations.",
+          "zh": "GPT-5.5 Instant通过加强推理、优化语境、清晰沟通并采纳医生评估，提升了ChatGPT的健康与保健回复能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "ChatGPT's health and wellness responses now exhibit stronger reasoning.",
+            "The system offers better context understanding in health-related queries.",
+            "Communication for health information has become clearer."
+          ],
+          "zh": [
+            "ChatGPT在健康与保健回复中展现出更强的推理能力。",
+            "系统在处理健康相关查询时能提供更好的语境理解。",
+            "健康信息的沟通表达变得更加清晰。"
+          ]
+        },
+        "impact": {
+          "en": "This development enhances the reliability and utility of AI models in the sensitive domain of health and wellness, showcasing progress in specialized AI applications.",
+          "zh": "这一进展提升了AI模型在健康与保健这一敏感领域的可靠性和实用性，展现了AI在专业应用中的进步。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+      },
+      {
+        "title": {
+          "en": "OpenAI Unveils LifeSciBench for AI Evaluation",
+          "zh": "OpenAI 推出 LifeSciBench 评估 AI 系统"
+        },
+        "tl_dr": {
+          "en": "OpenAI introduced LifeSciBench, a new expert-authored and expert-reviewed benchmark designed to evaluate AI systems on real-world life science research tasks and decisions.",
+          "zh": "OpenAI 发布了 LifeSciBench，这是一个由专家撰写和评审的基准测试，旨在评估 AI 系统处理真实世界生命科学研究任务和决策的能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "LifeSciBench is a new benchmark developed for evaluating AI systems.",
+            "It is characterized by being expert-authored.",
+            "It undergoes expert-review to assess AI's handling of real-world life science research tasks and decisions."
+          ],
+          "zh": [
+            "LifeSciBench 是一个用于评估 AI 系统的新基准测试。",
+            "其内容由专家撰写。",
+            "它经过专家评审，以评估 AI 处理真实世界生命科学研究任务和决策的能力。"
+          ]
+        },
+        "impact": {
+          "en": "This benchmark provides a structured and expert-validated method for assessing AI system performance in critical real-world life science research, potentially influencing development and application in the sector.",
+          "zh": "该基准测试为评估 AI 系统在关键的真实世界生命科学研究中的表现提供了一种结构化且经专家验证的方法，可能影响该领域的发展和应用。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-life-sci-bench"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "DiffusionGemma: 4x faster text generation",
+          "zh": "DiffusionGemma: 4x faster text generation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      },
+      {
+        "title": {
+          "en": "Investing in multi-agent AI safety research",
+          "zh": "Investing in multi-agent AI safety research"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
+      },
+      {
+        "title": {
+          "en": "MosaicLeaks: Can your research agent keep a secret?",
+          "zh": "MosaicLeaks: Can your research agent keep a secret?"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+      },
+      {
+        "title": {
+          "en": "Is it agentic enough? Benchmarking open models on your own tooling",
+          "zh": "Is it agentic enough? Benchmarking open models on your own tooling"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/is-it-agentic-enough"
+      },
+      {
+        "title": {
+          "en": "Choosing to Stay Human",
+          "zh": "Choosing to Stay Human"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/choosing-to-stay-human"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "https://openai.com/index/ai-chemist-improves-reaction",
+    "https://openai.com/index/introducing-life-sci-bench",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "https://huggingface.co/blog/peft-beyond-lora",
+    "https://huggingface.co/blog/is-it-agentic-enough",
+    "https://huggingface.co/blog/allenai/molmomotion",
+    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+    "https://www.latent.space/p/anj",
+    "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+    "https://www.latent.space/p/radical-ai",
+    "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+    "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+    "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+    "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+    "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/",
+    "https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/",
+    "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+    "https://www.404media.co/salesforces-internal-ai-leaderboard-has-teams-competing-for-little-trophies/",
+    "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
+    "https://www.infoq.com/news/2026/06/circleci-chunk-sidecars/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/azure-functions-serverless-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/windows-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/microsoft-scout-openclaw-build/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/github-copilot-app/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+    "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
+    "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+    "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "https://arxiv.org/abs/2606.19464",
+    "https://arxiv.org/abs/2606.19469",
+    "https://arxiv.org/abs/2606.19475",
+    "https://arxiv.org/abs/2606.19494",
+    "https://arxiv.org/abs/2606.19501",
+    "https://arxiv.org/abs/2606.19344",
+    "https://arxiv.org/abs/2606.19345",
+    "https://arxiv.org/abs/2606.19346",
+    "https://arxiv.org/abs/2606.19347",
+    "https://arxiv.org/abs/2606.19348"
+  ]
+}
