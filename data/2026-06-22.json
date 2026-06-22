@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-06-22",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Microsoft Unveils Security Framework for AI Agents on Windows",
+          "zh": "微软为Windows平台AI代理推出安全框架"
+        },
+        "tl_dr": {
+          "en": "Microsoft introduced the Microsoft Execution Containers (MXC) SDK and positioned Windows as a trustworthy operating system for autonomous AI agents.",
+          "zh": "微软宣布推出Microsoft Execution Containers (MXC) SDK，并将Windows定位为自主AI代理的可靠操作系统。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Microsoft positions Windows as the trustworthy operating system for autonomous AI agents.",
+            "The Microsoft Execution Containers (MXC) SDK is introduced as the core of this security strategy.",
+            "Containment, identity, and manageability are identified as key security principles that must be built directly into the operating system. हात"
+          ],
+          "zh": [
+            "微软将Windows定位为自主AI代理的可靠操作系统。",
+            "Microsoft Execution Containers (MXC) SDK被引入作为此安全策略的核心。",
+            "遏制、身份验证和可管理性被确定为必须直接内置于操作系统的关键安全原则。"
+          ]
+        },
+        "impact": {
+          "en": "This development aims to foster trust and accelerate the secure adoption of AI agents by providing foundational operating system-level security features.",
+          "zh": "这一进展旨在通过提供基础的操作系统级安全功能，促进对AI代理的信任并加速其安全采用。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/06/windows-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "Data Center Expansion Confronts Grid Demands, Local Resource Strain",
+          "zh": "数据中心扩张面临电网需求与地方资源压力"
+        },
+        "tl_dr": {
+          "en": "Recent discussions highlight that while AI data centers' total water consumption is comparatively low, their local impact can be significant, and rapid deployment necessitates grid flexibility.",
+          "zh": "近期讨论指出，尽管人工智能数据中心的总用水量相对较低，但其对当地的影响可能显著，且快速部署需要电网具备灵活性。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Moderately sized data centers can have an outsized local impact.",
+            "Total water use by AI data centers is described as a \"drop in the bucket\" compared to overall consumption.",
+            "Introducing \"flex\" mechanisms is proposed to accelerate the process of bringing data centers online."
+          ],
+          "zh": [
+            "中等规模的数据中心可能会产生超乎寻常的局部影响。",
+            "人工智能数据中心的总用水量被描述为在整体消耗中“沧海一粟”。",
+            "引入“弹性”机制被提出可加速数据中心上线。"
+          ]
+        },
+        "impact": {
+          "en": "These considerations indicate that scaling AI infrastructure requires balancing efficient resource management, such as water use, with local environmental and grid integration challenges.",
+          "zh": "这些考量表明，扩展人工智能基础设施需要在高效资源管理（如用水）与应对当地环境和电网整合挑战之间取得平衡。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Enhances ChatGPT Health Responses with GPT-5.5 Instant",
+          "zh": "OpenAI 通过 GPT-5.5 Instant 提升 ChatGPT 健康响应能力"
+        },
+        "tl_dr": {
+          "en": "OpenAI announced that GPT-5.5 Instant improves ChatGPT’s health and wellness responses by incorporating stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+          "zh": "OpenAI 宣布 GPT-5.5 Instant 通过整合更强的推理能力、更佳的上下文理解、更清晰的沟通以及医生参与评估，提升了 ChatGPT 在健康和保健方面的响应能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Improvements include stronger reasoning in health-related queries.",
+            "The model demonstrates better context awareness for health and wellness topics.",
+            "Responses are informed by physician evaluations, contributing to clearer communication."
+          ],
+          "zh": [
+            "改进包括在健康相关查询中表现出更强的推理能力。",
+            "模型在健康和保健主题上展现出更好的上下文理解。",
+            "响应通过医生评估提供信息，有助于更清晰的沟通。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates an industry focus on enhancing AI reliability and accuracy in sensitive domains such as health and wellness, which is critical for building user trust and expanding AI applications.",
+          "zh": "这一进展表明了行业对提升人工智能在健康和保健等敏感领域可靠性和准确性的关注，这对于建立用户信任和扩展人工智能应用至关重要。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "MosaicLeaks: Can your research agent keep a secret?",
+          "zh": "MosaicLeaks: Can your research agent keep a secret?"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+      },
+      {
+        "title": {
+          "en": "Is it agentic enough? Benchmarking open models on your own tooling",
+          "zh": "Is it agentic enough? Benchmarking open models on your own tooling"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/is-it-agentic-enough"
+      },
+      {
+        "title": {
+          "en": "Open-world evaluations for measuring frontier AI capabilities",
+          "zh": "Open-world evaluations for measuring frontier AI capabilities"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/open-world-evaluations-for-measuring"
+      },
+      {
+        "title": {
+          "en": "Unlocking UK house-building with AI-accelerated planning",
+          "zh": "Unlocking UK house-building with AI-accelerated planning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+      },
+      {
+        "title": {
+          "en": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "zh": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "https://openai.com/index/ai-chemist-improves-reaction",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "https://huggingface.co/blog/peft-beyond-lora",
+    "https://huggingface.co/blog/is-it-agentic-enough",
+    "https://huggingface.co/blog/allenai/molmomotion",
+    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+    "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+    "https://www.latent.space/p/anj",
+    "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+    "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+    "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+    "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+    "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/",
+    "https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/",
+    "https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/",
+    "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+    "https://www.404media.co/salesforces-internal-ai-leaderboard-has-teams-competing-for-little-trophies/",
+    "https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/apple-core-ai-wwdc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/circleci-chunk-sidecars/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/azure-functions-serverless-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/windows-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://apertvs.ai/",
+    "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+    "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "https://powerfox.jazzzny.me/"
+  ]
+}
