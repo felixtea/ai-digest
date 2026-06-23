@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-06-23",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Cloudflare Introduces Temporary Accounts for AI Agents",
+          "zh": "Cloudflare推出面向AI代理的临时账户"
+        },
+        "tl_dr": {
+          "en": "Cloudflare has introduced temporary accounts for AI agents, allowing deployment of Cloudflare Workers projects without requiring a full Cloudflare account.",
+          "zh": "Cloudflare推出了面向AI代理的临时账户，允许无需完整Cloudflare账户即可部署Cloudflare Workers项目。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Cloudflare announced \"Temporary Cloudflare Accounts for AI agents\".",
+            "Users can now create and run a Cloudflare Workers project.",
+            "Deployment is initiated via `npx wrangler deploy --temporary`, eliminating the need for a Cloudflare account."
+          ],
+          "zh": [
+            "Cloudflare宣布推出“面向AI代理的临时Cloudflare账户”。",
+            "用户现在可以创建并运行Cloudflare Workers项目。",
+            "通过`npx wrangler deploy --temporary`命令即可部署，无需创建Cloudflare账户。"
+          ]
+        },
+        "impact": {
+          "en": "This feature simplifies the deployment process for AI agents leveraging Cloudflare Workers, potentially accelerating development and testing without requiring full account registration.",
+          "zh": "此功能简化了利用Cloudflare Workers的AI代理的部署流程，可能在无需完整账户注册的情况下加速开发和测试。"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Nvidia Aims to Reduce Data Center Water Use Amid Broader AI Consumption Concerns",
+          "zh": "英伟达旨在减少数据中心用水，但更广泛的人工智能用水问题依然存在"
+        },
+        "tl_dr": {
+          "en": "Nvidia announced a new cooling system designed to reduce water use within data centers, but it does not address AI's broader water consumption from power generation.",
+          "zh": "英伟达宣布推出一项新的冷却系统，旨在减少数据中心内部的用水量，但该系统未能解决人工智能因发电产生的更广泛的用水问题。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Nvidia's new cooling system is designed to cut water use inside the data center.",
+            "This new system does not address the largest source of AI's water consumption, which is tied to fossil fuel power plants.",
+            "Even moderately sized data centers can have an outsized local impact on water resources."
+          ],
+          "zh": [
+            "英伟达的新冷却系统旨在减少数据中心内部的用水量。",
+            "该新系统未能解决人工智能最大的用水来源——化石燃料发电厂的相关用水问题。",
+            "即使是中等规模的数据中心，也可能对当地水资源产生显著影响。"
+          ]
+        },
+        "impact": {
+          "en": "While Nvidia's innovation targets direct data center water consumption, the broader environmental footprint of AI, particularly concerning water used for power generation, remains a significant challenge for the industry.",
+          "zh": "尽管英伟达的创新针对数据中心直接用水，但人工智能更广泛的环境足迹，尤其是发电用水方面，仍是该行业面临的重大挑战。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Debuts 'Patch the Planet' for Open-Source Security",
+          "zh": "OpenAI 启动“修补地球”开源安全倡议"
+        },
+        "tl_dr": {
+          "en": "OpenAI has introduced 'Patch the Planet,' a Daybreak initiative designed to assist open-source maintainers in identifying, validating, and remediating software vulnerabilities using AI and expert review.",
+          "zh": "OpenAI 推出“修补地球”Daybreak 计划，旨在利用人工智能和专家审查帮助开源维护者发现、验证并修复漏洞。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The initiative, named 'Patch the Planet,' originates from OpenAI.",
+            "It functions as a 'Daybreak initiative,' supporting open-source maintainers.",
+            "Its core objective is to identify, validate, and rectify software vulnerabilities using AI and expert review processes."
+          ],
+          "zh": [
+            "这项名为“修补地球”的计划由 OpenAI 发起。",
+            "它是一个“Daybreak 倡议”，旨在支持开源维护者。",
+            "其核心目标是利用人工智能和专家审查流程，发现、验证和修复软件漏洞。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative addresses security concerns within the open-source software community. By leveraging AI, it seeks to enhance the efficiency of vulnerability identification and resolution, potentially bolstering the security posture of widely used software components.",
+          "zh": "该计划旨在解决开源软件社区的安全问题。通过利用人工智能，它寻求提高漏洞识别和解决的效率，从而可能增强广泛使用的软件组件的安全态势。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/patch-the-planet"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Unlocking UK house-building with AI-accelerated planning",
+          "zh": "Unlocking UK house-building with AI-accelerated planning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+      },
+      {
+        "title": {
+          "en": "DiffusionGemma: 4x faster text generation",
+          "zh": "DiffusionGemma: 4x faster text generation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      },
+      {
+        "title": {
+          "en": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "zh": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      },
+      {
+        "title": {
+          "en": "Samsung Electronics brings ChatGPT and Codex to employees",
+          "zh": "Samsung Electronics brings ChatGPT and Codex to employees"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+      },
+      {
+        "title": {
+          "en": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+          "zh": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/daybreak-securing-the-world",
+    "https://openai.com/index/patch-the-planet",
+    "https://openai.com/index/codex-maxxing-long-running-work",
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "https://huggingface.co/blog/peft-beyond-lora",
+    "https://huggingface.co/blog/is-it-agentic-enough",
+    "https://huggingface.co/blog/allenai/molmomotion",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.latent.space/p/gray-swan",
+    "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+    "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+    "https://www.latent.space/p/anj",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+    "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+    "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+    "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+    "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+    "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "https://www.404media.co/we-will-fight-to-our-very-last-breath-township-leaders-vow-to-fight-nuclear-ai-data-center/",
+    "https://www.404media.co/stopping-tech-company-censorship-with-jake-hanrahan/",
+    "https://www.404media.co/are-public-libraries-becoming-childrens-libraries/",
+    "https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/",
+    "https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/",
+    "https://www.infoq.com/news/2026/06/aws-graviton5-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/apple-core-ai-wwdc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/circleci-chunk-sidecars/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/azure-functions-serverless-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "https://unsloth.ai/docs/models/glm-5.2",
+    "https://github.com/dorukkumkumoglu/optocamzero",
+    "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+    "https://blog.dahl.dev/posts/my-mathematical-regression/"
+  ]
+}
