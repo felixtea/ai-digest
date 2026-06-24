@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-06-24",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "ASML Unveils $400 Million Chipmaking Machine",
+          "zh": "ASML推出4亿美元芯片制造设备"
+        },
+        "tl_dr": {
+          "en": "ASML has developed a new machine for chipmaking, priced at $400 million, which is the size of a double-decker bus and weighs over 150 tons.",
+          "zh": "ASML开发了一款价值4亿美元的新型芯片制造设备，其尺寸相当于一辆双层巴士，重量超过150吨。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The machine is priced at $400 million.",
+            "Its physical size is comparable to a double-decker bus.",
+            "The contraption weighs more than 150 tons."
+          ],
+          "zh": [
+            "该设备定价为4亿美元。",
+            "其物理尺寸相当于一辆双层巴士。",
+            "该装置的重量超过150吨。"
+          ]
+        },
+        "impact": {
+          "en": "This machine represents a significant investment in advanced chip manufacturing, which is critical for producing the high-performance processors required by the evolving AI industry.",
+          "zh": "这台机器代表了在先进芯片制造领域的一项重大投资，对于生产不断发展的AI行业所需的高性能处理器至关重要。"
+        },
+        "source": "MIT Tech Review",
+        "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/"
+      },
+      {
+        "title": {
+          "en": "Anthropic: Claude Achieves 95% Internal Analytics Automation",
+          "zh": "Anthropic：Claude 负责 95% 内部数据分析请求"
+        },
+        "tl_dr": {
+          "en": "Anthropic reported that its AI model, Claude, now processes approximately 95% of internal analytics requests, enabling employees to independently query business data.",
+          "zh": "Anthropic 报告称，其 AI 模型 Claude 目前处理约 95% 的内部数据分析请求，使员工能够独立查询业务数据。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Anthropic's AI model, Claude, now processes around 95% of the company's internal analytics requests.",
+            "This enables employees to query business data autonomously, reducing reliance on dedicated data teams.",
+            "The achievement is attributed primarily to data governance, semantic definitions, and operational discipline, rather than solely to model advancements."
+          ],
+          "zh": [
+            "Anthropic 的 AI 模型 Claude 目前处理该公司约 95% 的内部数据分析请求。",
+            "这使得员工能够自主查询业务数据，减少了对专业数据团队的依赖。",
+            "此项成就主要归因于数据治理、语义定义和运营纪律，而非仅仅是模型本身的进步。"
+          ]
+        },
+        "impact": {
+          "en": "This case demonstrates that the effective application of AI in enterprise environments relies significantly on robust data governance, clear semantic definitions, and operational discipline, beyond core model capabilities. It highlights that organizations can unlock substantial value from existing AI models by optimizing their operational interfaces and data strategies.",
+          "zh": "此案例表明，AI 在企业环境中的有效应用，除了核心模型能力外，还显著依赖于健全的数据治理、清晰的语义定义和运营纪律。它强调组织可以通过优化操作界面和数据策略，从现有 AI 模型中释放巨大价值。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "Data Centers Face Local Infrastructure Bottlenecks for Rapid Deployment",
+          "zh": "数据中心快速部署面临本地基础设施瓶颈"
+        },
+        "tl_dr": {
+          "en": "Data centers require grid flexibility for rapid deployment and face localized environmental impacts despite globally minor resource consumption in some areas.",
+          "zh": "数据中心快速部署需要电网灵活性，并且尽管在某些领域全球资源消耗量较小，但仍面临本地化的环境影响。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Rapid data center deployment relies on flexible electricity grids, exemplified by power surges from millions of electric kettles.",
+            "Globally, AI data centers' total water consumption is comparatively small, characterized as \"a drop in the bucket.\"",
+            "Despite overall low global impact, even moderately sized data centers can exert an \"outsized local impact\" on resources."
+          ],
+          "zh": [
+            "数据中心的快速部署依赖于灵活的电网，数百万电热水壶同时使用造成的电涌即为例证。",
+            "在全球范围内，AI数据中心的总用水量相对较小，被形容为“沧海一粟”。",
+            "尽管总体全球影响较低，但即使是中等规模的数据中心也可能对当地资源产生“不成比例的巨大影响”。"
+          ]
+        },
+        "impact": {
+          "en": "For the AI industry, this indicates that scaling infrastructure requires addressing specific local power grid capabilities and environmental resource availability, rather than relying solely on global averages.",
+          "zh": "对于AI行业而言，这表明扩展基础设施需要解决具体的本地电网能力和环境资源可用性问题，而非仅仅依赖全球平均水平。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Extending Human Intelligence Through AI",
+          "zh": "Extending Human Intelligence Through AI"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/"
+      },
+      {
+        "title": {
+          "en": "DiffusionGemma: 4x faster text generation",
+          "zh": "DiffusionGemma: 4x faster text generation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      },
+      {
+        "title": {
+          "en": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "zh": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      },
+      {
+        "title": {
+          "en": "Helping build shared standards for advanced AI",
+          "zh": "Helping build shared standards for advanced AI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+      },
+      {
+        "title": {
+          "en": "Unlocking UK house-building with AI-accelerated planning",
+          "zh": "Unlocking UK house-building with AI-accelerated planning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "https://openai.com/index/gpt-5-immunology-mystery",
+    "https://openai.com/index/omio",
+    "https://openai.com/index/patch-the-planet",
+    "https://openai.com/index/daybreak-securing-the-world",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "https://huggingface.co/blog/cross-origin-storage",
+    "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "https://huggingface.co/blog/local-models-pr-triage",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+    "https://www.latent.space/p/gray-swan",
+    "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+    "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+    "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+    "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+    "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+    "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+    "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "https://www.404media.co/wikipedia-cofounder-larry-sanger-banned-from-site-for-canvassaing/",
+    "https://www.404media.co/libraries-not-doing-pride-displays-say-they-shouldnt-be-judged/",
+    "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+    "https://www.404media.co/we-will-fight-to-our-very-last-breath-township-leaders-vow-to-fight-nuclear-ai-data-center/",
+    "https://www.404media.co/stopping-tech-company-censorship-with-jake-hanrahan/",
+    "https://www.infoq.com/news/2026/06/microsoft-build-aks-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/aws-graviton5-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/apple-core-ai-wwdc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/circleci-chunk-sidecars/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "http://www.jerrysmap.com/the-map",
+    "https://swipe.futo.tech/",
+    "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+    "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+    "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338"
+  ]
+}
