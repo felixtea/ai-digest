@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-06-25",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Anthropic's Claude Automates 95% of Internal Analytics Queries",
+          "zh": "Anthropic Claude 自动处理 95% 内部分析请求"
+        },
+        "tl_dr": {
+          "en": "Anthropic reported that its Claude AI now handles approximately 95% of its internal analytics requests, allowing employees to query business data independently.",
+          "zh": "Anthropic 报告称，其 Claude AI 目前处理约 95% 的内部分析请求，使员工能够独立查询业务数据。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Claude handles around 95% of Anthropic's internal analytics requests.",
+            "This enables employees to query business data independently, reducing reliance on data teams.",
+            "The success is attributed more to data governance, semantic definitions, and operational discipline than to advances in AI models."
+          ],
+          "zh": [
+            "Claude 目前处理 Anthropic 约 95% 的内部分析请求。",
+            "这使得员工能够独立查询业务数据，减少了对数据团队的依赖。",
+            "这一成果更多归因于数据治理、语义定义和操作规程，而非 AI 模型本身的进步。"
+          ]
+        },
+        "impact": {
+          "en": "This demonstrates that effective AI deployment for internal enterprise use relies heavily on strong data governance and operational frameworks, not solely on advanced AI models. It highlights the importance of organizational readiness alongside technological capability for successful AI integration.",
+          "zh": "这表明，AI 在企业内部的有效部署严重依赖于强大的数据治理和操作框架，而不仅仅是先进的 AI 模型。它强调了组织准备与技术能力对于成功整合 AI 同等重要。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "arXiv Paper Examines Definition of AI Agency",
+          "zh": "arXiv 论文审视 AI 能动性定义"
+        },
+        "tl_dr": {
+          "en": "A new arXiv paper critically analyzes the concepts of 'agent' and 'agency' in AI, seeking to clarify the distinction between automation and true agency amid the emergence of LLM-based agentic tools and speculative concerns about AI control.",
+          "zh": "一篇新的 arXiv 论文批判性地分析了人工智能中“智能体”和“能动性”的概念，旨在澄清自动化与真实能动性之间的区别，以应对基于大型语言模型的智能体工具的兴起以及对人工智能控制的推测性担忧。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The paper aims to clarify the definitions of 'agent' and 'agency' in the context of AI.",
+            "It addresses the marketing of Large Language Model (LLM) systems as 'coding agents' and 'AI co-scientists'.",
+            "The research differentiates where automation ends and agency begins, particularly concerning speculative 'machine agency' against humans."
+          ],
+          "zh": [
+            "该论文旨在澄清人工智能背景下“智能体”和“能动性”的定义。",
+            "它探讨了大型语言模型（LLM）系统被宣传为“编程智能体”和“AI 共同科学家”的现象。",
+            "该研究区分了自动化与能动性的界限，特别是在涉及人类的推测性“机器能动性”方面。"
+          ]
+        },
+        "impact": {
+          "en": "Clarifying the distinction between automation and agency is crucial for responsible AI development, accurate industry terminology, and addressing existential concerns related to AI control and potential destructive power.",
+          "zh": "澄清自动化与能动性之间的区别对于负责任的AI发展、准确的行业术语至关重要，并有助于解决与AI控制及潜在破坏力相关的存在性担忧。"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2606.23991"
+      },
+      {
+        "title": {
+          "en": "ASML's $400 Million Machine Aims to Advance Chipmaking",
+          "zh": "ASML价值4亿美元机器旨在推进芯片制造"
+        },
+        "tl_dr": {
+          "en": "ASML has developed a new chipmaking machine costing $400 million.",
+          "zh": "ASML研发了一台价值4亿美元的新型芯片制造机器。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The machine costs $400 million.",
+            "It weighs over 150 tons.",
+            "Its size is comparable to a double-decker bus."
+          ],
+          "zh": [
+            "该机器成本为4亿美元。",
+            "其重量超过150吨。",
+            "其尺寸相当于一辆双层巴士。"
+          ]
+        },
+        "impact": {
+          "en": "This machine is designed to power future chipmaking, which is crucial for the advancement and performance of AI hardware. Its development signifies progress in the foundational technology supporting the AI industry.",
+          "zh": "该机器旨在推动未来的芯片制造，这对AI硬件的进步和性能至关重要。它的发展标志着支持AI产业的基础技术取得了进展。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+          "zh": "OpenAI and Broadcom unveil LLM-optimized inference chip"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+      },
+      {
+        "title": {
+          "en": "Introducing computer use in Gemini 3.5 Flash",
+          "zh": "Introducing computer use in Gemini 3.5 Flash"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+      },
+      {
+        "title": {
+          "en": "DiffusionGemma: 4x faster text generation",
+          "zh": "DiffusionGemma: 4x faster text generation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      },
+      {
+        "title": {
+          "en": "Want to get a data center online quickly? Give it some flex.",
+          "zh": "Want to get a data center online quickly? Give it some flex."
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
+      },
+      {
+        "title": {
+          "en": "Daybreak: Tools for securing every organization in the world",
+          "zh": "Daybreak: Tools for securing every organization in the world"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/daybreak-securing-the-world"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "https://openai.com/index/gpt-5-immunology-mystery",
+    "https://openai.com/index/omio",
+    "https://openai.com/index/daybreak-securing-the-world",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "https://huggingface.co/blog/ffasr-leaderboard",
+    "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "https://huggingface.co/blog/cross-origin-storage",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.latent.space/p/databricks",
+    "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+    "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+    "https://www.latent.space/p/gray-swan",
+    "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+    "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+    "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+    "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+    "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+    "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+    "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+    "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "https://www.404media.co/vast-structures-in-space-reveal-the-universe-isnt-what-we-thought/",
+    "https://www.404media.co/census-data-privacy-trump-policy-change-noise-infusion/",
+    "https://www.404media.co/snaps-ai-ar-specs-lol/",
+    "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+    "https://www.404media.co/how-hackers-broke-into-madison-square-garden/",
+    "https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/ai-prd-code-review-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/microsoft-build-aks-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/aws-graviton5-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+    "https://rubyllm.com/",
+    "https://bunny.net/blog/were-making-bunny-dns-free/",
+    "https://runtimewire.com/article/anthropic-alibaba-qwen-claude-distillation-claims",
+    "https://arxiv.org/abs/2606.23927",
+    "https://arxiv.org/abs/2606.23938",
+    "https://arxiv.org/abs/2606.23991",
+    "https://arxiv.org/abs/2606.24010",
+    "https://arxiv.org/abs/2606.24014",
+    "https://arxiv.org/abs/2606.23693",
+    "https://arxiv.org/abs/2606.23694",
+    "https://arxiv.org/abs/2606.23695",
+    "https://arxiv.org/abs/2606.23700",
+    "https://arxiv.org/abs/2606.23701"
+  ]
+}
