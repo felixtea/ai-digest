@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-06-26",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Supports Appia Foundation for AI Standards",
+          "zh": "OpenAI 通过 Appia 基金会支持先进 AI 标准制定"
+        },
+        "tl_dr": {
+          "en": "OpenAI is assisting in the establishment of shared standards for advanced AI through its support of the Appia Foundation, focusing on evaluation frameworks, safety practices, and global cooperation.",
+          "zh": "OpenAI 通过支持 Appia 基金会，协助建立先进 AI 的共享标准，涵盖评估框架、安全实践和全球合作。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI supports evaluation frameworks for advanced AI.",
+            "OpenAI supports safety practices for advanced AI.",
+            "OpenAI supports global cooperation for advanced AI."
+          ],
+          "zh": [
+            "OpenAI 支持先进 AI 的评估框架。",
+            "OpenAI 支持先进 AI 的安全实践。",
+            "OpenAI 支持先进 AI 的全球合作。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative contributes to the development of a structured environment for advanced AI, potentially influencing the responsible deployment and interoperability of AI technologies across the industry. Establishing shared standards can foster more consistent development and enhance public trust in AI systems.",
+          "zh": "此举有助于为先进 AI 创建结构化环境，可能影响 AI 技术在整个行业的负责任部署和互操作性。建立共享标准可以促进更一致的开发，并增强公众对 AI 系统的信任。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+      },
+      {
+        "title": {
+          "en": "OpenAI, Broadcom Unveil Custom AI Inference Chip",
+          "zh": "OpenAI与博通发布定制AI推理芯片"
+        },
+        "tl_dr": {
+          "en": "OpenAI and Broadcom have introduced \"Jalapeño,\" a custom AI chip designed for Large Language Model (LLM) inference.",
+          "zh": "OpenAI和博通共同推出了名为“Jalapeño”的定制AI芯片，专为大型语言模型（LLM）推理设计。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The chip, named Jalapeño, is a custom AI chip.",
+            "It is specifically built for Large Language Model (LLM) inference.",
+            "Its purpose is to improve performance, efficiency, and scale across AI systems."
+          ],
+          "zh": [
+            "该芯片名为Jalapeño，是一款定制的AI芯片。",
+            "它专门用于大型语言模型（LLM）推理。",
+            "目标是提升AI系统的性能、效率和规模。"
+          ]
+        },
+        "impact": {
+          "en": "This introduction signifies a strategic move towards specialized hardware development for AI, potentially optimizing the operational aspects of LLM deployment. It could influence future directions in AI system architecture by emphasizing custom silicon.",
+          "zh": "此举标志着AI行业在专用硬件开发方面的战略进展，可能优化LLM部署的操作效率。这或将通过强调定制芯片，影响未来AI系统架构的发展方向。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+      },
+      {
+        "title": {
+          "en": "DeepMind Announces Computer Use Integration for Gemini 3.5 Flash",
+          "zh": "DeepMind 宣布 Gemini 3.5 Flash 集成计算机使用功能"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind officially introduced new computer use capabilities for its Gemini 3.5 Flash AI model.",
+          "zh": "Google DeepMind 正式为其 Gemini 3.5 Flash 人工智能模型引入了新的计算机使用能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "",
+            "",
+            ""
+          ],
+          "zh": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "impact": {
+          "en": "This development signifies an expansion of the operational domain for Gemini 3.5 Flash, potentially affecting its applicability in automation and interactive computing tasks.",
+          "zh": "这一进展标志着 Gemini 3.5 Flash 操作领域的扩展，可能影响其在自动化和交互式计算任务中的应用。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "How Omio is building the future of conversational travel",
+          "zh": "How Omio is building the future of conversational travel"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/omio"
+      },
+      {
+        "title": {
+          "en": "How agents are transforming work",
+          "zh": "How agents are transforming work"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/how-agents-are-transforming-work"
+      },
+      {
+        "title": {
+          "en": "Claude Dispatch and the Power of Interfaces",
+          "zh": "Claude Dispatch and the Power of Interfaces"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of"
+      },
+      {
+        "title": {
+          "en": "DiffusionGemma: 4x faster text generation",
+          "zh": "DiffusionGemma: 4x faster text generation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      },
+      {
+        "title": {
+          "en": "Investing in multi-agent AI safety research",
+          "zh": "Investing in multi-agent AI safety research"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/how-agents-are-transforming-work",
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "https://openai.com/index/gpt-5-immunology-mystery",
+    "https://openai.com/index/omio",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://huggingface.co/blog/vllm-jobs",
+    "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "https://huggingface.co/blog/ffasr-leaderboard",
+    "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.latent.space/p/ainews-its-meta-harness-summer",
+    "https://www.latent.space/p/databricks",
+    "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+    "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+    "https://www.latent.space/p/gray-swan",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+    "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
+    "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+    "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+    "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://www.404media.co/bodycam-footage-video-claremore-oklahoma-data-center-meeting/",
+    "https://www.404media.co/vast-structures-in-space-reveal-the-universe-isnt-what-we-thought/",
+    "https://www.404media.co/census-data-privacy-trump-policy-change-noise-infusion/",
+    "https://www.404media.co/snaps-ai-ar-specs-lol/",
+    "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+    "https://www.infoq.com/news/2026/06/cloudflare-one-stack-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/ai-prd-code-review-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/microsoft-build-aks-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://scrollprize.org/firstscroll",
+    "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+    "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+    "https://github.com/plbrault/youre-the-os",
+    "https://explorer.oxide.computer/",
+    "https://arxiv.org/abs/2606.24937",
+    "https://arxiv.org/abs/2606.24965",
+    "https://arxiv.org/abs/2606.24976",
+    "https://arxiv.org/abs/2606.25066",
+    "https://arxiv.org/abs/2606.25103",
+    "https://arxiv.org/abs/2606.24889",
+    "https://arxiv.org/abs/2606.24890",
+    "https://arxiv.org/abs/2606.24893",
+    "https://arxiv.org/abs/2606.24915",
+    "https://arxiv.org/abs/2606.24952"
+  ]
+}
