@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-06-28",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Trump Administration Authorizes Anthropic Mythos for Over 100 US Entities",
+          "zh": "特朗普政府授权Anthropic Mythos供逾百家美国实体使用"
+        },
+        "tl_dr": {
+          "en": "The Trump administration has authorized the use of Anthropic Mythos 5 for over 100 US companies and government agencies, including their non-American employees.",
+          "zh": "特朗普政府已授权超过一百家美国公司和政府机构使用Anthropic Mythos 5，其中包括其非美国籍员工。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Anthropic's Mythos 5 has been authorized for use.",
+            "Over 100 US companies and government agencies are authorized users.",
+            "Authorization extends to non-American employees within these entities."
+          ],
+          "zh": [
+            "Anthropic的Mythos 5已获授权使用。",
+            "超过一百家美国公司和政府机构获准使用。",
+            "授权范围包括这些实体内的非美国籍员工。"
+          ]
+        },
+        "impact": {
+          "en": "This authorization indicates significant governmental adoption and integration of a specific AI model (Mythos 5) into critical US infrastructure and operations. The inclusion of non-American employees suggests a broad deployment strategy, potentially accelerating the model's influence and setting a precedent for AI usage across diverse sectors.",
+          "zh": "此授权表明特定AI模型（Mythos 5）已获得政府的广泛采纳，并被整合到美国关键基础设施和运营中。涵盖非美国籍员工的范围，预示着广泛的部署策略，可能加速该模型的影响力，并为AI在不同行业的应用树立先例。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Previews GPT-5.6 Sol Model",
+          "zh": "OpenAI 预览 GPT-5.6 Sol 模型"
+        },
+        "tl_dr": {
+          "en": "OpenAI has previewed GPT-5.6 Sol, a next-generation model featuring enhanced capabilities in coding, science, and cybersecurity, combined with its most advanced safety stack.",
+          "zh": "OpenAI 预览了 GPT-5.6 Sol，这是一款下一代模型，在编码、科学和网络安全方面具有更强的能力，并配备了最先进的安全堆栈。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GPT-5.6 Sol is identified as a next-generation model.",
+            "It demonstrates enhanced capabilities across coding, science, and cybersecurity domains.",
+            "The model integrates OpenAI's most advanced safety stack."
+          ],
+          "zh": [
+            "GPT-5.6 Sol 被定位为下一代模型。",
+            "它在编码、科学和网络安全领域展现了增强的能力。",
+            "该模型集成了 OpenAI 最先进的安全堆栈。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of a model with stronger capabilities in critical technical fields and an advanced safety stack indicates a focus on both performance and responsible AI development. This could lead to more robust and secure AI applications in specialized domains.",
+          "zh": "推出一款在关键技术领域具有更强能力并配备先进安全堆栈的模型，表明了对性能和负责任人工智能开发的重视。这可能在专业领域催生出更强大、更安全的 AI 应用。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/previewing-gpt-5-6-sol"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Details AI Agent Security Plan",
+          "zh": "Google DeepMind公布AI智能体安全计划"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind announced its strategy for securing internal AI agent systems through a new roadmap.",
+          "zh": "Google DeepMind宣布通过新的路线图来保障其内部AI智能体系统的安全。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Implementation of an AI Control Roadmap.",
+            "Integration of traditional safeguards.",
+            "Utilization of real-time monitoring."
+          ],
+          "zh": [
+            "实施AI控制路线图。",
+            "整合传统安全防护措施。",
+            "利用实时监控。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative is critical for ensuring the safe and reliable operation of AI agents, addressing potential risks as their capabilities expand.",
+          "zh": "此举对于确保AI智能体的安全可靠运行至关重要，旨在应对其能力扩展可能带来的潜在风险。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Helping build shared standards for advanced AI",
+          "zh": "Helping build shared standards for advanced AI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+      },
+      {
+        "title": {
+          "en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+          "zh": "OpenAI and Broadcom unveil LLM-optimized inference chip"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+      },
+      {
+        "title": {
+          "en": "Introducing computer use in Gemini 3.5 Flash",
+          "zh": "Introducing computer use in Gemini 3.5 Flash"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+      },
+      {
+        "title": {
+          "en": "How agents are transforming work",
+          "zh": "How agents are transforming work"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/how-agents-are-transforming-work"
+      },
+      {
+        "title": {
+          "en": "Investing in multi-agent AI safety research",
+          "zh": "Investing in multi-agent AI safety research"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/previewing-gpt-5-6-sol",
+    "https://openai.com/index/how-agents-are-transforming-work",
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "https://openai.com/index/gpt-5-immunology-mystery",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://huggingface.co/blog/vllm-jobs",
+    "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "https://huggingface.co/blog/ffasr-leaderboard",
+    "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
+    "https://www.latent.space/p/ainews-openai-reports-median-internal",
+    "https://www.latent.space/p/ainews-its-meta-harness-summer",
+    "https://www.latent.space/p/databricks",
+    "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+    "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+    "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
+    "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+    "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+    "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "https://www.404media.co/scientists-think-theyve-uncovered-the-15-million-year-old-origin-of-laughter/",
+    "https://www.404media.co/behind-the-blog-salesforce-beach/",
+    "https://www.404media.co/bodycam-footage-video-claremore-oklahoma-data-center-meeting/",
+    "https://www.404media.co/vast-structures-in-space-reveal-the-universe-isnt-what-we-thought/",
+    "https://www.404media.co/census-data-privacy-trump-policy-change-noise-infusion/",
+    "https://www.infoq.com/news/2026/06/vercel-eve-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/dapr-1-18-cryptographic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/cloudflare-one-stack-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://ipcrawl.com/",
+    "https://github.com/bikini/exploitarium",
+    "https://www.openra.net/",
+    "https://evilbit.de/dns-resolver-guide.html",
+    "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
+  ]
+}
