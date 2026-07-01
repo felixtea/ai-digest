@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-07-01",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Outlines AI Agent Security Roadmap",
+          "zh": "Google DeepMind 概述 AI 代理安全路线图"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind is securing internal systems for AI agents through an AI Control Roadmap that combines traditional safeguards and real-time monitoring.",
+          "zh": "Google DeepMind 正通过一项结合传统保障措施和实时监控的 AI 控制路线图，确保 AI 代理内部系统的安全。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Security efforts are focused on internal systems for AI agents.",
+            "An \"AI Control Roadmap\" is being implemented.",
+            "The strategy integrates traditional safeguards with real-time monitoring."
+          ],
+          "zh": [
+            "安全工作的重点是 AI 代理的内部系统。",
+            "正在实施一项“AI 控制路线图”。",
+            "该策略结合了传统保障措施和实时监控。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative addresses the critical need for robust security in AI agent deployment, setting a precedent for responsible development as AI systems become more autonomous within organizations.",
+          "zh": "这一举措解决了 AI 代理部署中对强大安全性的关键需求，随着 AI 系统在组织内部变得更加自主，为负责任的开发树立了先例。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
+      },
+      {
+        "title": {
+          "en": "Microsoft AI Reveals Brain Language Regions",
+          "zh": "微软AI揭示大脑语言区域"
+        },
+        "tl_dr": {
+          "en": "Microsoft researchers introduced generative causal testing, a method that translates black box models into clear hypotheses and verifies them in a scanner to identify brain regions responding to language.",
+          "zh": "微软研究人员引入了生成式因果测试方法，该方法将黑箱模型转化为清晰的假设，并通过扫描验证这些假设，从而揭示特定大脑区域对语言的反应。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Researchers introduced generative causal testing.",
+            "The method translates black box models into clear hypotheses.",
+            "Hypotheses are verified in a scanner, revealing specific brain regions' responses to language."
+          ],
+          "zh": [
+            "研究人员引入了生成式因果测试。",
+            "该方法将黑箱模型转化为清晰的假设。",
+            "假设通过扫描进行验证，揭示了特定大脑区域对语言的反应。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides a methodology for interpreting complex AI models, enabling their application in fields like neuroscience to gain empirical insights into human cognition. It offers a structured approach to bridge theoretical AI models with observable biological processes.",
+          "zh": "这一进展为解释复杂的AI模型提供了一种方法论，使其能够应用于神经科学等领域，从而获得对人类认知的经验洞察。它提供了一种结构化的方法来连接理论性的AI模型与可观察的生物过程。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Unveils GeneBench-Pro for Scientific AI Evaluation",
+          "zh": "OpenAI推出GeneBench-Pro基准测试，评估科学领域AI性能"
+        },
+        "tl_dr": {
+          "en": "OpenAI introduced GeneBench-Pro, a new benchmark designed to test AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+          "zh": "OpenAI推出了GeneBench-Pro，这是一个新的基准测试，用于评估AI在基因组学、生物学和科学研究中处理复杂真实世界数据集的性能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GeneBench-Pro is a new benchmark introduced by OpenAI.",
+            "It tests AI performance across specific domains: genomics, biology, and scientific research.",
+            "The benchmark utilizes complex, real-world datasets for its evaluations."
+          ],
+          "zh": [
+            "GeneBench-Pro是OpenAI推出的一个新的基准测试。",
+            "它评估AI在基因组学、生物学和科学研究等特定领域的性能。",
+            "该基准测试采用复杂的真实世界数据集进行评估。"
+          ]
+        },
+        "impact": {
+          "en": "This benchmark provides a standardized method to evaluate AI models in specialized scientific domains. It could facilitate the development and comparison of AI capabilities crucial for these fields.",
+          "zh": "该基准测试为评估AI模型在专业科学领域的性能提供了一种标准化方法。它有助于推动AI在这些关键领域的能力发展和比较。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-genebench-pro"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Mapping Europe’s AI Workforce Opportunity",
+          "zh": "Mapping Europe’s AI Workforce Opportunity"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+      },
+      {
+        "title": {
+          "en": "What's new in Claude Sonnet 5",
+          "zh": "What's new in Claude Sonnet 5"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Open-world evaluations for measuring frontier AI capabilities",
+          "zh": "Open-world evaluations for measuring frontier AI capabilities"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/open-world-evaluations-for-measuring"
+      },
+      {
+        "title": {
+          "en": "Claude Science is Anthropic’s newest flagship product",
+          "zh": "Claude Science is Anthropic’s newest flagship product"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+      },
+      {
+        "title": {
+          "en": "DiffusionGemma: 4x faster text generation",
+          "zh": "DiffusionGemma: 4x faster text generation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "https://openai.com/index/introducing-genebench-pro",
+    "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "https://openai.com/index/genebench-pro/case-studies",
+    "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://huggingface.co/blog/ibm-research/scarfbench",
+    "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "https://huggingface.co/blog/eee-community-evals",
+    "https://huggingface.co/blog/allenai/discoformer",
+    "https://huggingface.co/blog/vllm-jobs",
+    "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.latent.space/p/forward-deployed-engineers-aiewf",
+    "https://www.latent.space/p/ahmad-osman-local-ai",
+    "https://www.latent.space/p/ainews-not-much-happened-today-07e",
+    "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
+    "https://www.latent.space/p/ainews-openai-reports-median-internal",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+    "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+    "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+    "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
+    "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://www.404media.co/meta-smart-glasses-starfire-kylie-jenner/",
+    "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+    "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
+    "https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/",
+    "https://www.404media.co/how-i-bought-a-private-jet-by-selling-10-subscriptions-to-404-media/",
+    "https://www.infoq.com/news/2026/06/elastic-atlas-agent-memory/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/azuredevops-copilot-autofix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/target-ai-campaign-forecasting/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/ai-coding-outpaces-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/aws-finops-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.anthropic.com/news/claude-sonnet-5",
+    "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+    "https://hatari.frama.io/hatari/online/hatari.html",
+    "https://claude.com/product/claude-science",
+    "https://arxiv.org/abs/2606.28374",
+    "https://arxiv.org/abs/2606.28471",
+    "https://arxiv.org/abs/2606.28514",
+    "https://arxiv.org/abs/2606.28556",
+    "https://arxiv.org/abs/2606.28589",
+    "https://arxiv.org/abs/2606.28354",
+    "https://arxiv.org/abs/2606.28457",
+    "https://arxiv.org/abs/2606.28524",
+    "https://arxiv.org/abs/2606.28526",
+    "https://arxiv.org/abs/2606.28538"
+  ]
+}
