@@ -1,0 +1,141 @@
+{
+  "date_id": "2026-07-02",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "The AI Compass",
+          "zh": "The AI Compass"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+          "zh": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users"
+        },
+        "source": "Ars Technica (AI)",
+        "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/"
+      },
+      {
+        "title": {
+          "en": "Contrastive Reflection for Iterative Prompt Optimization",
+          "zh": "Contrastive Reflection for Iterative Prompt Optimization"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2606.30840"
+      },
+      {
+        "title": {
+          "en": "How ChatGPT adoption has expanded",
+          "zh": "How ChatGPT adoption has expanded"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+      },
+      {
+        "title": {
+          "en": "Inside Genebench-Pro",
+          "zh": "Inside Genebench-Pro"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/genebench-pro/case-studies"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "https://openai.com/index/genebench-pro/case-studies",
+    "https://openai.com/index/introducing-genebench-pro",
+    "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "https://huggingface.co/blog/ibm-research/scarfbench",
+    "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "https://huggingface.co/blog/eee-community-evals",
+    "https://huggingface.co/blog/allenai/discoformer",
+    "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.latent.space/p/autoresearch-introspection",
+    "https://www.latent.space/p/cursor-forward-deployed-engineers",
+    "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+    "https://www.latent.space/p/software-factories",
+    "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+    "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+    "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+    "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
+    "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://www.404media.co/podcast-the-ai-tokenpocalypse-is-here/",
+    "https://www.404media.co/untitled-28/",
+    "https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/",
+    "https://www.404media.co/meta-smart-glasses-starfire-kylie-jenner/",
+    "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+    "https://www.infoq.com/news/2026/06/elastic-atlas-agent-memory/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/azuredevops-copilot-autofix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/target-ai-campaign-forecasting/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/ai-coding-outpaces-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/aws-finops-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://zcode.z.ai/en",
+    "https://www.workerowned.info/",
+    "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+    "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+    "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
+    "https://arxiv.org/abs/2606.30774",
+    "https://arxiv.org/abs/2606.30840",
+    "https://arxiv.org/abs/2606.30846",
+    "https://arxiv.org/abs/2606.30850",
+    "https://arxiv.org/abs/2606.30852",
+    "https://arxiv.org/abs/2606.30775",
+    "https://arxiv.org/abs/2606.30790",
+    "https://arxiv.org/abs/2606.30801",
+    "https://arxiv.org/abs/2606.30814",
+    "https://arxiv.org/abs/2606.30815"
+  ]
+}
