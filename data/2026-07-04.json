@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-07-04",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Control Frameworks Emerge for Advancing AI Agents",
+          "zh": "伴随AI智能体进展，控制框架浮现"
+        },
+        "tl_dr": {
+          "en": "New AI agent capabilities are emerging with models like GLM-5.2, alongside the development of security measures and operational frameworks.",
+          "zh": "随着GLM-5.2等模型推动AI智能体能力发展，安全措施和操作框架也随之兴起。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GLM-5.2 is identified as a \"step change\" in capabilities for \"open agents\".",
+            "Coding agents utilize \"tools, memory, and repo context\" to enhance Large Language Model (LLM) performance.",
+            "Google DeepMind implements an \"AI Control Roadmap\" that combines \"traditional safeguards and real-time monitoring\" for internal systems."
+          ],
+          "zh": [
+            "GLM-5.2被认为是“开放智能体”能力的“阶跃性变化”。",
+            "编码智能体利用“工具、记忆和仓库上下文”来提升大型语言模型（LLM）的实际表现。",
+            "Google DeepMind正在实施一项“AI控制路线图”，结合“传统保障措施和实时监控”来保护内部系统。"
+          ]
+        },
+        "impact": {
+          "en": "The expansion of AI agents into critical operational roles, particularly in industrial systems, necessitates robust control and security frameworks. This shift indicates AI is moving beyond consumer-facing tools to become a core operating layer in areas where safety and continuity are paramount.",
+          "zh": "AI智能体扩展到关键操作角色，尤其是在工业系统中，要求健全的控制和安全框架。这一转变表明AI正在超越面向消费者的工具，成为安全和连续性至关重要的领域的核心操作层。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
+      },
+      {
+        "title": {
+          "en": "Microsoft AI Method Explains Brain's Language Response",
+          "zh": "微软AI方法阐释大脑语言反应机制"
+        },
+        "tl_dr": {
+          "en": "Microsoft researchers developed generative causal testing to translate black box models into verifiable hypotheses, revealing specific brain regions' responses to language.",
+          "zh": "微软研究人员开发了生成式因果测试，将黑箱模型转化为可验证的假设，从而揭示特定大脑区域对语言的反应。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Researchers introduced generative causal testing.",
+            "The method translates black box models into clear hypotheses.",
+            "These hypotheses are verified in the scanner, revealing specific brain regions' responses to language."
+          ],
+          "zh": [
+            "研究人员引入了生成式因果测试。",
+            "该方法将黑箱模型转化为清晰的假设。",
+            "这些假设通过扫描仪进行验证，揭示了特定大脑区域对语言的反应。"
+          ]
+        },
+        "impact": {
+          "en": "This research offers a method for demystifying complex black box models by translating them into verifiable hypotheses. It contributes to understanding how AI can provide insights into specific brain region activities related to language.",
+          "zh": "这项研究提供了一种通过将复杂黑箱模型转化为可验证假设来阐明其运作机制的方法。它有助于理解人工智能如何为特定大脑区域的语言活动提供洞察。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/"
+      },
+      {
+        "title": {
+          "en": "Critical Copilot Vulnerability Led to 2FA Code Theft",
+          "zh": "必应Copilot关键漏洞致双因素认证码被窃"
+        },
+        "tl_dr": {
+          "en": "A critical vulnerability in Copilot, known as SearchLeak, allowed attackers to steal users' two-factor authentication codes.",
+          "zh": "必应Copilot中的一个关键漏洞（称为SearchLeak）使攻击者能够窃取用户的双因素认证码。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The vulnerability was discovered in Copilot.",
+            "It enabled the theft of users' two-factor authentication (2FA) codes.",
+            "The exploit associated with this vulnerability is named SearchLeak."
+          ],
+          "zh": [
+            "该漏洞出现在Copilot中。",
+            "它导致用户双因素认证（2FA）码被盗。",
+            "与此漏洞相关的利用被称为SearchLeak。"
+          ]
+        },
+        "impact": {
+          "en": "This incident highlights ongoing challenges in securing large language model (LLM) based systems, indicating a need for more robust security frameworks within the AI industry.",
+          "zh": "此次事件突显了保护基于大型语言模型（LLM）的系统所面临的持续挑战，表明人工智能行业需要更强大的安全框架。"
+        },
+        "source": "Ars Technica",
+        "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Mapping Europe’s AI Workforce Opportunity",
+          "zh": "Mapping Europe’s AI Workforce Opportunity"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+      },
+      {
+        "title": {
+          "en": "The Wiola Architecture for Efficient Small Language Models",
+          "zh": "The Wiola Architecture for Efficient Small Language Models"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2607.01394"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "zh": "Google DeepMind and A24 announce first-of-its-kind research partnership"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+      },
+      {
+        "title": {
+          "en": "Unlocking UK house-building with AI-accelerated planning",
+          "zh": "Unlocking UK house-building with AI-accelerated planning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+      },
+      {
+        "title": {
+          "en": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+          "zh": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "https://openai.com/index/genebench-pro/case-studies",
+    "https://openai.com/index/introducing-genebench-pro",
+    "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "https://huggingface.co/blog/ibm-research/scarfbench",
+    "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "https://huggingface.co/blog/eee-community-evals",
+    "https://huggingface.co/blog/allenai/discoformer",
+    "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+    "https://www.latent.space/p/vercel-agents-new-software",
+    "https://www.latent.space/p/the-website-of-the-future",
+    "https://www.latent.space/p/skill-engineering-design",
+    "https://www.latent.space/p/ainews-not-much-happened-today-900",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+    "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+    "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+    "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
+    "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/",
+    "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/",
+    "https://www.404media.co/podcast-the-ai-tokenpocalypse-is-here/",
+    "https://www.404media.co/untitled-28/",
+    "https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/",
+    "https://www.infoq.com/news/2026/07/cloudflare-unified-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/hardwood-java-parquet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/apple-pcc-google-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/elastic-atlas-agent-memory/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/06/azuredevops-copilot-autofix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+    "https://mistral.ai/news/leanstral-1-5/",
+    "https://mrbruh.com/msicenter/",
+    "https://www.wafer.ai/blog/glm52-amd",
+    "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+    "https://arxiv.org/abs/2607.01306",
+    "https://arxiv.org/abs/2607.01366",
+    "https://arxiv.org/abs/2607.01394",
+    "https://arxiv.org/abs/2607.01425",
+    "https://arxiv.org/abs/2607.01426",
+    "https://arxiv.org/abs/2607.01235",
+    "https://arxiv.org/abs/2607.01236",
+    "https://arxiv.org/abs/2607.01237",
+    "https://arxiv.org/abs/2607.01238",
+    "https://arxiv.org/abs/2607.01239"
+  ]
+}
