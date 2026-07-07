@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-07-07",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "GLM-5.2 Marks \"Step Change\" for Open AI Agents",
+          "zh": "GLM-5.2 标志着开放式AI智能体的“质变”"
+        },
+        "tl_dr": {
+          "en": "The GLM-5.2 model has reached a new capability threshold, marking a \"step change\" for open AI agents.",
+          "zh": "GLM-5.2 模型达到了新的能力阈值，标志着开放式AI智能体取得了“质变”。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GLM-5.2 has reached a \"capability threshold,\" marking a \"step change\" for open agents.",
+            "Coding agents leverage components such as \"tools, memory, and repo context\" to enhance the practical application of LLMs.",
+            "Open-weight models can be used in \"local coding harnesses\" as an alternative to proprietary solutions like Claude Code and Codex subscriptions."
+          ],
+          "zh": [
+            "GLM-5.2 达到了“能力阈值”，标志着开放式智能体的“质变”。",
+            "编码智能体利用“工具、内存和代码库上下文”等组件来增强大型语言模型的实际应用效果。",
+            "开放权重模型可以在“本地编码环境中”使用，作为 Claude Code 和 Codex 等专有订阅服务的替代方案。"
+          ]
+        },
+        "impact": {
+          "en": "The development of models like GLM-5.2, which represent a \"step change\" for open agents, indicates a progression in AI capabilities. This enables broader practical applications, including potentially for local coding agents using open-weight models, while also underscoring the necessity for robust security frameworks for AI agent deployment.",
+          "zh": "GLM-5.2 等模型为开放式智能体带来的“质变”表明了AI能力的进步。这促进了更广泛的实际应用，包括使用开放权重模型部署本地编码智能体，同时也强调了部署AI智能体时建立强大安全框架的必要性。"
+        },
+        "source": "Interconnects",
+        "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open"
+      },
+      {
+        "title": {
+          "en": "OpenAI Launches GeneBench-Pro for AI Genomics Benchmarking",
+          "zh": "OpenAI 推出 GeneBench-Pro，用于 AI 基因组学基准测试"
+        },
+        "tl_dr": {
+          "en": "OpenAI has introduced GeneBench-Pro, a new benchmark designed to test AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+          "zh": "OpenAI 推出了 GeneBench-Pro，这是一个新的基准测试，旨在利用复杂的真实世界数据集测试人工智能在基因组学、生物学和科学研究中的性能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GeneBench-Pro is a newly introduced benchmark.",
+            "It tests AI performance across genomics, biology, and scientific research domains.",
+            "The benchmark utilizes complex, real-world datasets for evaluation."
+          ],
+          "zh": [
+            "GeneBench-Pro 是一个新推出的基准测试。",
+            "它测试人工智能在基因组学、生物学和科学研究领域的性能。",
+            "该基准测试采用复杂的真实世界数据集进行评估。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of GeneBench-Pro provides a standardized method for evaluating AI models in critical scientific fields like genomics and biology. This facilitates consistent performance comparisons and development in AI applications for scientific research.",
+          "zh": "GeneBench-Pro 的推出为评估人工智能模型在基因组学和生物学等关键科学领域的性能提供了一个标准化方法。这有助于人工智能在科学研究应用中实现一致的性能比较和发展。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-genebench-pro"
+      },
+      {
+        "title": {
+          "en": "AI-Driven Causal Testing Explains Brain Language Responses",
+          "zh": "AI驱动的因果测试阐释大脑语言反应"
+        },
+        "tl_dr": {
+          "en": "Microsoft researchers introduced generative causal testing to translate black box models into hypotheses and verify brain region responses to language.",
+          "zh": "微软研究人员引入了生成式因果测试，旨在将黑盒模型转化为清晰的假设，并验证大脑特定区域对语言的反应。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The method is named \"generative causal testing.\"",
+            "It translates \"black box models\" into \"clear hypotheses.\"",
+            "Hypotheses are verified \"in the scanner\" to reveal \"what specific brain regions respond to in language.\""
+          ],
+          "zh": [
+            "该方法被称为“生成式因果测试”。",
+            "它将“黑盒模型”转化为“清晰的假设”。",
+            "这些假设在“扫描仪中”得到验证，以揭示“特定大脑区域如何响应语言”。"
+          ]
+        },
+        "impact": {
+          "en": "This research advances the interpretability of AI models by bridging their outputs with observable biological responses, potentially improving understanding of how AI interacts with complex biological systems. It offers a structured approach to validate AI-generated insights into neurological processes.",
+          "zh": "这项研究通过将AI模型的输出与可观测的生物反应联系起来，提升了AI模型的可解释性，可能增进对AI如何与复杂生物系统交互的理解。它为验证AI生成关于神经过程的见解提供了一种结构化方法。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Mapping Europe’s AI Workforce Opportunity",
+          "zh": "Mapping Europe’s AI Workforce Opportunity"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+      },
+      {
+        "title": {
+          "en": "How ChatGPT adoption has expanded",
+          "zh": "How ChatGPT adoption has expanded"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "zh": "Google DeepMind and A24 announce first-of-its-kind research partnership"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+      },
+      {
+        "title": {
+          "en": "Unlocking UK house-building with AI-accelerated planning",
+          "zh": "Unlocking UK house-building with AI-accelerated planning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+      },
+      {
+        "title": {
+          "en": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+          "zh": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "https://openai.com/index/introducing-genebench-pro",
+    "https://openai.com/index/genebench-pro/case-studies",
+    "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://huggingface.co/blog/lerobot-release-v060",
+    "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "https://huggingface.co/blog/revamped-kernels",
+    "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "https://huggingface.co/blog/ibm-research/scarfbench",
+    "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+    "https://www.latent.space/p/vercel-agents-new-software",
+    "https://www.latent.space/p/the-website-of-the-future",
+    "https://www.latent.space/p/skill-engineering-design",
+    "https://www.latent.space/p/ainews-not-much-happened-today-900",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+    "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+    "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+    "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
+    "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+    "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/",
+    "https://www.404media.co/solved-the-case-of-the-missing-megalodon/",
+    "https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/",
+    "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/",
+    "https://www.404media.co/podcast-the-ai-tokenpocalypse-is-here/",
+    "https://www.infoq.com/news/2026/07/online-cohort-ai-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/cloudflare-aws-x402-micropayment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/aws-s3-annotations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/claude-foundry-ga-europe/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://github.com/MaximeRivest/Riddle",
+    "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+    "https://openwrt.org/toh/openwrt/one",
+    "https://www.comaps.app/",
+    "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
+  ]
+}
