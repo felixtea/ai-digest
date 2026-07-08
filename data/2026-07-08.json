@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-07-08",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "GLM-5.2 Model Marks Capability Advance for Open AI Agents",
+          "zh": "GLM-5.2 模型标志着开放AI智能体能力提升"
+        },
+        "tl_dr": {
+          "en": "The GLM-5.2 model has emerged as a significant development for open AI agents, reaching a monitored capability threshold.",
+          "zh": "GLM-5.2模型已成为开放AI智能体领域的重要进展，达到一个受关注的能力阈值。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The GLM-5.2 model is identified as a 'step change' for open AI agents, having reached a previously monitored capability threshold.",
+            "Local coding agents can utilize open-weight models in local coding harnesses as an alternative to proprietary services like Claude Code and Codex subscriptions.",
+            "Coding agents enhance Large Language Model (LLM) performance in practice by leveraging tools, memory, and repository context."
+          ],
+          "zh": [
+            "GLM-5.2模型被认为是开放AI智能体的'划时代进步'，达到了此前受关注的能力阈值。",
+            "本地编码智能体可以使用本地编码环境中部署的开源模型，作为Claude Code和Codex订阅等专有服务的替代方案。",
+            "编码智能体通过利用工具、内存和代码库上下文，提高了大型语言模型（LLMs）的实际表现。"
+          ]
+        },
+        "impact": {
+          "en": "The emergence of models like GLM-5.2 as a 'step change' for open agents signifies increased accessibility to advanced AI capabilities, offering alternatives to proprietary services. This trend can accelerate innovation and foster competition in the development and practical application of AI, particularly for specialized tasks like coding and integration into industrial systems.",
+          "zh": "GLM-5.2等模型作为开放智能体的'划时代进步'出现，标志着高级AI能力的普及性增强，并为专有服务提供了替代方案。这一趋势可以加速AI开发和实际应用中的创新并促进竞争，尤其是在编码和工业系统集成等专业任务方面。"
+        },
+        "source": "Interconnects",
+        "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open"
+      },
+      {
+        "title": {
+          "en": "MUFG Integrates OpenAI's ChatGPT Enterprise",
+          "zh": "三菱日联金融集团集成OpenAI ChatGPT Enterprise"
+        },
+        "tl_dr": {
+          "en": "MUFG is utilizing ChatGPT Enterprise to integrate AI into its organization, streamline workflows, and develop AI-powered financial services at scale.",
+          "zh": "三菱日联金融集团正在利用ChatGPT Enterprise构建AI原生组织，改进工作流程，并规模化提供AI驱动的金融服务。"
+        },
+        "key_takeaways": {
+          "en": [
+            "MUFG adopted OpenAI's ChatGPT Enterprise for AI integration.",
+            "The initiative aims to establish an AI-native organization and improve workflows.",
+            "Reports referenced a potential \"$300 stake\" for Americans in AI wealth, tied to Sam Altman's promise."
+          ],
+          "zh": [
+            "三菱日联金融集团已采用OpenAI的ChatGPT Enterprise以整合AI。",
+            "此举旨在建立一个AI原生组织并改进工作流程。",
+            "有报道提及萨姆·奥特曼关于美国人分享AI财富的承诺，其中包括潜在的“300美元”股权。"
+          ]
+        },
+        "impact": {
+          "en": "The adoption of advanced AI by a major financial institution like MUFG signals a trend toward AI-native corporate structures across industries. The ongoing discussion about equitable wealth distribution from AI, such as the potential for a \"$300 stake,\" highlights the broader societal implications of AI development.",
+          "zh": "像三菱日联金融集团这样的大型金融机构采纳先进AI，预示着各行业向AI原生企业结构转型的趋势。关于AI财富公平分配（例如潜在的“300美元”股权）的持续讨论，凸显了AI发展的更广泛社会影响。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/mufg"
+      },
+      {
+        "title": {
+          "en": "Microsoft Researchers Unveil AI-Driven Brain Activity Explanation Method",
+          "zh": "微软研究员发布人工智能驱动的大脑活动解释方法"
+        },
+        "tl_dr": {
+          "en": "Microsoft researchers introduced generative causal testing, which translates black box models into clear hypotheses and verifies them in a scanner to reveal specific brain region responses to language.",
+          "zh": "微软研究员引入了生成式因果测试，该方法将黑盒模型转化为清晰的假设，并在扫描仪中验证这些假设，以揭示特定大脑区域对语言的反应。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Researchers introduced generative causal testing.",
+            "This method translates black box models into clear hypotheses.",
+            "The hypotheses are verified in a scanner to reveal specific brain regions responding to language."
+          ],
+          "zh": [
+            "研究员引入了生成式因果测试。",
+            "该方法将黑盒模型转化为清晰的假设。",
+            "这些假设在扫描仪中得到验证，以揭示特定大脑区域对语言的反应。"
+          ]
+        },
+        "impact": {
+          "en": "This development offers a method to enhance the interpretability of AI models by linking their outputs to verifiable biological processes. It provides clearer insights into cognitive functions, potentially advancing neuro-linguistic programming and human-computer interaction.",
+          "zh": "这一进展提供了一种方法，通过将AI模型的输出与可验证的生物过程联系起来，增强了AI模型的可解释性。它为认知功能提供了更清晰的洞察，可能推动神经语言编程和人机交互的进步。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Introducing GeneBench-Pro",
+          "zh": "Introducing GeneBench-Pro"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-genebench-pro"
+      },
+      {
+        "title": {
+          "en": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+          "zh": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
+      },
+      {
+        "title": {
+          "en": "iFLYTEK-Embodied-Omni Technical Report",
+          "zh": "iFLYTEK-Embodied-Omni Technical Report"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2607.02542"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "zh": "Google DeepMind and A24 announce first-of-its-kind research partnership"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+      },
+      {
+        "title": {
+          "en": "Unlocking UK house-building with AI-accelerated planning",
+          "zh": "Unlocking UK house-building with AI-accelerated planning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/australian-payments-plus",
+    "https://openai.com/index/mufg",
+    "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "https://openai.com/index/introducing-genebench-pro",
+    "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "https://huggingface.co/blog/skypilot-hf-storage",
+    "https://huggingface.co/blog/lerobot-release-v060",
+    "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+    "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+    "https://www.latent.space/p/vercel-agents-new-software",
+    "https://www.latent.space/p/the-website-of-the-future",
+    "https://www.latent.space/p/skill-engineering-design",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+    "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
+    "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
+    "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
+    "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
+    "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "https://www.404media.co/waymo-called-police-on-teens-san-mateo/",
+    "https://www.404media.co/mice-cocaine-research-addiction-fens-forum/",
+    "https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/",
+    "https://www.404media.co/solved-the-case-of-the-missing-megalodon/",
+    "https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/",
+    "https://www.infoq.com/news/2026/07/momentic-postgres-clickhouse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/online-cohort-ai-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/cloudflare-aws-x402-micropayment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.gao.gov/products/gao-26-108193",
+    "https://odra.dev/slopfix/",
+    "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+    "https://streetcomplete.app/",
+    "https://kb.cert.org/vuls/id/213560",
+    "https://arxiv.org/abs/2607.02542",
+    "https://arxiv.org/abs/2607.02672",
+    "https://arxiv.org/abs/2607.02686",
+    "https://arxiv.org/abs/2607.02771",
+    "https://arxiv.org/abs/2607.02807",
+    "https://arxiv.org/abs/2607.02668",
+    "https://arxiv.org/abs/2607.02734",
+    "https://arxiv.org/abs/2607.02757",
+    "https://arxiv.org/abs/2607.02763",
+    "https://arxiv.org/abs/2607.02770"
+  ]
+}
