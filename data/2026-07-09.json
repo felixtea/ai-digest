@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-07-09",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Implements AI Agent Security Roadmap",
+          "zh": "谷歌DeepMind实施AI代理安全路线图"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind is securing its internal systems for AI agents by employing an AI Control Roadmap that integrates traditional safeguards and real-time monitoring.",
+          "zh": "谷歌DeepMind正通过一项结合传统防护措施和实时监控的AI控制路线图，来确保其AI代理内部系统的安全。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Security efforts are focused on internal systems.",
+            "The strategy is named an \"AI Control Roadmap.\"",
+            "The roadmap combines \"traditional safeguards\" with \"real-time monitoring.\""
+          ],
+          "zh": [
+            "安全工作的重点是内部系统。",
+            "该策略被称为“AI控制路线图”。",
+            "该路线图结合了“传统防护措施”和“实时监控”。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative indicates a focus on establishing robust security protocols for AI agents operating within enterprise internal environments, addressing potential risks in critical AI deployments.",
+          "zh": "此举表明业界正关注为企业内部环境中运行的AI代理建立强大的安全协议，以解决关键AI部署中潜在的风险。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Upgrades ChatGPT Voice Mode with GPT-Live",
+          "zh": "OpenAI 推出 GPT-Live，升级 ChatGPT 语音模式"
+        },
+        "tl_dr": {
+          "en": "OpenAI has upgraded the model powering ChatGPT voice mode with a new generation of voice models named GPT-Live.",
+          "zh": "OpenAI 已使用名为 GPT-Live 的新一代语音模型升级了为 ChatGPT 语音模式提供支持的模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GPT-Live represents a new generation of voice models designed for natural human-AI interaction.",
+            "This new model is now integrated into ChatGPT Voice mode, providing its core capabilities.",
+            "GPT-Live can delegate complex tasks requiring web search, deeper reasoning, or more complex work to OpenAI's latest frontier model behind the scenes."
+          ],
+          "zh": [
+            "GPT-Live 代表了专为自然人机交互设计的新一代语音模型。",
+            "该新模型现已集成至 ChatGPT 语音模式，为其提供核心功能。",
+            "GPT-Live 能够将需要网络搜索、深度推理或更复杂工作的任务委托给 OpenAI 最新的前沿模型进行处理。"
+          ]
+        },
+        "impact": {
+          "en": "This upgrade enhances natural human-AI interaction in voice applications. The ability to delegate complex tasks to a frontier model suggests improved capabilities for real-time, multifaceted AI assistance.",
+          "zh": "此次升级增强了语音应用中的自然人机交互能力。将复杂任务委托给前沿模型的能力表明实时多方面AI辅助功能得到提升。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-gpt-live"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Introduces Generative Causal Testing for Brain Understanding",
+          "zh": "微软研究院推出生成式因果测试以理解大脑"
+        },
+        "tl_dr": {
+          "en": "Microsoft researchers introduced generative causal testing, a method to translate black box models into clear hypotheses and verify them to identify brain regions responding to language.",
+          "zh": "微软研究人员引入了生成式因果测试，该方法可将黑盒模型转化为清晰的假设并在扫描仪中验证，以揭示特定大脑区域对语言的反应。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Researchers at Microsoft introduced 'generative causal testing'.",
+            "This method translates 'black box models' into clear hypotheses.",
+            "Hypotheses are verified in a scanner to identify specific brain regions that respond to language."
+          ],
+          "zh": [
+            "微软研究人员引入了“生成式因果测试”。",
+            "该方法可将“黑盒模型”转化为清晰的假设。",
+            "假设在扫描仪中得到验证，以识别对语言有反应的特定大脑区域。"
+          ]
+        },
+        "impact": {
+          "en": "This research provides a method to demystify black box AI models by translating their outputs into testable hypotheses for brain activity. It offers a new approach for understanding how the brain processes language, bridging AI interpretation and neuroscience.",
+          "zh": "这项研究提供了一种通过将黑盒AI模型的输出转化为可测试的大脑活动假设来揭示其内部机制的方法。它为理解大脑如何处理语言提供了一种新途径，连接了AI解释与神经科学。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Separating signal from noise in coding evaluations",
+          "zh": "Separating signal from noise in coding evaluations"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
+      },
+      {
+        "title": {
+          "en": "New Paper: Towards a science of AI agent reliability",
+          "zh": "New Paper: Towards a science of AI agent reliability"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai"
+      },
+      {
+        "title": {
+          "en": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+          "zh": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
+      },
+      {
+        "title": {
+          "en": "Our approach to government and national security partnerships",
+          "zh": "Our approach to government and national security partnerships"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/government-national-security-partnerships"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "zh": "Google DeepMind and A24 announce first-of-its-kind research partnership"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/government-national-security-partnerships",
+    "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "https://openai.com/index/k-12-educators-practical-skills",
+    "https://openai.com/index/introducing-gpt-live",
+    "https://openai.com/index/australian-payments-plus",
+    "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "https://huggingface.co/blog/skypilot-hf-storage",
+    "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+    "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+    "https://www.latent.space/p/modal2026",
+    "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+    "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+    "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+    "https://www.latent.space/p/vercel-agents-new-software",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+    "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+    "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+    "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+    "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
+    "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+    "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/",
+    "https://www.404media.co/mintstars-founder-giving-shares-to-creators/",
+    "https://www.404media.co/we-are-living-in-a-chatgpt-flyer-pandemic/",
+    "https://www.404media.co/knockoff-browser-extension-hides-sketchy-brands-on-amazon/",
+    "https://www.404media.co/larping-how-influencers-fake-being-rich/",
+    "https://www.infoq.com/news/2026/07/momentic-postgres-clickhouse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/online-cohort-ai-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/cloudflare-aws-x402-micropayment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+    "https://krisshamloo.com/blog/007",
+    "https://www.alecscollon.com/blog/llm-burnout/",
+    "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+    "https://www.hmans.dev/blog/chatto-is-open-source",
+    "https://arxiv.org/abs/2607.05456",
+    "https://arxiv.org/abs/2607.05563",
+    "https://arxiv.org/abs/2607.05571",
+    "https://arxiv.org/abs/2607.05573",
+    "https://arxiv.org/abs/2607.05577",
+    "https://arxiv.org/abs/2607.05398",
+    "https://arxiv.org/abs/2607.05399",
+    "https://arxiv.org/abs/2607.05416",
+    "https://arxiv.org/abs/2607.05545",
+    "https://arxiv.org/abs/2607.05552"
+  ]
+}
