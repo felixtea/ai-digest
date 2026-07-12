@@ -1,0 +1,165 @@
+{
+  "date_id": "2026-07-12",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Details GPT-5.6, Citing Enhanced Performance and Intelligence",
+          "zh": "OpenAI 公布 GPT-5.6 细节，强调性能与智能提升"
+        },
+        "tl_dr": {
+          "en": "OpenAI announced GPT-5.6, detailing increased intelligence, performance per dollar, and on-demand capabilities.",
+          "zh": "OpenAI 发布了 GPT-5.6，并详细说明其在智能、每美元性能以及按需能力方面的提升。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Increased intelligence derived from each token.",
+            "Enhanced performance relative to cost (per dollar).",
+            "Expanded on-demand capabilities for complex tasks."
+          ],
+          "zh": [
+            "每个令牌的智能程度更高。",
+            "每美元的性能更强。",
+            "为最困难的工作提供更多按需能力。"
+          ]
+        },
+        "impact": {
+          "en": "These advancements indicate a continued focus on improving the efficiency and practical utility of AI models. Such improvements could lead to broader application across various industry sectors.",
+          "zh": "这些进步表明了在提升AI模型效率和实用性方面的持续投入。此类改进可能推动AI模型在不同行业领域的广泛应用。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-5-6"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+          "zh": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
+      },
+      {
+        "title": {
+          "en": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "zh": "How Deutsche Telekom is rewiring telecommunications with AI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/deutsche-telekom"
+      },
+      {
+        "title": {
+          "en": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "zh": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+      },
+      {
+        "title": {
+          "en": "ChatGPT is now a partner for your most ambitious work",
+          "zh": "ChatGPT is now a partner for your most ambitious work"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+      },
+      {
+        "title": {
+          "en": "GPT-5.5 Bio Bug Bounty",
+          "zh": "GPT-5.5 Bio Bug Bounty"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/bio-bug-bounty"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/deutsche-telekom",
+    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "https://openai.com/index/gpt-5-6",
+    "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "https://openai.com/index/bio-bug-bounty",
+    "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://huggingface.co/blog/torch-attention-profile",
+    "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+    "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+    "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
+    "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+    "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+    "https://www.latent.space/p/modal2026",
+    "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+    "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
+    "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+    "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+    "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
+    "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://www.404media.co/scientists-solve-mystery-of-bizarre-alien-megastructure-star/",
+    "https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/",
+    "https://www.404media.co/behind-the-blog-the-promise-of-the-internet/",
+    "https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/",
+    "https://www.404media.co/farmers-finally-get-a-john-deere-right-to-repair-agreement-that-doesnt-screw-them-over/",
+    "https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/openai-libunwind-core-dumps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.iroh.computer/blog/mesh-llm",
+    "https://antjs.org",
+    "https://github.com/Wren6991/RISCBoy",
+    "https://fabiensanglard.net/tb4/index.html",
+    "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
+    "https://arxiv.org/abs/2607.07772",
+    "https://arxiv.org/abs/2607.07779",
+    "https://arxiv.org/abs/2607.07820",
+    "https://arxiv.org/abs/2607.07891",
+    "https://arxiv.org/abs/2607.07895"
+  ]
+}
