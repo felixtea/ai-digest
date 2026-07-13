@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-07-13",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "GLM-5.2 Signals Capability Threshold for Open AI Agents",
+          "zh": "GLM-5.2 标志着开放式AI智能体的能力阈值"
+        },
+        "tl_dr": {
+          "en": "The GLM-5.2 model has achieved a monitored capability threshold, representing a significant development for open AI agents.",
+          "zh": "GLM-5.2模型已达到一个受监测的能力阈值，代表着开放式AI智能体的重要发展。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GLM-5.2 demonstrates a critical capability threshold, marking a step change for open agents.",
+            "Coding agents employ tools, memory, and repository context to improve large language model efficacy in practice.",
+            "Security for AI agents involves an AI Control Roadmap, integrating traditional safeguards and real-time monitoring."
+          ],
+          "zh": [
+            "GLM-5.2展现了关键的能力阈值，标志着开放式智能体的里程碑式进步。",
+            "编码智能体利用工具、内存和代码库上下文来提升大型语言模型在实际应用中的效能。",
+            "AI智能体的安全防护包括AI控制路线图，融合传统保障措施与实时监控。"
+          ]
+        },
+        "impact": {
+          "en": "These advancements enable AI to function as a core operating layer within industrial systems, fostering the development of autonomous enterprises.",
+          "zh": "这些进展使AI能够在工业系统中作为核心操作层运行，促进自主型企业的发展。"
+        },
+        "source": "Interconnects",
+        "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Develops AI for Brain Activity Analysis",
+          "zh": "微软研究院开发用于大脑活动分析的人工智能"
+        },
+        "tl_dr": {
+          "en": "Researchers at Microsoft introduced generative causal testing, an AI-driven method to translate black box models into clear hypotheses for verifying brain region responses to language.",
+          "zh": "微软研究院的研究人员引入了生成式因果测试，这是一种人工智能驱动的方法，可将黑箱模型转化为清晰的假设，以验证特定大脑区域对语言的反应。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Microsoft researchers introduced generative causal testing.",
+            "This method translates black box models into clear hypotheses.",
+            "It verifies these hypotheses in a scanner, identifying specific brain regions' responses to language."
+          ],
+          "zh": [
+            "微软研究人员引入了生成式因果测试。",
+            "该方法将黑箱模型转化为清晰的假设。",
+            "它在扫描仪中验证这些假设，以揭示特定大脑区域对语言的反应。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides a method for interpreting opaque AI models in the context of neuroscientific research, potentially advancing the understanding of how the brain processes language. It offers a new approach for AI to assist in fundamental scientific discovery by making AI models' internal workings more transparent and verifiable.",
+          "zh": "这一进展为在神经科学研究背景下解释不透明的AI模型提供了一种方法，可能促进对大脑如何处理语言的理解。它通过使AI模型的内部工作原理更加透明和可验证，为AI辅助基础科学发现提供了新途径。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/"
+      },
+      {
+        "title": {
+          "en": "New LLM Architectures Cut Long-Context Costs",
+          "zh": "新型大语言模型架构降低长上下文成本"
+        },
+        "tl_dr": {
+          "en": "New open-weight LLMs, including Gemma 4 and DeepSeek V4, are reducing long-context processing costs through architectural developments like KV Sharing, mHC, and Compressed Attention.",
+          "zh": "包括Gemma 4和DeepSeek V4在内的新型开源大语言模型，正通过KV共享、mHC和压缩注意力等架构改进，降低长上下文处理成本。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Architectural developments include KV Sharing, mHC, and Compressed Attention.",
+            "Examples of new open-weight LLMs employing these methods are Gemma 4 and DeepSeek V4.",
+            "These advancements are specifically designed to reduce the costs associated with processing long contexts in LLMs."
+          ],
+          "zh": [
+            "架构发展包括KV共享（KV Sharing）、mHC和压缩注意力（Compressed Attention）。",
+            "采用这些方法的新型开源大语言模型包括Gemma 4和DeepSeek V4。",
+            "这些进步旨在降低大语言模型处理长上下文的相关成本。"
+          ]
+        },
+        "impact": {
+          "en": "These architectural improvements enable more efficient processing of extensive data inputs for LLMs. This efficiency can reduce operational expenses, potentially expanding the practical applications of long-context models across the AI industry.",
+          "zh": "这些架构改进使大语言模型能够更高效地处理大量输入数据。这种效率可以降低运营成本，从而可能扩展长上下文模型在整个AI行业的实际应用。"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "zh": "How Deutsche Telekom is rewiring telecommunications with AI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/deutsche-telekom"
+      },
+      {
+        "title": {
+          "en": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "zh": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+      },
+      {
+        "title": {
+          "en": "GPT-5.5 Bio Bug Bounty",
+          "zh": "GPT-5.5 Bio Bug Bounty"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/bio-bug-bounty"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "zh": "Google DeepMind and A24 announce first-of-its-kind research partnership"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+      },
+      {
+        "title": {
+          "en": "Unlocking UK house-building with AI-accelerated planning",
+          "zh": "Unlocking UK house-building with AI-accelerated planning"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/deutsche-telekom",
+    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "https://openai.com/index/gpt-5-6",
+    "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "https://openai.com/index/bio-bug-bounty",
+    "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://huggingface.co/blog/torch-attention-profile",
+    "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+    "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+    "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
+    "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+    "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+    "https://www.latent.space/p/modal2026",
+    "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
+    "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
+    "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+    "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
+    "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
+    "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "https://www.404media.co/scientists-solve-mystery-of-bizarre-alien-megastructure-star/",
+    "https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/",
+    "https://www.404media.co/behind-the-blog-the-promise-of-the-internet/",
+    "https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/",
+    "https://www.404media.co/farmers-finally-get-a-john-deere-right-to-repair-agreement-that-doesnt-screw-them-over/",
+    "https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/openai-libunwind-core-dumps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+    "https://shellzine.net/cyberpunk-comics/",
+    "https://floooh.github.io/tiny8bit-preview/index.html",
+    "https://vilkeliskis.com/b/2026/0711.html",
+    "https://www.susanrigetti.com/physics"
+  ]
+}
