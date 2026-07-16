@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-07-16",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "xAI Grok Tool Uploaded Directory Data, Project Goes Open Source",
+          "zh": "xAI Grok命令行工具上传目录数据，项目转为开源"
+        },
+        "tl_dr": {
+          "en": "xAI's `grok` CLI tool was observed uploading entire directories to xAI's cloud storage, prompting community backlash and the open-sourcing of its build component.",
+          "zh": "xAI的`grok`命令行工具被发现会将整个目录上传至xAI的云存储桶，引发社区强烈反弹，随后其构建组件被开源。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The `grok` CLI tool uploaded the entire directory where it was run.",
+            "Uploaded data was sent to xAI's Google Cloud buckets.",
+            "One user reported inadvertent upload of sensitive files like SSH keys from their home directory."
+          ],
+          "zh": [
+            "`grok`命令行工具上传了其运行所在的整个目录。",
+            "上传的数据被发送至xAI的Google Cloud存储桶。",
+            "一名用户报告称，其主目录中的SSH密钥等敏感文件被意外上传。"
+          ]
+        },
+        "impact": {
+          "en": "This incident highlights critical data privacy and security concerns in AI tool development, emphasizing the need for transparent data handling practices. The open-sourcing of `grok-build` represents a response to these concerns and a move towards increased scrutiny from the developer community.",
+          "zh": "此事件凸显了AI工具开发中的数据隐私和安全问题，强调了透明数据处理实践的必要性。`grok-build`的开源是对此类担忧的回应，并预示着开发者社区将对其进行更严格的审查。"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "New LLM Architectures Emerge, Aiming to Cut Long-Context Costs",
+          "zh": "新型LLM架构出现，旨在削减长上下文成本"
+        },
+        "tl_dr": {
+          "en": "Recent architectural developments like KV Sharing, mHC, and Compressed Attention are being implemented in new open-weight LLMs to reduce long-context processing expenses.",
+          "zh": "KV共享、mHC和压缩注意力等最新架构开发正在新的开源大语言模型中实施，以降低长上下文处理的开销。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Architectural techniques such as KV Sharing, mHC, and Compressed Attention are recent developments.",
+            "New open-weight LLMs, including Gemma 4 and DeepSeek V4, are incorporating these changes.",
+            "The primary objective of these architectural advancements is to reduce long-context processing costs."
+          ],
+          "zh": [
+            "KV共享（KV Sharing）、mHC和压缩注意力（Compressed Attention）等架构技术是最新发展。",
+            "Gemma 4和DeepSeek V4等新的开源大语言模型正在采纳这些改变。",
+            "这些架构进步的首要目标是降低长上下文处理的成本。"
+          ]
+        },
+        "impact": {
+          "en": "These architectural innovations directly address the operational expenses associated with large language models, potentially making long-context applications more economically viable for the AI industry. This could enable broader adoption and more complex use cases.",
+          "zh": "这些架构创新直接解决了大语言模型的运营成本问题，有望使AI行业的长上下文应用在经济上更具可行性。这可能促进更广泛的采用和更复杂的用例。"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
+      },
+      {
+        "title": {
+          "en": "Hack Reveals Suno AI Scraped YouTube, Deezer, Genius for Training Data",
+          "zh": "黑客攻击揭示Suno AI从YouTube、Deezer和Genius抓取训练数据"
+        },
+        "tl_dr": {
+          "en": "A security incident involving compromised employee credentials exposed Suno's source code, revealing that the AI music generator scraped audio content from YouTube, Deezer, and Genius for training purposes.",
+          "zh": "一起涉及员工凭证泄露的安全事件暴露了Suno的源代码，揭示该AI音乐生成器从YouTube、Deezer和Genius抓取音频内容以进行模型训练。"
+        },
+        "key_takeaways": {
+          "en": [
+            "An employee's credentials were used to gain access to Suno's source code.",
+            "The source code showed Suno scraped music and podcasts from YouTube, Deezer, and Genius.",
+            "The data scraped spanned \"decades worth of music and podcasts\"."
+          ],
+          "zh": [
+            "有员工的凭证被用于访问Suno的源代码。",
+            "源代码揭示Suno从YouTube、Deezer和Genius抓取了音乐和播客。",
+            "抓取的数据涵盖了“数十年的音乐和播客”。"
+          ]
+        },
+        "impact": {
+          "en": "This incident provides insight into the data acquisition practices of AI music generators. It highlights potential intellectual property considerations and challenges surrounding training data sourcing within the AI industry.",
+          "zh": "此事件揭示了AI音乐生成器的数据获取实践。它突出了AI行业内训练数据来源的潜在知识产权考量和挑战。"
+        },
+        "source": "404 Media",
+        "link": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "What it feels like to work with Mythos",
+          "zh": "What it feels like to work with Mythos"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
+      },
+      {
+        "title": {
+          "en": "Do AI Risks Require Extraordinary Government Intervention?",
+          "zh": "Do AI Risks Require Extraordinary Government Intervention?"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary"
+      },
+      {
+        "title": {
+          "en": "The US is advancing AI safety through state and federal action",
+          "zh": "The US is advancing AI safety through state and federal action"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
+      },
+      {
+        "title": {
+          "en": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "zh": "GPT-Red: Unlocking Self-Improvement for Robustness"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "zh": "Google DeepMind and A24 announce first-of-its-kind research partnership"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "https://huggingface.co/blog/thinkingmachines-inkling",
+    "https://huggingface.co/blog/real-world-voiceeq",
+    "https://huggingface.co/blog/torch-attention-profile",
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+    "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+    "https://www.latent.space/p/aiewf26trends",
+    "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+    "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
+    "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+    "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
+    "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+    "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
+    "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+    "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+    "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+    "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+    "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "https://www.404media.co/podcast-we-are-living-in-a-chatgpt-flyer-pandemic/",
+    "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
+    "https://www.404media.co/is-the-best-game-of-the-year-a-failure-with-rob-zacny/",
+    "https://www.404media.co/ai-made-cloning-games-easier-than-ever/",
+    "https://www.404media.co/sex-in-public-with-angela-jones/",
+    "https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/meta-brain-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://thinkingmachines.ai/news/introducing-inkling/",
+    "https://mort.coffee/home/sqlite-editions/",
+    "https://github.com/xai-org/grok-build",
+    "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+    "https://arxiv.org/abs/2607.11888",
+    "https://arxiv.org/abs/2607.11906",
+    "https://arxiv.org/abs/2607.11948",
+    "https://arxiv.org/abs/2607.11951",
+    "https://arxiv.org/abs/2607.11959",
+    "https://arxiv.org/abs/2607.11889",
+    "https://arxiv.org/abs/2607.11891",
+    "https://arxiv.org/abs/2607.11892",
+    "https://arxiv.org/abs/2607.11893",
+    "https://arxiv.org/abs/2607.11894"
+  ]
+}
