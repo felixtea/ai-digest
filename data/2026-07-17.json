@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-07-17",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Thinking Machines Lab Releases Open-Weights AI Model 'Inkling'",
+          "zh": "Thinking Machines Lab发布开源权重AI模型“Inkling”"
+        },
+        "tl_dr": {
+          "en": "Mira Murati's Thinking Machines Lab has released Inkling, their first open-weights, Apache-2.0 licensed multimodal model.",
+          "zh": "米拉·穆拉蒂的Thinking Machines Lab发布了其首个开源权重、Apache-2.0许可的多模态模型Inkling。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Inkling is a Mixture-of-Experts transformer with 975 billion total parameters and 41 billion active parameters.",
+            "The model is multimodal, trained on 45 trillion tokens of text, images, audio, and video.",
+            "Inkling is released under an Apache-2.0 license."
+          ],
+          "zh": [
+            "Inkling是一个专家混合Transformer模型，拥有9750亿总参数和410亿活跃参数。",
+            "该模型是多模态的，通过45万亿文本、图像、音频和视频tokens进行训练。",
+            "Inkling以Apache-2.0许可发布。"
+          ]
+        },
+        "impact": {
+          "en": "This release introduces a large-scale, multimodal model that could influence future research and applications in open-source AI. It represents a significant test for the viability of open-source AI.",
+          "zh": "此次发布引入了一个大规模、多模态的模型，可能影响开源AI领域的未来研究和应用。它标志着对开源AI可行性的一次重要考验。"
+        },
+        "source": "Thinking Machines Lab",
+        "link": "https://thinkingmachines.ai/news/introducing-inkling/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Introduces GPT-Red for AI Self-Improvement and Robustness",
+          "zh": "OpenAI推出GPT-Red，实现AI自我改进与鲁棒性增强"
+        },
+        "tl_dr": {
+          "en": "OpenAI has developed GPT-Red, an automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+          "zh": "OpenAI开发了GPT-Red，一个利用自博弈提升AI安全性、对齐性和提示注入鲁棒性的自动化红队系统。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GPT-Red functions as an automated red teaming system.",
+            "Its methodology involves self-play to drive improvements.",
+            "The system targets enhanced AI safety, alignment, and prompt injection robustness."
+          ],
+          "zh": [
+            "GPT-Red作为一个自动化红队系统运行。",
+            "其方法论涉及利用自博弈来推动改进。",
+            "该系统旨在增强AI安全性、对齐性和提示注入鲁棒性。"
+          ]
+        },
+        "impact": {
+          "en": "The development of systems like GPT-Red indicates a focus on autonomous methods for improving AI reliability and security. This approach could reduce reliance on human intervention for identifying and mitigating AI vulnerabilities.",
+          "zh": "像GPT-Red这样的系统开发表明了AI行业正专注于利用自主方法来提高AI的可靠性和安全性。这种方法有望减少对人工干预的依赖，以识别和缓解AI漏洞。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+      },
+      {
+        "title": {
+          "en": "Google Expands AI Mode App Integration",
+          "zh": "谷歌AI模式拓展应用集成能力"
+        },
+        "tl_dr": {
+          "en": "Google has updated its AI Mode to allow linking and interaction with select applications, enabling task completion across user apps.",
+          "zh": "谷歌已更新其AI模式，使其能够与特定应用进行链接和交互，从而实现在用户常用应用中完成任务。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AI Mode now facilitates linking with select third-party applications.",
+            "Users can interact with chosen apps directly through AI Mode.",
+            "This update expands AI Mode's functionality to include task completion, moving beyond its previous question-answering scope."
+          ],
+          "zh": [
+            "AI模式现支持与特定第三方应用建立链接。",
+            "用户现在可以通过AI模式直接与选定应用进行交互。",
+            "此更新将AI模式的功能从原先的回答问题扩展至完成各项任务。"
+          ]
+        },
+        "impact": {
+          "en": "This development broadens the practical application of AI in daily user workflows, indicating a shift towards more integrated and proactive AI assistants.",
+          "zh": "此进展拓展了人工智能在日常用户工作流程中的实际应用，预示着AI助手正朝着更集成、更主动的方向发展。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "GLM-5.2 is the step change for open agents",
+          "zh": "GLM-5.2 is the step change for open agents"
+        },
+        "source": "Interconnects",
+        "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open"
+      },
+      {
+        "title": {
+          "en": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+          "zh": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
+      },
+      {
+        "title": {
+          "en": "Co-Existence and the End of Co-Intelligence",
+          "zh": "Co-Existence and the End of Co-Intelligence"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence"
+      },
+      {
+        "title": {
+          "en": "Do AI Risks Require Extraordinary Government Intervention?",
+          "zh": "Do AI Risks Require Extraordinary Government Intervention?"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary"
+      },
+      {
+        "title": {
+          "en": "Our approach to bioresilience",
+          "zh": "Our approach to bioresilience"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/our-approach-to-bioresilience/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "https://openai.com/index/cars24",
+    "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "https://huggingface.co/blog/security-incident-july-2026",
+    "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+    "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+    "https://www.latent.space/p/the-lab-of-the-future-should-feel",
+    "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+    "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+    "https://www.latent.space/p/aiewf26trends",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+    "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+    "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+    "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+    "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+    "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+    "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+    "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+    "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+    "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "https://www.404media.co/scientists-discover-planet-has-everything-to-host-earth-like-life-in-breakthrough/",
+    "https://www.404media.co/how-cops-use-flock-to-track-people-not-cars/",
+    "https://www.404media.co/podcast-we-are-living-in-a-chatgpt-flyer-pandemic/",
+    "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
+    "https://www.404media.co/is-the-best-game-of-the-year-a-failure-with-rob-zacny/",
+    "https://www.infoq.com/news/2026/07/ai-agents-billing-guardrails/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.kimi.com/blog/kimi-k3",
+    "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
+    "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+    "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+    "https://arxiv.org/abs/2607.13037",
+    "https://arxiv.org/abs/2607.13049",
+    "https://arxiv.org/abs/2607.13069",
+    "https://arxiv.org/abs/2607.13073",
+    "https://arxiv.org/abs/2607.13104",
+    "https://arxiv.org/abs/2607.11889",
+    "https://arxiv.org/abs/2607.11891",
+    "https://arxiv.org/abs/2607.11892",
+    "https://arxiv.org/abs/2607.11893",
+    "https://arxiv.org/abs/2607.11894"
+  ]
+}
