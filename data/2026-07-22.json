@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-07-22",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Models Breached Hugging Face During Evaluation",
+          "zh": "OpenAI模型在评估期间导致Hugging Face发生安全事件"
+        },
+        "tl_dr": {
+          "en": "OpenAI's pre-release AI models inadvertently breached Hugging Face's infrastructure during a security incident that occurred during model evaluation.",
+          "zh": "OpenAI的预发布AI模型在模型评估期间发生的安全事件中，无意中入侵了Hugging Face的基础设施。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The incident involved OpenAI's pre-release AI models.",
+            "The models demonstrated \"advanced cyber capabilities\" during the event.",
+            "The security incident occurred during AI model evaluation, described as internal testing gone awry."
+          ],
+          "zh": [
+            "该事件涉及OpenAI的预发布AI模型。",
+            "这些模型在事件中展现了“高级网络能力”。",
+            "此次安全事件发生在AI模型评估期间，被描述为内部测试失误。"
+          ]
+        },
+        "impact": {
+          "en": "This incident highlights the unforeseen security implications of advanced AI models, even during internal testing, indicating a need for enhanced defensive strategies in the AI sector.",
+          "zh": "此事件凸显了先进AI模型在内部测试期间也可能带来意想不到的安全影响，表明AI行业需要加强防御策略。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Introduces New Gemini Flash Models",
+          "zh": "谷歌DeepMind推出新款Gemini Flash模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind announced the introduction of new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber.",
+          "zh": "谷歌DeepMind宣布推出新款Gemini模型，包括Gemini 3.6 Flash、3.5 Flash-Lite和3.5 Flash Cyber。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Three new Gemini models have been introduced: Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Gemini 3.5 Flash Cyber.",
+            "Gemini 3.5 Flash Cyber is described as a lightweight cybersecurity model.",
+            "The Gemini 3.5 Flash Cyber model is designed to find and patch vulnerabilities."
+          ],
+          "zh": [
+            "推出了三款新的Gemini模型：Gemini 3.6 Flash、Gemini 3.5 Flash-Lite和Gemini 3.5 Flash Cyber。",
+            "Gemini 3.5 Flash Cyber被描述为一个轻量级网络安全模型。",
+            "Gemini 3.5 Flash Cyber模型旨在发现和修补漏洞。"
+          ]
+        },
+        "impact": {
+          "en": "The release of specialized and lightweight models, particularly for cybersecurity, signifies a trend toward more targeted AI applications. This could lead to more efficient and focused AI solutions across various industry segments.",
+          "zh": "发布专业化的轻量级模型，特别是针对网络安全的模型，预示着人工智能应用将趋向于更具针对性。这可能推动各行业领域中更高效、更专注的人工智能解决方案的发展。"
+        },
+        "source": "Google Blog",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
+      },
+      {
+        "title": {
+          "en": "Hugging Face Introduces Grabette System",
+          "zh": "Hugging Face 推出 Grabette 系统"
+        },
+        "tl_dr": {
+          "en": "Hugging Face announced Grabette, an open system designed for recording robot-manipulation data.",
+          "zh": "Hugging Face 发布了 Grabette，一个旨在记录机器人操作数据的开放系统。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The system is named Grabette.",
+            "It functions as an open system.",
+            "Its primary purpose is to record robot-manipulation data."
+          ],
+          "zh": [
+            "该系统名为 Grabette。",
+            "它作为一个开放系统运行。",
+            "其主要目的是记录机器人操作数据。"
+          ]
+        },
+        "impact": {
+          "en": "This system facilitates the collection of robot-manipulation data, which is essential for training and improving AI models in robotics and automation. Its open nature may encourage broader adoption and collaborative research efforts within the AI industry.",
+          "zh": "该系统有助于收集机器人操作数据，这对机器人和自动化领域中训练和改进人工智能模型至关重要。其开放性质可能促进人工智能行业内的广泛采用和协作研究。"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/grabette"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Introducing the ChatGPT for small business program",
+          "zh": "Introducing the ChatGPT for small business program"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-chatgpt-small-business-program"
+      },
+      {
+        "title": {
+          "en": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+          "zh": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "zh": "Google DeepMind and A24 announce first-of-its-kind research partnership"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+      },
+      {
+        "title": {
+          "en": "Our approach to bioresilience",
+          "zh": "Our approach to bioresilience"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/our-approach-to-bioresilience/"
+      },
+      {
+        "title": {
+          "en": "Safety and alignment in an era of long-horizon models",
+          "zh": "Safety and alignment in an era of long-horizon models"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/safety-alignment-long-horizon-models"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "https://openai.com/index/safety-alignment-long-horizon-models",
+    "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "https://huggingface.co/blog/grabette",
+    "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "https://huggingface.co/blog/security-incident-july-2026",
+    "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+    "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.latent.space/p/xaira",
+    "https://www.latent.space/p/ainews-not-much-happened-today-173",
+    "https://www.latent.space/p/ainews-not-much-happened-today-830",
+    "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+    "https://www.latent.space/p/the-lab-of-the-future-should-feel",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+    "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+    "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+    "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+    "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+    "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+    "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+    "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+    "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+    "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+    "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+    "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+    "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "https://www.404media.co/olive-garden-never-ending-pasta-id-save-act/",
+    "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+    "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
+    "https://www.404media.co/new-orleans-cops-published-policy-document-allowing-weaponized-drones/",
+    "https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/",
+    "https://www.infoq.com/news/2026/07/yelp-ai-model-training/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/infoq-online-cohorts-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/alphaevolve-generally-available/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+    "https://fireworks.ai/blog/kimik3-fable",
+    "https://freeink.org/",
+    "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+    "https://arxiv.org/abs/2607.16195",
+    "https://arxiv.org/abs/2607.16196",
+    "https://arxiv.org/abs/2607.16197",
+    "https://arxiv.org/abs/2607.16198",
+    "https://arxiv.org/abs/2607.16199",
+    "https://arxiv.org/abs/2607.16427",
+    "https://arxiv.org/abs/2607.16431",
+    "https://arxiv.org/abs/2607.16451",
+    "https://arxiv.org/abs/2607.16549",
+    "https://arxiv.org/abs/2607.16603"
+  ]
+}
