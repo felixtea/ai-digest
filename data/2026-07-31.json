@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-07-31",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Reduces GPT-5.6 Luna and Terra Pricing",
+          "zh": "OpenAI下调GPT-5.6 Luna和Terra模型价格"
+        },
+        "tl_dr": {
+          "en": "OpenAI announced price reductions for its GPT-5.6 Luna and Terra models, with Luna seeing an 80% drop and Terra a 20% reduction.",
+          "zh": "OpenAI宣布下调其GPT-5.6 Luna和Terra模型价格，其中Luna模型价格下降80%，Terra模型下降20%。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GPT-5.6 Luna experienced an 80% price reduction.",
+            "GPT-5.6 Terra received a 20% price reduction.",
+            "OpenAI attributes the price changes to the efficiency improvements in GPT-5.6 Sol."
+          ],
+          "zh": [
+            "GPT-5.6 Luna 模型价格下降了80%。",
+            "GPT-5.6 Terra 模型价格下降了20%。",
+            "OpenAI将此次价格调整归因于GPT-5.6 Sol模型的效率提升。"
+          ]
+        },
+        "impact": {
+          "en": "Lower pricing for OpenAI's GPT-5.6 models may enable enterprises to deploy AI workflows at scale, potentially accelerating the integration of advanced AI capabilities across industries.",
+          "zh": "OpenAI的GPT-5.6模型价格下调，或将使企业能够更经济地规模化部署AI工作流，可能加速高级AI能力在各行业的集成应用。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind's Gemini Robotics 2 Enhances Robot Intelligence",
+          "zh": "Google DeepMind Gemini Robotics 2 提升机器人智能"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has introduced Gemini Robotics 2, a platform designed to bring whole body intelligence to robots.",
+          "zh": "Google DeepMind推出了Gemini Robotics 2平台，旨在为机器人带来全身智能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The release is named Gemini Robotics 2, indicating an updated version.",
+            "Its core focus is to enable 'whole body intelligence' in robots.",
+            "This development is specifically aimed at robotic applications."
+          ],
+          "zh": [
+            "发布的产品名为Gemini Robotics 2，表明是更新迭代版本。",
+            "其核心目标是为机器人实现“全身智能”。",
+            "这项发展专门针对机器人应用领域。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative by Google DeepMind targets enhanced robot capabilities by integrating intelligence across a robot's entire physical structure, which could contribute to broader and more complex applications within the AI robotics sector.",
+          "zh": "Google DeepMind的这项举措旨在通过在机器人整体物理结构中整合智能来提升其能力，这可能有助于AI机器人领域实现更广泛、更复杂的应用。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Unveils New Gemini Models",
+          "zh": "谷歌DeepMind发布新款Gemini模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has introduced new Gemini models, specifically Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber.",
+          "zh": "谷歌DeepMind发布了新的Gemini模型，包括Gemini 3.6 Flash、3.5 Flash-Lite和3.5 Flash Cyber。"
+        },
+        "key_takeaways": {
+          "en": [
+            "New models introduced include Gemini 3.6 Flash.",
+            "Another new model is Gemini 3.5 Flash-Lite.",
+            "Gemini 3.5 Flash Cyber is also among the new introductions."
+          ],
+          "zh": [
+            "新发布模型包括Gemini 3.6 Flash。",
+            "另一款新模型是Gemini 3.5 Flash-Lite。",
+            "Gemini 3.5 Flash Cyber也在此次发布之列。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction expands Google DeepMind's Gemini model portfolio, offering new options in the generative AI landscape.",
+          "zh": "此次发布扩展了谷歌DeepMind的Gemini模型产品组合，为生成式AI领域提供了新选择。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "zh": "Accelerating scientific discovery with ChatGPT for Academic Researchers"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/chatgpt-for-academic-researchers"
+      },
+      {
+        "title": {
+          "en": "[AINews] Much ado about Open Weights",
+          "zh": "[AINews] Much ado about Open Weights"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-much-ado-about-open-weights"
+      },
+      {
+        "title": {
+          "en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "zh": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "zh": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "title": {
+          "en": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "zh": "The OlmoEarth Platform: Geospatial inference at planetary scale"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "https://openai.com/index/avatarin",
+    "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "https://openai.com/index/chatgpt-for-academic-researchers",
+    "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+    "https://www.latent.space/p/ontologies-agentic-systems",
+    "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+    "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+    "https://www.latent.space/p/chatgpt-work",
+    "https://www.latent.space/p/ainews-much-ado-about-open-weights",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+    "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+    "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+    "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+    "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+    "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+    "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+    "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+    "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+    "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+    "https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/",
+    "https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/",
+    "https://www.404media.co/clapping-is-a-first-amendment-right-an-interview-with-the-person-arrested-for-clapping-at-a-data-center-meeting/",
+    "https://www.404media.co/podcast-flock-came-to-my-town-heres-what-i-did/",
+    "https://www.404media.co/data-centers-power-energy-grid-epa-clean-air-act/",
+    "https://www.infoq.com/news/2026/07/grafana-assistant-data-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/guardduty-investigation-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/netflix-llm-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "https://geospatialml.com/posts/reviewing-ai-slop/",
+    "https://github.com/AminBlg/SimpleEnglish",
+    "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "https://arxiv.org/abs/2607.24758",
+    "https://arxiv.org/abs/2607.24759",
+    "https://arxiv.org/abs/2607.24762",
+    "https://arxiv.org/abs/2607.24763",
+    "https://arxiv.org/abs/2607.24764",
+    "https://arxiv.org/abs/2607.26060",
+    "https://arxiv.org/abs/2607.26066",
+    "https://arxiv.org/abs/2607.26178",
+    "https://arxiv.org/abs/2607.26200",
+    "https://arxiv.org/abs/2607.26221"
+  ]
+}
