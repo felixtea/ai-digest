@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-08-04",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Reports Advances in Mathematics and Theoretical Computer Science",
+          "zh": "OpenAI 公布数学与理论计算机科学新进展"
+        },
+        "tl_dr": {
+          "en": "OpenAI announced new results addressing long-standing open problems in mathematics and theoretical computer science, specifically mentioning advances in geometry, cryptography, and complexity.",
+          "zh": "OpenAI 宣布了在数学和理论计算机科学领域长期开放问题上的新成果，包括几何学、密码学和复杂性方面的进展。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI shared results on ten distinct advances.",
+            "The advances include progress in the field of geometry.",
+            "Further advances were reported in cryptography and complexity."
+          ],
+          "zh": [
+            "OpenAI 公布了十项不同的进展成果。",
+            "这些进展包括几何学领域的突破。",
+            "密码学和复杂性方面也报告了进一步的进展。"
+          ]
+        },
+        "impact": {
+          "en": "Advances in mathematics and theoretical computer science provide foundational knowledge that can inform and enable future developments in artificial intelligence algorithms and systems.",
+          "zh": "数学和理论计算机科学的进展为人工智能算法和系统的未来发展提供了基础知识，并可能推动其实现。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/ten-advances-in-mathematics"
+      },
+      {
+        "title": {
+          "en": "Microsoft, Embabel Advance AI Agent Frameworks with GA, 1.0 Releases",
+          "zh": "微软与Embabel通过GA和1.0版本发布推动AI代理框架发展"
+        },
+        "tl_dr": {
+          "en": "Microsoft's Agent Framework components, including the Harness and Foundry Hosted Agents, reached General Availability, while Embabel Agent Framework released its 1.0 version in August 2026.",
+          "zh": "微软的代理框架组件，包括Harness和Foundry托管代理，已达到普遍可用性（GA），而Embabel代理框架则于2026年8月发布了其1.0版本。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Microsoft's Agent Framework's Harness and Foundry Hosted Agents have reached General Availability, providing a supported runtime and shifting to a governed platform.",
+            "The Embabel Agent Framework released its 1.0 version, offering a Java and Kotlin framework built on Spring AI with support for multiple model providers.",
+            "Microsoft Research also introduced Orchard, an open-source framework designed for the research community to train and evaluate AI agents, supporting strong performance from smaller models by reusing infrastructure."
+          ],
+          "zh": [
+            "微软代理框架的Harness和Foundry托管代理已达到普遍可用性（GA），提供受支持的运行时，并转向一个受治理的平台。",
+            "Embabel代理框架发布了其1.0版本，提供了一个基于Spring AI构建的Java和Kotlin框架，并支持多个模型提供商。",
+            "微软研究院还推出了Orchard，这是一个面向研究社区的开源框架，旨在通过重用基础设施来训练和评估AI代理，从而支持小型模型实现强大性能。"
+          ]
+        },
+        "impact": {
+          "en": "The General Availability and 1.0 releases of these frameworks signify a maturing ecosystem for AI agent development. This progression offers developers more stable and governed platforms for building, running, and scaling AI agents, potentially accelerating their adoption and application in various fields.",
+          "zh": "这些框架达到普遍可用性（GA）和1.0版本的发布，标志着AI代理开发生态系统正在走向成熟。这一进展为开发者提供了更稳定、更受治理的平台，用于构建、运行和扩展AI代理，有望加速其在各个领域的采纳和应用。"
+        },
+        "source": "InfoQ",
+        "link": "https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "OpenAI Pursues Full-Stack Strategy for Advanced AI",
+          "zh": "OpenAI 采取全栈策略发展先进人工智能"
+        },
+        "tl_dr": {
+          "en": "OpenAI announced a full-stack approach to develop advanced artificial intelligence that is more capable, affordable, and widely useful.",
+          "zh": "OpenAI 宣布将采取全栈方法，以开发更强大、更经济、更广泛实用的先进人工智能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI is adopting a full-stack strategy for AI development.",
+            "The approach aims to make advanced AI more capable.",
+            "A goal is to make advanced AI more affordable and widely useful."
+          ],
+          "zh": [
+            "OpenAI 正在采取全栈策略进行人工智能开发。",
+            "该方法旨在使先进人工智能更强大。",
+            "目标是使先进人工智能更经济实惠且更广泛实用。"
+          ]
+        },
+        "impact": {
+          "en": "This strategy indicates OpenAI's comprehensive efforts to integrate all layers of AI development, potentially accelerating the deployment of advanced AI across various sectors and user bases.",
+          "zh": "这一策略表明 OpenAI 致力于整合人工智能开发的所有层面，可能加速先进人工智能在各行各业和更广泛用户群体中的部署。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/building-abundant-intelligence"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "What it feels like to work with Mythos",
+          "zh": "What it feels like to work with Mythos"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
+      },
+      {
+        "title": {
+          "en": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
+          "zh": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ontologies-agentic-systems"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "zh": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "title": {
+          "en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "zh": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+      },
+      {
+        "title": {
+          "en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "zh": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "https://openai.com/index/circles",
+    "https://openai.com/index/ten-advances-in-mathematics",
+    "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "https://openai.com/index/building-abundant-intelligence",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "https://www.latent.space/p/inference-eng",
+    "https://www.latent.space/p/ainews-not-much-happened-today-038",
+    "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+    "https://www.latent.space/p/ontologies-agentic-systems",
+    "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+    "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+    "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+    "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+    "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+    "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+    "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+    "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+    "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+    "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+    "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+    "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
+    "https://www.404media.co/why-a-flock-worker-quit-they-lied/",
+    "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
+    "https://www.404media.co/behind-the-blog-silent-retreat/",
+    "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
+    "https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/07/dropbox-mcp-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.seangoedecke.com/llms-reward-expertise/",
+    "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+    "https://openai.com/index/ten-advances-in-mathematics/",
+    "https://blog.exe.dev/devtools-must-be-open-source",
+    "https://news.ycombinator.com/item?id=49156683",
+    "https://arxiv.org/abs/2607.28629",
+    "https://arxiv.org/abs/2607.28631",
+    "https://arxiv.org/abs/2607.28632",
+    "https://arxiv.org/abs/2607.28642",
+    "https://arxiv.org/abs/2607.28657",
+    "https://arxiv.org/abs/2607.28634",
+    "https://arxiv.org/abs/2607.28635",
+    "https://arxiv.org/abs/2607.28636",
+    "https://arxiv.org/abs/2607.28637",
+    "https://arxiv.org/abs/2607.28638"
+  ]
+}
