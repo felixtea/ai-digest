@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-08-05",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Circles Reports Financial and Operational Gains with OpenAI Technology",
+          "zh": "Circles 报告使用 OpenAI 技术实现财务和运营增长"
+        },
+        "tl_dr": {
+          "en": "Circles implemented the OpenAI API and Codex to deliver AI-native telco experiences, leading to increased ARPU and reduced customer churn.",
+          "zh": "Circles 采用 OpenAI API 和 Codex 为 AI 原生电信体验提供动力，从而增加了 ARPU 并降低了客户流失率。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Average Revenue Per User (ARPU) increased by 22%.",
+            "Customer churn rate decreased by 9%.",
+            "Development efficiency was improved through AI-native telco experiences."
+          ],
+          "zh": [
+            "每用户平均收入（ARPU）增长了 22%。",
+            "客户流失率降低了 9%。",
+            "通过 AI 原生电信体验提高了开发效率。"
+          ]
+        },
+        "impact": {
+          "en": "This application demonstrates the direct business value of integrating OpenAI models in the telecommunications sector. It provides quantifiable evidence of AI's capability to improve financial metrics and operational efficiency in real-world scenarios.",
+          "zh": "此应用展示了在电信领域集成 OpenAI 模型的直接商业价值。它为 AI 在真实场景中改进财务指标和运营效率的能力提供了量化证据。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/circles"
+      },
+      {
+        "title": {
+          "en": "Microsoft Agent Framework Components Reach General Availability",
+          "zh": "微软Agent框架组件达到通用可用性"
+        },
+        "tl_dr": {
+          "en": "Microsoft announced that components of its Agent Framework, including the Agent Harness and Foundry Hosted Agents, have reached General Availability (GA), marking a transition from an SDK to a governed platform for running AI agents.",
+          "zh": "微软宣布其Agent框架的组件，包括Agent Harness和Foundry Hosted Agents，已达到通用可用性（GA），标志着从SDK向运行AI代理的受管平台的转变。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Microsoft's Agent Framework now ships a supported runtime.",
+            "The Agent Harness, GitHub Copilot and Claude Agent SDK connectors, and orchestration patterns achieved stable release at Build 2026.",
+            "The Agent Harness and Foundry Hosted Agents have since reached General Availability."
+          ],
+          "zh": [
+            "微软的Agent框架现已提供受支持的运行时。",
+            "在Build 2026大会上，Agent Harness、GitHub Copilot和Claude Agent SDK连接器以及编排模式达到了稳定发布。",
+            "Agent Harness和Foundry Hosted Agents此后已达到通用可用性。"
+          ]
+        },
+        "impact": {
+          "en": "This development signals Microsoft's shift towards providing a more robust, governed platform for deploying and managing AI agents, moving beyond basic SDKs for development. It enables broader enterprise adoption and more reliable operation of agentic AI systems.",
+          "zh": "这一进展表明微软正在转向提供一个更强大、受管理的平台，用于部署和管理AI代理，超越了仅用于开发的基础SDK。这有助于更广泛的企业采用和更可靠地运行代理AI系统。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Unveils New Gemini Models",
+          "zh": "谷歌DeepMind发布新一代Gemini模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind announced the introduction of new Gemini models: Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Gemini 3.5 Flash Cyber.",
+          "zh": "谷歌DeepMind宣布推出新的Gemini模型，包括Gemini 3.6 Flash、Gemini 3.5 Flash-Lite和Gemini 3.5 Flash Cyber。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Introduction of Gemini 3.6 Flash.",
+            "Introduction of Gemini 3.5 Flash-Lite.",
+            "Introduction of Gemini 3.5 Flash Cyber."
+          ],
+          "zh": [
+            "Gemini 3.6 Flash模型的推出。",
+            "Gemini 3.5 Flash-Lite模型的推出。",
+            "Gemini 3.5 Flash Cyber模型的推出。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of new Gemini models expands the range of available AI models from Google DeepMind.",
+          "zh": "新Gemini模型的推出扩大了谷歌DeepMind可用的AI模型范围。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "What it feels like to work with Mythos",
+          "zh": "What it feels like to work with Mythos"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "zh": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "title": {
+          "en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "zh": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+      },
+      {
+        "title": {
+          "en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "zh": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
+      },
+      {
+        "title": {
+          "en": "Deploy local agents everywhere with LFM2.5-2.6B",
+          "zh": "Deploy local agents everywhere with LFM2.5-2.6B"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "https://openai.com/index/apple-is-getting-this-wrong",
+    "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "https://openai.com/index/circles",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+    "https://www.latent.space/p/unpacking-chatgpt-work",
+    "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+    "https://www.latent.space/p/inference-eng",
+    "https://www.latent.space/p/ainews-not-much-happened-today-038",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+    "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+    "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+    "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+    "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+    "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+    "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+    "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+    "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+    "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+    "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+    "https://www.404media.co/what-is-the-screen-act-age-verification-porn/",
+    "https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/",
+    "https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/",
+    "https://www.404media.co/the-sec-bought-airline-data-to-monitor-flights-worldwide/",
+    "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
+    "https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+    "https://queue.acm.org/detail.cfm?id=3807963",
+    "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "https://twitter.com/gwern/status/2084739205071343837",
+    "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+    "https://arxiv.org/abs/2607.28629",
+    "https://arxiv.org/abs/2607.28631",
+    "https://arxiv.org/abs/2607.28632",
+    "https://arxiv.org/abs/2607.28642",
+    "https://arxiv.org/abs/2607.28657",
+    "https://arxiv.org/abs/2608.00004",
+    "https://arxiv.org/abs/2608.00005",
+    "https://arxiv.org/abs/2608.00007",
+    "https://arxiv.org/abs/2608.00009",
+    "https://arxiv.org/abs/2608.00011"
+  ]
+}
