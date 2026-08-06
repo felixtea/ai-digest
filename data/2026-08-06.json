@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-08-06",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Circles Enhances Telco Personalization with OpenAI API, Codex",
+          "zh": "Circles 利用 OpenAI API 和 Codex 提升电信个性化服务"
+        },
+        "tl_dr": {
+          "en": "Circles leveraged OpenAI API and Codex to create AI-native telco experiences, resulting in increased ARPU, reduced churn, and improved development efficiency.",
+          "zh": "Circles 利用 OpenAI API 和 Codex 技术，构建了 AI 原生电信体验，成功提升了每用户平均收入、降低了用户流失率，并提高了开发效率。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Circles deployed the OpenAI API to power AI-native telco experiences.",
+            "OpenAI's Codex was integrated into Circles' personalization technology.",
+            "The implementation led to a 22% increase in Average Revenue Per User (ARPU) and a 9% reduction in customer churn."
+          ],
+          "zh": [
+            "Circles 部署了 OpenAI API 以驱动 AI 原生电信体验。",
+            "OpenAI 的 Codex 被集成到 Circles 的个性化技术中。",
+            "该实施方案带来了每用户平均收入（ARPU）22%的增长和客户流失率9%的降低。"
+          ]
+        },
+        "impact": {
+          "en": "This demonstrates how AI integration, specifically using OpenAI models, can deliver measurable business improvements in the telecommunications sector. It provides a concrete case study for AI's commercial application in enhancing customer value and operational efficiency.",
+          "zh": "这表明AI集成，特别是利用OpenAI模型，能够在电信领域带来可衡量的业务改进。它为AI在提升客户价值和运营效率方面的商业应用提供了一个具体案例。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/circles"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Unveils Orchard Framework, Alongside New AI Agent Benchmark",
+          "zh": "微软研究院发布Orchard框架，同时引入全新AI智能体基准"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research introduced Orchard, an open-source framework for training and evaluating AI agents, while arXiv detailed MemArena, a benchmark for on-device agentic personal memory assistants.",
+          "zh": "微软研究院推出了Orchard，一个用于训练和评估AI智能体的开源框架，同时arXiv公布了MemArena，一个用于设备上智能体个人记忆助手的基准。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Orchard is an open-source framework designed for the research community to train and evaluate AI agents across various task types.",
+            "The Orchard framework reduces complexity and supports strong performance from smaller models by enabling researchers to reuse existing infrastructure.",
+            "MemArena is an ego-centric conversational benchmark simulating 50 agents over 15 days, generating 10.3M dialog-text tokens and 24.1K utterances for on-device agentic personal memory assistants."
+          ],
+          "zh": [
+            "Orchard是一个开源框架，旨在供研究社区用于跨不同任务类型训练和评估AI智能体。",
+            "Orchard框架通过支持研究人员重用现有基础设施，从而降低复杂性并使小型模型也能实现强大的性能。",
+            "MemArena是一个以自我为中心的对话基准，通过模拟50个智能体在15天内的互动，为设备上的智能体个人记忆助手生成了10.3M对话文本令牌和24.1K语料。"
+          ]
+        },
+        "impact": {
+          "en": "These developments provide the AI research community with new foundational tools and benchmarks for advancing scalable and efficient AI agent development. Orchard offers a standardized infrastructure for agent training and evaluation, while MemArena addresses specific challenges in benchmarking on-device personal memory assistants.",
+          "zh": "这些进展为AI研究社区提供了新的基础工具和基准，以推动可扩展和高效的AI智能体开发。Orchard为智能体训练和评估提供了标准化的基础设施，而MemArena则解决了设备上个人记忆助手基准测试中的特定挑战。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/"
+      },
+      {
+        "title": {
+          "en": "Meta Introduces Muse Code AI Agent",
+          "zh": "Meta推出Muse Code AI代理"
+        },
+        "tl_dr": {
+          "en": "Meta has released Muse Code, an AI agent designed to manage complex tasks within large code bases.",
+          "zh": "Meta发布了Muse Code，一款旨在管理大型代码库中复杂任务的AI代理。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Meta expanded its AI coding offerings.",
+            "The new agent is named Muse Code.",
+            "Muse Code is designed to handle complex tasks with complex software."
+          ],
+          "zh": [
+            "Meta扩展了其AI编码产品。",
+            "新代理名为Muse Code。",
+            "Muse Code旨在处理复杂软件中的复杂任务。"
+          ]
+        },
+        "impact": {
+          "en": "This introduction expands the capabilities of AI in software development, potentially streamlining complex coding workflows. It signifies Meta's continued investment in AI tools for developers.",
+          "zh": "此次发布扩展了AI在软件开发中的能力，可能简化复杂的编码工作流程。这标志着Meta持续投资于面向开发者的AI工具。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "What it feels like to work with Mythos",
+          "zh": "What it feels like to work with Mythos"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "zh": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "title": {
+          "en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "zh": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "zh": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/"
+      },
+      {
+        "title": {
+          "en": "Deploy local agents everywhere with LFM2.5-2.6B",
+          "zh": "Deploy local agents everywhere with LFM2.5-2.6B"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "https://openai.com/index/apple-is-getting-this-wrong",
+    "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "https://openai.com/index/circles",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+    "https://www.latent.space/p/unpacking-chatgpt-work",
+    "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+    "https://www.latent.space/p/inference-eng",
+    "https://www.latent.space/p/ainews-not-much-happened-today-038",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+    "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+    "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+    "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+    "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+    "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+    "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+    "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+    "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+    "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+    "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+    "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
+    "https://www.404media.co/podcast-this-man-might-go-to-prison-for-wiping-his-phone/",
+    "https://www.404media.co/apples-private-relay-is-exposing-users-real-ip-addresses/",
+    "https://www.404media.co/what-is-the-screen-act-age-verification-porn/",
+    "https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/",
+    "https://www.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.discoveryloop.com/",
+    "https://zed.dev/deltadb",
+    "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "https://arxiv.org/abs/2608.02604",
+    "https://arxiv.org/abs/2608.02606",
+    "https://arxiv.org/abs/2608.02618",
+    "https://arxiv.org/abs/2608.02630",
+    "https://arxiv.org/abs/2608.02650",
+    "https://arxiv.org/abs/2608.02609",
+    "https://arxiv.org/abs/2608.02612",
+    "https://arxiv.org/abs/2608.02613",
+    "https://arxiv.org/abs/2608.02615",
+    "https://arxiv.org/abs/2608.02616"
+  ]
+}
