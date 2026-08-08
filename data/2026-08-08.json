@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-08-08",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "External Analysis Details ChatGPT Work's Agent Architecture",
+          "zh": "外部分析揭示ChatGPT Work代理架构"
+        },
+        "tl_dr": {
+          "en": "An external reconstruction detailed the internal mechanisms of the new ChatGPT Work, identifying components such as Memory, Proactivity, and Tools.",
+          "zh": "一份外部重建分析详细阐述了新型ChatGPT Work的内部机制，明确了其记忆、主动性及工具等组成部分。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The reconstruction describes the system's internal workings, including Memory, Proactivity, and Scheduling.",
+            "It outlines the operational aspects of Browser Use, Plugins, Skills, and Tools within the agent.",
+            "The analysis is an \"external reconstruction\" of \"the new ChatGPT Work,\" characterized as \"the Agent for a Billion Users.\""
+          ],
+          "zh": [
+            "该重建描述了系统内部工作机制，包括记忆、主动性和调度。",
+            "它概述了代理内部浏览器使用、插件、技能和工具的运作方面。",
+            "该分析是对“新型ChatGPT Work”的“外部重建”，该系统被形容为“十亿用户代理”。"
+          ]
+        },
+        "impact": {
+          "en": "This reconstruction offers insights into the design and operational architecture of a large-scale AI agent, providing information relevant for the development and understanding of complex AI systems targeting extensive user bases.",
+          "zh": "此次重建为大规模AI代理的设计和运作架构提供了见解，为旨在服务广泛用户群体的复杂AI系统的开发和理解提供了相关信息。"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/unpacking-chatgpt-work"
+      },
+      {
+        "title": {
+          "en": "New Platforms Aim to Advance AI Agent Training and Execution",
+          "zh": "新平台旨在推进AI智能体的训练与执行"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research introduced Echoverse to train computer-use AI agents in evolving environments, while Cloudflare launched Cloudflare Computer, an open-source runtime providing persistent, stateful environments for AI agents.",
+          "zh": "微软研究院推出Echoverse，用于在不断演变的环境中训练计算机使用AI智能体，而Cloudflare则推出了Cloudflare Computer，一个为AI智能体提供持久、有状态环境的开源运行时。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Microsoft Research's Echoverse focuses on training computer-use AI agents in deep, evolving environments to improve performance on multi-step workflows.",
+            "Cloudflare Computer is an open-source runtime providing persistent, stateful, computer-like environments for AI agents.",
+            "Cloudflare Computer leverages Cloudflare isolates for fast serverless execution, which the company states makes agents cheaper, faster, and more scalable."
+          ],
+          "zh": [
+            "微软研究院的Echoverse专注于在深度、不断演变的环境中训练计算机使用AI智能体，以提升其在多步骤工作流中的表现。",
+            "Cloudflare Computer是一个开源运行时，旨在为AI智能体提供持久、有状态的类计算机环境。",
+            "Cloudflare Computer利用Cloudflare isolates实现快速无服务器执行，据该公司称，这使得智能体更便宜、更快、更具扩展性。"
+          ]
+        },
+        "impact": {
+          "en": "These developments address the challenge of AI agents struggling with complex, multi-step tasks by providing more realistic and persistent operational environments. This approach aims to enhance the capabilities and efficiency of AI agents, potentially expanding their applicability in real-world computer-use scenarios.",
+          "zh": "这些进展通过提供更真实和持久的运行环境，解决了AI智能体在复杂多步骤任务中面临的挑战。该方法旨在提升AI智能体的能力和效率，可能扩展其在真实计算机使用场景中的应用范围。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Unveils Gemini Robotics ER 2 for Enhanced Robot Collaboration",
+          "zh": "谷歌DeepMind发布Gemini Robotics ER 2，提升机器人协作能力"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind introduced Gemini Robotics ER 2, an advancement in robotics for reasoning, collaboration, and real-world task solving.",
+          "zh": "谷歌DeepMind推出Gemini Robotics ER 2，一项旨在提升机器人推理、协作和解决现实世界任务能力的进展。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Enhanced video understanding for robotic applications.",
+            "Improved tool orchestration capabilities.",
+            "Advanced multi-robot collaboration."
+          ],
+          "zh": [
+            "提升机器人应用的视频理解能力。",
+            "增强工具编排功能。",
+            "实现先进的多机器人协作。"
+          ]
+        },
+        "impact": {
+          "en": "This development signifies a step change in robotic capabilities, enabling robots to reason, collaborate more effectively, and address complex real-world tasks. It contributes to advancing practical AI applications in robotics.",
+          "zh": "此项发展标志着机器人能力的重要转变，使机器人能够更有效地进行推理、协作并解决复杂的现实世界任务。它有助于推动机器人领域人工智能的实际应用。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "What it feels like to work with Mythos",
+          "zh": "What it feels like to work with Mythos"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
+      },
+      {
+        "title": {
+          "en": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "zh": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+      },
+      {
+        "title": {
+          "en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "zh": "WeatherNext: AI model achieves breakthrough in forecasting cyclones"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
+      },
+      {
+        "title": {
+          "en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "zh": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
+      },
+      {
+        "title": {
+          "en": "Working with the American Psychological Association on youth mental health and AI",
+          "zh": "Working with the American Psychological Association on youth mental health and AI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "https://openai.com/index/hsp-gruppe",
+    "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "https://huggingface.co/blog/allenai/tutormoments",
+    "https://huggingface.co/blog/baseten",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "https://www.latent.space/p/ainews-amd-buys-taalas",
+    "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+    "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+    "https://www.latent.space/p/unpacking-chatgpt-work",
+    "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
+    "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+    "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+    "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+    "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+    "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+    "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+    "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+    "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+    "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+    "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+    "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+    "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+    "https://www.404media.co/behind-the-blog-rare-books-and-baseball-brain/",
+    "https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/",
+    "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
+    "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+    "https://www.404media.co/scientists-designed-a-virtual-alien-lifeform-to-hunt-for-extraterrestrials/",
+    "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/instacart-blueberry-sre-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/ai-incident-response/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/azure-apim-ai-gateway-tier/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/pod-deployment-unit-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "https://genesisopenmodels.anl.gov/",
+    "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "https://ancientlibrary.net/",
+    "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+    "https://arxiv.org/abs/2608.05159",
+    "https://arxiv.org/abs/2608.05160",
+    "https://arxiv.org/abs/2608.05168",
+    "https://arxiv.org/abs/2608.05203",
+    "https://arxiv.org/abs/2608.05204",
+    "https://arxiv.org/abs/2608.05151",
+    "https://arxiv.org/abs/2608.05152",
+    "https://arxiv.org/abs/2608.05153",
+    "https://arxiv.org/abs/2608.05154",
+    "https://arxiv.org/abs/2608.05155"
+  ]
+}
