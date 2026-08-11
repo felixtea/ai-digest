@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-08-11",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "DeepMind AI Model Advances Cyclone Forecasting",
+          "zh": "DeepMind AI模型推进气旋预测"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind's AI model, WeatherNext, has achieved a breakthrough in forecasting cyclones.",
+          "zh": "谷歌DeepMind的AI模型WeatherNext在气旋预测方面取得了突破。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The AI model is named WeatherNext.",
+            "It is an artificial intelligence model.",
+            "The model achieves breakthroughs in forecasting cyclones."
+          ],
+          "zh": [
+            "该AI模型名为WeatherNext。",
+            "它是一个人工智能模型。",
+            "该模型在气旋预测方面取得了突破。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates AI's growing capability in complex environmental prediction. It highlights the potential for AI models to address critical real-world challenges like severe weather forecasting.",
+          "zh": "这一进展展示了人工智能在复杂环境预测方面日益增长的能力。它突显了AI模型解决气象预测等关键现实世界挑战的潜力。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
+      },
+      {
+        "title": {
+          "en": "Cloudflare Unveils Stateful Runtime for AI Agents",
+          "zh": "Cloudflare 推出为 AI 智能体设计的有状态运行时"
+        },
+        "tl_dr": {
+          "en": "Cloudflare has launched Cloudflare Computer, an open-source runtime providing persistent, stateful environments for AI agents.",
+          "zh": "Cloudflare 推出了 Cloudflare Computer，这是一种开源运行时，旨在为 AI 智能体提供持久的、有状态的运行环境。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Cloudflare Computer is an open-source runtime for AI agents.",
+            "It offers persistent, stateful environments, differing from ephemeral containers.",
+            "The system leverages Cloudflare isolates to enable fast serverless execution."
+          ],
+          "zh": [
+            "Cloudflare Computer 是一种用于 AI 智能体的开源运行时。",
+            "它提供持久的、有状态的环境，有别于短暂的容器。",
+            "该系统利用 Cloudflare isolates 实现快速的无服务器执行。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides AI agents with more stable and computer-like operating conditions, potentially improving their efficiency, cost-effectiveness, and scalability for complex tasks.",
+          "zh": "这一进展为 AI 智能体提供了更稳定、更接近真实计算机的运行条件，可能提高它们在复杂任务中的效率、成本效益和可扩展性。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "Trump Administration Extends AI Protectionism to Robotics Sector",
+          "zh": "特朗普政府将人工智能保护主义扩展至机器人领域"
+        },
+        "tl_dr": {
+          "en": "The Trump administration's AI protectionist policies have been extended to include the robotics industry.",
+          "zh": "特朗普政府的人工智能保护主义政策已扩展至机器人产业。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Humanoid robots still exhibit physical deficiencies, such as stumbling or kicking children.",
+            "The manual dexterity of current humanoid robots is described as being worse than that of a toddler.",
+            "The humanoid robotics sector is characterized as a nascent industry."
+          ],
+          "zh": [
+            "人形机器人仍存在物理缺陷，例如易于摔倒或踢到儿童。",
+            "目前人形机器人的手部操作能力被描述为不及幼儿水平。",
+            "人形机器人产业被界定为一个新兴行业。"
+          ]
+        },
+        "impact": {
+          "en": "The extension of AI protectionism to robotics indicates a broadening scope of government intervention in advanced technology sectors. This could influence the development and international collaboration within the nascent humanoid robotics industry.",
+          "zh": "人工智能保护主义扩展至机器人领域，表明政府对先进技术部门的干预范围正在扩大。这可能影响新兴人形机器人产业的发展和国际合作。"
+        },
+        "source": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "zh": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/responsible-ai-infrastructure-texas"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "zh": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "title": {
+          "en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "zh": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+      },
+      {
+        "title": {
+          "en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "zh": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
+      },
+      {
+        "title": {
+          "en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "zh": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "https://openai.com/index/model-ml",
+    "https://openai.com/index/building-an-ai-native-finance-function",
+    "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "https://huggingface.co/blog/muse-glimmer",
+    "https://huggingface.co/blog/allenai/tutormoments",
+    "https://huggingface.co/blog/baseten",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+    "https://www.latent.space/p/ainews-amd-buys-taalas",
+    "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+    "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+    "https://www.latent.space/p/unpacking-chatgpt-work",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+    "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+    "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+    "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+    "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+    "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+    "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+    "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+    "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+    "https://www.404media.co/ice-to-pay-lexisnexis-millions-for-data-to-feed-to-palantir/",
+    "https://www.404media.co/the-mayor-who-said-no-when-flock-came-to-town/",
+    "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
+    "https://www.404media.co/the-roboguard-revolution-is-short-circuiting/",
+    "https://www.404media.co/crab-odyssey-crustacean-wandered-the-seas-in-a-bottle-for-months-scientists-find/",
+    "https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/instacart-blueberry-sre-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.effort.news/uk-lobby",
+    "https://cactuscompute.com/needle",
+    "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "https://everycube.alen.is/",
+    "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+    "https://arxiv.org/abs/2608.06394",
+    "https://arxiv.org/abs/2608.06398",
+    "https://arxiv.org/abs/2608.06400",
+    "https://arxiv.org/abs/2608.06402",
+    "https://arxiv.org/abs/2608.06410",
+    "https://arxiv.org/abs/2608.06396",
+    "https://arxiv.org/abs/2608.06409",
+    "https://arxiv.org/abs/2608.06425",
+    "https://arxiv.org/abs/2608.06429",
+    "https://arxiv.org/abs/2608.06485"
+  ]
+}
