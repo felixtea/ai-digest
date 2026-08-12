@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-08-12",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Meta Pitches AI Strategy Reboot With New Open Models",
+          "zh": "Meta凭新开放模型力推AI战略重启动"
+        },
+        "tl_dr": {
+          "en": "Meta is re-pitching its AI strategy with new open models, following a period where it has trailed competitors.",
+          "zh": "Meta正以新的开放模型重新推销其AI战略，此前该公司在竞争中处于落后地位。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Meta has lagged behind its competitors in the AI sector.",
+            "CEO Mark Zuckerberg believes a new path forward has been identified.",
+            "The proposed strategy involves a focus on new open models."
+          ],
+          "zh": [
+            "Meta在AI领域一直落后于竞争对手。",
+            "首席执行官马克·扎克伯格认为已找到新的前进方向。",
+            "提议的战略侧重于新的开放模型。"
+          ]
+        },
+        "impact": {
+          "en": "This move signals Meta's continued effort to establish a stronger position in the competitive AI industry, specifically by leveraging open models.",
+          "zh": "此举表明Meta持续努力在竞争激烈的AI行业中建立更强大的地位，特别是通过利用开放模型。"
+        },
+        "source": "Ars Technica (AI)",
+        "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
+      },
+      {
+        "title": {
+          "en": "AI Platforms Navigate Monetization and Regulatory Landscape",
+          "zh": "AI平台应对货币化与监管格局"
+        },
+        "tl_dr": {
+          "en": "OpenAI initiated ad testing in ChatGPT to support free access, while Anthropic reinstated access to its Claude Fable 5 and Mythos 5 models following a temporary suspension due to U.S. Department of Commerce export controls.",
+          "zh": "OpenAI开始在ChatGPT中测试广告以支持免费访问，而Anthropic在美国商务部出口管制导致的临时暂停后，恢复了其Claude Fable 5和Mythos 5模型的访问。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI's ad testing in ChatGPT features clear labeling, answer independence, strong privacy protections, and user control.",
+            "Anthropic's Claude Fable 5 and Claude Mythos 5 models were initially released on June 9, 2026.",
+            "Access to these models was suspended on June 12, 2026, due to U.S. Department of Commerce export controls, which were lifted on June 30, 2026, leading to access restoration on July 1, 2026."
+          ],
+          "zh": [
+            "OpenAI在ChatGPT中进行的广告测试将具有明确标签、答案独立性、强大的隐私保护和用户控制。",
+            "Anthropic的Claude Fable 5和Claude Mythos 5模型于2026年6月9日首次发布。",
+            "这些模型的访问在2026年6月12日因美国商务部出口管制而被暂停，该管制于2026年6月30日解除，并于2026年7月1日恢复了访问。"
+          ]
+        },
+        "impact": {
+          "en": "OpenAI's move explores a monetization strategy for AI services, potentially balancing free access with revenue. Anthropic's event underscores the critical influence of geopolitical and regulatory frameworks on the global availability and deployment of advanced AI models.",
+          "zh": "OpenAI的举措探索了AI服务的货币化策略，可能在免费访问和收入之间取得平衡。Anthropic的事件则强调了地缘政治和监管框架对全球高级AI模型可用性和部署的关键影响。"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Cloudflare Launches Persistent Environments for AI Agents",
+          "zh": "Cloudflare推出AI代理持久化环境"
+        },
+        "tl_dr": {
+          "en": "Cloudflare introduced Cloudflare Computer, an open-source runtime designed to provide AI agents with persistent, stateful, computer-like environments.",
+          "zh": "Cloudflare推出了Cloudflare Computer，这是一个开源运行时，旨在为AI代理提供持久化、有状态的、类似计算机的环境。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Cloudflare Computer is an open-source runtime.",
+            "It offers persistent, stateful, computer-like environments, contrasting with ephemeral containers.",
+            "The system utilizes Cloudflare isolates to facilitate fast serverless execution."
+          ],
+          "zh": [
+            "Cloudflare Computer是一个开源运行时。",
+            "它提供持久化、有状态的类计算机环境，而非短暂容器。",
+            "该系统利用Cloudflare Isolates实现快速无服务器执行。"
+          ]
+        },
+        "impact": {
+          "en": "This development aims to address AI agents' struggles with multi-step workflows by providing more robust execution environments, potentially leading to more efficient, scalable, and cost-effective agent operations.",
+          "zh": "此项发展旨在通过提供更强大的执行环境，解决AI代理在多步骤工作流程中的难题，可能促使代理操作更为高效、可扩展且经济。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Daybreak models are now available on AWS",
+          "zh": "Daybreak models are now available on AWS"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+      },
+      {
+        "title": {
+          "en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "zh": "TutorMoments: Do AI tutors know when to help and when to hold back?"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/allenai/tutormoments"
+      },
+      {
+        "title": {
+          "en": "Stealing Reasoning Traces from Proprietary LLM APIs",
+          "zh": "Stealing Reasoning Traces from Proprietary LLM APIs"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "zh": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "title": {
+          "en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "zh": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/testing-ads-in-chatgpt",
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "https://openai.com/index/model-ml",
+    "https://openai.com/index/building-an-ai-native-finance-function",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "https://huggingface.co/blog/muse-glimmer",
+    "https://huggingface.co/blog/allenai/tutormoments",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+    "https://www.latent.space/p/chai-discovery",
+    "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+    "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+    "https://www.latent.space/p/ainews-amd-buys-taalas",
+    "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+    "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+    "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+    "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+    "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+    "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+    "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+    "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+    "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+    "https://www.404media.co/no-bosses-ancient-engineering-marvel-was-built-without-rulers-study-suggests/",
+    "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "https://www.404media.co/ice-to-pay-lexisnexis-millions-for-data-to-feed-to-palantir/",
+    "https://www.404media.co/the-mayor-who-said-no-when-flock-came-to-town/",
+    "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
+    "https://www.infoq.com/news/2026/08/lightwell-ai-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+    "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+    "https://ngrok.com/blog/compression-is-prediction",
+    "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+    "https://arxiv.org/abs/2608.07473",
+    "https://arxiv.org/abs/2608.07474",
+    "https://arxiv.org/abs/2608.07476",
+    "https://arxiv.org/abs/2608.07480",
+    "https://arxiv.org/abs/2608.07524",
+    "https://arxiv.org/abs/2608.07525",
+    "https://arxiv.org/abs/2608.07527",
+    "https://arxiv.org/abs/2608.07529",
+    "https://arxiv.org/abs/2608.07531",
+    "https://arxiv.org/abs/2608.07594"
+  ]
+}
