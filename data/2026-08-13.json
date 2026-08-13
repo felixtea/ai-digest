@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-08-13",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Tests Ads in ChatGPT to Fund Free Access",
+          "zh": "OpenAI在ChatGPT中测试广告以支持免费访问"
+        },
+        "tl_dr": {
+          "en": "OpenAI has commenced testing advertisements within ChatGPT to support its free access model.",
+          "zh": "OpenAI已开始在ChatGPT中测试广告，以支持其免费访问模式。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Advertisements will include clear labeling to distinguish them from AI-generated content.",
+            "Answer independence is maintained, meaning ad content will not influence ChatGPT's responses.",
+            "Strong privacy protections are a stated component of the ad testing."
+          ],
+          "zh": [
+            "广告将包含明确的标签，以区分其与AI生成的内容。",
+            "答案独立性将得到保持，即广告内容不会影响ChatGPT的回复。",
+            "测试中将实施强大的隐私保护措施。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative by OpenAI represents an exploration of monetization strategies for large language model services. It could establish a precedent for how AI platforms sustain free access while maintaining operational costs and user experience.",
+          "zh": "OpenAI的这一举措代表了大型语言模型服务货币化策略的探索。它可能为AI平台如何在维持运营成本和用户体验的同时支持免费访问树立先例。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/testing-ads-in-chatgpt"
+      },
+      {
+        "title": {
+          "en": "DeepMind AI Advances Cyclone Forecasting",
+          "zh": "DeepMind人工智能模型在气旋预测方面取得进展"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones.",
+          "zh": "谷歌DeepMind的WeatherNext人工智能模型在气旋预测方面取得了突破。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The AI model developed by Google DeepMind is named WeatherNext.",
+            "WeatherNext is an artificial intelligence model.",
+            "The model has achieved a breakthrough in the field of cyclone forecasting."
+          ],
+          "zh": [
+            "谷歌DeepMind开发的人工智能模型名为WeatherNext。",
+            "WeatherNext是一个人工智能模型。",
+            "该模型在气旋预测领域取得了突破性进展。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates advancements in AI's capacity for complex meteorological predictions, potentially improving early warning systems for natural disasters.",
+          "zh": "这一发展表明人工智能在复杂气象预测能力方面的进步，可能改善自然灾害的早期预警系统。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Introduces MindTopo to Evaluate VLM Spatial Reasoning",
+          "zh": "微软研究院推出MindTopo评估VLM空间推理能力"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research introduced MindTopo, a new benchmark designed to test AI's understanding of topological relationships and identify opportunities for strengthening spatial reasoning.",
+          "zh": "微软研究院推出了MindTopo，一个旨在测试人工智能对拓扑关系的理解并发现加强空间推理机会的新基准。"
+        },
+        "key_takeaways": {
+          "en": [
+            "MindTopo establishes a new benchmark for evaluating artificial intelligence's comprehension of topological relationships.",
+            "The benchmark is specifically designed to assess spatial reasoning abilities in Visual Language Models (VLMs).",
+            "MindTopo identifies areas for enhancing spatial planning capabilities within AI systems."
+          ],
+          "zh": [
+            "MindTopo为评估人工智能对拓扑关系的理解能力设立了一个新基准。",
+            "该基准专门设计用于评估视觉语言模型（VLM）的空间推理能力。",
+            "MindTopo揭示了提升人工智能系统中空间规划能力的机会。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides a standardized method for assessing a critical aspect of AI capability, potentially leading to more robust and capable AI systems in tasks requiring complex spatial understanding.",
+          "zh": "这一进展为评估人工智能能力的关键方面提供了标准化方法，可能促使在需要复杂空间理解的任务中，开发出更强大、更有能力的AI系统。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+          "zh": "DeepSeek V4 Pro 0813 (on OpenRouter)"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/"
+      },
+      {
+        "title": {
+          "en": "Stealing Reasoning Traces from Proprietary LLM APIs",
+          "zh": "Stealing Reasoning Traces from Proprietary LLM APIs"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/"
+      },
+      {
+        "title": {
+          "en": "Putting sign language AI into users’ hands",
+          "zh": "Putting sign language AI into users’ hands"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "zh": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "title": {
+          "en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "zh": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "https://openai.com/index/ringcentral",
+    "https://openai.com/index/testing-ads-in-chatgpt",
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+    "https://www.latent.space/p/chai-discovery",
+    "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+    "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+    "https://www.latent.space/p/ainews-amd-buys-taalas",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+    "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
+    "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
+    "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+    "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+    "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+    "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+    "https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/",
+    "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
+    "https://www.404media.co/podcast-mark-zuckerbergs-superintelligent-ai-future-that-no-one-wants/",
+    "https://www.404media.co/meta-ray-ban-smart-glasses-pov-instagram-pickup-artists/",
+    "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
+    "https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/mcp-stateless-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/lightwell-ai-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "https://zed.dev/blog/introducing-delta",
+    "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "https://sharktastica.co.uk/articles/pc-fxt-45",
+    "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "https://arxiv.org/abs/2608.09949",
+    "https://arxiv.org/abs/2608.09967",
+    "https://arxiv.org/abs/2608.09986",
+    "https://arxiv.org/abs/2608.09998",
+    "https://arxiv.org/abs/2608.10004",
+    "https://arxiv.org/abs/2608.09934",
+    "https://arxiv.org/abs/2608.09936",
+    "https://arxiv.org/abs/2608.09937",
+    "https://arxiv.org/abs/2608.09941",
+    "https://arxiv.org/abs/2608.09942"
+  ]
+}
