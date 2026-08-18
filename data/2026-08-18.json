@@ -1,0 +1,170 @@
+{
+  "date_id": "2026-08-18",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Amazon Facility Scans, Destroys Rare Books for AI Training",
+          "zh": "亚马逊设施扫描并销毁珍本书籍用于AI训练"
+        },
+        "tl_dr": {
+          "en": "A tracking device placed in a shipment of rare books revealed the books were sent to an Amazon facility for scanning and destruction, presumably for AI training.",
+          "zh": "一个放置在珍本书籍货运中的追踪设备显示，这些书籍被送往亚马逊的一个设施进行扫描和销毁，据推测用于AI训练。"
+        },
+        "key_takeaways": {
+          "en": [
+            "A tracking device was used to monitor a shipment of rare books.",
+            "The shipment's final destination was identified as an Amazon facility.",
+            "At the Amazon facility, the books are subjected to scanning and subsequent destruction."
+          ],
+          "zh": [
+            "通过追踪设备对一批珍本书籍的货运进行了监测。",
+            "该货运的最终目的地被确定为亚马逊的一个设施。",
+            "在亚马逊设施，这些书籍被扫描后销毁。"
+          ]
+        },
+        "impact": {
+          "en": "This report provides direct evidence of a major tech company acquiring physical books for AI training purposes, highlighting a practice of data acquisition that involves physical item destruction. It sheds light on methods used to expand training datasets beyond digital archives.",
+          "zh": "这份报告直接证实了一家主要科技公司为AI训练目的获取实体书籍，突显了涉及实体物品销毁的数据获取实践。它揭示了在数字档案之外扩展训练数据集的方法。"
+        },
+        "source": "404 Media",
+        "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "The Defender’s Window",
+          "zh": "The Defender’s Window"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/the-defenders-window"
+      },
+      {
+        "title": {
+          "en": "New policy ideas for the Intelligence Age",
+          "zh": "New policy ideas for the Intelligence Age"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+      },
+      {
+        "title": {
+          "en": "Modular Cognitive Architecture Emerges in Large Language Models",
+          "zh": "Modular Cognitive Architecture Emerges in Large Language Models"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2608.13567"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini 3.7 Flash",
+          "zh": "Introducing Gemini 3.7 Flash"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "zh": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/the-defenders-window",
+    "https://openai.com/index/openai-joins-ports-pike-project",
+    "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "https://openai.com/index/previewing-ultrafast",
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+    "https://www.latent.space/p/flue-2",
+    "https://www.latent.space/p/ainews-cursors-60b-acquisition-by",
+    "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+    "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+    "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+    "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+    "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "https://www.404media.co/pornhubs-parent-company-to-pay-120-million-to-settle-child-sexual-abuse-lawsuits/",
+    "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+    "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
+    "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+    "https://www.404media.co/memories-mysteriously-survive-after-brain-shutdown-and-scientists-dont-know-why/",
+    "https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/aws-dynamodb-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://timmarinin.net/2026/bluesky-screenshots/",
+    "https://cursor.com/docs/origin",
+    "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "https://arxiv.org/abs/2608.13759",
+    "https://arxiv.org/abs/2608.13564",
+    "https://arxiv.org/abs/2608.13565",
+    "https://arxiv.org/abs/2608.13567",
+    "https://arxiv.org/abs/2608.13573",
+    "https://arxiv.org/abs/2608.13574",
+    "https://arxiv.org/abs/2608.13568",
+    "https://arxiv.org/abs/2608.13570",
+    "https://arxiv.org/abs/2608.13571",
+    "https://arxiv.org/abs/2608.13578",
+    "https://arxiv.org/abs/2608.13580"
+  ]
+}
