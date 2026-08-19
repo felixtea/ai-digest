@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-08-19",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "SpaceXAI Unveils Persistent AI Agent System; Microsoft Details Training Environments",
+          "zh": "SpaceXAI 发布持久性 AI 代理系统；微软公布训练环境"
+        },
+        "tl_dr": {
+          "en": "SpaceXAI introduced Grok Bot, a system of persistent AI agents, while Microsoft Research detailed Echoverse, an evolving environment for training computer-use agents.",
+          "zh": "SpaceXAI 发布了 Grok Bot 这一持久性 AI 代理系统，同时微软研究院详述了用于训练计算机使用代理的 Echoverse 演进环境。"
+        },
+        "key_takeaways": {
+          "en": [
+            "SpaceXAI's Grok Bot is a system of persistent AI agents.",
+            "Grok Bot agents operate on dedicated cloud computers and can interact with websites, applications, and inboxes.",
+            "Microsoft Research's Echoverse trains computer-use AI agents in deep, evolving environments to improve multi-step workflows."
+          ],
+          "zh": [
+            "SpaceXAI 的 Grok Bot 是一个持久性 AI 代理系统。",
+            "Grok Bot 代理在专用云计算机上运行，并可与网站、应用程序和收件箱等工具交互。",
+            "微软研究院的 Echoverse 在深度、不断演进的环境中训练计算机使用 AI 代理，以改进多步骤工作流程。"
+          ]
+        },
+        "impact": {
+          "en": "These developments demonstrate an industry trend towards autonomous AI agents capable of complex interactions and highlight the importance of realistic, evolving environments for their training and improvement.",
+          "zh": "这些进展表明了AI行业向能够进行复杂交互的自主AI代理发展的趋势，并强调了真实、不断演进的环境对于其训练和改进的重要性。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "DeepMind's WeatherNext Advances Cyclone Forecasting",
+          "zh": "DeepMind WeatherNext 推进气旋预报"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind's WeatherNext AI model has achieved a breakthrough in forecasting cyclones.",
+          "zh": "谷歌DeepMind的WeatherNext人工智能模型在气旋预报方面取得了突破。"
+        },
+        "key_takeaways": {
+          "en": [
+            "WeatherNext is an AI model developed by Google DeepMind.",
+            "The model has demonstrated a breakthrough in its performance.",
+            "This advancement is specifically in the domain of cyclone forecasting."
+          ],
+          "zh": [
+            "WeatherNext 是谷歌DeepMind开发的一个人工智能模型。",
+            "该模型在性能上已实现一项突破。",
+            "此项进展具体应用于气旋预报领域。"
+          ]
+        },
+        "impact": {
+          "en": "This development indicates AI's growing capability to address complex environmental predictions, which could enhance global disaster preparedness and response efforts.",
+          "zh": "这一进展表明人工智能在处理复杂环境预测方面的能力日益增强，有望提升全球灾害准备和响应工作。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
+      },
+      {
+        "title": {
+          "en": "AI Frontier Model Providers Adopt Watermarking for EU Compliance",
+          "zh": "AI前沿模型供应商采用数字水印技术以符合欧盟法规"
+        },
+        "tl_dr": {
+          "en": "Major frontier model providers are implementing statistical watermarking methods to mark synthetic outputs in compliance with the EU AI Act Article 50, effective August 2, 2026.",
+          "zh": "主要前沿模型供应商正在实施统计数字水印技术，以符合欧盟AI法案第50条，该法案要求从2026年8月2日起对合成内容进行可机读标记。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The EU AI Act Article 50 mandates machine-detectable marking of synthetic outputs starting August 2, 2026.",
+            "Major vendors are adopting statistical watermarking methods to achieve this compliance requirement.",
+            "These methods influence natural language generation without affecting performance, yet the open-source community has raised compliance and vulnerability concerns."
+          ],
+          "zh": [
+            "根据欧盟AI法案第50条规定，自2026年8月2日起，AI系统必须以可机读方式标记合成输出。",
+            "主要供应商正在采用统计数字水印方法来满足这一合规要求。",
+            "这些方法在不影响性能的情况下影响自然语言生成，但开源社区已对此提出合规性和潜在漏洞的担忧。"
+          ]
+        },
+        "impact": {
+          "en": "This move by major AI providers sets a precedent for regulatory compliance in AI content generation, potentially influencing global standards for transparency. The swift reaction from the open-source community highlights ongoing challenges and debates surrounding the implementation and long-term implications of such mandates.",
+          "zh": "主要AI供应商此举为AI内容生成的监管合规树立了先例，可能影响全球透明度标准。开源社区的迅速反应则凸显了此类法规实施及长期影响所面临的挑战和持续争论。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/08/eu-ai-content-watermark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Show HN: Interactive, animated architecture of any HuggingFace models",
+          "zh": "Show HN: Interactive, animated architecture of any HuggingFace models"
+        },
+        "source": "Hacker News",
+        "link": "https://modelmap.cc"
+      },
+      {
+        "title": {
+          "en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "zh": "Introducing ChatGPT for Teens: Built for learning, backed by protections"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/chatgpt-for-teens"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini 3.7 Flash",
+          "zh": "Introducing Gemini 3.7 Flash"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
+      },
+      {
+        "title": {
+          "en": "Putting sign language AI into users’ hands",
+          "zh": "Putting sign language AI into users’ hands"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "zh": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "https://openai.com/index/partnering-with-codeai",
+    "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "https://openai.com/index/chatgpt-for-teens",
+    "https://openai.com/index/nvidia/chatgpt-work",
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "https://huggingface.co/blog/multi-vector-encoder",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "https://www.latent.space/p/glean-model-routing",
+    "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+    "https://www.latent.space/p/flue-2",
+    "https://www.latent.space/p/ainews-cursors-60b-acquisition-by",
+    "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+    "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+    "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+    "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+    "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
+    "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
+    "https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/",
+    "https://www.404media.co/pornhubs-parent-company-to-pay-120-million-to-settle-child-sexual-abuse-lawsuits/",
+    "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+    "https://www.infoq.com/news/2026/08/cloudflare-writeguard-mcp-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/netflix-oci-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/eu-ai-content-watermark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://github.com/DenisSergeevitch/desktop-fly",
+    "https://github.com/pg83/solo",
+    "https://seths.blog/2026/08/the-amazon-tax/",
+    "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "https://modelmap.cc",
+    "https://arxiv.org/abs/2608.14550",
+    "https://arxiv.org/abs/2608.14552",
+    "https://arxiv.org/abs/2608.14558",
+    "https://arxiv.org/abs/2608.14559",
+    "https://arxiv.org/abs/2608.14562",
+    "https://arxiv.org/abs/2608.14551",
+    "https://arxiv.org/abs/2608.14577",
+    "https://arxiv.org/abs/2608.14584",
+    "https://arxiv.org/abs/2608.14604",
+    "https://arxiv.org/abs/2608.14621"
+  ]
+}
