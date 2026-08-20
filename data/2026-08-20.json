@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-08-20",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "SpaceXAI Launches Grok Bot for Autonomous AI Agents",
+          "zh": "SpaceXAI 推出 Grok Bot：赋能自主AI代理"
+        },
+        "tl_dr": {
+          "en": "SpaceXAI has introduced Grok Bot, a system of persistent AI agents that can interact with various digital tools.",
+          "zh": "SpaceXAI 推出了 Grok Bot，这是一个能够与各种数字工具交互的持久性AI代理系统。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Grok Bot is a system composed of persistent AI agents.",
+            "These agents operate on dedicated cloud computers.",
+            "They are capable of interacting with websites, applications, inboxes, and other digital tools."
+          ],
+          "zh": [
+            "Grok Bot 是一个由持久性AI代理组成的系统。",
+            "这些代理在专用的云计算服务器上运行。",
+            "它们能够与网站、应用程序、收件箱及其他工具进行交互。"
+          ]
+        },
+        "impact": {
+          "en": "This development signifies an advancement in autonomous AI agents, enabling them to operate persistently and interact with various digital tools. It expands the scope for AI to manage multi-step workflows in dynamic online environments.",
+          "zh": "这一进展标志着自主AI代理的进步，使其能够持续运行并与各种数字工具互动。它拓展了AI在动态在线环境中管理多步骤工作流程的应用范围。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "Meta Pitches Strategy Reboot Amid AI Competition",
+          "zh": "Meta重塑AI战略以应对市场竞争"
+        },
+        "tl_dr": {
+          "en": "Meta is proposing new open models as part of a strategy reboot to address its position trailing competitors in the AI industry.",
+          "zh": "为应对在AI行业中落后于竞争对手的局面，Meta正提出新开源模型作为其战略重组的一部分。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Meta's artificial intelligence strategy has been struggling.",
+            "The company trails its competitors within the AI market.",
+            "Meta's strategic reboot involves new open models."
+          ],
+          "zh": [
+            "Meta的AI战略一直处于困境。",
+            "该公司在AI市场中落后于竞争对手。",
+            "Meta的战略重组包含推出新的开源模型。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative indicates Meta's continued effort to enhance its competitive standing within the rapidly evolving artificial intelligence landscape, utilizing open models as a core component of its revised strategy.",
+          "zh": "这一举措表明Meta正持续努力提升其在快速发展的AI领域中的竞争力，并以开源模型作为其调整后战略的核心组成部分。"
+        },
+        "source": "Ars Technica (AI)",
+        "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
+      },
+      {
+        "title": {
+          "en": "OpenAI and Anthropic Intensify Competition on Price and Privacy",
+          "zh": "OpenAI与Anthropic在价格与隐私方面竞争加剧"
+        },
+        "tl_dr": {
+          "en": "OpenAI and Anthropic are competing on enterprise customer data privacy protections and model pricing amidst new challenges from Chinese AI rivals.",
+          "zh": "OpenAI与Anthropic在企业客户数据隐私保护和模型定价方面展开竞争，同时面临中国AI竞争对手带来的新挑战。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI and Anthropic are engaged in a price war for AI models.",
+            "OpenAI is enhancing customer privacy protections to compete with Anthropic for enterprise clients.",
+            "US AI groups are releasing cheaper models following new challenges from Chinese AI rivals."
+          ],
+          "zh": [
+            "OpenAI和Anthropic正在进行AI模型价格战。",
+            "OpenAI正在加强客户隐私保护，以与Anthropic竞争企业客户。",
+            "面对中国AI竞争对手带来的新挑战，美国AI公司正在发布更便宜的模型。"
+          ]
+        },
+        "impact": {
+          "en": "This competition signals a maturing AI market where leading US firms are under pressure to offer more competitive pricing and robust privacy features. The rise of Chinese rivals further intensifies the global AI landscape.",
+          "zh": "这场竞争表明AI市场正在走向成熟，领先的美国公司面临提供更具竞争力的价格和更强隐私功能的压力。中国竞争对手的崛起进一步加剧了全球AI格局的竞争。"
+        },
+        "source": "Ars Technica (AI)",
+        "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
+          "zh": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/glean-model-routing"
+      },
+      {
+        "title": {
+          "en": "Controlling Reasoning Effort in LLMs",
+          "zh": "Controlling Reasoning Effort in LLMs"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini 3.7 Flash",
+          "zh": "Introducing Gemini 3.7 Flash"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
+      },
+      {
+        "title": {
+          "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "zh": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "title": {
+          "en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "zh": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "https://openai.com/index/replit",
+    "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "https://openai.com/index/partnering-with-codeai",
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://huggingface.co/blog/LiquidAI/qad",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "https://huggingface.co/blog/multi-vector-encoder",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+    "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+    "https://www.latent.space/p/glean-model-routing",
+    "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+    "https://www.latent.space/p/flue-2",
+    "https://www.latent.space/p/ainews-cursors-60b-acquisition-by",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+    "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+    "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+    "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+    "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+    "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
+    "https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/",
+    "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
+    "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
+    "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
+    "https://www.infoq.com/news/2026/08/whatsapp-scam-alert-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/cloudflare-writeguard-mcp-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/netflix-oci-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/eu-ai-content-watermark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+    "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+    "https://go.dev/blog/go1.27",
+    "https://grapheneos.social/@GrapheneOS/117057099753905023",
+    "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+    "https://arxiv.org/abs/2608.16890",
+    "https://arxiv.org/abs/2608.16891",
+    "https://arxiv.org/abs/2608.16956",
+    "https://arxiv.org/abs/2608.16971",
+    "https://arxiv.org/abs/2608.16977",
+    "https://arxiv.org/abs/2608.16975",
+    "https://arxiv.org/abs/2608.17050",
+    "https://arxiv.org/abs/2608.17051",
+    "https://arxiv.org/abs/2608.17075",
+    "https://arxiv.org/abs/2608.17084"
+  ]
+}
