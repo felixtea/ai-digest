@@ -1,0 +1,198 @@
+{
+  "date_id": "2026-08-26",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Releases Admin Plugin for ChatGPT Work and Codex",
+          "zh": "OpenAI 为 ChatGPT Work 和 Codex 推出管理员插件"
+        },
+        "tl_dr": {
+          "en": "OpenAI has introduced an Admin plugin for ChatGPT Work and Codex, enabling workspace administrators to manage usage, members, permissions, and limits.",
+          "zh": "OpenAI 已为 ChatGPT Work 和 Codex 推出管理员插件，允许工作区管理员分析使用情况、管理成员和权限，并调整限制。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The plugin allows administrators to analyze workspace usage.",
+            "It enables management of members and permissions.",
+            "Administrators can adjust limits within the workspace."
+          ],
+          "zh": [
+            "该插件允许管理员分析工作区使用情况。",
+            "它支持管理成员和权限。",
+            "管理员可以调整工作区内的限制。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides administrators with enhanced control over their AI workspace environments. It potentially improves operational efficiency and resource allocation for organizations utilizing ChatGPT Work and Codex.",
+          "zh": "这一进展为管理员提供了对其 AI 工作区环境更强的控制。它可能提高使用 ChatGPT Work 和 Codex 的组织的操作效率和资源分配。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-admin-plugin"
+      },
+      {
+        "title": {
+          "en": "New Benchmark Addresses Nigerian Pidgin LLM Evaluation Gap",
+          "zh": "新基准弥补尼日利亚皮钦语大型语言模型评估空白"
+        },
+        "tl_dr": {
+          "en": "Researchers introduced Wazobia Eval, a new benchmark designed to evaluate Nigerian Pidgin in areas of emotion understanding, sarcasm detection, and cultural reasoning for language models.",
+          "zh": "研究人员推出了Wazobia Eval，这是一个新基准，旨在评估大型语言模型在尼日利亚皮钦语情感理解、讽刺检测和文化推理方面的能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Nigerian Pidgin is identified as one of Africa's most widely spoken languages.",
+            "Current language model evaluation benchmarks for Nigerian Pidgin primarily focus on translation, transcription, or generic sentiment analysis.",
+            "Wazobia Eval introduces evaluation metrics specifically for emotion understanding, sarcasm detection, and cultural reasoning in Nigerian Pidgin."
+          ],
+          "zh": [
+            "尼日利亚皮钦语被认为是非洲使用最广泛的语言之一。",
+            "当前针对尼日利亚皮钦语的大型语言模型评估基准主要侧重于翻译、转录或通用情感分析。",
+            "Wazobia Eval引入了专门针对尼日利亚皮钦语情感理解、讽刺检测和文化推理的评估指标。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of Wazobia Eval provides a specialized tool for assessing language models' capabilities in culturally nuanced aspects of a widely spoken African language, addressing a previously underserved area in LLM evaluation.",
+          "zh": "Wazobia Eval的推出为评估大型语言模型在广泛使用的非洲语言中文化细微层面的能力提供了专业工具，填补了大型语言模型评估中此前服务不足的领域。"
+        },
+        "source": "arXiv CS.CL",
+        "link": "https://arxiv.org/abs/2608.21369"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "The Evolution of the Agent Harness",
+          "zh": "The Evolution of the Agent Harness"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/attention-interface"
+      },
+      {
+        "title": {
+          "en": "Echoverse: Deep, evolving environments for computer-use agents",
+          "zh": "Echoverse: Deep, evolving environments for computer-use agents"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/"
+      },
+      {
+        "title": {
+          "en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "zh": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/jalapeno-first-results"
+      },
+      {
+        "title": {
+          "en": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "zh": "Advancing price-performance for developers with GPT‑5.6 in Kiro"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-5-6-in-kiro"
+      },
+      {
+        "title": {
+          "en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "zh": "WeatherNext: AI model achieves breakthrough in forecasting cyclones"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "https://openai.com/index/jalapeno-first-results",
+    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "https://openai.com/index/introducing-admin-plugin",
+    "https://openai.com/index/gpt-5-6-in-kiro",
+    "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "https://huggingface.co/blog/gradio-workflow-guide",
+    "https://huggingface.co/blog/pwc-search",
+    "https://huggingface.co/blog/asr-benchmark-optimization",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
+    "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+    "https://www.latent.space/p/attention-interface",
+    "https://www.latent.space/p/simile",
+    "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+    "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+    "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+    "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+    "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+    "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
+    "https://www.404media.co/ice-wants-the-countrys-voter-data/",
+    "https://www.404media.co/charges-dropped-against-person-who-clapped-at-a-city-data-center-meeting/",
+    "https://www.404media.co/man-charged-with-3-felonies-for-breaking-3d-printed-decoy-flock-camera/",
+    "https://www.404media.co/darth-vader-flock-san-diego-city-council-interview/",
+    "https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/duckdb-v2-distributed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/google-heir-homomorphic-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+    "https://sebsite.pw/w/20260801-pythonconstants.html",
+    "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "https://arxiv.org/abs/2608.21362",
+    "https://arxiv.org/abs/2608.21363",
+    "https://arxiv.org/abs/2608.21366",
+    "https://arxiv.org/abs/2608.21372",
+    "https://arxiv.org/abs/2608.21374",
+    "https://arxiv.org/abs/2608.21364",
+    "https://arxiv.org/abs/2608.21365",
+    "https://arxiv.org/abs/2608.21369",
+    "https://arxiv.org/abs/2608.21376",
+    "https://arxiv.org/abs/2608.21377"
+  ]
+}
