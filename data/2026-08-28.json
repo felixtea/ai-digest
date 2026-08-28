@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-08-28",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Details Hugging Face Security Incident Findings",
+          "zh": "OpenAI 披露 Hugging Face 安全事件调查结果"
+        },
+        "tl_dr": {
+          "en": "OpenAI published findings from a security incident involving Hugging Face, detailing steps to enhance AI model security, monitoring, and alignment.",
+          "zh": "OpenAI 发布了关于 Hugging Face 安全事件的调查结果，并阐述了加强人工智能模型安全、监控和对齐的措施。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI published findings related to a security incident involving Hugging Face.",
+            "Initiatives are underway to strengthen AI model security.",
+            "Efforts are being made to enhance AI model monitoring and alignment."
+          ],
+          "zh": [
+            "OpenAI 发布了与 Hugging Face 相关安全事件的调查结果。",
+            "正在采取措施加强人工智能模型的安全性。",
+            "正在努力提升人工智能模型的监控和对齐能力。"
+          ]
+        },
+        "impact": {
+          "en": "The public sharing of security incident findings and subsequent actions indicates an industry focus on enhancing the robustness and trustworthiness of AI systems, which is crucial for the broader adoption and responsible development of AI technologies.",
+          "zh": "公开安全事件调查结果并采取后续行动，表明了行业对增强人工智能系统稳健性和可信度的关注，这对于人工智能技术的广泛应用和负责任发展至关重要。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Releases Open Framework for AI Agent Development",
+          "zh": "微软研究院发布AI代理开发开源框架"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research has released Orchard, an open-source framework designed for the AI research community to train and evaluate AI agents across various task types.",
+          "zh": "微软研究院发布了Orchard，这是一个开源框架，旨在帮助AI研究社区训练和评估跨多种任务类型的AI代理。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Orchard is an open-source framework.",
+            "It is designed for the research community to train and evaluate AI agents across task types.",
+            "The framework reduces complexity and supports strong performance from smaller models by enabling infrastructure reuse."
+          ],
+          "zh": [
+            "Orchard是一个开源框架。",
+            "它旨在帮助研究社区训练和评估跨任务类型的AI代理。",
+            "该框架通过支持基础设施复用，降低了复杂性，并使小型模型也能实现强大性能。"
+          ]
+        },
+        "impact": {
+          "en": "This framework could accelerate AI agent research by providing a common, reusable infrastructure, potentially lowering barriers for developing high-performing AI agents even with smaller models.",
+          "zh": "该框架通过提供通用可复用的基础设施，可能加速AI代理研究，并降低开发高性能AI代理（即使是小型模型）的门槛。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Expands Operations in Brazil",
+          "zh": "OpenAI拓展巴西业务"
+        },
+        "tl_dr": {
+          "en": "OpenAI is expanding its presence in Brazil to support AI adoption by engaging with developers, businesses, and communities.",
+          "zh": "OpenAI正在巴西拓展其业务，通过与开发者、企业和社区互动，支持该国的人工智能普及。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Deepening engagement with developers to support AI adoption.",
+            "Fostering engagement with businesses for AI integration.",
+            "Engaging with communities to facilitate AI expansion."
+          ],
+          "zh": [
+            "深化与开发者的合作，以促进人工智能普及。",
+            "加强与企业的互动，推动人工智能整合。",
+            "与社区建立联系，支持人工智能拓展。"
+          ]
+        },
+        "impact": {
+          "en": "This expansion signifies OpenAI's direct commitment to fostering AI development and adoption in a key Latin American market. It indicates a strategy of localized engagement to drive regional AI ecosystem growth.",
+          "zh": "此次扩张标志着OpenAI致力于在关键的拉丁美洲市场推动人工智能开发和普及。这表明了通过本地化参与策略来促进区域人工智能生态系统增长的意图。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/expanding-our-presence-in-brazil"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Echoverse: Deep, evolving environments for computer-use agents",
+          "zh": "Echoverse: Deep, evolving environments for computer-use agents"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/"
+      },
+      {
+        "title": {
+          "en": "Gemini Omni 1.1 Flash lets you build with more control",
+          "zh": "Gemini Omni 1.1 Flash lets you build with more control"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
+      },
+      {
+        "title": {
+          "en": "Piloting the world's first double-blind AI evaluations",
+          "zh": "Piloting the world's first double-blind AI evaluations"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
+      },
+      {
+        "title": {
+          "en": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "zh": "Bringing ChatGPT for Teachers to more U.S. school districts"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+      },
+      {
+        "title": {
+          "en": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "zh": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/train-multi-vector-encoder"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "https://openai.com/index/expanding-our-presence-in-brazil",
+    "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "https://openai.com/index/learning-never-stops",
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "https://huggingface.co/blog/train-multi-vector-encoder",
+    "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "https://huggingface.co/blog/gradio-workflow-guide",
+    "https://huggingface.co/blog/pwc-search",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+    "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+    "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+    "https://www.latent.space/p/lovable-future-of-saas",
+    "https://www.latent.space/p/anima",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+    "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+    "https://simonwillison.net/2026/Aug/26/paul-dix/",
+    "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+    "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
+    "https://www.404media.co/bridget-todd-love-at-first-prompt-ai-chatbot-companions-podcast/",
+    "https://www.404media.co/cocomelons-studio-tells-its-artists-to-start-experimenting-with-ai/",
+    "https://www.404media.co/businesses-go-viral-for-making-signs-without-ai/",
+    "https://www.404media.co/florida-deputy-of-the-year-used-flock-to-stalk-ex-held-gun-in-her-mouth-did-a-nazi-salute/",
+    "https://www.infoq.com/news/2026/08/meta-hccl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/diagrid-catalyst-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/duckdb-v2-distributed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "https://calv.info/small-models-have-arrived",
+    "https://modal.cx/blog/announcing-flatpak-sta/",
+    "https://github.com/elyosh/OpenTIE/",
+    "https://507movements.com/",
+    "https://arxiv.org/abs/2608.26107",
+    "https://arxiv.org/abs/2608.26109",
+    "https://arxiv.org/abs/2608.26111",
+    "https://arxiv.org/abs/2608.26113",
+    "https://arxiv.org/abs/2608.26114",
+    "https://arxiv.org/abs/2608.26112",
+    "https://arxiv.org/abs/2608.26118",
+    "https://arxiv.org/abs/2608.26119",
+    "https://arxiv.org/abs/2608.26120",
+    "https://arxiv.org/abs/2608.26121"
+  ]
+}
