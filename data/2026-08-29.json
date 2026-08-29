@@ -1,0 +1,221 @@
+{
+  "date_id": "2026-08-29",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI, Thai Ministry Launch Startup Accelerator",
+          "zh": "OpenAI与泰国政府合作启动AI创业加速器"
+        },
+        "tl_dr": {
+          "en": "OpenAI and Thailand's MHESI launched an eight-week accelerator program for 10 AI startups focused on health, wellness, and education sectors.",
+          "zh": "OpenAI与泰国MHESI合作启动了一个为期八周的加速器项目，旨在帮助10家专注于健康、福祉和教育领域的AI初创企业。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The program is an eight-week accelerator.",
+            "It supports 10 AI startups.",
+            "Focus sectors include health, wellness, and education."
+          ],
+          "zh": [
+            "该项目为期八周。",
+            "它支持10家AI初创企业。",
+            "重点关注健康、福祉和教育领域。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative provides direct support for emerging AI companies, potentially fostering innovation and practical application of AI in specific sectors within Thailand. It also marks a collaborative effort between a leading AI research organization and a national government to develop a local AI ecosystem.",
+          "zh": "此举为新兴AI公司提供直接支持，有望促进泰国特定领域AI的创新和实际应用。它也标志着领先AI研究机构与国家政府之间在发展本地AI生态系统方面的合作。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+      },
+      {
+        "title": {
+          "en": "Microsoft Introduces Orchard for Agentic AI Development",
+          "zh": "微软发布Orchard，助力智能体AI开发"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research introduced Orchard, an open-source framework designed to train and evaluate AI agents across various task types.",
+          "zh": "微软研究院推出了Orchard，这是一个开源框架，旨在训练和评估跨多种任务类型的AI智能体。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Orchard is an open-source framework.",
+            "It is designed for the research community to train and evaluate AI agents across task types.",
+            "The framework reduces complexity and supports strong performance from smaller models through infrastructure reuse."
+          ],
+          "zh": [
+            "Orchard是一个开源框架。",
+            "它旨在供研究社区用于训练和评估跨任务类型的AI智能体。",
+            "该框架通过复用相同的基础设施，降低了复杂性，并支持小型模型实现强大性能。"
+          ]
+        },
+        "impact": {
+          "en": "The release of Orchard offers a standardized infrastructure for AI agent research, potentially accelerating development by reducing complexity. This approach enables smaller models to achieve robust performance, fostering broader participation in agentic AI advancement.",
+          "zh": "Orchard的发布为AI智能体研究提供了一个标准化基础设施，可能通过降低复杂性来加速开发。这种方法使小型模型能够实现强大的性能，从而促进智能体AI领域的广泛参与。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Introduces Echoverse for AI Agent Training",
+          "zh": "微软研究院推出Echoverse，用于AI智能体训练"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research has developed Echoverse, an environment designed to train computer-use AI agents in realistic, evolving settings for multi-step workflows.",
+          "zh": "微软研究院开发了Echoverse，这是一个旨在通过真实且不断演进的环境训练计算机使用AI智能体以处理多步骤工作流程的系统。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Echoverse focuses on training computer-use AI agents.",
+            "It addresses agent struggles with multi-step workflows, specifically citing email and customer support.",
+            "The training method involves realistic, evolving environments, distinct from simply adding more training tasks."
+          ],
+          "zh": [
+            "Echoverse专注于训练计算机使用AI智能体。",
+            "它旨在解决智能体在多步骤工作流程（如电子邮件和客户支持）中的困难。",
+            "其训练方法是利用真实且不断演进的环境，而非仅仅提供更多训练任务。"
+          ]
+        },
+        "impact": {
+          "en": "Echoverse introduces a novel approach to AI agent training, potentially improving their capability to handle complex, real-world multi-step tasks. This development could enhance the reliability and adaptability of AI in practical applications like customer support.",
+          "zh": "Echoverse为AI智能体训练引入了一种新方法，有望提升其处理复杂、真实多步骤任务的能力。这一发展可能增强AI在客户支持等实际应用中的可靠性和适应性。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Expanding OpenAI’s presence in Brazil",
+          "zh": "Expanding OpenAI’s presence in Brazil"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/expanding-our-presence-in-brazil"
+      },
+      {
+        "title": {
+          "en": "Gemini Omni 1.1 Flash lets you build with more control",
+          "zh": "Gemini Omni 1.1 Flash lets you build with more control"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
+      },
+      {
+        "title": {
+          "en": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "zh": "Intelligent transcription with Gemini 3.5 Transcribe"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
+      },
+      {
+        "title": {
+          "en": "Our decision on Cursor following its acquisition by SpaceX",
+          "zh": "Our decision on Cursor following its acquisition by SpaceX"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+      },
+      {
+        "title": {
+          "en": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "zh": "The Open ASR Leaderboard Adds Its First Global South Language"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "https://openai.com/index/expanding-our-presence-in-brazil",
+    "https://openai.com/index/learning-never-stops",
+    "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "https://huggingface.co/blog/train-multi-vector-encoder",
+    "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "https://huggingface.co/blog/gradio-workflow-guide",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+    "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+    "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+    "https://www.latent.space/p/lovable-future-of-saas",
+    "https://www.latent.space/p/anima",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+    "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+    "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+    "https://simonwillison.net/2026/Aug/26/paul-dix/",
+    "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "https://www.404media.co/behind-the-blog-the-complete-idiots-guide-to-flamin-hot-slop/",
+    "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/",
+    "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
+    "https://www.404media.co/bridget-todd-love-at-first-prompt-ai-chatbot-companions-podcast/",
+    "https://www.404media.co/cocomelons-studio-tells-its-artists-to-start-experimenting-with-ai/",
+    "https://www.infoq.com/news/2026/08/meta-hccl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/diagrid-catalyst-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/duckdb-v2-distributed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://github.com/Lakr233/vphone-cli",
+    "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+    "https://github.com/kingroryg/turbokv",
+    "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+    "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "https://arxiv.org/abs/2608.26107",
+    "https://arxiv.org/abs/2608.26109",
+    "https://arxiv.org/abs/2608.26111",
+    "https://arxiv.org/abs/2608.26113",
+    "https://arxiv.org/abs/2608.26114"
+  ]
+}
