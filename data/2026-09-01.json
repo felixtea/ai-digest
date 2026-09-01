@@ -1,0 +1,221 @@
+{
+  "date_id": "2026-09-01",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Instagram Curbs Undisclosed AI Profile Reach",
+          "zh": "Instagram限制未披露AI档案触及范围"
+        },
+        "tl_dr": {
+          "en": "Instagram is limiting the reach of undisclosed AI profiles following growing user frustration over AI influencers.",
+          "zh": "由于用户对AI影响者的不满日益增加，Instagram正在限制未披露AI档案的触及范围。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Instagram is implementing new limits.",
+            "These limits specifically apply to undisclosed AI profiles.",
+            "The measure is a response to growing frustration over AI influencers."
+          ],
+          "zh": [
+            "Instagram正在实施新限制。",
+            "这些限制专门针对未披露的AI档案。",
+            "此举旨在回应用户对AI影响者日益增长的不满。"
+          ]
+        },
+        "impact": {
+          "en": "This move by a major social media platform indicates an industry trend towards greater transparency and potential regulation of AI-generated content and profiles, potentially influencing how AI content creators operate and disclose their work.",
+          "zh": "这一主要社交媒体平台的举动表明了行业对AI生成内容和档案透明度及潜在监管的趋势，可能会影响AI内容创作者的运营方式和作品披露方式。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+      },
+      {
+        "title": {
+          "en": "Darling Enables macOS Software on Linux",
+          "zh": "Darling 实现 macOS 软件在 Linux 上运行"
+        },
+        "tl_dr": {
+          "en": "The Darling project allows users to run macOS software directly on the Linux operating system.",
+          "zh": "Darling 项目使用户能够在 Linux 操作系统上直接运行 macOS 软件。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Darling provides a compatibility layer for macOS software on Linux.",
+            "The project maintains its official website at darlinghq.org.",
+            "Discussions surrounding the project are present on community platforms like Hacker News."
+          ],
+          "zh": [
+            "Darling 为 macOS 软件在 Linux 上运行提供兼容层。",
+            "该项目的官方网站为 darlinghq.org。",
+            "关于该项目的讨论可在 Hacker News 等社区平台找到。"
+          ]
+        },
+        "impact": {
+          "en": "This development enhances the interoperability between macOS applications and the Linux operating system, offering Linux users access to a broader range of software.",
+          "zh": "这一发展增强了 macOS 应用程序与 Linux 操作系统之间的互操作性，为 Linux 用户提供了更广泛的软件访问能力。"
+        },
+        "source": "DarlingHQ",
+        "link": "https://www.darlinghq.org/"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Introduces Gemini Omni 1.1 Flash, Emphasizing Enhanced Building Control",
+          "zh": "谷歌DeepMind推出Gemini Omni 1.1 Flash：增强构建控制能力"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind announced the release of Gemini Omni 1.1 Flash, which is presented as offering users more control for development.",
+          "zh": "谷歌DeepMind宣布发布Gemini Omni 1.1 Flash，该模型旨在为用户提供更强的开发构建控制能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The product is named Gemini Omni 1.1 Flash.",
+            "It is developed by Google DeepMind.",
+            "Its core proposition is to enable more control for building applications."
+          ],
+          "zh": [
+            "该产品命名为Gemini Omni 1.1 Flash。",
+            "由谷歌DeepMind开发。",
+            "其核心特性是为用户提供更精细的构建控制。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of a new iteration in the Gemini model family by Google DeepMind indicates ongoing development in foundational AI models and their application interfaces.",
+          "zh": "谷歌DeepMind在Gemini模型系列中引入新版本，体现了基础AI模型及其应用接口持续演进的行业趋势。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Polimill builds Japan's next-generation public AI infrastructure",
+          "zh": "Polimill builds Japan's next-generation public AI infrastructure"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/polimill"
+      },
+      {
+        "title": {
+          "en": "Piloting the world's first double-blind AI evaluations",
+          "zh": "Piloting the world's first double-blind AI evaluations"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
+      },
+      {
+        "title": {
+          "en": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "zh": "Intelligent transcription with Gemini 3.5 Transcribe"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
+      },
+      {
+        "title": {
+          "en": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "zh": "The Open ASR Leaderboard Adds Its First Global South Language"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+      },
+      {
+        "title": {
+          "en": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "zh": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/polimill",
+    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "https://huggingface.co/blog/train-multi-vector-encoder",
+    "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "https://huggingface.co/blog/gradio-workflow-guide",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+    "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+    "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+    "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+    "https://www.latent.space/p/lovable-future-of-saas",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+    "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+    "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "https://simonwillison.net/2026/Aug/29/hy4/",
+    "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "https://www.404media.co/how-cyber-sleuths-tracked-a-nigerian-scammer-to-his-doorstep/",
+    "https://www.404media.co/google-maps-lake-america-lake-ontario-name-change/",
+    "https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-in-our-solar-system/",
+    "https://www.404media.co/behind-the-blog-the-complete-idiots-guide-to-flamin-hot-slop/",
+    "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/",
+    "https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/foundry-model-router-regions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/cloudflare-ai-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/freetoken-local-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+    "https://www.bbc.com/news/articles/c24j5192j7jo",
+    "https://www.darlinghq.org/",
+    "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+    "https://playaphone.com/",
+    "https://arxiv.org/abs/2608.27460",
+    "https://arxiv.org/abs/2608.27461",
+    "https://arxiv.org/abs/2608.27462",
+    "https://arxiv.org/abs/2608.27465",
+    "https://arxiv.org/abs/2608.27466"
+  ]
+}
