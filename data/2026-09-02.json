@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-09-02",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Anthropic Debuts Hardware Standard for AI Agents, Updates Fable Model",
+          "zh": "Anthropic推出AI代理硬件标准，并更新Fable模型"
+        },
+        "tl_dr": {
+          "en": "Anthropic introduced a new hardware standard designed to allow AI agents to control physical devices, alongside an update to its Fable 5.1 model which reduces token cost and false-positive restrictions.",
+          "zh": "Anthropic推出一项新的硬件标准，旨在让AI代理控制物理设备，同时更新了Fable 5.1模型，该模型降低了token成本并减少了误报限制。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Anthropic's new hardware standard implements a standardized driver interface.",
+            "The standard allows AI agents to control physical devices and enables devices to communicate with AI and each other.",
+            "Fable 5.1 reduces token costs and decreases false-positive restrictions from the model's safeguards."
+          ],
+          "zh": [
+            "Anthropic的新硬件标准引入了标准化的驱动程序接口。",
+            "该标准使AI代理能够控制物理设备，并允许设备与AI及彼此进行通信。",
+            "Fable 5.1降低了token成本，并减少了模型安全防护中的误报限制。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of a hardware standard for physical control signifies a step towards broader real-world applications for AI agents, while Fable 5.1's cost reduction and improved reliability can enhance AI model deployment and accessibility for developers.",
+          "zh": "引入用于物理控制的硬件标准标志着AI代理迈向更广泛现实世界应用的一步，而Fable 5.1的成本降低和可靠性提升可增强AI模型的部署和开发者的可访问性。"
+        },
+        "source": "Ars Technica (AI)",
+        "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Links ChatGPT to Healthcare Data",
+          "zh": "OpenAI将ChatGPT连接至医疗保健数据"
+        },
+        "tl_dr": {
+          "en": "OpenAI has enabled ChatGPT to connect with trusted healthcare data, providing clinicians with secure access to patient information and medical research.",
+          "zh": "OpenAI已使ChatGPT能够连接到可信的医疗保健数据，为临床医生提供安全访问患者信息和医学研究的能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "ChatGPT can now connect to Electronic Health Records (EHR).",
+            "The connection extends to additional industry data sources.",
+            "Clinicians are enabled to securely access patient context and medical research."
+          ],
+          "zh": [
+            "ChatGPT现已支持连接电子健康记录（EHR）。",
+            "该连接扩展至其他行业数据源。",
+            "临床医生能够安全访问患者背景信息和医学研究。"
+          ]
+        },
+        "impact": {
+          "en": "This integration expands AI applications in healthcare by enabling secure access to critical patient and research data, marking a step towards AI tools supporting clinical workflows.",
+          "zh": "此次整合通过实现对关键患者和研究数据的安全访问，拓展了人工智能在医疗保健领域的应用，标志着人工智能工具支持临床工作流程的一个进展。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Unveils Gemini Omni 1.1 Flash Model",
+          "zh": "Google DeepMind 发布 Gemini Omni 1.1 Flash 模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind announced the release of Gemini Omni 1.1 Flash, a new model designed to offer builders enhanced control.",
+          "zh": "Google DeepMind 宣布发布 Gemini Omni 1.1 Flash，这是一个旨在为开发者提供增强控制力的新模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The new model is identified by the official name Gemini Omni 1.1 Flash.",
+            "Its core functionality is directed towards supporting building processes for applications.",
+            "A key characteristic of the model is its provision of increased operational control to users."
+          ],
+          "zh": [
+            "新模型被官方命名为 Gemini Omni 1.1 Flash。",
+            "其核心功能旨在支持应用程序的构建过程。",
+            "该模型的一个关键特征是为用户提供了更大的操作控制力。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of a model offering enhanced building control reflects a focus on empowering developers with more granular agency in AI system design.",
+          "zh": "推出一款强调增强构建控制的模型，反映了人工智能行业在AI系统设计中，赋能开发者更细粒度自主性的趋势。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Claude Fable 5.1 made me a really nice animated pelican",
+          "zh": "Claude Fable 5.1 made me a really nice animated pelican"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/"
+      },
+      {
+        "title": {
+          "en": "Introducing agentic video understanding with Gemini",
+          "zh": "Introducing agentic video understanding with Gemini"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+      },
+      {
+        "title": {
+          "en": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "zh": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/train-multi-vector-encoder"
+      },
+      {
+        "title": {
+          "en": "OpenAI supports California’s bill to advance youth AI safety",
+          "zh": "OpenAI supports California’s bill to advance youth AI safety"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+      },
+      {
+        "title": {
+          "en": "Piloting the world's first double-blind AI evaluations",
+          "zh": "Piloting the world's first double-blind AI evaluations"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/ai-native-company-workflows",
+    "https://openai.com/index/path-to-astra",
+    "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "https://openai.com/index/gilbert-tobin",
+    "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "https://huggingface.co/blog/allenai/benchmirt",
+    "https://huggingface.co/blog/webgpu-kernels",
+    "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "https://huggingface.co/blog/train-multi-vector-encoder",
+    "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/pr-not-welcome",
+    "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+    "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+    "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+    "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "https://simonwillison.net/2026/Sep/1/geojson/",
+    "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+    "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "https://www.404media.co/oklahoma-tells-city-it-cant-charge-17-125-44-for-a-records-request-related-to-data-center-arrest/",
+    "https://www.404media.co/this-digital-camouflage-shirt-confuses-ai-powered-surveillance-cameras/",
+    "https://www.404media.co/how-cyber-sleuths-tracked-a-nigerian-scammer-to-his-doorstep/",
+    "https://www.404media.co/google-maps-lake-america-lake-ontario-name-change/",
+    "https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-in-our-solar-system/",
+    "https://www.infoq.com/news/2026/09/openclaw-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/infoq-online-cohorts-sept-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/hcp-terraform-ai-driven-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/08/foundry-model-router-regions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+    "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "https://danluu.com/zitron/",
+    "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+    "https://masteranza.github.io/weedout/",
+    "https://arxiv.org/abs/2608.28590",
+    "https://arxiv.org/abs/2608.28591",
+    "https://arxiv.org/abs/2608.28592",
+    "https://arxiv.org/abs/2608.28593",
+    "https://arxiv.org/abs/2608.28594",
+    "https://arxiv.org/abs/2608.28608",
+    "https://arxiv.org/abs/2608.28609",
+    "https://arxiv.org/abs/2608.28611",
+    "https://arxiv.org/abs/2608.28614",
+    "https://arxiv.org/abs/2608.28619"
+  ]
+}
