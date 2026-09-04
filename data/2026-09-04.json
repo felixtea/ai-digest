@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-09-04",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI's GPT-6 Astra Achieves Critical Cybersecurity Rating Amid Broader Rollout",
+          "zh": "OpenAI GPT-6 Astra 达到关键网络安全等级并广泛部署"
+        },
+        "tl_dr": {
+          "en": "OpenAI has released GPT-6 Astra, its most capable broadly deployed model, which is the first to achieve the Critical level of cybersecurity capability under its Preparedness Framework.",
+          "zh": "OpenAI 发布了 GPT-6 Astra，这是其能力最强且广泛部署的模型，也是其首个在准备框架下达到关键网络安全能力等级的模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GPT-6 Astra is identified as OpenAI's most capable broadly deployed model.",
+            "It is the first OpenAI model to reach the Critical level of cybersecurity capability under the company's Preparedness Framework.",
+            "The API is priced at $10 per million input tokens and $50 per million output tokens, matching Claude Fable 5 and 5.1 rates."
+          ],
+          "zh": [
+            "GPT-6 Astra 被认定为 OpenAI 能力最强且广泛部署的模型。",
+            "它是首个在 OpenAI 准备框架下达到关键网络安全能力等级的模型。",
+            "API 定价为每百万输入代币10美元，每百万输出代币50美元，与 Claude Fable 5 和 5.1 的费率相同。"
+          ]
+        },
+        "impact": {
+          "en": "Achieving a Critical cybersecurity capability level for a broadly deployed model establishes a new benchmark for AI safety and security within the industry. This development highlights an increased focus on robust security measures for advanced AI systems as they become more accessible.",
+          "zh": "针对广泛部署的模型达到关键网络安全能力等级，为行业内的AI安全和保障树立了新基准。这一进展表明，随着高级AI系统的普及，业界对其强大的安全措施日益关注。"
+        },
+        "source": "OpenAI",
+        "link": "https://openai.com/index/gpt-6-astra/"
+      },
+      {
+        "title": {
+          "en": "Swiggy Deploys Multi-Task MLP to Optimize Customer Acquisition",
+          "zh": "Swiggy 部署多任务MLP以优化客户获取"
+        },
+        "tl_dr": {
+          "en": "Swiggy developed an in-house predicted lifetime value model using a multi-task Multi-Layer Perceptron (MLP) with over 350 features to optimize customer acquisition for its Food and Instamart services.",
+          "zh": "Swiggy 开发了一款内部预测客户生命周期价值模型，该模型采用多任务多层感知器 (MLP) 和超过 350 个特征，用于优化其食品和 Instamart 服务的客户获取。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The model utilizes over 350 pre-order features.",
+            "A multi-task Multi-Layer Perceptron (MLP) is employed for both Food and Instamart predictions.",
+            "Incorporating order count as an auxiliary task decreased model parameters by 63% while enhancing predictive performance."
+          ],
+          "zh": [
+            "该模型利用了超过 350 个预订单特征。",
+            "一个多任务多层感知器 (MLP) 被用于食品和 Instamart 的预测。",
+            "将订单计数作为辅助任务，在提升预测性能的同时，将模型参数减少了 63%。"
+          ]
+        },
+        "impact": {
+          "en": "This demonstrates a practical application of multi-task learning and feature engineering to enhance predictive accuracy and operational efficiency in customer acquisition strategies. The integration with bidding systems highlights the direct business value derived from advanced AI models.",
+          "zh": "这展示了多任务学习和特征工程在提升客户获取策略预测准确性和运营效率方面的实际应用。与竞价系统的整合突出了先进 AI 模型带来的直接商业价值。"
+        },
+        "source": "InfoQ",
+        "link": "https://www.infoq.com/news/2026/09/swiggy-pltv-multitask-mlp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "DeepMind Unveils 'Most Advanced' Weather AI Model",
+          "zh": "DeepMind 发布“最先进”天气AI模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind introduced WeatherNext 3, a global weather AI model, described as their most advanced and accurate.",
+          "zh": "Google DeepMind 发布了 WeatherNext 3，一个全球天气AI模型，并称其为 DeepMind 最先进、最准确的模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind has introduced a new model named WeatherNext 3.",
+            "WeatherNext 3 is characterized as a global weather AI model.",
+            "The model is presented by DeepMind as their “most advanced and accurate.”"
+          ],
+          "zh": [
+            "Google DeepMind 推出了一款名为 WeatherNext 3 的新模型。",
+            "WeatherNext 3 被描述为一个全球天气AI模型。",
+            "DeepMind 将该模型称为其“最先进、最准确”的模型。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of WeatherNext 3 by Google DeepMind indicates ongoing development in AI applications for global weather forecasting, potentially influencing future research and operational models.",
+          "zh": "Google DeepMind 推出 WeatherNext 3 表明了 AI 在全球天气预报应用中的持续发展，可能影响未来的研究和运行模型。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "zh": "NeoMME: an efficient Multimodal-native and Multilingual Encoder"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/Hcompany/neomme"
+      },
+      {
+        "title": {
+          "en": "Give Your Coding Agents a Memory You Own",
+          "zh": "Give Your Coding Agents a Memory You Own"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/funes"
+      },
+      {
+        "title": {
+          "en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "zh": "Real-Time Intelligence with IBM Time Series Models on Confluent"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
+      },
+      {
+        "title": {
+          "en": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "zh": "Daybreak for Frontline Defenders: $1B to protect essential services"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/daybreak-for-frontline-defenders"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "zh": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/daybreak-for-frontline-defenders",
+    "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "https://openai.com/index/playco-game-prototyping-with-astra",
+    "https://openai.com/index/safety-overview-gpt-6-astra",
+    "https://openai.com/index/atv-big-air-tour",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "https://huggingface.co/blog/Hcompany/neomme",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "https://huggingface.co/blog/funes",
+    "https://huggingface.co/blog/train-to-paint-with-code",
+    "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/astra",
+    "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+    "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+    "https://www.latent.space/p/pr-not-welcome",
+    "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+    "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+    "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+    "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+    "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "https://www.404media.co/flock-taught-cops-how-to-surveil-no-kings-protesters/",
+    "https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/",
+    "https://www.404media.co/a16z-says-you-actually-love-social-media-enshittification-isnt-real/",
+    "https://www.404media.co/texas-police-used-ai-to-write-report-about-using-flock-to-search-for-woman-who-had-abortion/",
+    "https://www.404media.co/bruce-blakeman-ai-campaign-video-mamdani-hochul/",
+    "https://www.infoq.com/news/2026/09/spotify-gisting-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/cohere-multimodal-parse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/swiggy-pltv-multitask-mlp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/openclaw-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://openai.com/index/gpt-6-astra/",
+    "https://neil.fraser.name/news/2026/09/03/",
+    "https://inference-docs.cerebras.ai/models/overview",
+    "https://www.cbc.ca/lite/story/9.7328614",
+    "https://www.youtube.com/watch?v=nM86DBOqgPM",
+    "https://arxiv.org/abs/2609.01611",
+    "https://arxiv.org/abs/2609.01685",
+    "https://arxiv.org/abs/2609.01741",
+    "https://arxiv.org/abs/2609.01814",
+    "https://arxiv.org/abs/2609.01815",
+    "https://arxiv.org/abs/2609.01658",
+    "https://arxiv.org/abs/2609.01687",
+    "https://arxiv.org/abs/2609.01737",
+    "https://arxiv.org/abs/2609.01772",
+    "https://arxiv.org/abs/2609.01788"
+  ]
+}
