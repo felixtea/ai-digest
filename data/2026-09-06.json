@@ -1,0 +1,160 @@
+{
+  "date_id": "2026-09-06",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Unveils GPT-6 Astra with Enhanced Capabilities",
+          "zh": "OpenAI 发布 GPT-6 Astra，能力全面提升"
+        },
+        "tl_dr": {
+          "en": "OpenAI introduced GPT-6 Astra, its new frontier model class, with state-of-the-art capabilities across multiple domains.",
+          "zh": "OpenAI 推出了其新的前沿模型类别 GPT-6 Astra，该模型在多个领域具备最先进的功能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GPT-6 Astra demonstrates state-of-the-art capabilities in computer use, coding, cybersecurity, and science.",
+            "The model is 2.5 times pricier per token compared to previous models.",
+            "Despite higher per-token pricing, GPT-6 Astra is significantly cheaper per task."
+          ],
+          "zh": [
+            "GPT-6 Astra 在计算机使用、编码、网络安全和科学领域展现了最先进的能力。",
+            "该模型每令牌价格比以往模型上涨2.5倍。",
+            "尽管每令牌价格更高，但 GPT-6 Astra 的每任务成本显著降低。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of GPT-6 Astra establishes a new frontier model class with enhanced capabilities and an optimized cost structure per task, potentially influencing the deployment and economic models of advanced AI in various sectors.",
+          "zh": "GPT-6 Astra 的推出确立了具备增强能力和优化每任务成本结构的新一代前沿模型，这可能影响先进人工智能在各个领域的部署和经济模型。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-6-astra"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Give Your Coding Agents a Memory You Own",
+          "zh": "Give Your Coding Agents a Memory You Own"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/funes"
+      },
+      {
+        "title": {
+          "en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "zh": "NeoMME: an efficient Multimodal-native and Multilingual Encoder"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/Hcompany/neomme"
+      },
+      {
+        "title": {
+          "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "zh": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      },
+      {
+        "title": {
+          "en": "Introducing agentic video understanding with Gemini",
+          "zh": "Introducing agentic video understanding with Gemini"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+      },
+      {
+        "title": {
+          "en": "Proactive cyber defense for governments and enterprises",
+          "zh": "Proactive cyber defense for governments and enterprises"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/daybreak-for-frontline-defenders",
+    "https://openai.com/index/playco-game-prototyping-with-astra",
+    "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "https://openai.com/index/gpt-6-astra",
+    "https://openai.com/index/safety-overview-gpt-6-astra",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "https://huggingface.co/blog/Hcompany/neomme",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "https://huggingface.co/blog/funes",
+    "https://huggingface.co/blog/train-to-paint-with-code",
+    "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/grok-bot",
+    "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+    "https://www.latent.space/p/astra",
+    "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+    "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+    "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+    "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+    "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+    "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "https://www.404media.co/breakthrough-quantum-test-resolves-a-major-cosmic-mystery/",
+    "https://www.404media.co/flock-taught-cops-how-to-surveil-no-kings-protesters/",
+    "https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/",
+    "https://www.404media.co/a16z-says-you-actually-love-social-media-enshittification-isnt-real/",
+    "https://www.404media.co/texas-police-used-ai-to-write-report-about-using-flock-to-search-for-woman-who-had-abortion/",
+    "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/jupyter-gis-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/copilot-code-review-azure-repos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/spotify-gisting-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/cohere-multimodal-parse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://cloudinabottle.org/blog/launch-post",
+    "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+    "https://usr.lmf.cnrs.fr/lpo/",
+    "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/"
+  ]
+}
