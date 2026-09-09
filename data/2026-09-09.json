@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-09-09",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Releases ChatGPT Images 2.5 with Enhanced Instruction-Following",
+          "zh": "OpenAI 发布 ChatGPT Images 2.5，增强指令遵循能力"
+        },
+        "tl_dr": {
+          "en": "OpenAI has released ChatGPT Images 2.5, which offers improved instruction-following across multiple turns, faster response times, and better preservation of subjects from reference photos.",
+          "zh": "OpenAI 发布了 ChatGPT Images 2.5，该版本提升了多轮对话中的指令遵循能力、响应速度，并能更好地保留参考照片中的主体。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI's image generation models have collectively produced over 3 billion images across ChatGPT Images and GPT-Image API models.",
+            "ChatGPT Images 2.5 offers improved instruction-following capabilities across multiple turns of interaction.",
+            "The latest release also provides faster responses and better preservation of subjects present in user-provided reference photos."
+          ],
+          "zh": [
+            "OpenAI 的图像生成模型已通过 ChatGPT Images 和 GPT-Image API 模型累计生成了超过30亿张图像。",
+            "ChatGPT Images 2.5 提升了在多轮交互中遵循指令的能力。",
+            "最新版本还提供了更快的响应速度，并能更好地保留用户提供的参考照片中的主体。"
+          ]
+        },
+        "impact": {
+          "en": "The enhancements in instruction-following and subject preservation, coupled with faster processing, represent an iterative improvement in AI image generation fidelity and user control. This development can streamline workflows for professionals requiring precise visual outputs from textual or visual prompts.",
+          "zh": "指令遵循能力和主体保留的增强，结合更快的处理速度，代表了AI图像生成保真度和用户控制方面的迭代改进。这一发展可简化需要从文本或视觉提示中获得精确视觉输出的专业人士的工作流程。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-chatgpt-images-2-5"
+      },
+      {
+        "title": {
+          "en": "Figma Leverages AI Agents to Accelerate Security Response",
+          "zh": "Figma利用AI代理加速安全响应"
+        },
+        "tl_dr": {
+          "en": "Figma's engineering team developed AI agents to assist their security team in investigating alerts and preparing code fixes, leading to faster resolution of complex incidents.",
+          "zh": "Figma的工程团队开发了AI代理，以协助其安全团队调查警报和准备代码修复，从而加速解决复杂的安全事件。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AI agents investigate alerts, search past incidents, and check company systems.",
+            "Agents learn from previous investigations to reduce repetitive work.",
+            "Engineers resolve complex alerts about 70% faster with agent assistance."
+          ],
+          "zh": [
+            "AI代理负责调查警报、搜索过往事件并检查公司系统。",
+            "代理通过学习历史调查经验，减少重复性工作。",
+            "工程师在代理的协助下，解决复杂警报的速度提高约70%。"
+          ]
+        },
+        "impact": {
+          "en": "This demonstrates a practical application of AI in enhancing internal cybersecurity operations, offering a model for other organizations seeking to improve the efficiency of incident response and security alert management.",
+          "zh": "这展示了人工智能在增强内部网络安全运营方面的实际应用，为其他寻求提高事件响应和安全警报管理效率的组织提供了一个范例。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "Flock Educates Police on Protest Surveillance Techniques",
+          "zh": "Flock 培训警方监控抗议活动技术"
+        },
+        "tl_dr": {
+          "en": "A Flock webinar provided police with instruction on how to conduct surveillance during protests and other public events.",
+          "zh": "Flock 网络研讨会向警方讲授了如何在抗议活动及其他公共活动中进行监控。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Flock's webinar provided instruction on surveilling protests.",
+            "Surveillance techniques for fireworks shows were also part of the training.",
+            "The instruction further included methods for monitoring parades and bike races."
+          ],
+          "zh": [
+            "Flock 的网络研讨会提供了关于监控抗议活动的指导。",
+            "烟花表演的监控技术也是培训内容的一部分。",
+            "培训还包括监控游行和自行车比赛的方法。"
+          ]
+        },
+        "impact": {
+          "en": "This demonstrates a private company providing specialized surveillance training to law enforcement, expanding their capabilities to monitor public gatherings.",
+          "zh": "这表明一家私营公司正在向执法部门提供专业的监控培训，从而扩大了他们监控公共集会的能力。"
+        },
+        "source": "404 Media",
+        "link": "https://www.404media.co/flock-taught-cops-how-to-surveil-no-kings-protesters/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "On the Navier–Stokes Millennium Prize Problem",
+          "zh": "On the Navier–Stokes Millennium Prize Problem"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/navier-stokes-solution"
+      },
+      {
+        "title": {
+          "en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "zh": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      },
+      {
+        "title": {
+          "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "zh": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "zh": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+      },
+      {
+        "title": {
+          "en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "zh": "Training a coding model to paint watercolours with TRL and OpenEnv"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/train-to-paint-with-code"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/codex-quantum-computing-experiments",
+    "https://openai.com/index/the-work-now-within-reach",
+    "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "https://openai.com/index/navier-stokes-solution",
+    "https://openai.com/index/teen-development-research-grants",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "https://huggingface.co/blog/Hcompany/neomme",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "https://huggingface.co/blog/funes",
+    "https://huggingface.co/blog/train-to-paint-with-code",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/aeo",
+    "https://www.latent.space/p/grok-bot",
+    "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+    "https://www.latent.space/p/astra",
+    "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://simonwillison.net/2026/Sep/9/terence-tao/",
+    "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+    "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+    "https://simonwillison.net/2026/Sep/7/llm/",
+    "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "https://www.404media.co/channel-5-gave-hunter-biden-a-list-of-its-subscribers-emails-for-some-reason/",
+    "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+    "https://www.404media.co/three-year-anniversary-events-recap-2/",
+    "https://www.404media.co/breakthrough-quantum-test-resolves-a-major-cosmic-mystery/",
+    "https://www.404media.co/flock-taught-cops-how-to-surveil-no-kings-protesters/",
+    "https://www.infoq.com/news/2026/09/gitlab-ai-sandbox-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/jupyter-gis-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+    "https://ai.meta.com/muse/",
+    "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "https://cims.nyu.edu/~tristanb/statement.pdf"
+  ]
+}
