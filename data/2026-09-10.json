@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-09-10",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Unveils GPT-6 Astra for Business",
+          "zh": "OpenAI 发布商业级模型 GPT-6 Astra"
+        },
+        "tl_dr": {
+          "en": "OpenAI has introduced GPT-6 Astra, its newest model designed as the most capable for business applications.",
+          "zh": "OpenAI 推出了 GPT-6 Astra，这是其最新且功能最强大的商业应用模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Features advanced reasoning capabilities.",
+            "Incorporates enhanced computer use functions.",
+            "Provides stronger judgment for writing and design tasks."
+          ],
+          "zh": [
+            "具备高级推理能力。",
+            "整合了增强的计算机使用功能。",
+            "在写作和设计任务中提供更强的判断力。"
+          ]
+        },
+        "impact": {
+          "en": "The release of GPT-6 Astra signifies OpenAI's expansion into enterprise AI with a model focused on complex business intelligence, potentially streamlining professional workflows.",
+          "zh": "GPT-6 Astra 的发布标志着 OpenAI 将业务扩展到企业级人工智能领域，该模型专注于复杂的商业智能，有望简化专业工作流程。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-6-astra-next-generation-work"
+      },
+      {
+        "title": {
+          "en": "DeepMind Maps 9 Billion DNA Variants",
+          "zh": "DeepMind绘制90亿DNA变异图谱"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind's AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "zh": "Google DeepMind的AlphaGenome Atlas绘制了人类基因组中90亿个单字母DNA变异的分子效应图谱。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AlphaGenome Atlas is a predictive map of DNA changes.",
+            "It covers 9 billion single-letter DNA variants.",
+            "The mapping extends across the entire human genome."
+          ],
+          "zh": [
+            "AlphaGenome Atlas是一个DNA变化的预测性图谱。",
+            "它覆盖了90亿个单字母DNA变异。",
+            "该图谱涵盖了整个人类基因组。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates the application of AI in mapping complex biological data at scale. It provides a foundational dataset that can accelerate AI-driven research in genomics and personalized medicine.",
+          "zh": "这一进展展示了人工智能在大规模绘制复杂生物数据方面的应用。它提供了一个基础数据集，可加速基因组学和个性化医疗领域的人工智能驱动研究。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      },
+      {
+        "title": {
+          "en": "Open-Weight Models Enable Local Coding Agents as Alternative to Proprietary AI",
+          "zh": "开源模型赋能本地代码代理，提供专有AI替代方案"
+        },
+        "tl_dr": {
+          "en": "Local coding agents leveraging open-weight models are presented as an alternative to proprietary AI subscriptions such as Claude Code and Codex.",
+          "zh": "利用开源模型构建的本地代码代理被提出作为Claude Code和Codex等专有AI订阅服务的替代方案。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Local coding agents can be built using open-weight models.",
+            "These agents are positioned as an alternative to proprietary AI solutions, including Claude Code and Codex subscriptions.",
+            "The approach allows for giving coding agents a memory that users own."
+          ],
+          "zh": [
+            "本地代码代理可利用开源模型构建。",
+            "这些代理被定位为专有AI解决方案的替代品，包括Claude Code和Codex订阅。",
+            "该方法允许为代码代理提供用户拥有的内存功能。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides users with an alternative to proprietary AI coding assistants, potentially fostering greater control over data and model customization. It shifts the paradigm towards more accessible and auditable local AI deployments.",
+          "zh": "这一进展为用户提供了专有AI编码助手的替代方案，可能促进对数据和模型定制的更大控制。它将范式转向更易于访问和可审计的本地AI部署。"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/funes"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "zh": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      },
+      {
+        "title": {
+          "en": "Proactive cyber defense for governments and enterprises",
+          "zh": "Proactive cyber defense for governments and enterprises"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "zh": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+      },
+      {
+        "title": {
+          "en": "Paul Christiano joins OpenAI Foundation Board",
+          "zh": "Paul Christiano joins OpenAI Foundation Board"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+      },
+      {
+        "title": {
+          "en": "Introducing agentic video understanding with Gemini",
+          "zh": "Introducing agentic video understanding with Gemini"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/ai-policy-window",
+    "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "https://openai.com/index/codex-quantum-computing-experiments",
+    "https://openai.com/index/the-work-now-within-reach",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "https://huggingface.co/blog/Hcompany/neomme",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "https://huggingface.co/blog/funes",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+    "https://www.latent.space/p/aeo",
+    "https://www.latent.space/p/grok-bot",
+    "https://www.latent.space/p/ainews-collusionwiki-a-second-undisclosed",
+    "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://simonwillison.net/2026/Sep/10/calif-research/",
+    "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+    "https://simonwillison.net/2026/Sep/9/terence-tao/",
+    "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+    "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+    "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+    "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+    "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
+    "https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/",
+    "https://www.404media.co/the-remnants-of-a-lost-supercontinent-just-rewrote-the-history-of-life-on-earth/",
+    "https://www.404media.co/smear-campaign-says-anti-flock-movement-is-chinese-propaganda/",
+    "https://www.404media.co/podcast-dhs-secretive-predictive-policing-unit-pulling-people-over/",
+    "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/gitlab-ai-sandbox-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.apple.com/iphone-duo/",
+    "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "https://tautology.town/2026/06/01/card-networks.html",
+    "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "https://spectrum.ieee.org/are-self-driving-cars-safe"
+  ]
+}
