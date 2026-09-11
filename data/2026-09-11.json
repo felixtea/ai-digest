@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-09-11",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Launches Agents API for Cloud Agent Development",
+          "zh": "OpenAI 推出 Agents API 以支持云代理开发"
+        },
+        "tl_dr": {
+          "en": "OpenAI introduced the Agents API, a managed service designed for building and launching cloud agents.",
+          "zh": "OpenAI 推出了 Agents API，这是一项专为构建和启动云代理而设计的托管服务。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The Agents API operates as a managed service.",
+            "It leverages the Codex harness for its core functionality.",
+            "Key capabilities include orchestration, long-running sessions, and tool use."
+          ],
+          "zh": [
+            "Agents API 作为一项托管服务运行。",
+            "它利用 Codex harness 提供核心功能。",
+            "主要功能包括编排、长时间会话和工具使用。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of the Agents API offers a managed service solution for developing and deploying cloud agents. This provides a structured platform for AI agent functionalities like orchestration and tool use, potentially streamlining development efforts in agentic AI applications.",
+          "zh": "Agents API 的推出为开发和部署云代理提供了一个托管服务解决方案。这为人工智能代理功能（如编排和工具使用）提供了一个结构化平台，有望简化代理式人工智能应用的开发工作。"
+        },
+        "source": "OpenAI News",
+        "link": "https://developers.openai.com/api/docs/guides/agents-api/overview"
+      },
+      {
+        "title": {
+          "en": "OpenAI Offers US Governments Zero License Fees, 50% Usage Discount",
+          "zh": "OpenAI向美国政府提供零许可费和五折使用折扣"
+        },
+        "tl_dr": {
+          "en": "OpenAI, in partnership with GSA, announced an offering for eligible US federal, state, local, and tribal governments that includes $0 license fees, a 50% discount on usage, and expanded cyber defense support.",
+          "zh": "OpenAI与GSA合作宣布，将向符合条件的美国联邦、州、地方及部落政府提供零许可费、五折使用折扣和扩展的网络防御支持。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Eligible governments will incur $0 license fees for OpenAI services.",
+            "A 50% discount will be applied to usage costs for these government entities.",
+            "The offering includes expanded cyber defense support."
+          ],
+          "zh": [
+            "符合条件的政府使用OpenAI服务将免除许可费。",
+            "这些政府实体的使用成本将享受五折优惠。",
+            "此项服务包括扩展的网络防御支持。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative could accelerate AI adoption within various levels of US government by lowering financial barriers and enhancing security. It demonstrates a strategic move by OpenAI to integrate its AI services into public sector operations, potentially setting a precedent for similar partnerships.",
+          "zh": "这一举措可能通过降低财政障碍和增强安全性，加速人工智能在美国各级政府中的应用。它表明OpenAI正在战略性地将其AI服务整合到公共部门运营中，并可能为类似的合作树立先例。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/expanding-ai-access-us-government"
+      },
+      {
+        "title": {
+          "en": "Meta's New AI App Shows Slow Adoption, Sparks Platform Control Questions",
+          "zh": "Meta新AI应用进展缓慢，引发平台控制疑虑"
+        },
+        "tl_dr": {
+          "en": "Meta's latest AI agent app, Muse, is experiencing a slower initial adoption compared to its other applications, while the company's acquisition of Pocket's AI introduces concerns over Meta's control of user-created interactive \"gizmos\" and their limited shareability outside the platform.",
+          "zh": "Meta最新的AI代理应用Muse初期用户增长慢于其其他应用，同时Meta收购Pocket's AI引发了对其控制用户创建的互动式“小装置”以及这些装置在平台外分享受限的担忧。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Meta's newest AI agent application is named Muse.",
+            "Muse's initial user adoption is slower than other Meta apps, including Meta AI and Threads.",
+            "User-generated interactive mobile \"gizmos\" made with Pocket's AI are difficult to share outside Meta's platform, with Meta now controlling their output."
+          ],
+          "zh": [
+            "Meta最新的AI代理应用名为Muse。",
+            "Muse的初期用户增长慢于Meta的其他应用，包括Meta AI和Threads。",
+            "使用Pocket's AI创建的互动式移动“小装置”难以在Meta平台外部共享，且Meta现在控制其输出。"
+          ]
+        },
+        "impact": {
+          "en": "The varied performance of Meta's AI offerings highlights market challenges for new AI applications and indicates a growing trend towards proprietary AI ecosystems, potentially impacting user freedom and broader industry innovation.",
+          "zh": "Meta旗下AI产品表现差异凸显了新AI应用面临的市场挑战，并预示着AI生态系统日益走向专有化，这可能影响用户自由和更广泛的行业创新。"
+        },
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Now everyone can put data to work",
+          "zh": "Now everyone can put data to work"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/put-data-to-work"
+      },
+      {
+        "title": {
+          "en": "Native is now the future of mobile at Shopify",
+          "zh": "Native is now the future of mobile at Shopify"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Sep/10/shopify-react-native/"
+      },
+      {
+        "title": {
+          "en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "zh": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      },
+      {
+        "title": {
+          "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "zh": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      },
+      {
+        "title": {
+          "en": "Building an AI Text Detector From Scratch",
+          "zh": "Building an AI Text Detector From Scratch"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "https://openai.com/index/put-data-to-work",
+    "https://openai.com/index/introducing-chatgpt-financial-services",
+    "https://openai.com/index/expanding-ai-access-us-government",
+    "https://openai.com/index/introducing-the-agents-api",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "https://huggingface.co/blog/gradio-workflow-1111",
+    "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "https://huggingface.co/blog/Hcompany/neomme",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+    "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+    "https://www.latent.space/p/aeo",
+    "https://www.latent.space/p/grok-bot",
+    "https://www.latent.space/p/ainews-collusionwiki-a-second-undisclosed",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://simonwillison.net/2026/Sep/10/trynix/",
+    "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+    "https://simonwillison.net/2026/Sep/10/calif-research/",
+    "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+    "https://simonwillison.net/2026/Sep/9/terence-tao/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+    "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+    "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
+    "https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/",
+    "https://www.404media.co/the-remnants-of-a-lost-supercontinent-just-rewrote-the-history-of-life-on-earth/",
+    "https://www.404media.co/smear-campaign-says-anti-flock-movement-is-chinese-propaganda/",
+    "https://www.404media.co/podcast-dhs-secretive-predictive-policing-unit-pulling-people-over/",
+    "https://www.infoq.com/news/2026/09/openai-gpt6-astra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/gitlab-ai-sandbox-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://map-yue2.github.io/",
+    "https://shopify.engineering/back-to-native",
+    "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+    "https://arxiv.org/abs/2609.05437",
+    "https://arxiv.org/abs/2609.05439",
+    "https://arxiv.org/abs/2609.05441",
+    "https://arxiv.org/abs/2609.05446",
+    "https://arxiv.org/abs/2609.05448",
+    "https://arxiv.org/abs/2609.09166",
+    "https://arxiv.org/abs/2609.09264",
+    "https://arxiv.org/abs/2609.09338",
+    "https://arxiv.org/abs/2609.09349",
+    "https://arxiv.org/abs/2609.09356"
+  ]
+}
