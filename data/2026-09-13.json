@@ -1,0 +1,221 @@
+{
+  "date_id": "2026-09-13",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Launches GPT-6 Astra for Coding and Agentic Tasks; Perplexity Adopts Model",
+          "zh": "OpenAI 发布 GPT-6 Astra 专注于编码和代理任务；Perplexity 采纳该模型"
+        },
+        "tl_dr": {
+          "en": "OpenAI released GPT-6 Astra, a new model focused on coding and computer use, which Perplexity has adopted for its end-to-end systems.",
+          "zh": "OpenAI 发布了 GPT-6 Astra，一个专注于编码和计算机使用的新模型，Perplexity 已将其应用于其端到端系统。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GPT-6 Astra is designed for coding, computer use, long-running agentic tasks, and cybersecurity.",
+            "The model is accessible via ChatGPT, Codex, and the OpenAI API.",
+            "Perplexity employs Astra for communications, software changes, and production system monitoring, reducing check-in frequency."
+          ],
+          "zh": [
+            "GPT-6 Astra 专注于编码、计算机使用、长期代理任务和网络安全。",
+            "该模型可通过 ChatGPT、Codex 和 OpenAI API 获取。",
+            "Perplexity 使用 Astra 编写通信、修改软件和监控生产系统，减少了检查频率。"
+          ]
+        },
+        "impact": {
+          "en": "The release of GPT-6 Astra extends AI capabilities into more complex, agentic workflows and direct computer interaction, indicating a trend toward autonomous AI systems. Its adoption by companies like Perplexity suggests practical integration and potential efficiency gains in AI-powered operations.",
+          "zh": "GPT-6 Astra 的发布将人工智能能力扩展到更复杂的代理工作流和直接计算机交互，预示着自主人工智能系统的发展趋势。Perplexity 等公司采纳该模型，表明其在人工智能驱动操作中的实际整合和潜在效率提升。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+      },
+      {
+        "title": {
+          "en": "OpenAI Unveils Data Agent for ChatGPT Work",
+          "zh": "OpenAI 推出 ChatGPT Work 数据代理"
+        },
+        "tl_dr": {
+          "en": "OpenAI introduced the Data agent in ChatGPT Work, enabling users to connect company data, uncover insights, and build interactive dashboards using natural language.",
+          "zh": "OpenAI 在 ChatGPT Work 中推出了数据代理，允许用户通过自然语言连接公司数据、发现洞察并构建交互式仪表盘。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The new product is designated as the \"Data agent\" within the \"ChatGPT Work\" platform.",
+            "It provides functionality to connect directly with company data.",
+            "Users can leverage AI to uncover insights and construct interactive dashboards through natural language commands."
+          ],
+          "zh": [
+            "该新产品命名为“数据代理”，集成于“ChatGPT Work”平台。",
+            "它提供直接连接公司数据的功能。",
+            "用户可通过自然语言指令，利用AI发现洞察并构建交互式仪表盘。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides businesses with direct AI capabilities for data analysis, potentially broadening AI adoption for internal data management and insights generation. It democratizes access to complex data operations by utilizing natural language interfaces.",
+          "zh": "此举为企业提供了直接利用AI进行数据分析的能力，有望扩大AI在内部数据管理和洞察生成方面的应用。通过采用自然语言界面，它使复杂的数据操作更为普及。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/put-data-to-work"
+      },
+      {
+        "title": {
+          "en": "Microsoft Research Releases Open Framework for AI Agent Development",
+          "zh": "微软研究院发布AI代理开发开源框架"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research introduced Orchard, an open-source framework designed for the research community to train and evaluate AI agents across various task types.",
+          "zh": "微软研究院发布了Orchard，这是一个开源框架，旨在供研究社区训练和评估跨多种任务类型的AI代理。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Orchard is an open-source framework.",
+            "It enables the research community to train and evaluate AI agents across different task types.",
+            "The framework is designed to reduce complexity and support strong performance from smaller models by facilitating infrastructure reuse."
+          ],
+          "zh": [
+            "Orchard是一个开源框架。",
+            "它使研究社区能够跨不同任务类型训练和评估AI代理。",
+            "该框架旨在通过促进基础设施的重用来降低复杂性，并支持小型模型实现强大性能。"
+          ]
+        },
+        "impact": {
+          "en": "The release of an open-source framework like Orchard can lower the barrier to entry for AI agent development. By enabling infrastructure reuse and supporting smaller models, it may accelerate research and development in scalable agentic AI.",
+          "zh": "Orchard这样开源框架的发布可以降低AI代理开发的门槛。通过支持基础设施重用和小型模型，它可能加速可扩展代理AI领域的研究和开发。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "zh": "Cognition helps Devin test its own work with GPT‑6 Astra"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/cognition-devin-testing-with-astra"
+      },
+      {
+        "title": {
+          "en": "Building an AI Text Detector From Scratch",
+          "zh": "Building an AI Text Detector From Scratch"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch"
+      },
+      {
+        "title": {
+          "en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "zh": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      },
+      {
+        "title": {
+          "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "zh": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "zh": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "https://openai.com/index/cognition-devin-testing-with-astra",
+    "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "https://openai.com/index/put-data-to-work",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "https://huggingface.co/blog/gradio-workflow-1111",
+    "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "https://huggingface.co/blog/Hcompany/neomme",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+    "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+    "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+    "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+    "https://www.latent.space/p/aeo",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+    "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+    "https://simonwillison.net/2026/Sep/12/paul-ford/",
+    "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+    "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+    "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+    "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://www.404media.co/mercury-is-shrinking-way-faster-than-we-thought-scientists-discover/",
+    "https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/",
+    "https://www.404media.co/automattic-matt-mullenweg-back-in-control/",
+    "https://www.404media.co/we-did-not-invite-you-citizens-rage-at-town-hall-over-proposed-nuclear-ai-data-center/",
+    "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
+    "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/linkedin-ai-multi-teacher/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/observability-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/openai-gpt6-astra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "https://withspecific.com/benchmarks/real-swe",
+    "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+    "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "https://dunstanorchard.com/apple-ipod-engraver/",
+    "https://arxiv.org/abs/2609.10584",
+    "https://arxiv.org/abs/2609.10629",
+    "https://arxiv.org/abs/2609.10654",
+    "https://arxiv.org/abs/2609.10656",
+    "https://arxiv.org/abs/2609.10657"
+  ]
+}
