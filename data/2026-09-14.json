@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-09-14",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "DeepMind Releases AlphaGenome Atlas for DNA Variant Mapping",
+          "zh": "DeepMind 发布 AlphaGenome Atlas 用于 DNA 变异图谱绘制"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind released AlphaGenome Atlas, a predictive map detailing the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "zh": "Google DeepMind 发布了 AlphaGenome Atlas，这是一个预测性图谱，详细描绘了人类基因组中 90 亿个单字母 DNA 变异的分子效应。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AlphaGenome Atlas maps the molecular effects of DNA changes.",
+            "It focuses on single-letter DNA variants.",
+            "The atlas covers 9 billion such variants across the human genome."
+          ],
+          "zh": [
+            "AlphaGenome Atlas 绘制 DNA 变化的分子效应图谱。",
+            "它专注于单字母 DNA 变异。",
+            "该图谱涵盖人类基因组中 90 亿个此类变异。"
+          ]
+        },
+        "impact": {
+          "en": "The release of AlphaGenome Atlas provides a comprehensive dataset for understanding genetic variations, potentially accelerating AI-driven research in genomics and precision medicine. This tool may enhance predictive capabilities for disease risk and drug response by leveraging AI models on vast genomic data.",
+          "zh": "AlphaGenome Atlas 的发布提供了理解基因变异的综合数据集，可能加速基因组学和精准医疗领域的 AI 驱动研究。该工具或能通过利用 AI 模型处理海量基因组数据，增强疾病风险和药物反应的预测能力。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Unveils WeatherNext 3 Global AI Model",
+          "zh": "谷歌DeepMind发布WeatherNext 3全球AI模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has introduced WeatherNext 3, an AI model described as its most advanced and accurate for global weather prediction.",
+          "zh": "谷歌DeepMind发布了WeatherNext 3，这是一款被描述为最先进、最准确的全球气象AI模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The model is designated WeatherNext 3.",
+            "It is designed as a global weather artificial intelligence model.",
+            "DeepMind characterizes it as its most advanced and accurate model to date."
+          ],
+          "zh": [
+            "该模型名为WeatherNext 3。",
+            "它是一款用于全球气象预测的AI模型。",
+            "DeepMind将其描述为迄今为止最先进、最准确的模型。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of WeatherNext 3 signifies an advancement in AI's application to global weather forecasting, potentially influencing prediction methodologies within the industry.",
+          "zh": "WeatherNext 3的推出标志着AI在全球气象预报应用方面取得进展，可能影响行业内的预测方法。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Unveils GPT-6 Astra for Enhanced Coding and Agentic Tasks",
+          "zh": "OpenAI 发布 GPT-6 Astra，提升编码与代理任务能力"
+        },
+        "tl_dr": {
+          "en": "OpenAI has released GPT-6 Astra, a new model designed for coding, computer use, long-running agentic tasks, and cybersecurity, now available across ChatGPT, Codex, and the OpenAI API.",
+          "zh": "OpenAI 发布了 GPT-6 Astra，一款专为编码、计算机使用、长期代理任务和网络安全设计的新模型，现已通过 ChatGPT、Codex 和 OpenAI API 提供。"
+        },
+        "key_takeaways": {
+          "en": [
+            "GPT-6 Astra is a new model focused on coding, computer use, long-running agentic tasks, and cybersecurity.",
+            "The model is available across ChatGPT, Codex, and the OpenAI API.",
+            "Perplexity uses Astra to write communications, change software, and monitor production systems, requiring less frequent human checks than with earlier models."
+          ],
+          "zh": [
+            "GPT-6 Astra 是一款专注于编码、计算机使用、长期代理任务和网络安全的新模型。",
+            "该模型已通过 ChatGPT、Codex 和 OpenAI API 提供。",
+            "Perplexity 使用 Astra 编写通信、更改软件和监控生产系统，且比使用早期模型时检查频率大大降低。"
+          ]
+        },
+        "impact": {
+          "en": "The release of GPT-6 Astra signifies an advancement in AI's capability for automated, complex operations. Its focus on agentic tasks and system integration suggests a trend towards more autonomous AI applications in various technical domains.",
+          "zh": "GPT-6 Astra 的发布标志着 AI 在自动化复杂操作能力方面的进步。其对代理任务和系统集成的关注预示着 AI 在各种技术领域将出现更自主的应用趋势。"
+        },
+        "source": "OpenAI",
+        "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "zh": "Cognition helps Devin test its own work with GPT‑6 Astra"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/cognition-devin-testing-with-astra"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "zh": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+      },
+      {
+        "title": {
+          "en": "Introducing agentic video understanding with Gemini",
+          "zh": "Introducing agentic video understanding with Gemini"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+      },
+      {
+        "title": {
+          "en": "Building an AI Text Detector From Scratch",
+          "zh": "Building an AI Text Detector From Scratch"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch"
+      },
+      {
+        "title": {
+          "en": "Proactive cyber defense for governments and enterprises",
+          "zh": "Proactive cyber defense for governments and enterprises"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "https://openai.com/index/cognition-devin-testing-with-astra",
+    "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "https://openai.com/index/put-data-to-work",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "https://huggingface.co/blog/gradio-workflow-1111",
+    "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "https://huggingface.co/blog/Hcompany/neomme",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+    "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+    "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+    "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+    "https://www.latent.space/p/aeo",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+    "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+    "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+    "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+    "https://simonwillison.net/2026/Sep/12/paul-ford/",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+    "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+    "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://www.404media.co/mercury-is-shrinking-way-faster-than-we-thought-scientists-discover/",
+    "https://www.404media.co/behind-the-blog-how-to-talk-about-ai-doom/",
+    "https://www.404media.co/automattic-matt-mullenweg-back-in-control/",
+    "https://www.404media.co/we-did-not-invite-you-citizens-rage-at-town-hall-over-proposed-nuclear-ai-data-center/",
+    "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
+    "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/linkedin-ai-multi-teacher/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/observability-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/openai-gpt6-astra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+    "https://spaceships.treybastian.com/",
+    "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list"
+  ]
+}
