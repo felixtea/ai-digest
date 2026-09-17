@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-09-17",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "DeepMind's AlphaGenome Atlas Maps 9 Billion DNA Variants",
+          "zh": "DeepMind AlphaGenome Atlas 绘制90亿个DNA变体图谱"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind developed AlphaGenome Atlas, a tool that maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "zh": "Google DeepMind 开发了 AlphaGenome Atlas，一个工具，能够绘制人类基因组中90亿个单字母DNA变体的分子效应图谱。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AlphaGenome Atlas is a predictive map of DNA letter changes.",
+            "It maps the molecular effects of DNA variants.",
+            "The map covers 9 billion single-letter DNA variants across the human genome."
+          ],
+          "zh": [
+            "AlphaGenome Atlas 是一个预测性的DNA字母变化图谱。",
+            "它绘制了DNA变体的分子效应。",
+            "该图谱涵盖了人类基因组中90亿个单字母DNA变体。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides a large-scale, AI-driven understanding of genetic variations, which is foundational for advancements in genomics and computational biology.",
+          "zh": "这一进展提供了通过AI大规模理解基因变异的能力，为基因组学和计算生物学的进步奠定了基础。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Unveils New Gemini 3.8 Models",
+          "zh": "谷歌DeepMind发布新款Gemini 3.8模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind announced the release of new Gemini 3.8 models, including Live, Live Extended Thinking, Flash, and Flash Cyber.",
+          "zh": "谷歌DeepMind宣布推出新的Gemini 3.8模型，包括Live、Live Extended Thinking、Flash和Flash Cyber。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind introduced the Gemini 3.8 Live model.",
+            "Google DeepMind introduced the Gemini 3.8 Live Extended Thinking model.",
+            "Google DeepMind introduced the Gemini 3.8 Flash and 3.8 Flash Cyber models."
+          ],
+          "zh": [
+            "谷歌DeepMind推出了Gemini 3.8 Live模型。",
+            "谷歌DeepMind推出了Gemini 3.8 Live Extended Thinking模型。",
+            "谷歌DeepMind推出了Gemini 3.8 Flash和3.8 Flash Cyber模型。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of new Gemini 3.8 models expands Google DeepMind's portfolio of AI capabilities for various applications.",
+          "zh": "新的Gemini 3.8模型的推出扩展了谷歌DeepMind在各种应用中的人工智能能力组合。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+      },
+      {
+        "title": {
+          "en": "Grab's LLM-Kit Streamlines AI Agent Deployment",
+          "zh": "Grab LLM-Kit 简化 AI 代理部署"
+        },
+        "tl_dr": {
+          "en": "Grab implemented LLM-Kit, a framework that standardizes over 500 internal agent services, reducing AI agent deployment time from two weeks to one hour.",
+          "zh": "Grab 实施了 LLM-Kit 框架，该框架标准化了超过 500 个内部代理服务，将 AI 代理的部署时间从两周缩短至一小时。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Standardizes over 500 internal agent services.",
+            "Reduces AI agent deployment time from two weeks to one hour.",
+            "Enhances service integration, evaluation, and secret handling."
+          ],
+          "zh": [
+            "标准化了超过 500 个内部代理服务。",
+            "将 AI 代理部署时间从两周缩短至一小时。",
+            "增强了服务集成、评估和秘密处理。"
+          ]
+        },
+        "impact": {
+          "en": "This framework centralizes infrastructure management, allowing for faster runtime tool discovery and flexible model integration. Such standardization and accelerated deployment cycles can increase efficiency in developing and operating AI agent services across the industry.",
+          "zh": "该框架集中了基础设施管理，实现了更快的运行时工具发现和灵活的模型集成。这种标准化和加速的部署周期可以提高整个行业开发和运营 AI 代理服务的效率。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Reimagining advertising with AI",
+          "zh": "Reimagining advertising with AI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/reimagining-advertising-with-ai"
+      },
+      {
+        "title": {
+          "en": "Our framework for reporting model misalignment",
+          "zh": "Our framework for reporting model misalignment"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/model-misalignment-reporting-framework"
+      },
+      {
+        "title": {
+          "en": "Your Agent Aced the Task. Will It Do It Again?",
+          "zh": "Your Agent Aced the Task. Will It Do It Again?"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+      },
+      {
+        "title": {
+          "en": "Building an AI Text Detector From Scratch",
+          "zh": "Building an AI Text Detector From Scratch"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch"
+      },
+      {
+        "title": {
+          "en": "AI agents can't yet do open-ended AI research",
+          "zh": "AI agents can't yet do open-ended AI research"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "https://openai.com/index/reimagining-advertising-with-ai",
+    "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "https://openai.com/index/model-misalignment-reporting-framework",
+    "https://openai.com/index/unlocking-new-ways-of-working",
+    "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "https://huggingface.co/blog/gradio-workflow-1111",
+    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "https://huggingface.co/blog/Hcompany/neomme",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/aiuc",
+    "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+    "https://www.latent.space/p/good-start-labs",
+    "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+    "https://www.latent.space/p/recursive",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "https://simonwillison.net/2026/Sep/16/datasette/",
+    "https://simonwillison.net/2026/Sep/16/datasette-2/",
+    "https://simonwillison.net/2026/Sep/16/one-claude/",
+    "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+    "https://simonwillison.net/2026/Sep/15/gemini-live/",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+    "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+    "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "https://www.404media.co/podcast-humans-are-reading-your-chatgpt-conversations/",
+    "https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/",
+    "https://www.404media.co/ai-agent-platform-reinvents-spam-floods-inboxes-worldwide/",
+    "https://www.404media.co/charges-against-man-who-destroyed-3d-printed-decoy-flock-camera-drastically-reduced-after-state-admits-it-was-not-very-valuable/",
+    "https://www.404media.co/a-digital-fly-brain-has-taken-over-the-internet/",
+    "https://www.infoq.com/news/2026/09/dropbox-riviera-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/dropbox-datacenter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/metr-hugging-face-hack-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "https://rohanbansal.com/qorl",
+    "https://mimo.xiaomi.com/rl/",
+    "https://arxiv.org/abs/2609.16338",
+    "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "https://arxiv.org/abs/2609.16129",
+    "https://arxiv.org/abs/2609.16145",
+    "https://arxiv.org/abs/2609.16163",
+    "https://arxiv.org/abs/2609.16189",
+    "https://arxiv.org/abs/2609.16206",
+    "https://arxiv.org/abs/2609.15990",
+    "https://arxiv.org/abs/2609.15991",
+    "https://arxiv.org/abs/2609.15992",
+    "https://arxiv.org/abs/2609.15993",
+    "https://arxiv.org/abs/2609.15994"
+  ]
+}
