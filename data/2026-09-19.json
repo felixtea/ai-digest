@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-09-19",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "AI Hallucination Nearly Prompts US Military Intervention",
+          "zh": "人工智能幻觉险些引发美国军事干预"
+        },
+        "tl_dr": {
+          "en": "An AI system's hallucination regarding Chinese nuclear components nearly led to a US military operation, specifically boarding a Chinese ship.",
+          "zh": "人工智能系统对中国核部件的幻觉险些导致美国军事行动，具体涉及登上一艘中国船只。"
+        },
+        "key_takeaways": {
+          "en": [
+            "An AI system hallucinated the presence of Chinese nuclear components.",
+            "This AI hallucination nearly triggered a US military operation, including the potential boarding of a Chinese ship.",
+            "The incident highlights the inherent uncertainty associated with Large Language Models (LLMs) in military applications."
+          ],
+          "zh": [
+            "某人工智能系统产生了关于中国核部件存在的幻觉信息。",
+            "此次人工智能幻觉险些引发美国军事行动，包括可能登上中国船只。",
+            "该事件凸显了大型语言模型（LLMs）在军事应用中固有的不确定性。"
+          ]
+        },
+        "impact": {
+          "en": "This incident demonstrates the critical risks of deploying AI with known reliability issues, such as hallucinations, in sensitive military contexts. It underscores the necessity for robust validation and human oversight in AI-driven decision-making systems to prevent potential international incidents.",
+          "zh": "此次事件表明，在敏感军事环境中部署具有已知可靠性问题（如幻觉）的人工智能存在重大风险。它强调了在人工智能驱动的决策系统中进行严格验证和人工监督的必要性，以防止潜在的国际事件。"
+        },
+        "source": "Ars Technica",
+        "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Launches Specialized AI Offering for Legal Sector",
+          "zh": "OpenAI推出法律行业专用AI服务"
+        },
+        "tl_dr": {
+          "en": "OpenAI has introduced \"Astra for Law,\" a new offering designed to provide frontier intelligence, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work to the legal sector.",
+          "zh": "OpenAI面向法律行业推出了“Astra for Law”新服务，旨在为该领域提供前沿智能、定制律所工作流程、连接法律数据源以及针对保密客户工作的法律级控制。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Integrates frontier intelligence specifically for legal applications.",
+            "Supports custom firm workflow implementation within legal practices.",
+            "Includes legal-grade controls for handling confidential client work."
+          ],
+          "zh": [
+            "专门为法律应用整合前沿智能。",
+            "支持在法律实践中实施定制律所工作流程。",
+            "包含处理保密客户工作的法律级控制。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative signals OpenAI's strategic expansion into specialized enterprise AI solutions, targeting industries with stringent data sensitivity and specific operational requirements. It demonstrates the increasing application of advanced AI models in highly regulated professional sectors.",
+          "zh": "此举标志着OpenAI战略性地扩展到专业企业AI解决方案领域，目标是那些对数据敏感度和特定操作要求严格的行业。它展现了先进AI模型在高度监管的专业领域日益增长的应用潜力。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/astra-for-law"
+      },
+      {
+        "title": {
+          "en": "DeepMind Atlas Maps 9 Billion DNA Variants",
+          "zh": "DeepMind 图谱绘制 90 亿个 DNA 变体"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has developed AlphaGenome Atlas, a tool that maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "zh": "谷歌 DeepMind 开发了 AlphaGenome Atlas，一个预测人类基因组中 90 亿个单字母 DNA 变体分子效应的工具。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AlphaGenome Atlas functions as a predictive map.",
+            "It covers 9 billion single-letter DNA variants.",
+            "The tool maps the molecular effects of these variants across the human genome."
+          ],
+          "zh": [
+            "AlphaGenome Atlas 是一个预测性图谱。",
+            "它涵盖了 90 亿个单字母 DNA 变体。",
+            "该工具描绘了人类基因组中这些变体的分子效应。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates the application of AI in mapping complex biological data at an unprecedented scale, potentially informing genetic research and personalized medicine.",
+          "zh": "这一发展展示了人工智能在以前所未有的规模绘制复杂生物数据方面的应用，可能为基因研究和精准医疗提供信息。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "zh": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+      },
+      {
+        "title": {
+          "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "zh": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      },
+      {
+        "title": {
+          "en": "Reimagining advertising with AI",
+          "zh": "Reimagining advertising with AI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/reimagining-advertising-with-ai"
+      },
+      {
+        "title": {
+          "en": "Building an AI Text Detector From Scratch",
+          "zh": "Building an AI Text Detector From Scratch"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch"
+      },
+      {
+        "title": {
+          "en": "Your Agent Aced the Task. Will It Do It Again?",
+          "zh": "Your Agent Aced the Task. Will It Do It Again?"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/cooley-gopublic",
+    "https://openai.com/index/astra-for-law",
+    "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "https://openai.com/index/reimagining-advertising-with-ai",
+    "https://openai.com/index/hex-gpt-6-astra",
+    "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "https://huggingface.co/blog/gradio-workflow-1111",
+    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "https://huggingface.co/blog/Hcompany/neomme",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/ainews-not-much-happened-today-612",
+    "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+    "https://www.latent.space/p/aiuc",
+    "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+    "https://www.latent.space/p/good-start-labs",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+    "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+    "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+    "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+    "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+    "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "https://www.404media.co/404-media-x-the-intercept-live-how-ai-is-used-to-surveil-and-kill/",
+    "https://www.404media.co/behind-the-blog-eating-the-internet/",
+    "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
+    "https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/",
+    "https://www.404media.co/university-rescinds-job-offer-to-activist-who-allegedly-wiped-phone-before-dhs-could-search-it/",
+    "https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/doordash-feature-flag-cleanup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/ws02-agent-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/openai-misalignment-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "https://try.cloudflare.com/",
+    "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "https://simonklee.dk/farnese-letter",
+    "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "https://arxiv.org/abs/2609.19170",
+    "https://arxiv.org/abs/2609.19180",
+    "https://arxiv.org/abs/2609.19182",
+    "https://arxiv.org/abs/2609.19203",
+    "https://arxiv.org/abs/2609.19212",
+    "https://arxiv.org/abs/2609.19148",
+    "https://arxiv.org/abs/2609.19149",
+    "https://arxiv.org/abs/2609.19150",
+    "https://arxiv.org/abs/2609.19151",
+    "https://arxiv.org/abs/2609.19152"
+  ]
+}
