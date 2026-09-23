@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-09-23",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Unveils GPT-6 Sol and Luna Models",
+          "zh": "OpenAI 发布 GPT-6 Sol 与 Luna 模型"
+        },
+        "tl_dr": {
+          "en": "OpenAI introduced GPT-6 Sol and Luna, two new models designed for everyday work with varied balances of capability and cost.",
+          "zh": "OpenAI 发布了 GPT-6 Sol 和 Luna 两款新模型，旨在以不同能力与成本的平衡为日常工作带来前沿智能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI introduced two distinct models: GPT-6 Sol and GPT-6 Luna.",
+            "These models are designed to bring frontier intelligence to everyday work.",
+            "They offer different balances of capability and cost."
+          ],
+          "zh": [
+            "OpenAI 推出了两款不同的模型：GPT-6 Sol 和 GPT-6 Luna。",
+            "这些模型旨在为日常工作带来前沿智能。",
+            "它们提供了能力与成本的不同平衡。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of models with varied capability and cost profiles suggests a strategy to broaden the accessibility and applicability of advanced AI within professional workflows. This could facilitate wider integration of frontier AI into diverse business and personal uses.",
+          "zh": "推出具有不同能力与成本平衡的模型，表明了扩大先进人工智能在专业工作流程中可及性和适用性的策略。这可能促进前沿人工智能更广泛地融入各类商业和个人应用中。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+      },
+      {
+        "title": {
+          "en": "Hackers Claim FBI Employee Data Breach",
+          "zh": "黑客声称获取FBI雇员数据"
+        },
+        "tl_dr": {
+          "en": "Hackers claim to possess data on all FBI employees, with a sample seen by 404 Media including personal details for 5,000 alleged agents.",
+          "zh": "黑客声称拥有所有联邦调查局（FBI）雇员的数据，404 Media查看的样本中包含5000名据称探员的个人详细信息。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Hackers allege possession of data covering all FBI employees.",
+            "A sample reviewed by 404 Media contained information on 5,000 alleged agents.",
+            "The disclosed data sample included names, addresses, phone numbers, and spouse details."
+          ],
+          "zh": [
+            "黑客声称拥有所有联邦调查局雇员的数据。",
+            "404 Media审查的样本包含了5000名据称探员的信息。",
+            "泄露的数据样本包括姓名、地址、电话号码及雇员配偶的详细信息。"
+          ]
+        },
+        "impact": {
+          "en": "A potential breach of sensitive employee data from a federal agency highlights ongoing cybersecurity vulnerabilities. Such incidents underscore the critical need for robust data protection strategies across all sectors, including those leveraging AI, to safeguard privacy and operational integrity.",
+          "zh": "联邦机构敏感雇员数据潜在泄露事件凸显了持续的网络安全漏洞。此类事件强调了包括利用人工智能的行业在内，所有部门都需要制定强大的数据保护策略，以维护隐私和运营完整性。"
+        },
+        "source": "404 Media",
+        "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/"
+      },
+      {
+        "title": {
+          "en": "DeepMind's AlphaGenome Atlas Maps 9 Billion DNA Variants",
+          "zh": "DeepMind AlphaGenome Atlas 绘制90亿个DNA变体"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has released AlphaGenome Atlas, a predictive map detailing the molecular effects of 9 billion single-letter DNA changes across the human genome.",
+          "zh": "Google DeepMind发布了AlphaGenome Atlas，这是一个预测性地图，详细描绘了人类基因组中90亿个单字母DNA变体的分子效应。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AlphaGenome Atlas provides a predictive map.",
+            "It details the molecular effects of DNA variants.",
+            "The map covers 9 billion single-letter DNA variants across the human genome."
+          ],
+          "zh": [
+            "AlphaGenome Atlas 提供了一个预测性地图。",
+            "它详细描绘了DNA变体的分子效应。",
+            "该地图涵盖了人类基因组中90亿个单字母DNA变体。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates AI's capacity to analyze vast biological datasets, potentially accelerating research in genetics and disease understanding by providing a comprehensive reference for genetic variations.",
+          "zh": "这项进展展示了人工智能分析庞大生物数据集的能力，通过提供全面的遗传变异参考，可能加速遗传学和疾病理解方面的研究。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+          "zh": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"
+      },
+      {
+        "title": {
+          "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "zh": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      },
+      {
+        "title": {
+          "en": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+          "zh": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models"
+        },
+        "source": "arXiv CS.AI",
+        "link": "https://arxiv.org/abs/2609.20971"
+      },
+      {
+        "title": {
+          "en": "Proactive cyber defense for governments and enterprises",
+          "zh": "Proactive cyber defense for governments and enterprises"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+      },
+      {
+        "title": {
+          "en": "Transformers now runs llama.cpp quants",
+          "zh": "Transformers now runs llama.cpp quants"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/transformers-llama-cpp-quants"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "https://openai.com/index/priorities-principles-third-party-assessments",
+    "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://huggingface.co/blog/evaleval-aisi",
+    "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "https://huggingface.co/blog/omlx",
+    "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "https://huggingface.co/blog/tokenizers-v1",
+    "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+    "https://www.latent.space/p/john-platt",
+    "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+    "https://www.latent.space/p/jev",
+    "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+    "https://www.latent.space/p/ainews-not-much-happened-today-612",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+    "https://simonwillison.net/2026/Sep/22/llm/",
+    "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+    "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+    "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+    "https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/",
+    "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+    "https://www.404media.co/sherry-turkle-artificial-intimacy-podcast/",
+    "https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/",
+    "https://www.infoq.com/news/2026/09/google-ax-orchestrator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/gitlab-microsoft-foundry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/alibaba-opencodereview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/google-adk-1-0-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "https://www.anthropic.com/claude-opus-5-5",
+    "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+    "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "https://github.com/xCuri0/ReBarUEFI",
+    "https://arxiv.org/abs/2609.20971",
+    "https://arxiv.org/abs/2609.20974",
+    "https://arxiv.org/abs/2609.20981",
+    "https://arxiv.org/abs/2609.21061",
+    "https://arxiv.org/abs/2609.21096",
+    "https://arxiv.org/abs/2609.22090",
+    "https://arxiv.org/abs/2609.22091",
+    "https://arxiv.org/abs/2609.22094",
+    "https://arxiv.org/abs/2609.22096",
+    "https://arxiv.org/abs/2609.22097"
+  ]
+}
