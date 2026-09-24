@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-09-24",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Launches New Gemini Text-to-Speech Models",
+          "zh": "Google DeepMind 发布新型 Gemini 文本转语音模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has released two new Gemini text-to-speech models, `gemini-3.8-flash-tts` and `gemini-3.8-flash-lite-tts`.",
+          "zh": "Google DeepMind 发布了两款新的 Gemini 文本转语音模型：`gemini-3.8-flash-tts` 和 `gemini-3.8-flash-lite-tts`。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Two new models, `gemini-3.8-flash-tts` and `gemini-3.8-flash-lite-tts`, have been released.",
+            "The models include a library of over 2,000 pre-existing voices.",
+            "Custom voices can be created from a 30-second audio sample."
+          ],
+          "zh": [
+            "两款新模型，`gemini-3.8-flash-tts` 和 `gemini-3.8-flash-lite-tts`，已正式发布。",
+            "这些模型内置了超过 2,000 种预设声音库。",
+            "支持通过 30 秒的音频样本创建自定义声音。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of these new text-to-speech models expands the available options for voice generation, potentially enabling more diverse and personalized auditory experiences in AI applications.",
+          "zh": "这些新型文本转语音模型的推出扩展了语音生成领域的现有选项，可能在AI应用中实现更多样化和个性化的听觉体验。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+      },
+      {
+        "title": {
+          "en": "Meta Unveils Camera-Free AI Glasses",
+          "zh": "Meta推出无摄像头AI眼镜"
+        },
+        "tl_dr": {
+          "en": "Meta has announced new AI glasses that are designed without a camera, offering a lighter build and extended battery life.",
+          "zh": "Meta发布了新款无摄像头AI眼镜，该产品设计更轻巧并提供更长的电池续航时间。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The new AI glasses are designed to be camera-free.",
+            "The glasses will feature a lighter construction.",
+            "Battery life for the device will be up to 12 hours."
+          ],
+          "zh": [
+            "新款AI眼镜不包含摄像头。",
+            "该眼镜将采用更轻巧的设计。",
+            "电池续航时间长达12小时。"
+          ]
+        },
+        "impact": {
+          "en": "The removal of the camera and improvements in weight and battery life could influence user adoption and perception of privacy in wearable AI devices, potentially broadening market acceptance.",
+          "zh": "移除摄像头以及在重量和电池续航方面的改进，可能会影响用户对可穿戴AI设备的采纳和隐私认知，从而可能扩大市场接受度。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Releases AlphaGenome Atlas, Mapping 9 Billion DNA Variants",
+          "zh": "Google DeepMind 发布 AlphaGenome Atlas，绘制 90 亿个 DNA 变异图谱"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has developed AlphaGenome Atlas, a predictive map identifying 9 billion single-letter DNA variants across the human genome.",
+          "zh": "Google DeepMind 开发了 AlphaGenome Atlas，这是一个识别并预测人类基因组中 90 亿个单字母 DNA 变异的图谱。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants.",
+            "The mapping encompasses the entirety of the human genome.",
+            "It serves as a predictive map for every possible single-letter DNA change."
+          ],
+          "zh": [
+            "AlphaGenome Atlas 绘制了 90 亿个单字母 DNA 变异的分子效应。",
+            "该图谱覆盖了整个人类基因组。",
+            "它是一个预测所有可能的单字母 DNA 变化的图谱。"
+          ]
+        },
+        "impact": {
+          "en": "This development showcases AI's application in large-scale genomic research, providing a foundational tool for understanding numerous genetic variations. The comprehensive reference it offers can accelerate future studies in genetics and facilitate advancements in precision medicine.",
+          "zh": "这项进展展示了人工智能在大规模基因组研究中的应用，为理解大量遗传变异提供了一个基础工具。它所提供的全面参考可以加速未来基因学研究并推动精准医疗领域的发展。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Everything new coming to Meta’s AI agent Muse",
+          "zh": "Everything new coming to Meta’s AI agent Muse"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "zh": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+      },
+      {
+        "title": {
+          "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "zh": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      },
+      {
+        "title": {
+          "en": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "zh": "OpenAI extends cyber access to Ukraine for civilian defense"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+      },
+      {
+        "title": {
+          "en": "Advancing Private AI Compute with secure, server-side memory",
+          "zh": "Advancing Private AI Compute with secure, server-side memory"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/two-years-of-openai-academy",
+    "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "https://huggingface.co/blog/evaleval-aisi",
+    "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "https://huggingface.co/blog/omlx",
+    "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+    "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+    "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+    "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+    "https://www.latent.space/p/john-platt",
+    "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+    "https://www.latent.space/p/jev",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+    "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+    "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+    "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+    "https://simonwillison.net/2026/Sep/22/llm/",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "https://www.404media.co/fbi-hack-exposed-fbis-own-hacking-unit-remote-operations-shinyhunters/",
+    "https://www.404media.co/earth-magnetic-field-effects-on-aging-study/",
+    "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/",
+    "https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/",
+    "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+    "https://www.infoq.com/news/2026/09/graphify-codebase-exploration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/modal-scaling-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/google-tpu-xprof/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/google-ax-orchestrator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/gitlab-microsoft-foundry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+    "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "https://www.meta.com/vr-glasses/",
+    "https://fly.io/blog/vscode-ssh-wtf/",
+    "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+    "https://arxiv.org/abs/2609.22161",
+    "https://arxiv.org/abs/2609.22277",
+    "https://arxiv.org/abs/2609.22353",
+    "https://arxiv.org/abs/2609.22408",
+    "https://arxiv.org/abs/2609.22410",
+    "https://arxiv.org/abs/2609.25006",
+    "https://arxiv.org/abs/2609.25008",
+    "https://arxiv.org/abs/2609.25009",
+    "https://arxiv.org/abs/2609.25012",
+    "https://arxiv.org/abs/2609.25028"
+  ]
+}
