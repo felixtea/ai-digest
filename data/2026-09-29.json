@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-09-29",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Shopify Extends Checkout Access to AI Agents",
+          "zh": "Shopify 向 AI 代理开放结账功能"
+        },
+        "tl_dr": {
+          "en": "Shopify has expanded WebMCP support to its checkout process, enabling browser-based AI agents to update order details and complete purchases with buyer authorization.",
+          "zh": "Shopify 已将其 WebMCP 支持扩展至结账流程，允许基于浏览器的 AI 代理在买家授权下更新订单详情并完成购买。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Shopify is integrating WebMCP support into its checkout system.",
+            "This enables browser-based AI agents to interact with the checkout process.",
+            "Agents can update order details and complete purchases, requiring buyer authorization."
+          ],
+          "zh": [
+            "Shopify 正在将 WebMCP 支持集成到其结账系统。",
+            "这使得基于浏览器的 AI 代理能够与结账流程进行交互。",
+            "代理可以更新订单详情并完成购买，但需要买家授权。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates a growing trend of AI agents gaining transactional capabilities within e-commerce platforms, potentially streamlining online shopping workflows. It also highlights the importance of user authorization in autonomous agent operations.",
+          "zh": "这一发展表明 AI 代理在电子商务平台中获得交易能力的趋势日益增长，可能简化在线购物流程。它也强调了用户授权在自主代理操作中的重要性。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Unveils New Gemini 3.8 Live Models",
+          "zh": "Google DeepMind 发布全新 Gemini 3.8 Live 模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind announced the introduction of Gemini 3.8 Live, including Live Avatar and 3.8 Live Extended Thinking capabilities.",
+          "zh": "Google DeepMind 宣布推出 Gemini 3.8 Live，同时引入 Live Avatar 和 3.8 Live Extended Thinking 功能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The debut of Gemini 3.8 Live.",
+            "Integration of Live Avatar functionality.",
+            "Introduction of 3.8 Live Extended Thinking."
+          ],
+          "zh": [
+            "Gemini 3.8 Live 模型的首次亮相。",
+            "Live Avatar 功能的整合。",
+            "3.8 Live Extended Thinking 的推出。"
+          ]
+        },
+        "impact": {
+          "en": "The release of updated Gemini models by Google DeepMind signifies continued innovation within its AI portfolio, contributing to the evolving landscape of artificial intelligence.",
+          "zh": "Google DeepMind 更新 Gemini 模型的发布，表明其人工智能产品组合的持续创新，并推动人工智能领域的进一步发展。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+      },
+      {
+        "title": {
+          "en": "DeepMind Maps 9 Billion DNA Variants with AlphaGenome Atlas",
+          "zh": "DeepMind 推出 AlphaGenome Atlas，绘制 90 亿 DNA 变异图谱"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has developed AlphaGenome Atlas, a tool that maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "zh": "Google DeepMind 开发了 AlphaGenome Atlas，该工具能够绘制人类基因组中 90 亿个单字母 DNA 变异的分子效应。"
+        },
+        "key_takeaways": {
+          "en": [
+            "AlphaGenome Atlas maps the molecular effects of DNA variants.",
+            "It covers 9 billion single-letter DNA variants.",
+            "The mapping is conducted across the entire human genome."
+          ],
+          "zh": [
+            "AlphaGenome Atlas 绘制 DNA 变异的分子效应。",
+            "该工具涵盖了 90 亿个单字母 DNA 变异。",
+            "映射范围是整个人类基因组。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides a comprehensive predictive map for DNA changes, which could significantly advance AI applications in genetic research and personalized medicine.",
+          "zh": "这一全面的 DNA 变化预测图谱，可能为人工智能在基因研究和个性化医疗中的应用带来重大进展。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "[AINews] The Future of Latent Space",
+          "zh": "[AINews] The Future of Latent Space"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/ainews-the-future-of-latent-space"
+      },
+      {
+        "title": {
+          "en": "Broadening access to Skala creates a faster path to predictive DFT",
+          "zh": "Broadening access to Skala creates a faster path to predictive DFT"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/"
+      },
+      {
+        "title": {
+          "en": "How Claude Watermarks AI-Generated Text",
+          "zh": "How Claude Watermarks AI-Generated Text"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/claude-watermarking"
+      },
+      {
+        "title": {
+          "en": "Advancing Private AI Compute with secure, server-side memory",
+          "zh": "Advancing Private AI Compute with secure, server-side memory"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.8 text-to-speech says hello",
+          "zh": "Gemini 3.8 text-to-speech says hello"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/how-we-will-do-better-for-australia",
+    "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "https://openai.com/form/codex-originals",
+    "https://openai.com/index/basis-tax-workbook-with-astra",
+    "https://openai.com/index/proaction",
+    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://huggingface.co/blog/Hcompany/holo4",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "https://huggingface.co/blog/evaleval-aisi",
+    "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+    "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+    "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+    "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+    "https://www.latent.space/p/thariq",
+    "https://www.latent.space/p/openrouter",
+    "https://www.latent.space/p/ainews-the-future-of-latent-space",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+    "https://simonwillison.net/2026/Sep/28/joedaroo/",
+    "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+    "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+    "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+    "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/",
+    "https://www.404media.co/the-end-of-privacy-is-here-with-kashmir-hill/",
+    "https://www.404media.co/humans-reading-copilot-prompts-images/",
+    "https://www.404media.co/alien-life-can-survive-on-this-tiny-moon-we-just-need-to-go-find-it/",
+    "https://www.404media.co/caleb-flynn-ai-love-song-for-mistress-played-at-murder-trial-is-most-excruciating-watch-in-recent-memory/",
+    "https://www.infoq.com/news/2026/09/aurora-dsql-foreign-keys/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/cobbledb-perplexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://github.com/firelex/jeff",
+    "https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html",
+    "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+    "https://lolchat.rip/",
+    "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+    "https://arxiv.org/abs/2609.30291",
+    "https://arxiv.org/abs/2609.30325",
+    "https://arxiv.org/abs/2609.30328",
+    "https://arxiv.org/abs/2609.30341",
+    "https://arxiv.org/abs/2609.30383",
+    "https://arxiv.org/abs/2609.30287",
+    "https://arxiv.org/abs/2609.30288",
+    "https://arxiv.org/abs/2609.30289",
+    "https://arxiv.org/abs/2609.30290",
+    "https://arxiv.org/abs/2609.30292"
+  ]
+}
