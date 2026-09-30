@@ -1,0 +1,165 @@
+{
+  "date_id": "2026-09-30",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI DevDay 2026 Features Over 20 Announcements",
+          "zh": "OpenAI 2026 年开发者大会发布逾 20 项公告"
+        },
+        "tl_dr": {
+          "en": "OpenAI announced over 20 updates at DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+          "zh": "OpenAI 在 2026 年开发者大会上发布了超过 20 项更新，其中包括 GPT-6 Astra、ChatGPT、Codex、API、安全及新的开发者工具。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Over 20 announcements were made during DevDay 2026.",
+            "Key updates included GPT-6 Astra, ChatGPT, and Codex.",
+            "Further announcements covered APIs, security enhancements, and new tools for builders."
+          ],
+          "zh": [
+            "2026 年开发者大会期间共发布了超过 20 项公告。",
+            "主要更新包括 GPT-6 Astra、ChatGPT 和 Codex。",
+            "其他公告涵盖了 API、安全增强功能以及面向开发者的工具。"
+          ]
+        },
+        "impact": {
+          "en": "The breadth of over 20 announcements, spanning models, APIs, and developer tools, indicates OpenAI's continued expansion of its AI ecosystem for developers and platform security.",
+          "zh": "此次涵盖模型、API 和开发者工具的 20 余项公告，表明 OpenAI 持续扩展其面向开发者的 AI 生态系统和平台安全性。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/devday-2026-recap"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "zh": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Sep/29/hn-49898129/"
+      },
+      {
+        "title": {
+          "en": "Open-Source AI & Open Models Reading List",
+          "zh": "Open-Source AI & Open Models Reading List"
+        },
+        "source": "Interconnects",
+        "link": "https://www.interconnects.ai/p/open-source-ai-reading-list"
+      },
+      {
+        "title": {
+          "en": "How Claude Watermarks AI-Generated Text",
+          "zh": "How Claude Watermarks AI-Generated Text"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/claude-watermarking"
+      },
+      {
+        "title": {
+          "en": "Introducing GPT-6.1 Sol",
+          "zh": "Introducing GPT-6.1 Sol"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-gpt-6-1-sol"
+      },
+      {
+        "title": {
+          "en": "Towards safety cases for frontier AI training",
+          "zh": "Towards safety cases for frontier AI training"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/introducing-gpt-6-1-sol",
+    "https://openai.com/index/devday-2026-recap",
+    "https://openai.com/index/introducing-dots",
+    "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "https://openai.com/index/how-we-will-do-better-for-australia",
+    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "https://huggingface.co/blog/Hcompany/holo4",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "https://huggingface.co/blog/evaleval-aisi",
+    "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+    "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+    "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+    "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+    "https://www.latent.space/p/thariq",
+    "https://www.latent.space/p/openrouter",
+    "https://www.latent.space/p/ainews-the-future-of-latent-space",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+    "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+    "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+    "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+    "https://simonwillison.net/2026/Sep/28/joedaroo/",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+    "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+    "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "https://www.404media.co/loudest-birds-in-the-world/",
+    "https://www.404media.co/surveillance-finds-a-way/",
+    "https://www.404media.co/surveillance-company-tells-cops-it-wants-to-add-facial-recognition-to-flock-cameras/",
+    "https://www.404media.co/these-tech-workers-made-chatgpt-drive-a-toyota-corolla/",
+    "https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/",
+    "https://www.infoq.com/news/2026/09/aurora-dsql-foreign-keys/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/cobbledb-perplexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://github.com/ninjahawk/livenerf",
+    "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+    "https://america.gov/",
+    "https://space.bl2.net/",
+    "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "https://arxiv.org/abs/2609.30291",
+    "https://arxiv.org/abs/2609.30325",
+    "https://arxiv.org/abs/2609.30328",
+    "https://arxiv.org/abs/2609.30341",
+    "https://arxiv.org/abs/2609.30383"
+  ]
+}
