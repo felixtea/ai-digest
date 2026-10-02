@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-10-02",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "AI Models Demonstrate Advanced Cyber Capabilities in Security Benchmarks",
+          "zh": "AI模型在安全基准测试中展示高级网络攻击能力"
+        },
+        "tl_dr": {
+          "en": "GLM-5.3 and Claude Mythos Preview models demonstrated the ability to execute full control flow hijacks in an internal binary exploitation benchmark.",
+          "zh": "GLM-5.3和Claude Mythos Preview模型在内部二进制漏洞利用基准测试中成功实现了完整的控制流劫持。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Models were evaluated on 100 randomly selected tasks from an internal Binary Exploitation benchmark.",
+            "GLM-5.3 developed full control flow hijacks in 4% of the trials.",
+            "Claude Mythos Preview achieved full control flow hijacks in 6% of the trials."
+          ],
+          "zh": [
+            "模型在内部二进制漏洞利用基准测试的100项随机选择任务中进行了评估。",
+            "GLM-5.3在4%的测试中开发了完整的控制流劫持。",
+            "Claude Mythos Preview在6%的测试中实现了完整的控制流劫持。"
+          ]
+        },
+        "impact": {
+          "en": "This development indicates that advanced AI models are acquiring sophisticated cyber capabilities, posing potential implications for cybersecurity and the development of secure AI systems.",
+          "zh": "这一进展表明先进AI模型正获得复杂的网络能力，对网络安全及安全AI系统的开发具有重要影响。"
+        },
+        "source": "Anthropic Frontier Red Team",
+        "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
+      },
+      {
+        "title": {
+          "en": "Google Develops AI Watermarking for Designed Proteins",
+          "zh": "谷歌开发人工智能设计蛋白质水印技术"
+        },
+        "tl_dr": {
+          "en": "Google has developed a method to watermark AI-designed proteins, intended to help with biosecurity.",
+          "zh": "谷歌开发了一种为人工智能设计蛋白质添加水印的方法，旨在协助生物安全。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The method is applied to AI-designed proteins.",
+            "It is intended to help with biosecurity efforts.",
+            "It functions with a popular AI protein design tool."
+          ],
+          "zh": [
+            "该方法应用于人工智能设计的蛋白质。",
+            "其目的是协助生物安全工作。",
+            "它可与一款流行的人工智能蛋白质设计工具配合使用。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides a mechanism to identify the origin of AI-generated biological material, addressing potential risks in biosecurity and the responsible use of AI in biological design.",
+          "zh": "这一发展提供了一种识别AI生成生物材料来源的机制，从而应对生物安全领域的潜在风险和人工智能在生物设计中的负责任使用。"
+        },
+        "source": "Ars Technica (AI)",
+        "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
+      },
+      {
+        "title": {
+          "en": "AWS Aurora DSQL Adds Foreign Key Constraints",
+          "zh": "AWS Aurora DSQL 新增外键约束"
+        },
+        "tl_dr": {
+          "en": "AWS announced support for foreign key constraints in Aurora DSQL, enabling direct enforcement of referential integrity including CASCADE and SET NULL actions.",
+          "zh": "AWS 宣布 Aurora DSQL 现已支持外键约束，允许应用程序直接在数据库中强制执行参照完整性，包括 CASCADE 和 SET NULL 等参照动作。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Aurora DSQL now supports foreign key constraints.",
+            "Referential integrity can be enforced directly within the database.",
+            "Supported referential actions include CASCADE and SET NULL."
+          ],
+          "zh": [
+            "Aurora DSQL 现已支持外键约束。",
+            "参照完整性现在可以直接在数据库中强制执行。",
+            "支持的参照动作包括 CASCADE 和 SET NULL。"
+          ]
+        },
+        "impact": {
+          "en": "This enhancement improves data integrity within Aurora DSQL, which is critical for applications that rely on consistent and accurate datasets, including those utilized in AI/ML workflows for data storage and feature management. It addresses a previous adoption barrier by ensuring foundational data quality.",
+          "zh": "此项增强提升了 Aurora DSQL 的数据完整性，这对于依赖一致准确数据集的应用程序至关重要，包括在AI/ML工作流中用于数据存储和特征管理的系统。它通过确保基础数据质量，解决了此前的一个采用障碍。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/09/aurora-dsql-foreign-keys/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "The eternal complement",
+          "zh": "The eternal complement"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/the-eternal-complement"
+      },
+      {
+        "title": {
+          "en": "Introducing SynthID Bio",
+          "zh": "Introducing SynthID Bio"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-synthid-bio/"
+      },
+      {
+        "title": {
+          "en": "Advancing Private AI Compute with secure, server-side memory",
+          "zh": "Advancing Private AI Compute with secure, server-side memory"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.8 text-to-speech says hello",
+          "zh": "Gemini 3.8 text-to-speech says hello"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+      },
+      {
+        "title": {
+          "en": "Disrupting a coordinated model-distillation campaign",
+          "zh": "Disrupting a coordinated model-distillation campaign"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/the-eternal-complement",
+    "https://openai.com/index/albertsons-reimagining-retail",
+    "https://openai.com/index/the-den-family-social",
+    "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "https://deepmind.google/blog/introducing-synthid-bio/",
+    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "https://huggingface.co/blog/allenai/olmocore3",
+    "https://huggingface.co/blog/open-tts-leaderboard",
+    "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "https://huggingface.co/blog/Hcompany/holo4",
+    "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+    "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+    "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+    "https://www.latent.space/p/rlm",
+    "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+    "https://www.latent.space/p/devday-2026",
+    "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+    "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://simonwillison.net/2026/Oct/1/matthew-green/",
+    "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+    "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+    "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+    "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+    "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+    "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "https://www.404media.co/everything-but-censorship-cornell-seven-case/",
+    "https://www.404media.co/how-schools-and-universities-try-to-censor-student-journalists/",
+    "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+    "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+    "https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/",
+    "https://www.infoq.com/news/2026/10/typesafe-ai-jev-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/container-apps-express-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/onlinecohorts-ai-certifications/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/agentic-refactoring-case-study/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/09/aurora-dsql-foreign-keys/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://earendil.com/posts/pi-1-0/",
+    "https://lwn.net/Articles/1097401/",
+    "https://blog.cloudflare.com/clef-decision-models/",
+    "https://svelte.dev/blog/sveltekit-3-is-here",
+    "https://news.ycombinator.com/item?id=49922569",
+    "https://arxiv.org/abs/2609.38282",
+    "https://arxiv.org/abs/2609.38288",
+    "https://arxiv.org/abs/2609.38294",
+    "https://arxiv.org/abs/2609.38296",
+    "https://arxiv.org/abs/2609.38340",
+    "https://arxiv.org/abs/2609.38181",
+    "https://arxiv.org/abs/2609.38201",
+    "https://arxiv.org/abs/2609.38203",
+    "https://arxiv.org/abs/2609.38205",
+    "https://arxiv.org/abs/2609.38219"
+  ]
+}
