@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-10-03",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Linux on M4 Encounters 'Forgetful CPU' Phenomenon",
+          "zh": "M4芯片运行Linux遭遇“善忘CPU”现象"
+        },
+        "tl_dr": {
+          "en": "A blog post identifies an issue, termed 'The Forgetful CPU,' affecting Linux installations on Apple M4 chips.",
+          "zh": "一篇博客文章指出，在苹果M4芯片上安装Linux时，存在一个被称为“善忘CPU”的问题。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The reported issue is termed 'The Forgetful CPU.'",
+            "The problem occurs when running Linux.",
+            "The affected hardware platform is the M4 chip."
+          ],
+          "zh": [
+            "报告的问题被称为“善忘CPU”。",
+            "该问题在运行Linux时出现。",
+            "受影响的硬件平台是M4芯片。"
+          ]
+        },
+        "impact": {
+          "en": "This indicates potential challenges for developers and users aiming to install and operate Linux on the latest Apple M4 hardware, which could affect advanced computing applications including those in AI research and development. Further investigation into the CPU's behavior may be required.",
+          "zh": "这表明开发者和用户在最新苹果M4硬件上安装和运行Linux可能面临潜在挑战，这可能会影响包括人工智能研究与开发在内的先进计算应用。可能需要对CPU的行为进行进一步调查。"
+        },
+        "source": "Hacker News",
+        "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html"
+      },
+      {
+        "title": {
+          "en": "Advanced AI Models Exhibit Control Flow Hijack Capability",
+          "zh": "先进人工智能模型具备控制流劫持能力"
+        },
+        "tl_dr": {
+          "en": "Evaluations against an internal benchmark reveal that AI models GLM-5.3 and Claude Mythos Preview can achieve full control flow hijacks in 4% and 6% of binary exploitation tasks, respectively, marking a new capability threshold.",
+          "zh": "对内部基准的评估显示，人工智能模型GLM-5.3和Claude Mythos Preview分别在4%和6%的二进制利用任务中实现了完全的控制流劫持，这标志着一项新能力门槛的跨越。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Models were evaluated on 100 tasks from an internal Binary Exploitation benchmark.",
+            "GLM-5.3 developed full control flow hijacks in 4% of the trials.",
+            "Claude Mythos Preview achieved full control flow hijacks in 6% of the trials."
+          ],
+          "zh": [
+            "模型在包含100项任务的内部二进制利用基准上进行了评估。",
+            "GLM-5.3在4%的测试中成功实现了完全的控制流劫持。",
+            "Claude Mythos Preview在6%的测试中成功实现了完全的控制流劫持。"
+          ]
+        },
+        "impact": {
+          "en": "This demonstrated ability to perform control flow hijacks signifies a notable advancement in AI model capabilities, carrying implications for both offensive and defensive cybersecurity strategies and the broader deployment of intelligent autonomous agents.",
+          "zh": "这种执行控制流劫持的能力表明人工智能模型能力取得了显著进展，对攻防网络安全策略以及智能自主agent的更广泛部署均具有影响。"
+        },
+        "source": "Simon Willison (quoting Anthropic Frontier Red Team)",
+        "link": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
+      },
+      {
+        "title": {
+          "en": "Microsoft System Forecasts Space Weather Impact on Power Grids",
+          "zh": "微软系统预测空间天气对电网影响"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research developed a new machine learning system capable of predicting localized power grid damage 30-60 minutes before extreme space-weather events.",
+          "zh": "微软研究院开发了一种新的机器学习系统，能够在极端空间天气事件发生前30-60分钟预测局部电网损坏。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The system forecasts potential damage to power systems on Earth.",
+            "It can also predict degradation in GPS accuracy and satellite operations.",
+            "Predictions are made 30-60 minutes before a storm arrives."
+          ],
+          "zh": [
+            "该系统可预测地球上电力系统的潜在损害。",
+            "它还能预测GPS精度和卫星操作的退化。",
+            "预测在风暴来临前30-60分钟做出。"
+          ]
+        },
+        "impact": {
+          "en": "This application demonstrates the use of machine learning in critical infrastructure protection, providing early warning for natural phenomena with potentially severe consequences.",
+          "zh": "这一应用展示了机器学习在关键基础设施保护中的作用，为可能导致严重后果的自然现象提供了早期预警。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "zh": "AutoSynthData: Generating Training Data for Enterprise Agents"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+      },
+      {
+        "title": {
+          "en": "How Claude Watermarks AI-Generated Text",
+          "zh": "How Claude Watermarks AI-Generated Text"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/claude-watermarking"
+      },
+      {
+        "title": {
+          "en": "A model guide for the GPT-6 family",
+          "zh": "A model guide for the GPT-6 family"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/practical-guide-building-gpt-6"
+      },
+      {
+        "title": {
+          "en": "Introducing SynthID Bio",
+          "zh": "Introducing SynthID Bio"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-synthid-bio/"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.8 text-to-speech says hello",
+          "zh": "Gemini 3.8 text-to-speech says hello"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/practical-guide-building-gpt-6",
+    "https://openai.com/index/chatham-financial",
+    "https://openai.com/index/the-eternal-complement",
+    "https://openai.com/index/albertsons-reimagining-retail",
+    "https://openai.com/index/the-den-family-social",
+    "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "https://deepmind.google/blog/introducing-synthid-bio/",
+    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "https://huggingface.co/blog/allenai/astabrief",
+    "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "https://huggingface.co/blog/open-tts-leaderboard",
+    "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+    "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+    "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+    "https://www.latent.space/p/airbnb",
+    "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+    "https://www.latent.space/p/rlm",
+    "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+    "https://www.latent.space/p/devday-2026",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://simonwillison.net/2026/Oct/1/matthew-green/",
+    "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+    "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+    "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+    "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+    "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+    "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/",
+    "https://www.404media.co/podcast-the-fbi-was-hacked-weve-seen-the-data/",
+    "https://www.404media.co/behind-the-blog-freaking-out/",
+    "https://www.404media.co/everything-but-censorship-cornell-seven-case/",
+    "https://www.404media.co/how-schools-and-universities-try-to-censor-student-journalists/",
+    "https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/qconsf-2026-sessions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/docker-sandbox-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/digitalocean-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+    "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "https://www.newgrounds.com/",
+    "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+    "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+    "https://arxiv.org/abs/2610.00010",
+    "https://arxiv.org/abs/2610.00012",
+    "https://arxiv.org/abs/2610.00015",
+    "https://arxiv.org/abs/2610.00018",
+    "https://arxiv.org/abs/2610.00025",
+    "https://arxiv.org/abs/2609.38181",
+    "https://arxiv.org/abs/2609.38201",
+    "https://arxiv.org/abs/2609.38203",
+    "https://arxiv.org/abs/2609.38205",
+    "https://arxiv.org/abs/2609.38219"
+  ]
+}
