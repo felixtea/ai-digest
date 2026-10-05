@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-10-05",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Machine Learning Predicts Space Weather Impact on Power Grids",
+          "zh": "机器学习预测空间天气对电网影响"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research developed a machine learning system to predict localized power grid damage from space weather 30-60 minutes in advance.",
+          "zh": "微软研究院开发了一种机器学习系统，可在空间天气事件发生前30-60分钟预测电网可能受损的区域。"
+        },
+        "key_takeaways": {
+          "en": [
+            "A new machine learning system is employed.",
+            "The system predicts specific locations of potential power grid damage.",
+            "Predictions are generated 30-60 minutes prior to a storm's arrival."
+          ],
+          "zh": [
+            "采用了新的机器学习系统。",
+            "该系统能够预测电网可能受损的具体区域。",
+            "预测在风暴抵达前30-60分钟生成。"
+          ]
+        },
+        "impact": {
+          "en": "This system offers a critical window for mitigating damage to power systems and related infrastructure, such as GPS accuracy and satellite operations, from extreme space-weather events.",
+          "zh": "该系统为减轻极端空间天气事件对电力系统以及GPS精度和卫星运行等相关基础设施的损害提供了关键的应对窗口。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/"
+      },
+      {
+        "title": {
+          "en": "Global AI Investment Projected to Reach $2.5 Trillion by 2026",
+          "zh": "全球人工智能投资预计2026年达2.5万亿美元"
+        },
+        "tl_dr": {
+          "en": "Global AI investment is projected to reach $2.5 trillion in 2026, representing a 44% increase from the previous year.",
+          "zh": "全球人工智能投资预计在2026年达到2.5万亿美元，比上一年增长44%。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Global AI investment is forecast to reach $2.5 trillion by 2026.",
+            "This figure represents a 44% increase in investment from the preceding year.",
+            "AI model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall."
+          ],
+          "zh": [
+            "全球人工智能投资预计到2026年将达到2.5万亿美元。",
+            "这一数字比前一年增长了44%。",
+            "人工智能模型能力的发展速度已超越多数组织的吸收能力，同时性能成本持续下降。"
+          ]
+        },
+        "impact": {
+          "en": "The substantial increase in global AI investment underscores the rapid operationalization of enterprise AI and its accelerated integration into business processes. This indicates a maturing market where AI capabilities are advancing at a pace that often outstrips organizations' absorption capacity.",
+          "zh": "全球人工智能投资的大幅增长突显了企业AI的快速运营化及其在业务流程中的加速整合。这表明市场正在成熟，其中AI能力的增长速度已超越许多组织的吸收能力。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
+      },
+      {
+        "title": {
+          "en": "AI Content Watermarking Explored Across Text and Biology",
+          "zh": "探索AI生成内容的水印技术：涵盖文本与生物领域"
+        },
+        "tl_dr": {
+          "en": "Advances in AI watermarking enable identification of generated content in both natural language and biological domains.",
+          "zh": "AI水印技术取得进展，能够在自然语言和生物领域识别生成内容。"
+        },
+        "key_takeaways": {
+          "en": [
+            "A 48-minute video provides a walkthrough of token sampling, watermark detection, and removal for AI-generated text.",
+            "AI protein watermarking aims to enhance biosecurity.",
+            "The protein watermarking method is compatible with a popular AI protein design tool."
+          ],
+          "zh": [
+            "一段48分钟的视频详细介绍了AI生成文本的令牌采样、水印检测和移除过程。",
+            "AI蛋白质水印技术旨在加强生物安全。",
+            "蛋白质水印方法与流行的AI蛋白质设计工具兼容。"
+          ]
+        },
+        "impact": {
+          "en": "The ability to identify AI-generated content through watermarking provides mechanisms for content provenance and biosecurity, addressing concerns about authenticity and misuse across various applications.",
+          "zh": "通过水印技术识别AI生成内容的能力，为内容溯源和生物安全提供了机制，解决了不同应用中对真实性和滥用的担忧。"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/claude-watermarking"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "zh": "AutoSynthData: Generating Training Data for Enterprise Agents"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+      },
+      {
+        "title": {
+          "en": "Introducing SynthID Bio",
+          "zh": "Introducing SynthID Bio"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-synthid-bio/"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.8 text-to-speech says hello",
+          "zh": "Gemini 3.8 text-to-speech says hello"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+      },
+      {
+        "title": {
+          "en": "Advancing Private AI Compute with secure, server-side memory",
+          "zh": "Advancing Private AI Compute with secure, server-side memory"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+      },
+      {
+        "title": {
+          "en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+          "zh": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/open-tts-leaderboard"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/practical-guide-building-gpt-6",
+    "https://openai.com/index/chatham-financial",
+    "https://openai.com/index/the-eternal-complement",
+    "https://openai.com/index/albertsons-reimagining-retail",
+    "https://openai.com/index/the-den-family-social",
+    "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "https://deepmind.google/blog/introducing-synthid-bio/",
+    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "https://huggingface.co/blog/microsoft/thinkingbox",
+    "https://huggingface.co/blog/allenai/astabrief",
+    "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "https://huggingface.co/blog/open-tts-leaderboard",
+    "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+    "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+    "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+    "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+    "https://www.latent.space/p/airbnb",
+    "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+    "https://www.latent.space/p/rlm",
+    "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "https://simonwillison.net/2026/Oct/3/newsletter/",
+    "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+    "https://simonwillison.net/2026/Oct/1/matthew-green/",
+    "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+    "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+    "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "https://www.404media.co/our-solar-system-is-terminally-unstable-and-will-be-completely-destroyed-study-finds/",
+    "https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/",
+    "https://www.404media.co/podcast-the-fbi-was-hacked-weve-seen-the-data/",
+    "https://www.404media.co/behind-the-blog-freaking-out/",
+    "https://www.404media.co/everything-but-censorship-cornell-seven-case/",
+    "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/qconsf-2026-sessions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+    "https://github.com/Niko1221/Strata",
+    "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+    "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+    "https://plicerin.github.io/riverraid-rom-port/"
+  ]
+}
