@@ -1,0 +1,160 @@
+{
+  "date_id": "2026-10-06",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Enterprise AI Investment Forecast to Reach $2.5 Trillion by 2026 Amid Rapid Advancements",
+          "zh": "企业AI投资预计2026年达2.5万亿美元，技术快速发展"
+        },
+        "tl_dr": {
+          "en": "Global AI investment is projected to reach $2.5 trillion by 2026, marking a 44% increase from the prior year, as enterprise AI becomes fully operational with rapidly advancing model capabilities.",
+          "zh": "随着企业AI全面投入运营且模型能力快速提升，全球AI投资预计将在2026年达到2.5万亿美元，比上一年增长44%。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Global AI investment is projected to reach $2.5 trillion in 2026.",
+            "This represents a 44% increase in investment from the previous year.",
+            "Model capabilities are advancing at a pace exceeding many organizations' absorption capacity."
+          ],
+          "zh": [
+            "全球AI投资预计在2026年达到2.5万亿美元。",
+            "这比前一年的投资增长了44%。",
+            "模型能力进步速度超过了多数组织的吸收能力。"
+          ]
+        },
+        "impact": {
+          "en": "The substantial increase in AI investment and the acceleration of model capabilities indicate a rapid operationalization of AI within enterprises. This trend suggests that AI is moving from a future ambition to a current imperative, driving significant shifts in business operations and technology adoption.",
+          "zh": "AI投资的显著增长和模型能力的加速发展表明AI正在企业内部迅速落地。这一趋势预示着AI正从未来的愿景转变为当前的必然，将推动业务运营和技术采纳方式发生重大转变。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "The eternal complement",
+          "zh": "The eternal complement"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/the-eternal-complement"
+      },
+      {
+        "title": {
+          "en": "How Claude Watermarks AI-Generated Text",
+          "zh": "How Claude Watermarks AI-Generated Text"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/claude-watermarking"
+      },
+      {
+        "title": {
+          "en": "A model guide for the GPT-6 family",
+          "zh": "A model guide for the GPT-6 family"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/practical-guide-building-gpt-6"
+      },
+      {
+        "title": {
+          "en": "Introducing SynthID Bio",
+          "zh": "Introducing SynthID Bio"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-synthid-bio/"
+      },
+      {
+        "title": {
+          "en": "Gemini 3.8 text-to-speech says hello",
+          "zh": "Gemini 3.8 text-to-speech says hello"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/eu-text-provenance",
+    "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "https://openai.com/index/practical-guide-building-gpt-6",
+    "https://openai.com/index/chatham-financial",
+    "https://openai.com/index/the-eternal-complement",
+    "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "https://deepmind.google/blog/introducing-synthid-bio/",
+    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "https://huggingface.co/blog/microsoft/thinkingbox",
+    "https://huggingface.co/blog/allenai/astabrief",
+    "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "https://huggingface.co/blog/open-tts-leaderboard",
+    "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+    "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+    "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+    "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+    "https://www.latent.space/p/airbnb",
+    "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+    "https://www.latent.space/p/rlm",
+    "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+    "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "https://simonwillison.net/2026/Oct/3/newsletter/",
+    "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+    "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+    "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+    "https://www.404media.co/muse-escapes-containment/",
+    "https://www.404media.co/arxiv-is-rate-limiting-submissions-because-it-cant-keep-up-with-ai-slop/",
+    "https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/",
+    "https://www.404media.co/our-solar-system-is-terminally-unstable-and-will-be-completely-destroyed-study-finds/",
+    "https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/",
+    "https://www.infoq.com/news/2026/10/ai-spec-driven-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://reflection.ai/blog/introducing-beam",
+    "https://flattensf.com/",
+    "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+    "https://qlabs.sh/research/dust",
+    "https://edworkingpapers.com/ai26-1551"
+  ]
+}
