@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-10-13",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Industrial AI Enters New Phase with Foundation Models",
+          "zh": "工业AI迈入新阶段：基础模型推动工业自动化升级"
+        },
+        "tl_dr": {
+          "en": "Advances in foundation models, physical AI, and agentic AI are enabling more complex task automation in industrial environments, moving beyond traditional predictive analytics.",
+          "zh": "基础模型、物理AI和智能体AI的进步正使工业环境中更复杂的任务自动化成为可能，超越了传统的预测分析应用。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Industrial AI is entering a new phase, driven by advances in foundation models, physical AI, and agentic AI.",
+            "These developments enable the automation of more complex tasks across industrial environments, beyond specialized applications like predictive analytics.",
+            "Industrial AI is characterized by its ability to interact directly with physical systems, unlike purely digital AI."
+          ],
+          "zh": [
+            "工业AI正进入新阶段，由基础模型、物理AI和智能体AI的进步所驱动。",
+            "这些进展使得工业环境中更复杂的任务自动化成为可能，超越了预测分析等专业应用。",
+            "与纯数字AI不同，工业AI的特点是能够直接与物理系统进行交互。"
+          ]
+        },
+        "impact": {
+          "en": "This shift expands AI's application scope from digital processes to real-world physical operations, requiring new considerations for safety and reliability in autonomous industrial systems.",
+          "zh": "这一转变将AI的应用范围从数字流程扩展到现实世界的物理操作，对自主工业系统的安全性与可靠性提出了新的考量。"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
+      },
+      {
+        "title": {
+          "en": "DeepMind Develops AI Protein Watermarking Concept",
+          "zh": "DeepMind 推出 AI 蛋白质水印概念"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind has introduced SynthID Bio, a proof of concept for watermarking AI-generated proteins while preserving their biological function.",
+          "zh": "Google DeepMind 推出 SynthID Bio，这是一个在保留生物功能的同时为 AI 生成蛋白质添加水印的概念验证项目。"
+        },
+        "key_takeaways": {
+          "en": [
+            "SynthID Bio is presented as a proof of concept.",
+            "Its core function is watermarking AI-generated proteins.",
+            "The watermarking process is designed to preserve the biological function of the proteins."
+          ],
+          "zh": [
+            "SynthID Bio 被展示为一个概念验证项目。",
+            "其核心功能是为 AI 生成的蛋白质添加水印。",
+            "该水印过程旨在保留蛋白质的生物功能。"
+          ]
+        },
+        "impact": {
+          "en": "This development provides a method for identifying the origin of AI-generated biological material, which could be relevant for intellectual property and safety in biotechnological applications.",
+          "zh": "这项进展提供了一种识别 AI 生成生物材料来源的方法，可能对生物技术应用中的知识产权和安全性产生影响。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-synthid-bio/"
+      },
+      {
+        "title": {
+          "en": "Machine Learning Predicts Space Weather Impact on Power Grids",
+          "zh": "机器学习预测太空天气对电网影响"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research has developed a new machine learning system capable of predicting likely damage locations on power systems 30-60 minutes before an extreme space-weather event.",
+          "zh": "微软研究院开发了一种新的机器学习系统，能够在极端太空天气事件发生前30-60分钟，预测电网可能受损的区域。"
+        },
+        "key_takeaways": {
+          "en": [
+            "A new machine learning system is employed.",
+            "The system forecasts damage likelihood on power systems.",
+            "Predictions are made 30-60 minutes in advance of a storm's arrival."
+          ],
+          "zh": [
+            "采用了新的机器学习系统。",
+            "该系统能够预测电网可能发生损坏的区域。",
+            "预测可在风暴到达前30-60分钟进行。"
+          ]
+        },
+        "impact": {
+          "en": "This application of machine learning offers a practical capability for critical infrastructure protection, demonstrating AI's role in enhancing predictive capabilities for complex natural phenomena.",
+          "zh": "这项机器学习应用为关键基础设施保护提供了实际能力，展示了人工智能在增强复杂自然现象预测能力方面的作用。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "LegalOn halves Codex costs while maintaining development speed",
+          "zh": "LegalOn halves Codex costs while maintaining development speed"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/legalon-halves-codex-costs"
+      },
+      {
+        "title": {
+          "en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "zh": "EmbeddingGemma 2: an open, lightweight multimodal embedding model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+      },
+      {
+        "title": {
+          "en": "Gemini 4 Argon: our next era of frontier intelligence",
+          "zh": "Gemini 4 Argon: our next era of frontier intelligence"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+      },
+      {
+        "title": {
+          "en": "Advancing Private AI Compute with secure, server-side memory",
+          "zh": "Advancing Private AI Compute with secure, server-side memory"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+      },
+      {
+        "title": {
+          "en": "AI existential risk probabilities are (still) too unreliable to inform policy",
+          "zh": "AI existential risk probabilities are (still) too unreliable to inform policy"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/p-doom"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/sophos",
+    "https://openai.com/index/asana-browser-agent",
+    "https://openai.com/index/oracle",
+    "https://openai.com/index/pollo-ai",
+    "https://openai.com/index/legalon-halves-codex-costs",
+    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "https://deepmind.google/blog/introducing-synthid-bio/",
+    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "https://huggingface.co/blog/building-with-ml-intern",
+    "https://huggingface.co/blog/LiquidAI/open-d1",
+    "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+    "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+    "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "https://www.latent.space/p/claude-dynamic-workflows",
+    "https://www.latent.space/p/nyc2026",
+    "https://www.latent.space/p/standard-bots",
+    "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+    "https://www.latent.space/p/biohub-deepmind",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://simonwillison.net/2026/Oct/12/python-3-15/",
+    "https://simonwillison.net/2026/Oct/12/web-edit/",
+    "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+    "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+    "https://simonwillison.net/2026/Oct/10/python-actions/",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+    "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+    "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "https://www.404media.co/cops-can-creep-on-airbnb/",
+    "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
+    "https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/",
+    "https://www.404media.co/following-404-media-investigation-senator-demands-info-about-white-houses-license-plate-surveillance-program/",
+    "https://www.404media.co/behind-the-blog-what-would-the-pope-do/",
+    "https://www.infoq.com/news/2026/10/spotify-ai-quality-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://jsomers.net/e-coli-chemotaxis/",
+    "https://z.ai/blog/glm-legal",
+    "https://arxiv.org/abs/2610.13928",
+    "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "https://prophitt.me/writing/a-modern-web-app-in-c",
+    "https://arxiv.org/abs/2610.12493",
+    "https://arxiv.org/abs/2610.12536",
+    "https://arxiv.org/abs/2610.12542",
+    "https://arxiv.org/abs/2610.12593",
+    "https://arxiv.org/abs/2610.12596",
+    "https://arxiv.org/abs/2610.12545",
+    "https://arxiv.org/abs/2610.12569",
+    "https://arxiv.org/abs/2610.12570",
+    "https://arxiv.org/abs/2610.12580",
+    "https://arxiv.org/abs/2610.12582"
+  ]
+}
