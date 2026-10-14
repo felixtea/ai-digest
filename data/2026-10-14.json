@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-10-14",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Develops Gemini 4 Argon, Emphasizing Safety",
+          "zh": "Google DeepMind 开发 Gemini 4 Argon，强调安全性"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind is developing Gemini 4 Argon, with an explicit focus on responsible and safe practices.",
+          "zh": "Google DeepMind 正在开发 Gemini 4 Argon，并明确关注负责任和安全的实践。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The model under development is identified as Gemini 4 Argon.",
+            "The development effort is being conducted by Google DeepMind.",
+            "A stated priority for the development process is responsibility and safety."
+          ],
+          "zh": [
+            "正在开发中的模型名称为 Gemini 4 Argon。",
+            "该开发工作由 Google DeepMind 进行。",
+            "开发过程中的一项明确重点是责任与安全。"
+          ]
+        },
+        "impact": {
+          "en": "The introduction of new foundational AI models by major developers like Google DeepMind advances the field, and a stated emphasis on safety may influence industry standards and expectations for future AI development.",
+          "zh": "Google DeepMind 等主要开发者推出新的基础人工智能模型推动了该领域的发展，其对安全性的明确强调可能会影响行业标准和未来人工智能开发的预期。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+      },
+      {
+        "title": {
+          "en": "Standard Bots AI Uses Real-World Feedback for Industrial Tasks",
+          "zh": "Standard Bots AI利用真实世界反馈处理工业任务"
+        },
+        "tl_dr": {
+          "en": "Standard Bots' AI stack employs pretrained models that learn factory tasks from demonstrations and improve through corrections from real industrial deployments.",
+          "zh": "Standard Bots的AI堆栈采用预训练模型，通过演示学习工厂任务，并利用实际工业部署中的纠正来提升其能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Standard Bots' AI stack utilizes pretrained models for task execution.",
+            "Models acquire factory tasks by learning from demonstrations.",
+            "AI performance is refined through corrections provided by real-world deployments."
+          ],
+          "zh": [
+            "Standard Bots的AI堆栈利用预训练模型执行任务。",
+            "模型通过演示学习工厂任务。",
+            "AI性能通过实际部署中提供的纠正进行改进。"
+          ]
+        },
+        "impact": {
+          "en": "This method combines initial supervised learning with iterative refinement in live industrial settings. It highlights a strategy for developing AI systems with enhanced reliability and adaptability for complex factory automation scenarios, potentially optimizing operational efficiency.",
+          "zh": "这种方法将初始的监督学习与实时工业环境中的迭代改进相结合。它强调了一种为复杂工厂自动化场景开发具有增强可靠性和适应性的AI系统的策略，可能优化操作效率。"
+        },
+        "source": "Latent Space",
+        "link": "https://www.latent.space/p/standard-bots"
+      },
+      {
+        "title": {
+          "en": "Anthropic Develops Custom Git Alternative for Code Management",
+          "zh": "Anthropic开发定制Git替代方案以管理代码"
+        },
+        "tl_dr": {
+          "en": "Anthropic developed its own custom source control system to replace Git, driven by a significant increase in its code change rate.",
+          "zh": "由于代码变更率显著增加，Anthropic开发了其自定义源代码控制系统以替代Git。"
+        },
+        "key_takeaways": {
+          "en": [
+            "In May 2026, Anthropic averaged approximately 2,500 code changes merged daily.",
+            "By September 2026, the daily merged code changes at Anthropic exceeded 30,000.",
+            "The custom source control system was built as an alternative to Git to manage this increased volume of changes."
+          ],
+          "zh": [
+            "2026年5月，Anthropic平均每天合并约2,500次代码变更。",
+            "截至2026年9月，Anthropic每日合并代码变更量超过30,000次。",
+            "为管理日益增长的变更量，该自定义源代码控制系统被构建为Git的替代方案。"
+          ]
+        },
+        "impact": {
+          "en": "This development indicates that large AI research organizations may require specialized infrastructure to handle rapid development cycles and high volumes of code changes, potentially influencing future software development practices in the AI sector.",
+          "zh": "这一发展表明，大型人工智能研究机构可能需要专门的基础设施来处理快速的开发周期和大量的代码变更，这可能影响人工智能领域未来的软件开发实践。"
+        },
+        "source": "Anthropic",
+        "link": "https://www.anthropic.com/engineering/redesigning-source-control"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "AI existential risk probabilities are (still) too unreliable to inform policy",
+          "zh": "AI existential risk probabilities are (still) too unreliable to inform policy"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/p-doom"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+          "zh": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      {
+        "title": {
+          "en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "zh": "EmbeddingGemma 2: an open, lightweight multimodal embedding model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+      },
+      {
+        "title": {
+          "en": "Higgsfield takes AI video from 1 minute to over 10",
+          "zh": "Higgsfield takes AI video from 1 minute to over 10"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/higgsfield-longer-videos-voice"
+      },
+      {
+        "title": {
+          "en": "Impactful scheduling for GPU clusters",
+          "zh": "Impactful scheduling for GPU clusters"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/allenai/impactful-scheduling"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/higgsfield-longer-videos-voice",
+    "https://openai.com/index/sophos",
+    "https://openai.com/index/asana-browser-agent",
+    "https://openai.com/index/oracle",
+    "https://openai.com/index/pollo-ai",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "https://huggingface.co/blog/building-with-ml-intern",
+    "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+    "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+    "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+    "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "https://www.latent.space/p/dyna",
+    "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+    "https://www.latent.space/p/claude-dynamic-workflows",
+    "https://www.latent.space/p/nyc2026",
+    "https://www.latent.space/p/standard-bots",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+    "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+    "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+    "https://simonwillison.net/2026/Oct/13/web-edit/",
+    "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+    "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+    "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+    "https://www.404media.co/dubstep-and-booktok-a-perfect-match/",
+    "https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/",
+    "https://www.404media.co/teslas-security-protocols-stopped-dhs-from-installing-a-tracking-device/",
+    "https://www.404media.co/cops-can-creep-on-airbnb/",
+    "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/spotify-ai-quality-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://deepmind.google/models/gemini/",
+    "https://guitoro.com/",
+    "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "https://www.anthropic.com/engineering/redesigning-source-control",
+    "https://www.apple.com/apple-homeview/",
+    "https://arxiv.org/abs/2610.12493",
+    "https://arxiv.org/abs/2610.12536",
+    "https://arxiv.org/abs/2610.12542",
+    "https://arxiv.org/abs/2610.12593",
+    "https://arxiv.org/abs/2610.12596",
+    "https://arxiv.org/abs/2610.12545",
+    "https://arxiv.org/abs/2610.12569",
+    "https://arxiv.org/abs/2610.12570",
+    "https://arxiv.org/abs/2610.12580",
+    "https://arxiv.org/abs/2610.12582"
+  ]
+}
