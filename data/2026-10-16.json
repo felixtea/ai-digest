@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-10-16",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Anthropic Redesigns Source Control for Rapid Code Changes",
+          "zh": "Anthropic为应对快速代码变更重构版本控制系统"
+        },
+        "tl_dr": {
+          "en": "Anthropic developed a custom source control system to manage a substantial increase in its code change rate, replacing its previous Git-based workflow.",
+          "zh": "Anthropic因代码更改率显著增加，开发了自定义版本控制系统，取代了之前的Git工作流程。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Anthropic developed a custom source control system, replacing Git.",
+            "In May 2026, the company averaged approximately 2,500 code changes merged daily.",
+            "By September, this daily average increased to over 30,000 code changes merged."
+          ],
+          "zh": [
+            "Anthropic开发了一个自定义版本控制系统，取代了Git。",
+            "2026年5月，该公司平均每天合并约2,500次代码更改。",
+            "截至9月，每日合并代码更改量增至30,000多次。"
+          ]
+        },
+        "impact": {
+          "en": "This development indicates that the extreme velocity of AI research and product iteration at leading labs can challenge the scalability of existing developer tools, necessitating bespoke engineering solutions.",
+          "zh": "这一发展表明，领先AI实验室极快的研发和产品迭代速度可能对现有开发者工具的可扩展性构成挑战，从而需要定制化的工程解决方案。"
+        },
+        "source": "Anthropic Engineering",
+        "link": "https://www.anthropic.com/engineering/redesigning-source-control"
+      },
+      {
+        "title": {
+          "en": "Amp Utilizes OpenAI Models to Expand AI Agent Capabilities",
+          "zh": "Amp 利用 OpenAI 模型扩展 AI 代理能力"
+        },
+        "tl_dr": {
+          "en": "Amp is deploying AI agents beyond traditional coding tasks by leveraging OpenAI's GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT models.",
+          "zh": "Amp 正通过利用 OpenAI 的 GPT-6 Astra、Ultrafast、GPT-Live-1 和 Sign in with ChatGPT 模型，将 AI 代理的应用范围扩展到编码以外的任务。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Amp is extending the application of AI agents to domains beyond code.",
+            "The initiative utilizes OpenAI models, specifically GPT-6 Astra, Ultrafast, and GPT-Live-1.",
+            "Integration includes the \"Sign in with ChatGPT\" feature."
+          ],
+          "zh": [
+            "Amp 正在将 AI 代理的应用扩展到编码之外的领域。",
+            "此举采用了 OpenAI 模型，具体包括 GPT-6 Astra、Ultrafast 和 GPT-Live-1。",
+            "整合还包括“使用 ChatGPT 登录”功能。"
+          ]
+        },
+        "impact": {
+          "en": "This development demonstrates an expansion of AI agent applications, moving beyond code-centric tasks. It indicates a broadening scope for AI models in diverse operational contexts.",
+          "zh": "这一进展表明 AI 代理应用正在扩展，超越了以代码为中心的任务。它预示着 AI 模型在不同操作环境中的应用范围将更广泛。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/amp-beyond-coding"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind, Singapore Partner on On-Device AI for Scam Detection",
+          "zh": "谷歌DeepMind与新加坡合作开发设备端AI反诈骗模型"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind and the Singapore Government collaborated to develop a fine-tuned, lightweight on-device Gemma AI model for detecting conversational scams in private chats without cloud data egress.",
+          "zh": "谷歌DeepMind与新加坡政府合作，开发了一款轻量级设备端Gemma AI模型，用于在私人聊天中检测对话式诈骗，且不涉及云数据外传。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The project is a collaboration between Google DeepMind and GovTech Singapore.",
+            "It utilizes lightweight on-device Gemma AI models.",
+            "The system detects conversational scams in private chats with zero cloud data egress, ensuring user privacy."
+          ],
+          "zh": [
+            "该项目由谷歌DeepMind与新加坡政府科技局（GovTech Singapore）合作进行。",
+            "其核心是使用轻量级的设备端Gemma AI模型。",
+            "该系统能在私人聊天中拦截对话式诈骗，且不产生任何云数据外传，保障用户隐私。"
+          ]
+        },
+        "impact": {
+          "en": "This collaboration demonstrates the application of on-device AI for privacy-sensitive applications like scam detection, showcasing a model for governments and AI developers to address public safety challenges while maintaining data confidentiality.",
+          "zh": "这项合作展示了设备端AI在隐私敏感应用（如诈骗检测）中的潜力，为政府和AI开发者提供了一个模型，以在解决公共安全挑战的同时维护数据机密性。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Controlling Reasoning Effort in LLMs",
+          "zh": "Controlling Reasoning Effort in LLMs"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms"
+      },
+      {
+        "title": {
+          "en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "zh": "Accelerating the search for antimicrobial peptides with Google Antigravity"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      },
+      {
+        "title": {
+          "en": "Gemini 4 Argon for Robotics",
+          "zh": "Gemini 4 Argon for Robotics"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      },
+      {
+        "title": {
+          "en": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "zh": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/meta-muse-spark-open"
+      },
+      {
+        "title": {
+          "en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "zh": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/allenai/hiro-acev2"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "https://openai.com/index/sullivan-cromwell",
+    "https://openai.com/index/amp-beyond-coding",
+    "https://openai.com/index/sentinelone",
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "https://huggingface.co/blog/meta-muse-spark-open",
+    "https://huggingface.co/blog/flux-3",
+    "https://huggingface.co/blog/allenai/hiro-acev2",
+    "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+    "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+    "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+    "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+    "https://www.latent.space/p/crossing-the-threshold",
+    "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+    "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+    "https://www.latent.space/p/dyna",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+    "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+    "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+    "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+    "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "https://www.404media.co/nidal-hasans-public-execution-is-off-but-propagandists-are-still-using-him-as-a-martyr/",
+    "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/",
+    "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+    "https://www.404media.co/chatgpt-ads-target-your-phone-number-email/",
+    "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+    "https://www.infoq.com/news/2026/10/meta-private-process-ai-glasses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/antigravity-sdk-local-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/spotify-ai-quality-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://research.meta.ai/blog/muse-spark-open",
+    "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+    "https://already-clean.goodfire.com/",
+    "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+    "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+    "https://arxiv.org/abs/2610.14005",
+    "https://arxiv.org/abs/2610.14115",
+    "https://arxiv.org/abs/2610.14118",
+    "https://arxiv.org/abs/2610.14136",
+    "https://arxiv.org/abs/2610.14146",
+    "https://arxiv.org/abs/2610.18881",
+    "https://arxiv.org/abs/2610.19003",
+    "https://arxiv.org/abs/2610.19021",
+    "https://arxiv.org/abs/2610.19026",
+    "https://arxiv.org/abs/2610.19028"
+  ]
+}
