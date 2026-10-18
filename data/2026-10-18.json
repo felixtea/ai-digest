@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-10-18",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Microsoft Develops AI Tutoring Simulator; OpenAI Expands Educator Programs",
+          "zh": "微软开发AI辅导模拟器; OpenAI拓展教育者项目"
+        },
+        "tl_dr": {
+          "en": "Microsoft Research developed StudentSim for evaluating and improving AI tutoring tools through student learning simulation, while OpenAI expanded its 'AI for Educators' program to Brazilian Portuguese and promoted its 'Study Mode' for active learning.",
+          "zh": "微软研究院开发了StudentSim研究系统，用于通过模拟学生学习来评估和改进AI辅导工具，而OpenAI则将“AI for Educators”项目扩展到巴西葡萄牙语，并推广其“学习模式”以支持主动学习。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Microsoft Research's StudentSim is a research system designed to evaluate and improve AI tutoring tools before real-world testing.",
+            "StudentSim models how individuals engage with tutors, providing feedback to enhance tutor performance across subjects like chess, writing, and mathematics.",
+            "OpenAI launched its 'AI for Educators' program in Brazilian Portuguese and highlighted 'Study Mode' for supporting active, step-by-step learning."
+          ],
+          "zh": [
+            "微软研究院的StudentSim是一个研究系统，旨在在实际测试前评估和改进AI辅导工具。",
+            "StudentSim模拟个体如何与辅导工具互动，为国际象棋、写作和数学等科目的辅导工具性能提供反馈。",
+            "OpenAI在巴西葡萄牙语中推出了“AI for Educators”项目，并强调“学习模式”支持主动、分步学习。"
+          ]
+        },
+        "impact": {
+          "en": "These developments indicate a continued focus within the AI industry on practical applications in education, aiming to improve AI tutoring effectiveness through simulation and expand AI-supported learning accessibility globally.",
+          "zh": "这些进展表明AI行业持续关注教育领域的实际应用，旨在通过模拟提高AI辅导的有效性，并扩大AI支持学习在全球范围内的可及性。"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind, Singapore Partner for On-Device AI Scam Detection",
+          "zh": "谷歌DeepMind与新加坡政府合作开发设备端AI诈骗检测"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind and GovTech Singapore collaborated to deploy lightweight, on-device Gemma AI models for detecting conversational scams in private chats without cloud data egress.",
+          "zh": "谷歌DeepMind与新加坡政府科技局合作部署轻量级设备端Gemma AI模型，用于在私人聊天中检测对话式诈骗，且不进行云数据外传。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The solution utilizes lightweight Gemma AI models, optimized for on-device operation.",
+            "The AI is designed to intercept conversational scams specifically within private chat environments.",
+            "The system operates entirely on-device, ensuring zero cloud data egress to maintain user privacy."
+          ],
+          "zh": [
+            "该解决方案采用轻量级Gemma AI模型，针对设备端操作进行了优化。",
+            "该AI旨在专门在私人聊天环境中拦截对话式诈骗。",
+            "该系统完全在设备上运行，确保零云数据外传以维护用户隐私。"
+          ]
+        },
+        "impact": {
+          "en": "This collaboration demonstrates a practical application of on-device AI for critical public services, addressing privacy concerns by processing sensitive data locally. It establishes a model for secure and private AI deployment in sensitive areas.",
+          "zh": "此次合作展示了设备端AI在关键公共服务中的实际应用，通过在本地处理敏感数据解决了隐私问题。它为在敏感领域安全且私密地部署AI树立了一个范例。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      {
+        "title": {
+          "en": "Meta Releases Open-Weight Multimodal MoE Model",
+          "zh": "Meta发布开源多模态混合专家模型"
+        },
+        "tl_dr": {
+          "en": "Meta has announced the release of Muse Spark Open, an open-weight frontier multimodal mixture-of-experts model.",
+          "zh": "Meta宣布发布Muse Spark Open，这是一款开源的前沿多模态混合专家模型。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Muse Spark Open is an open-weight model, making its parameters accessible.",
+            "It employs a multimodal architecture, indicating its capability to process multiple data types.",
+            "The model utilizes a Mixture-of-Experts (MoE) design, a specific neural network architecture."
+          ],
+          "zh": [
+            "Muse Spark Open 是一款开源模型，其参数可供访问。",
+            "它采用多模态架构，表明其处理多种数据类型的能力。",
+            "该模型使用混合专家 (MoE) 设计，这是一种特定的神经网络架构。"
+          ]
+        },
+        "impact": {
+          "en": "The availability of an open-weight, multimodal mixture-of-experts model from Meta provides a new resource for AI research and development, potentially accelerating innovation in multimodal AI systems.",
+          "zh": "Meta发布一款开源、多模态的混合专家模型，为人工智能研发提供新资源，可能加速多模态人工智能系统的创新。"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/meta-muse-spark-open"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "zh": "Accelerating the search for antimicrobial peptides with Google Antigravity"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      },
+      {
+        "title": {
+          "en": "Gemini 4 Argon for Robotics",
+          "zh": "Gemini 4 Argon for Robotics"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      },
+      {
+        "title": {
+          "en": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "zh": "Welcome Beam: a 501B open model you can own, customize, and scale"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/reflection-beam"
+      },
+      {
+        "title": {
+          "en": "Proof-based general-purpose computing with Magnetar",
+          "zh": "Proof-based general-purpose computing with Magnetar"
+        },
+        "source": "Microsoft Research",
+        "link": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/"
+      },
+      {
+        "title": {
+          "en": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "zh": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/itau-generative-ai",
+    "https://openai.com/index/benefit-street-partners",
+    "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "https://huggingface.co/blog/reflection-beam",
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "https://huggingface.co/blog/meta-muse-spark-open",
+    "https://huggingface.co/blog/flux-3",
+    "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+    "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+    "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+    "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+    "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+    "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+    "https://www.latent.space/p/crossing-the-threshold",
+    "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+    "https://simonwillison.net/2026/Oct/16/code-review/",
+    "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+    "https://simonwillison.net/2026/Oct/15/latex/",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+    "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+    "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+    "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "https://www.404media.co/this-might-be-the-earliest-known-spear-murder-in-earths-history/",
+    "https://www.404media.co/behind-the-blog-doing-whatever/",
+    "https://www.404media.co/podcast-cops-can-use-ai-to-pinpoint-your-home-with-just-one-photo/",
+    "https://www.404media.co/heres-what-telegram-giving-data-to-the-u-s-government-looks-like/",
+    "https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/",
+    "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/ai-systems-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/grafana-slo-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+    "https://www.nature.com/articles/d41586-026-03266-x",
+    "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "https://furifont.antfu.me/"
+  ]
+}
