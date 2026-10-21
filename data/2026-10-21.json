@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-10-21",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Acquires Orchestra Bio to Enhance Life Sciences AI",
+          "zh": "OpenAI收购Orchestra Bio以加强生命科学AI能力"
+        },
+        "tl_dr": {
+          "en": "OpenAI has acquired Orchestra Bio to integrate AI-powered operations into life sciences research and development, specifically to support its Rosalind AI model and Rosalind Workbench tool.",
+          "zh": "OpenAI已收购Orchestra Bio，旨在将AI驱动的运营引入生命科学研发领域，以支持其Rosalind AI模型和Rosalind Workbench工具。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI acquired Orchestra Bio.",
+            "The acquisition aims to integrate AI-powered operations into life sciences R&D.",
+            "Orchestra Bio's team and technology will contribute to OpenAI's Rosalind AI model and Rosalind Workbench tool."
+          ],
+          "zh": [
+            "OpenAI收购了Orchestra Bio。",
+            "此次收购旨在将AI驱动的运营引入生命科学研发领域。",
+            "Orchestra Bio的团队和技术将贡献于OpenAI的Rosalind AI模型及其相关的Rosalind Workbench工具。"
+          ]
+        },
+        "impact": {
+          "en": "This acquisition signifies OpenAI's expansion of its AI capabilities into the life sciences sector, aiming to accelerate drug development and advance new treatments through specialized AI models and tools. It demonstrates a strategic move to apply general AI research to specific industry verticals.",
+          "zh": "此次收购标志着OpenAI将其AI能力扩展至生命科学领域，旨在通过专门的AI模型和工具加速药物开发并推进新疗法。这体现了将通用AI研究应用于特定行业垂直领域的战略举措。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+      },
+      {
+        "title": {
+          "en": "Epic Games Reportedly Pivots to AI-First Game Development",
+          "zh": "Epic Games 传采用“AI优先”游戏开发模式"
+        },
+        "tl_dr": {
+          "en": "Epic Games is reportedly shifting to an \"AI first\" development model, aiming to eliminate traditional coding and AI-free art for an upcoming Marvel/Star Wars shooter.",
+          "zh": "据报道，Epic Games 正在转向“AI优先”开发模式，为其即将推出的漫威/星球大战射击游戏取消传统代码和非AI艺术创作。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Epic Games is reportedly adopting an \"AI first\" game development strategy.",
+            "This new model aims for \"no more hand-written code\" in game creation.",
+            "Development for an upcoming Marvel/Star Wars shooter will specifically exclude \"AI-free art.\""
+          ],
+          "zh": [
+            "Epic Games 据报道正在为其游戏采用“AI优先”开发策略。",
+            "这种新模式旨在实现游戏创作中“不再有手写代码”。",
+            "即将推出的漫威/星球大战射击游戏的开发将明确排除“非AI艺术”。"
+          ]
+        },
+        "impact": {
+          "en": "This signals a significant shift in large-scale commercial software development, where a major player like Epic Games is reportedly integrating AI extensively across its production pipeline. It could influence broader industry adoption of AI tools and methodologies, potentially redefining traditional development roles and timelines.",
+          "zh": "这标志着大规模商业软件开发的一个重大转变，像 Epic Games 这样的主要参与者据报道正在其生产线中广泛整合AI。它可能会影响行业对AI工具和方法的更广泛采用，并可能重新定义传统的开发角色和时间表。"
+        },
+        "source": "Ars Technica (AI)",
+        "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
+      },
+      {
+        "title": {
+          "en": "Open-Source Project Integrates AI Agents with Binary Analysis Tools",
+          "zh": "开源项目将AI代理与二进制分析工具集成"
+        },
+        "tl_dr": {
+          "en": "The Reverse Engineer Anything (REA) open-source project connects AI coding agents such as Claude Code and Codex with reverse-engineering tools, enabling binary analysis.",
+          "zh": "开源项目Reverse Engineer Anything (REA) 将Claude Code和Codex等AI编程代理与逆向工程工具连接，实现二进制分析。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Reverse Engineer Anything (REA) is an open-source project.",
+            "It has accumulated over 200,000 GitHub stars.",
+            "REA integrates AI coding agents (e.g., Claude Code, Codex) with reverse-engineering tools (e.g., Ghidra, Hopper, IDA)."
+          ],
+          "zh": [
+            "Reverse Engineer Anything (REA) 是一个开源项目。",
+            "该项目在GitHub上获得了超过20万颗星。",
+            "REA集成了AI编程代理（如Claude Code、Codex）与逆向工程工具（如Ghidra、Hopper、IDA）。"
+          ]
+        },
+        "impact": {
+          "en": "This integration allows developers to inspect compiled binaries, trace function calls, and investigate application features, potentially streamlining complex reverse-engineering tasks within the AI industry.",
+          "zh": "这种集成使开发人员能够检查编译后的二进制文件、跟踪函数调用并调查应用程序的功能，这可能简化AI行业中复杂的逆向工程任务。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data%20Engineering-news"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "zh": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      {
+        "title": {
+          "en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "zh": "Accelerating the search for antimicrobial peptides with Google Antigravity"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      },
+      {
+        "title": {
+          "en": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "zh": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+      },
+      {
+        "title": {
+          "en": "Gemini 4 Argon for Robotics",
+          "zh": "Gemini 4 Argon for Robotics"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      },
+      {
+        "title": {
+          "en": "Developing Gemini 4 Argon responsibly and safely",
+          "zh": "Developing Gemini 4 Argon responsibly and safely"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/ted-taylor-restaurant",
+    "https://openai.com/index/terminal-x",
+    "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "https://openai.com/index/low-resource-programming-languages",
+    "https://openai.com/index/itau-generative-ai",
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "https://huggingface.co/blog/allenai/fairstress",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "https://huggingface.co/blog/hf-torchtpu",
+    "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+    "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+    "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+    "https://www.latent.space/p/sfcompute2",
+    "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+    "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+    "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+    "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+    "https://simonwillison.net/2026/Oct/20/battledrones/",
+    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+    "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+    "https://simonwillison.net/2026/Oct/18/llm-echo/",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+    "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+    "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+    "https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/",
+    "https://www.404media.co/people-are-using-ai-decompiling-to-hack-their-things/",
+    "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
+    "https://www.404media.co/scientists-discover-a-strange-particle-explains-the-origin-of-reality/",
+    "https://www.404media.co/it-aint-right-texas-said-it-would-halt-data-center-permits-the-state-is-pushing-ahead-anyway/",
+    "https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/ai-systems-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+    "https://permit.petercai.com/",
+    "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+    "https://unsung.aresluna.org/good-type-against-all-odds/",
+    "https://mistral.ai/news/voxtral-3/"
+  ]
+}
