@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-10-22",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Meta Releases Open-Weight AI Models, Reports Muse App User Growth",
+          "zh": "Meta 发布开源 AI 模型，报告 Muse 应用用户增长"
+        },
+        "tl_dr": {
+          "en": "Meta announced the reinstatement of US open-weight models and reported that its Muse AI app has surpassed 10 million users, with shopping identified as a top activity during Q3 earnings.",
+          "zh": "Meta 宣布恢复发布美国开源模型，并报告其 Muse AI 应用用户数已突破 1000 万，购物在第三季度财报中被确认为主要活动。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Meta has reinstated the release of US open-weight AI models.",
+            "The Meta Muse AI application has accumulated over 10 million users.",
+            "Shopping is cited as a leading user activity within the Muse AI app."
+          ],
+          "zh": [
+            "Meta 已恢复发布美国开源 AI 模型。",
+            "Meta Muse AI 应用的用户数量已超过 1000 万。",
+            "购物被列为 Muse AI 应用中的主要用户活动。"
+          ]
+        },
+        "impact": {
+          "en": "The reinstatement of US open-weight AI models by Meta offers accessible resources for AI development, potentially stimulating innovation. The rapid user adoption of the Muse app for practical uses like shopping demonstrates a significant market for consumer-oriented AI tools.",
+          "zh": "Meta 恢复发布美国开源 AI 模型为 AI 发展提供了可获取的资源，可能刺激创新。Muse 应用在购物等实际用途上的快速用户采纳，表明消费者对面向 AI 工具存在巨大市场需求。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+      },
+      {
+        "title": {
+          "en": "AI Agents Connect with Reverse Engineering Tools for Binary Analysis",
+          "zh": "AI智能体与逆向工程工具连接，助力二进制分析"
+        },
+        "tl_dr": {
+          "en": "The open-source Reverse Engineer Anything (REA) project has integrated AI coding agents like Claude Code and Codex with reverse-engineering tools such as Ghidra, Hopper, and IDA, facilitating binary analysis.",
+          "zh": "开源项目Reverse Engineer Anything (REA) 已将Claude Code和Codex等AI编程智能体与Ghidra、Hopper和IDA等逆向工程工具集成，以促进二进制分析。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Reverse Engineer Anything (REA) is an open-source project designed for binary analysis.",
+            "The project has garnered over 200K GitHub stars.",
+            "REA connects AI coding agents including Claude Code and Codex to reverse-engineering tools like Ghidra, Hopper, and IDA, enabling developers to inspect compiled binaries, trace function calls, and investigate feature implementations."
+          ],
+          "zh": [
+            "Reverse Engineer Anything (REA) 是一个用于二进制分析的开源项目。",
+            "该项目在GitHub上获得了超过20万颗星。",
+            "REA将Claude Code和Codex等AI编程智能体与Ghidra、Hopper和IDA等逆向工程工具连接起来，使开发人员能够检查编译后的二进制文件、追踪函数调用并调查功能实现。"
+          ]
+        },
+        "impact": {
+          "en": "This integration extends the application of AI agents into the complex domain of binary analysis, providing developers with enhanced capabilities to inspect compiled software and investigate specific implementations.",
+          "zh": "此次集成将AI智能体的应用扩展到复杂的二进制分析领域，为开发人员提供了增强的能力，以检查编译后的软件并调查具体实现。"
+        },
+        "source": "InfoQ (AI/ML)",
+        "link": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news"
+      },
+      {
+        "title": {
+          "en": "OpenAI Models to Integrate with Google Cloud Platform",
+          "zh": "OpenAI 模型将集成至谷歌云平台"
+        },
+        "tl_dr": {
+          "en": "OpenAI models and Codex workflows will be made available in Google Cloud’s Gemini Model Garden through the Google Cloud Marketplace.",
+          "zh": "OpenAI 模型和 Codex 工作流将通过 Google Cloud Marketplace 在谷歌云的 Gemini Model Garden 中提供。"
+        },
+        "key_takeaways": {
+          "en": [
+            "OpenAI's frontier models will be integrated.",
+            "Codex workflows will be made available.",
+            "Access will be provided through Gemini’s Model Garden on Google Cloud Marketplace."
+          ],
+          "zh": [
+            "OpenAI 的前沿模型将得到集成。",
+            "Codex 工作流将可供使用。",
+            "将通过 Google Cloud Marketplace 上的 Gemini Model Garden 提供访问。"
+          ]
+        },
+        "impact": {
+          "en": "This integration expands the accessibility of OpenAI's models and workflows to Google Cloud users. It enables developers leveraging Google Cloud infrastructure to directly incorporate OpenAI's frontier AI capabilities into their applications.",
+          "zh": "此次集成扩大了 OpenAI 模型和工作流对谷歌云用户的可访问性。它使利用谷歌云基础设施的开发者能够直接将 OpenAI 的前沿 AI 能力整合到他们的应用程序中。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-models-google-cloud"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Language Models for Text Classification: From Bag-of-Words to Jev",
+          "zh": "Language Models for Text Classification: From Bag-of-Words to Jev"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "zh": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      {
+        "title": {
+          "en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "zh": "Accelerating the search for antimicrobial peptides with Google Antigravity"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      },
+      {
+        "title": {
+          "en": "Gemini 4 Argon for Robotics",
+          "zh": "Gemini 4 Argon for Robotics"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      },
+      {
+        "title": {
+          "en": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "zh": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/kumo-relational"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/att-legal",
+    "https://openai.com/index/broad-access-through-consistent-standards",
+    "https://openai.com/index/openai-models-google-cloud",
+    "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "https://huggingface.co/blog/nvidia/kumo-relational",
+    "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "https://huggingface.co/blog/allenai/fairstress",
+    "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+    "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+    "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+    "https://www.latent.space/p/claude-mods",
+    "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+    "https://www.latent.space/p/tenex",
+    "https://www.latent.space/p/sfcompute2",
+    "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://simonwillison.net/2026/Oct/21/php-security-release/",
+    "https://simonwillison.net/2026/Oct/21/panache/",
+    "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+    "https://simonwillison.net/2026/Oct/20/battledrones/",
+    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+    "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+    "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+    "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "https://www.404media.co/cops-warned-to-look-for-suspicious-behavior-from-people-opposing-flock-at-city-council-meetings/",
+    "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
+    "https://www.404media.co/chestnuts-roasting-on-a-data-center/",
+    "https://www.404media.co/west-virginia-american-chestnut-trees-data-center/",
+    "https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/",
+    "https://www.infoq.com/news/2026/10/synthid-watermarking-detector/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "https://eliastaylor.com/noexploit/",
+    "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "https://olivergrabner.com/research/pokemon/",
+    "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "https://arxiv.org/abs/2610.26887",
+    "https://arxiv.org/abs/2610.26899",
+    "https://arxiv.org/abs/2610.26904",
+    "https://arxiv.org/abs/2610.26913",
+    "https://arxiv.org/abs/2610.26924",
+    "https://arxiv.org/abs/2610.26864",
+    "https://arxiv.org/abs/2610.26865",
+    "https://arxiv.org/abs/2610.26867",
+    "https://arxiv.org/abs/2610.26868",
+    "https://arxiv.org/abs/2610.26888"
+  ]
+}
