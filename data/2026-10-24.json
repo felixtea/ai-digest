@@ -1,0 +1,226 @@
+{
+  "date_id": "2026-10-24",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "DeepMind Utilizes Google Antigravity to Accelerate Antimicrobial Peptide Discovery",
+          "zh": "DeepMind利用Google Antigravity加速抗菌肽发现"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind is accelerating the search for novel antimicrobial peptides through the application of Google Antigravity for Science.",
+          "zh": "Google DeepMind正通过应用Google Antigravity for Science，加速新型抗菌肽的发现。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The initiative aims to accelerate the discovery of novel antimicrobial peptides.",
+            "The acceleration is achieved using Google Antigravity for Science.",
+            "The project involves Google DeepMind."
+          ],
+          "zh": [
+            "该计划旨在加速新型抗菌肽的发现。",
+            "加速是通过使用Google Antigravity for Science实现的。",
+            "该项目由Google DeepMind负责。"
+          ]
+        },
+        "impact": {
+          "en": "Accelerating the search for novel antimicrobial peptides could potentially streamline the discovery phase for new compounds, which is critical in addressing antibiotic resistance challenges. This development highlights AI's application in biochemical research.",
+          "zh": "加速新型抗菌肽的发现有望简化新化合物的发现阶段，这对于应对抗生素耐药性挑战至关重要。此进展突出了AI在生化研究中的应用。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      },
+      {
+        "title": {
+          "en": "New Benchmark Addresses LLM Model Fusion Evaluation Gaps",
+          "zh": "新基准解决大型语言模型融合评估空白"
+        },
+        "tl_dr": {
+          "en": "Researchers introduced FusionEval, a new benchmark designed to assess model fusion for Large Language Models by providing controlled expert pools and integrating various fusion methods.",
+          "zh": "研究人员推出了FusionEval，这是一个旨在评估大型语言模型融合的新基准，通过提供受控专家池并整合多种融合方法。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Existing evaluations offer limited coverage of reasoning with long chains of thought.",
+            "Current benchmarks underrepresent tool use in model fusion assessments.",
+            "FusionEval integrates fusion methods both with and without additional training."
+          ],
+          "zh": [
+            "现有评估对长链思维推理的覆盖范围有限。",
+            "当前基准在模型融合评估中对工具使用的代表性不足。",
+            "FusionEval集成了有额外训练和无额外训练的融合方法。"
+          ]
+        },
+        "impact": {
+          "en": "This benchmark aims to provide a more comprehensive and unified evaluation of model fusion techniques for LLMs, potentially leading to more robust single models integrated from multi-expert capabilities.",
+          "zh": "该基准旨在为大型语言模型的模型融合技术提供更全面和统一的评估，可能有助于从多专家能力中整合出更稳健的单一模型。"
+        },
+        "source": "arXiv CS.CL",
+        "link": "https://arxiv.org/abs/2610.30162"
+      },
+      {
+        "title": {
+          "en": "Anthropic Donates Agent Skills Standard to Agentic AI Foundation",
+          "zh": "Anthropic 将 Agent Skills 标准捐赠给 Agentic AI 基金会"
+        },
+        "tl_dr": {
+          "en": "Anthropic has donated its Agent Skills standard to the Agentic AI Foundation (AAIF) operating under the Linux Foundation.",
+          "zh": "Anthropic 已将其 Agent Skills 标准捐赠给 Linux 基金会旗下的 Agentic AI 基金会 (AAIF)。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Anthropic transferred its Agent Skills standard.",
+            "The standard was donated to the Agentic AI Foundation (AAIF).",
+            "The AAIF operates under the Linux Foundation, committed to keeping the standard open, community-driven, and vendor-neutral."
+          ],
+          "zh": [
+            "Anthropic 移交了其 Agent Skills 标准。",
+            "该标准捐赠给了 Agentic AI 基金会 (AAIF)。",
+            "AAIF 在 Linux 基金会旗下运作，致力于保持该标准的开放性、社区驱动性及供应商中立性。"
+          ]
+        },
+        "impact": {
+          "en": "This move establishes a vendor-neutral home for a key AI standard. It aims to foster open, community-driven development in AI agent capabilities.",
+          "zh": "此举为一项关键的 AI 标准建立了一个供应商中立的归属。它旨在促进 AI 代理能力领域的开放、社区驱动型开发。"
+        },
+        "source": "Anthropic",
+        "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "zh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/allenai/litpivot"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "zh": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      {
+        "title": {
+          "en": "Gemini 4 Argon for Robotics",
+          "zh": "Gemini 4 Argon for Robotics"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      },
+      {
+        "title": {
+          "en": "Beyond tree cover: mapping the world’s forest types",
+          "zh": "Beyond tree cover: mapping the world’s forest types"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+      },
+      {
+        "title": {
+          "en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "zh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "https://openai.com/index/decisions-api",
+    "https://openai.com/index/forward-deployed-engineering-means",
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "https://huggingface.co/blog/allenai/litpivot",
+    "https://huggingface.co/blog/torch-neuronx-model-support",
+    "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "https://huggingface.co/blog/nvidia/kumo-relational",
+    "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+    "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+    "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+    "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://latent.space/p/ai-is-getting-good-at-math/",
+    "https://latent.space/p/ainews-black-october/",
+    "https://latent.space/p/modal-d/",
+    "https://latent.space/p/moshi/",
+    "https://latent.space/p/ainews-openais-patch-the-planet-program/",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+    "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+    "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+    "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+    "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+    "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+    "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+    "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/",
+    "https://www.404media.co/behind-the-blog-brute-forces/",
+    "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
+    "https://www.404media.co/this-womans-living-a-cashapp-scam-nightmare/",
+    "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
+    "https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/synthid-watermarking-detector/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+    "https://music.apple.com/this-url-doesnt-exist",
+    "https://cve.0xosprey.com/",
+    "https://block.xyz/dessa",
+    "https://arxiv.org/abs/2610.28686",
+    "https://arxiv.org/abs/2610.28698",
+    "https://arxiv.org/abs/2610.28706",
+    "https://arxiv.org/abs/2610.28763",
+    "https://arxiv.org/abs/2610.28815",
+    "https://arxiv.org/abs/2610.30154",
+    "https://arxiv.org/abs/2610.30158",
+    "https://arxiv.org/abs/2610.30161",
+    "https://arxiv.org/abs/2610.30162",
+    "https://arxiv.org/abs/2610.30296"
+  ]
+}
