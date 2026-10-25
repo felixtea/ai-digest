@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-10-25",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "OpenAI Launches Decisions API for Responsive Applications",
+          "zh": "OpenAI推出Decisions API以构建更灵敏的应用"
+        },
+        "tl_dr": {
+          "en": "OpenAI announced the Decisions API, designed for fast, focused, low-cost decision-making in applications.",
+          "zh": "OpenAI发布了Decisions API，旨在为应用程序提供快速、专注、低成本的决策能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The API is designed to facilitate fast decision processes.",
+            "It provides focused decision capabilities for various applications.",
+            "The service is intended to deliver low-cost decisions."
+          ],
+          "zh": [
+            "该API旨在促进快速决策流程。",
+            "它为各种应用程序提供专注的决策能力。",
+            "该服务旨在提供低成本的决策。"
+          ]
+        },
+        "impact": {
+          "en": "This API could enable developers to integrate efficient decision-making processes into their applications, potentially expanding the range of responsive AI-powered services. Its focus on speed and cost could influence the design of real-time AI system architectures.",
+          "zh": "该API可能使开发者能够将高效的决策流程集成到其应用程序中，从而潜在地扩展响应式AI驱动服务的范围。其对速度和成本的关注可能会影响实时AI系统架构的设计。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/decisions-api"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind Utilizes Antigravity for Antimicrobial Peptide Search",
+          "zh": "Google DeepMind 利用 Antigravity 加速抗菌肽发现"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind is using 'Google Antigravity for Science' to accelerate the search for novel antimicrobial peptides.",
+          "zh": "Google DeepMind 正在利用“Google Antigravity for Science”加速新型抗菌肽的发现。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind is conducting research.",
+            "The tool employed is 'Google Antigravity for Science'.",
+            "The research aims to accelerate the discovery of novel antimicrobial peptides."
+          ],
+          "zh": [
+            "Google DeepMind 正在进行一项研究。",
+            "所使用的工具是“Google Antigravity for Science”。",
+            "该研究旨在加速新型抗菌肽的发现。"
+          ]
+        },
+        "impact": {
+          "en": "This demonstrates AI's application in accelerating biological and pharmaceutical research, specifically in identifying new antimicrobial compounds.",
+          "zh": "这展示了人工智能在加速生物和制药研究中的应用，特别是在识别新型抗菌化合物方面。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      },
+      {
+        "title": {
+          "en": "AI Models Exhibit Political Bias in Candidate Recommendations",
+          "zh": "人工智能模型在候选人推荐中显现政治偏见"
+        },
+        "tl_dr": {
+          "en": "A new study found Grok's AI predominantly recommends Republican candidates, while OpenAI's GPT favors Democrats, with the two models disagreeing in over 90% of nearly 500 election races.",
+          "zh": "一项最新研究发现，Grok人工智能模型主要推荐共和党候选人，而OpenAI的GPT模型则偏向民主党，两款AI模型在近500场选举中的逾90%情况下存在分歧。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Grok's AI model overwhelmingly recommends Republican candidates.",
+            "OpenAI's GPT model favors Democratic candidates.",
+            "The two AI models disagreed in more than 90% of nearly 500 election races examined."
+          ],
+          "zh": [
+            "Grok人工智能模型绝大多数情况下推荐共和党候选人。",
+            "OpenAI的GPT模型倾向于民主党候选人。",
+            "在近500场被审查的选举中，两款人工智能模型的分歧超过90%。"
+          ]
+        },
+        "impact": {
+          "en": "This highlights a significant challenge in AI development concerning neutrality and potential biases embedded within models, which could influence public perception in critical democratic processes. Ensuring unbiased AI systems is crucial for their broad adoption and trustworthiness, particularly in sensitive applications.",
+          "zh": "这凸显了人工智能开发中关于中立性和模型内嵌潜在偏见的一个重要挑战，这种偏见可能在关键的民主进程中影响公众认知。确保人工智能系统不带偏见对其广泛采用和信任度至关重要，尤其是在敏感应用中。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/10/24/forced-to-pick-grok-ai-model-chooses-republicans-openais-picks-democrats/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Donating Agent Skills to the Agentic AI Foundation",
+          "zh": "Donating Agent Skills to the Agentic AI Foundation"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
+      },
+      {
+        "title": {
+          "en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "zh": "OpenAI and Poland’s NASK partner to advance AI safety and security"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "zh": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      {
+        "title": {
+          "en": "Gemini 4 Argon for Robotics",
+          "zh": "Gemini 4 Argon for Robotics"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      },
+      {
+        "title": {
+          "en": "Beyond tree cover: mapping the world’s forest types",
+          "zh": "Beyond tree cover: mapping the world’s forest types"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "https://openai.com/index/decisions-api",
+    "https://openai.com/index/forward-deployed-engineering-means",
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "https://huggingface.co/blog/allenai/litpivot",
+    "https://huggingface.co/blog/torch-neuronx-model-support",
+    "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "https://huggingface.co/blog/nvidia/kumo-relational",
+    "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+    "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+    "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+    "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://latent.space/p/ainews-kimi-31/",
+    "https://latent.space/p/ai-is-getting-good-at-math/",
+    "https://latent.space/p/ainews-black-october/",
+    "https://latent.space/p/modal-d/",
+    "https://latent.space/p/moshi/",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://simonwillison.net/2026/Oct/24/battledrones/",
+    "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+    "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+    "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+    "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+    "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+    "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+    "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+    "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/",
+    "https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/",
+    "https://www.404media.co/behind-the-blog-brute-forces/",
+    "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
+    "https://www.404media.co/this-womans-living-a-cashapp-scam-nightmare/",
+    "https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://missileer.watch",
+    "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "https://danluu.com/ambitious/",
+    "https://aardappel.github.io/goose/",
+    "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt"
+  ]
+}
