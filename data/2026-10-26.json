@@ -1,0 +1,216 @@
+{
+  "date_id": "2026-10-26",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Accelerates Antimicrobial Peptide Search",
+          "zh": "谷歌DeepMind加速抗菌肽搜索"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind utilized Google Antigravity for Science to accelerate the search for novel antimicrobial peptides.",
+          "zh": "谷歌DeepMind利用Google Antigravity for Science加速了新型抗菌肽的搜索。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google Antigravity for Science was employed.",
+            "The initiative focused on novel antimicrobial peptides.",
+            "The search process was accelerated."
+          ],
+          "zh": [
+            "Google Antigravity for Science被用于此项工作。",
+            "该项目旨在发现新型抗菌肽。",
+            "搜索过程得到了加速。"
+          ]
+        },
+        "impact": {
+          "en": "This demonstrates the application of AI tools, specifically Google Antigravity for Science, in accelerating scientific discovery processes. Such applications expand AI's utility beyond traditional computational tasks into biomedical research.",
+          "zh": "这展示了人工智能工具（特别是Google Antigravity for Science）在加速科学发现过程中的应用。此类应用将人工智能的效用从传统计算任务扩展到生物医学研究领域。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      },
+      {
+        "title": {
+          "en": "Grok Releases Seven Minutes of AI-Generated 'Odyssey'",
+          "zh": "Grok 发布七分钟AI生成“奥德赛”"
+        },
+        "tl_dr": {
+          "en": "Grok has released the initial seven minutes of its AI-generated \"Odyssey\" footage.",
+          "zh": "Grok 发布了其AI生成作品“奥德赛”的前七分钟影像。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Grok released seven minutes of footage.",
+            "The content is an AI-generated work titled \"Odyssey.\"",
+            "The footage was described as \"okay\" but lacked \"artistry, inspiration, or human interest.\""
+          ],
+          "zh": [
+            "Grok 发布了七分钟的影像。",
+            "该内容是一部名为“奥德赛”的AI生成作品。",
+            "该影像被描述为“尚可”，但缺乏“艺术性、启发性或人情味”。"
+          ]
+        },
+        "impact": {
+          "en": "This release demonstrates the current capabilities of AI in generating extended video content, while also highlighting present limitations regarding artistic depth and human engagement.",
+          "zh": "此次发布展示了AI在生成较长视频内容方面的当前能力，同时也突显了在艺术深度和人情味方面的现有局限。"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Unveils Decisions API for Responsive Applications",
+          "zh": "OpenAI 推出 Decisions API，赋能更灵敏应用"
+        },
+        "tl_dr": {
+          "en": "OpenAI introduced the Decisions API designed for faster, focused, and low-cost decisions in applications.",
+          "zh": "OpenAI 发布了 Decisions API，旨在为应用程序提供更快、更聚焦且低成本的决策能力。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Designed for fast decision-making.",
+            "Enables focused decision processes.",
+            "Offers low-cost decision capabilities."
+          ],
+          "zh": [
+            "专为快速决策而设计。",
+            "支持聚焦的决策流程。",
+            "提供低成本的决策能力。"
+          ]
+        },
+        "impact": {
+          "en": "The Decisions API aims to enhance the responsiveness and cost-efficiency of AI applications by providing streamlined decision-making capabilities.",
+          "zh": "Decisions API 旨在通过提供精简的决策能力，提升人工智能应用程序的响应速度和成本效益。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/decisions-api"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Donating Agent Skills to the Agentic AI Foundation",
+          "zh": "Donating Agent Skills to the Agentic AI Foundation"
+        },
+        "source": "Simon Willison",
+        "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "zh": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      {
+        "title": {
+          "en": "Gemini 4 Argon for Robotics",
+          "zh": "Gemini 4 Argon for Robotics"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      },
+      {
+        "title": {
+          "en": "Beyond tree cover: mapping the world’s forest types",
+          "zh": "Beyond tree cover: mapping the world’s forest types"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+      },
+      {
+        "title": {
+          "en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "zh": "OpenAI and Poland’s NASK partner to advance AI safety and security"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "https://openai.com/index/decisions-api",
+    "https://openai.com/index/forward-deployed-engineering-means",
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "https://huggingface.co/blog/allenai/litpivot",
+    "https://huggingface.co/blog/torch-neuronx-model-support",
+    "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "https://huggingface.co/blog/nvidia/kumo-relational",
+    "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+    "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+    "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+    "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://latent.space/p/ainews-kimi-31/",
+    "https://latent.space/p/ai-is-getting-good-at-math/",
+    "https://latent.space/p/ainews-black-october/",
+    "https://latent.space/p/modal-d/",
+    "https://latent.space/p/moshi/",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://simonwillison.net/2026/Oct/24/battledrones/",
+    "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+    "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+    "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+    "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+    "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+    "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+    "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/",
+    "https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/",
+    "https://www.404media.co/behind-the-blog-brute-forces/",
+    "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
+    "https://www.404media.co/this-womans-living-a-cashapp-scam-nightmare/",
+    "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://imaginationlibrary.com/",
+    "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+    "https://charliegerard.dev/blog/overgrown-extension/",
+    "https://arxiv.org/abs/2512.19428",
+    "https://www.alfie.wtf/programming/why-i-am-a-programmer.html"
+  ]
+}
