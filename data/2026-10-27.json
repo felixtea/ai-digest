@@ -1,0 +1,218 @@
+{
+  "date_id": "2026-10-27",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Google DeepMind Leverages Antigravity for Antimicrobial Discovery",
+          "zh": "谷歌DeepMind利用Antigravity加速抗菌肽发现"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind is using its Google Antigravity for Science platform to accelerate the discovery process for novel antimicrobial peptides.",
+          "zh": "谷歌DeepMind正利用其“Google Antigravity for Science”平台，加速新型抗菌肽的发现过程。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind is employing a tool named Google Antigravity for Science.",
+            "The primary application of this tool is to accelerate discovery processes.",
+            "The specific target of acceleration is the search for novel antimicrobial peptides."
+          ],
+          "zh": [
+            "谷歌DeepMind正在使用名为“Google Antigravity for Science”的工具。",
+            "该工具的主要应用是加速发现过程。",
+            "加速的具体目标是寻找新型抗菌肽。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative demonstrates the application of advanced computational tools in accelerating biomedical research. It could potentially shorten the time required to identify new therapeutic agents.",
+          "zh": "这一举措展示了先进计算工具在加速生物医学研究中的应用。它有可能缩短识别新型治疗剂所需的时间。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      },
+      {
+        "title": {
+          "en": "Google DeepMind, Singapore Government Deploy On-Device AI for Scam Detection",
+          "zh": "谷歌DeepMind与新加坡政府合作部署设备端AI以检测诈骗"
+        },
+        "tl_dr": {
+          "en": "Google DeepMind and Singapore's GovTech collaborated to deploy lightweight, on-device Gemma AI models for detecting conversational scams in private chats without cloud data egress.",
+          "zh": "谷歌DeepMind与新加坡政府科技局合作，部署轻量级设备端Gemma AI模型，用于在私人聊天中检测对话诈骗，且不进行云数据外传。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind partnered with GovTech Singapore.",
+            "The solution utilizes lightweight, on-device Gemma AI models.",
+            "It intercepts conversational scams in private chats with zero cloud data egress."
+          ],
+          "zh": [
+            "谷歌DeepMind与新加坡政府科技局合作。",
+            "该解决方案采用轻量级设备端Gemma AI模型。",
+            "它可在私人聊天中拦截对话诈骗，且不进行云数据外传。"
+          ]
+        },
+        "impact": {
+          "en": "This initiative demonstrates a practical application of on-device AI for privacy-sensitive tasks, potentially offering a blueprint for secure and localized AI deployments in public safety. It highlights the feasibility of AI models detecting threats without compromising user data via cloud transfers.",
+          "zh": "该举措展示了设备端AI在隐私敏感任务中的实际应用，可能为公共安全领域的安全和本地化AI部署提供蓝图。它突显了AI模型在不通过云传输泄露用户数据的情况下检测威胁的可行性。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      {
+        "title": {
+          "en": "",
+          "zh": ""
+        },
+        "tl_dr": {
+          "en": "",
+          "zh": ""
+        },
+        "key_takeaways": {
+          "en": [],
+          "zh": []
+        },
+        "impact": {
+          "en": "",
+          "zh": ""
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Beyond tree cover: mapping the world’s forest types",
+          "zh": "Beyond tree cover: mapping the world’s forest types"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+      },
+      {
+        "title": {
+          "en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "zh": "Greptile takes bug detection beyond code review with GPT-6 Astra"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/greptile-code-review-codex-astra"
+      },
+      {
+        "title": {
+          "en": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "zh": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/nvidia/kumo-relational"
+      },
+      {
+        "title": {
+          "en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "zh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
+        },
+        "source": "Hugging Face",
+        "link": "https://huggingface.co/blog/allenai/litpivot"
+      },
+      {
+        "title": {
+          "en": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "zh": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/greptile-code-review-codex-astra",
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "https://openai.com/index/fanatics-streamline-fan-experience",
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "https://huggingface.co/blog/allenai/litpivot",
+    "https://huggingface.co/blog/torch-neuronx-model-support",
+    "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "https://huggingface.co/blog/nvidia/kumo-relational",
+    "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+    "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+    "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+    "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://latent.space/p/ainews-kimi-31/",
+    "https://latent.space/p/ai-is-getting-good-at-math/",
+    "https://latent.space/p/ainews-black-october/",
+    "https://latent.space/p/modal-d/",
+    "https://latent.space/p/moshi/",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+    "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+    "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+    "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+    "https://simonwillison.net/2026/Oct/24/battledrones/",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+    "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+    "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+    "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
+    "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+    "https://www.404media.co/iphone-duo-crackgate-crease-folding-phone/",
+    "https://www.404media.co/chatgpt-says-404-media-is-tech-support-for-huge-corporations/",
+    "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+    "https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/digitalocean-self-improving-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/online-cohorts-nov-certification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/cloudflare-auto-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://github.com/otya128/winevdm",
+    "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "https://arxiv.org/abs/2610.31701",
+    "https://arxiv.org/abs/2610.31789",
+    "https://arxiv.org/abs/2610.31808",
+    "https://arxiv.org/abs/2610.31810",
+    "https://arxiv.org/abs/2610.31846",
+    "https://arxiv.org/abs/2610.31678",
+    "https://arxiv.org/abs/2610.31679",
+    "https://arxiv.org/abs/2610.31681",
+    "https://arxiv.org/abs/2610.31682",
+    "https://arxiv.org/abs/2610.31683"
+  ]
+}
