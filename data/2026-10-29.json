@@ -1,0 +1,141 @@
+{
+  "date_id": "2026-10-29",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "zh": "OpenAI and ServiceNow expand partnership across enterprise workflows"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-servicenow-partnership-expansion"
+      },
+      {
+        "title": {
+          "en": "Legora is building the agentic operating system for legal work",
+          "zh": "Legora is building the agentic operating system for legal work"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/legora"
+      },
+      {
+        "title": {
+          "en": "Retell uses OpenAI models to help power 100M monthly calls",
+          "zh": "Retell uses OpenAI models to help power 100M monthly calls"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/retell-ai"
+      },
+      {
+        "title": {
+          "en": "Gemini 4 Carbon: Our next frontier model",
+          "zh": "Gemini 4 Carbon: Our next frontier model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+      },
+      {
+        "title": {
+          "en": "Genie 4: A new generation of world simulation",
+          "zh": "Genie 4: A new generation of world simulation"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "https://openai.com/index/the-future-of-the-firm",
+    "https://openai.com/index/legora",
+    "https://openai.com/index/retell-ai",
+    "https://openai.com/index/oracle-apps-in-chatgpt",
+    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "https://huggingface.co/blog/LiquidAI/lfm3",
+    "https://huggingface.co/blog/allenai/novelty-bench",
+    "https://huggingface.co/blog/torch-neuronx-model-support",
+    "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+    "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+    "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+    "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://latent.space/p/supabase/",
+    "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+    "https://latent.space/p/opus55/",
+    "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+    "https://latent.space/p/offline-coding/",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+    "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+    "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+    "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+    "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+    "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+    "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+    "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+    "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "https://www.404media.co/objection-your-honor/",
+    "https://www.404media.co/meta-ai-training-uk-eu/",
+    "https://www.404media.co/its-not-the-bots-flock/",
+    "https://www.404media.co/marissa-mayer-nyt-interview/",
+    "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
+    "https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/uber-cpu-stateful-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/atlassian-devex-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/digitalocean-self-improving-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://divagr.com/blog/qwenputer",
+    "https://nullpt.rs/fingerprinting-bioweapons",
+    "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+    "https://furbo.org/2026/10/28/a-health-update/",
+    "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing",
+    "https://arxiv.org/abs/2610.35942",
+    "https://arxiv.org/abs/2610.35984",
+    "https://arxiv.org/abs/2610.36077",
+    "https://arxiv.org/abs/2610.36100",
+    "https://arxiv.org/abs/2610.36116",
+    "https://arxiv.org/abs/2610.35925",
+    "https://arxiv.org/abs/2610.36006",
+    "https://arxiv.org/abs/2610.36013",
+    "https://arxiv.org/abs/2610.36083",
+    "https://arxiv.org/abs/2610.36178"
+  ]
+}
