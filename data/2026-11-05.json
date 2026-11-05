@@ -1,0 +1,221 @@
+{
+  "date_id": "2026-11-05",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [
+      {
+        "title": {
+          "en": "Agentic AI Systems Emerge, Raising Efficiency and Security Questions",
+          "zh": "代理式AI系统兴起，效率与安全问题并存"
+        },
+        "tl_dr": {
+          "en": "Agentic AI systems are being developed for applications like drug discovery and enterprise operations, while also presenting new security challenges requiring solutions such as data lineage.",
+          "zh": "代理式AI系统正在开发中，应用于药物发现和企业运营等领域，同时也带来了新的安全挑战，需要数据溯源等解决方案。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Google DeepMind's Antigravity utilizes agentic cheminformatics to accelerate drug discovery workflows, facilitating compound searches and proposing novel rigidified macrocycles.",
+            "In enterprise settings, AI agents can access data from multiple sources, including restricted pricing systems, internal communications, and archived quotes, for tasks like customer pricing.",
+            "The use of agentic systems introduces scenarios where 'no human checks' occur during data handoffs between agents, raising potential data lineage and security concerns."
+          ],
+          "zh": [
+            "Google DeepMind的Antigravity利用代理式化学信息学加速药物发现工作流程，包括化合物搜索和提出新型刚性大环化合物。",
+            "在企业环境中，AI代理可以从多个来源获取数据，例如受限定价系统、内部通信和存档报价，以处理客户定价等任务。",
+            "代理式系统的使用引入了在代理间数据交接过程中可能出现“无人检查”的情况，引发了潜在的数据溯源和安全问题。"
+          ]
+        },
+        "impact": {
+          "en": "The expansion of agentic AI systems signifies a move towards more autonomous AI applications across specialized and general enterprise domains. This progression highlights the dual need for advanced AI capabilities and stringent data governance protocols to ensure accuracy and security in automated workflows.",
+          "zh": "代理式AI系统的扩展标志着AI应用在专业和通用企业领域向更自主化的方向发展。这一进展突显了对先进AI能力以及严格数据治理协议的双重需求，以确保自动化工作流程的准确性和安全性。"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+      },
+      {
+        "title": {
+          "en": "OpenAI Releases Images 2.6, Enhancing Generation and Editing",
+          "zh": "OpenAI 发布 Images 2.6，提升生成与编辑能力"
+        },
+        "tl_dr": {
+          "en": "OpenAI has introduced Images 2.6, adding faster image generation, GIF creation, more precise editing, and new API controls.",
+          "zh": "OpenAI 推出了 Images 2.6，增加了更快的图像生成、GIF 创作、更精确的编辑以及新的 API 控制功能。"
+        },
+        "key_takeaways": {
+          "en": [
+            "The update enables faster image generation.",
+            "New functionality includes GIF creation.",
+            "It provides more precise editing capabilities and new API controls across ChatGPT, Codex, and the API."
+          ],
+          "zh": [
+            "此次更新实现了更快的图像生成。",
+            "新增功能包括 GIF 创作。",
+            "它提供了更精确的编辑能力，并在 ChatGPT、Codex 和 API 中引入了新的 API 控制。"
+          ]
+        },
+        "impact": {
+          "en": "This update expands the capabilities of OpenAI's image generation and editing tools, potentially integrating new creative workflows into AI-driven content development across various platforms.",
+          "zh": "此次更新扩展了 OpenAI 图像生成和编辑工具的功能，有望将新的创意工作流程整合到跨多个平台的 AI 驱动内容开发中。"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-images-2-6"
+      },
+      {
+        "title": {
+          "en": "LLMs Struggle with Long-Context Memory; New Benchmarks and Agents Emerge",
+          "zh": "大语言模型长文本记忆面临挑战；新基准和代理系统问世"
+        },
+        "tl_dr": {
+          "en": "New research indicates that current large language models, including GPT-5.5 and GLM-5.3, are ineffective at managing context over long documents through self-generated notes, leading to the development of new testing benchmarks like StateBench and agents like MEMENTO.",
+          "zh": "新研究表明，包括GPT-5.5和GLM-5.3在内的当前大语言模型在通过自生成笔记管理长文档上下文方面效率低下，这促使了StateBench等新测试基准以及MEMENTO等代理系统的开发。"
+        },
+        "key_takeaways": {
+          "en": [
+            "Off-the-shelf agentic models, including GPT-5.5 and GLM-5.3, often produce ineffective self-generated notes for managing context in fixed-size windows.",
+            "The common context management approach of compaction, where models replace history with self-generated notes, rarely benefits from reinforcement learning alone to discover useful note-taking behavior.",
+            "StateBench is introduced for testing how language models track state changes over long documents, while MEMENTO is presented as a new long-context agent for learning context management."
+          ],
+          "zh": [
+            "包括GPT-5.5和GLM-5.3在内的现成代理模型在固定大小的上下文窗口中，通过自生成笔记管理上下文时，通常会产生无效的笔记。",
+            "模型用自生成笔记替换历史的常见上下文管理方法——压缩，在单独依靠强化学习来发现有用的笔记记录行为方面效果不佳。",
+            "StateBench被引入用于测试语言模型如何在长文档中跟踪状态变化，而MEMENTO则作为一种新的长上下文代理系统被提出，用于学习上下文管理。"
+          ]
+        },
+        "impact": {
+          "en": "These findings highlight a critical limitation in current LLM capabilities for processing and retaining information over extended document interactions, prompting the development of specialized tools and agents to enhance long-context understanding and memory in AI systems.",
+          "zh": "这些发现揭示了当前大语言模型在处理和保留长篇文档信息方面的关键局限性，促使业界开发专门的工具和代理系统，以提升AI系统的长上下文理解和记忆能力。"
+        },
+        "source": "arXiv CS.CL",
+        "link": "https://arxiv.org/abs/2611.00244"
+      }
+    ],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "A thousand fewer paths to root",
+          "zh": "A thousand fewer paths to root"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+      },
+      {
+        "title": {
+          "en": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+          "zh": "Agents Prompt People: Using Agents for Long-Horizon Financial Work"
+        },
+        "source": "Latent Space",
+        "link": "https://latent.space/p/arca/"
+      },
+      {
+        "title": {
+          "en": "New paper: Emerging trends in AI agent evaluation",
+          "zh": "New paper: Emerging trends in AI agent evaluation"
+        },
+        "source": "AI Snake Oil",
+        "link": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent"
+      },
+      {
+        "title": {
+          "en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "zh": "OpenAI to acquire Pierre Computer Company, Inc."
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/openai-to-acquire-pierre"
+      },
+      {
+        "title": {
+          "en": "Gemini 4 Carbon: Our next frontier model",
+          "zh": "Gemini 4 Carbon: Our next frontier model"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/openai-to-acquire-pierre",
+    "https://openai.com/index/daybreak-red-aws-govcloud",
+    "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "https://openai.com/index/introducing-images-2-6",
+    "https://openai.com/index/devrev-enterprise-self-service",
+    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "https://huggingface.co/blog/allenai/statebench",
+    "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "https://huggingface.co/blog/cwe-bench",
+    "https://huggingface.co/blog/transformers-mic",
+    "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+    "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+    "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+    "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+    "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+    "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+    "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+    "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+    "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+    "https://latent.space/p/arca/",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+    "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+    "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+    "https://simonwillison.net/2026/Nov/3/llm/",
+    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+    "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+    "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+    "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+    "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+    "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+    "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+    "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+    "https://www.404media.co/there-is-one-fight-american-voters-reject-tech-oligarchy/",
+    "https://www.404media.co/america-votes-cekevpativg-edeldoa/",
+    "https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/",
+    "https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/",
+    "https://www.infoq.com/news/2026/11/litert-tensor-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/torchtpu-native-pythorch-tpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/uber-mcp-gateway-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "https://openai.com/index/introducing-images-2-6/",
+    "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+    "https://www.spacex.com/starfall",
+    "https://www.ricursive.com/ripple",
+    "https://arxiv.org/abs/2611.00172",
+    "https://arxiv.org/abs/2611.00244",
+    "https://arxiv.org/abs/2611.00300",
+    "https://arxiv.org/abs/2611.00319",
+    "https://arxiv.org/abs/2611.00345"
+  ]
+}
