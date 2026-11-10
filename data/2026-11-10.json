@@ -1,0 +1,136 @@
+{
+  "date_id": "2026-11-10",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "zh": "Control Room: A central system to track and stop model workloads across our research infrastructure"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/control-room"
+      },
+      {
+        "title": {
+          "en": "CodeRabbit scales agentic software development and ships 20x more",
+          "zh": "CodeRabbit scales agentic software development and ships 20x more"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/coderabbit-codex-daybreak"
+      },
+      {
+        "title": {
+          "en": "Kuken Industries searches 70 years of drawings in minutes",
+          "zh": "Kuken Industries searches 70 years of drawings in minutes"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/kuken"
+      },
+      {
+        "title": {
+          "en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "zh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/partnering-with-hacktron"
+      },
+      {
+        "title": {
+          "en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "zh": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "https://openai.com/index/control-room",
+    "https://openai.com/index/coderabbit-codex-daybreak",
+    "https://openai.com/index/kuken",
+    "https://openai.com/index/partnering-with-hacktron",
+    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "https://huggingface.co/blog/allenai/toyblocks",
+    "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "https://huggingface.co/blog/phonon-tts",
+    "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+    "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+    "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+    "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+    "https://latent.space/p/handshake/",
+    "https://latent.space/p/cs146s/",
+    "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+    "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+    "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+    "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+    "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+    "https://simonwillison.net/2026/Nov/9/details-summary/",
+    "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+    "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+    "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+    "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+    "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+    "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+    "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+    "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+    "https://www.404media.co/dad-asked-6-year-old-daughter-if-she-had-the-gun-before-he-left-her-in-line-for-pokemon-cards/",
+    "https://www.404media.co/bad-news-for-kinky-brits/",
+    "https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/",
+    "https://www.404media.co/behind-the-blog-dams-bursting/",
+    "https://www.404media.co/clips4sale-content-removed-uk-porn-law/",
+    "https://www.infoq.com/news/2026/11/google-gemini-argon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/cloudflare-merkle-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/aws-torchneuron-trainium-pytorch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/pinterest-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "https://postalpro.usps.com/zcb",
+    "https://nicholasdecker.substack.com/p/how-many-people-work-from-home",
+    "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "https://e-means.github.io/",
+    "https://arxiv.org/abs/2611.08639",
+    "https://arxiv.org/abs/2611.08643",
+    "https://arxiv.org/abs/2611.08683",
+    "https://arxiv.org/abs/2611.08704",
+    "https://arxiv.org/abs/2611.08711"
+  ]
+}
