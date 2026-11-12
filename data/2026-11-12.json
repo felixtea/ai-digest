@@ -1,0 +1,131 @@
+{
+  "date_id": "2026-11-12",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "The backlash about data centers might really just be about electricity",
+          "zh": "The backlash about data centers might really just be about electricity"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+      },
+      {
+        "title": {
+          "en": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+          "zh": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+      },
+      {
+        "title": {
+          "en": "Gilbert + Tobin rethinks the business of law with AI",
+          "zh": "Gilbert + Tobin rethinks the business of law with AI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gilbert-tobin-sam-nickless"
+      },
+      {
+        "title": {
+          "en": "ChatGPT Plus for veterans and servicemembers",
+          "zh": "ChatGPT Plus for veterans and servicemembers"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/chatgpt-plus-for-veterans"
+      },
+      {
+        "title": {
+          "en": "JioStar’s chief architect on AI discovery at 500M-user scale",
+          "zh": "JioStar’s chief architect on AI discovery at 500M-user scale"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/jiostar-vijay-seshadri"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "https://openai.com/index/chatgpt-plus-for-veterans",
+    "https://openai.com/index/jiostar-vijay-seshadri",
+    "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "https://openai.com/index/introducing-businesses-chatgpt",
+    "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "https://huggingface.co/blog/qvac/botpsy",
+    "https://huggingface.co/blog/token-pooling",
+    "https://huggingface.co/blog/hub-gcp-marketplace",
+    "https://huggingface.co/blog/decision",
+    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+    "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+    "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+    "https://latent.space/p/jev-revolution/",
+    "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+    "https://latent.space/p/codex-work/",
+    "https://latent.space/p/resend/",
+    "https://latent.space/p/naiveai/",
+    "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+    "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+    "https://simonwillison.net/2026/Nov/11/tools-tags/",
+    "https://simonwillison.net/2026/Nov/11/llm/",
+    "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+    "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+    "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+    "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+    "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+    "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+    "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+    "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+    "https://www.404media.co/scientists-discovered-an-invisible-object-in-space/",
+    "https://www.404media.co/its-one-banana-michael-what-could-it-cost/",
+    "https://www.404media.co/silicon-valley-podcast-hosts-try-to-understand-why-regular-people-are-mad/",
+    "https://www.404media.co/come-and-take-it/",
+    "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/",
+    "https://www.infoq.com/news/2026/11/jiohotstar-codingagent-retrieval/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/qcon-ai-newyork-2026-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/cloudflare-basin-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/google-agent-distraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/google-gemini-argon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.mcmillen.dev/sigbovik/",
+    "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "https://github.com/aws/aws-emulator",
+    "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+    "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+  ]
+}
