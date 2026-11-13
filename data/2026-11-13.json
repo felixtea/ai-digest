@@ -1,0 +1,136 @@
+{
+  "date_id": "2026-11-13",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "zh": "How Amplitude ships product improvements in 1–2 days with OpenAI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/business/customer-stories/amplitude"
+      },
+      {
+        "title": {
+          "en": "Gondola doubles revenue as its team builds more with Codex",
+          "zh": "Gondola doubles revenue as its team builds more with Codex"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/business/customer-stories/gondola"
+      },
+      {
+        "title": {
+          "en": "Supporting research on AI and children’s safety",
+          "zh": "Supporting research on AI and children’s safety"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/children-first-declaration"
+      },
+      {
+        "title": {
+          "en": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "zh": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+      },
+      {
+        "title": {
+          "en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "zh": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-alphaproof-code/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/business/customer-stories/amplitude",
+    "https://openai.com/business/customer-stories/gondola",
+    "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "https://openai.com/index/children-first-declaration",
+    "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "https://huggingface.co/blog/3d-lora-finetuning",
+    "https://huggingface.co/blog/qvac/botpsy",
+    "https://huggingface.co/blog/token-pooling",
+    "https://huggingface.co/blog/hub-gcp-marketplace",
+    "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+    "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+    "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+    "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+    "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+    "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+    "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+    "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+    "https://latent.space/p/artcraft/",
+    "https://latent.space/p/ainews-d-day-decision-models-day/",
+    "https://latent.space/p/jev-revolution/",
+    "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+    "https://latent.space/p/codex-work/",
+    "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+    "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+    "https://simonwillison.net/2026/Nov/11/tools-tags/",
+    "https://simonwillison.net/2026/Nov/11/llm/",
+    "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+    "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+    "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+    "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+    "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+    "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+    "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+    "https://www.404media.co/way-more-terrifying-than-i-expected/",
+    "https://www.404media.co/muse-sexts-roleplaying-real-people/",
+    "https://www.404media.co/scientists-discovered-an-invisible-object-in-space/",
+    "https://www.404media.co/its-one-banana-michael-what-could-it-cost/",
+    "https://www.404media.co/silicon-valley-podcast-hosts-try-to-understand-why-regular-people-are-mad/",
+    "https://www.infoq.com/news/2026/11/logic-apps-local-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/jiohotstar-codingagent-retrieval/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/qcon-ai-newyork-2026-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/cloudflare-basin-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "https://folklore.org/Switcher.html",
+    "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+  ]
+}
