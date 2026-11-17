@@ -1,0 +1,131 @@
+{
+  "date_id": "2026-11-17",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "zh": "Strengthening the fight against online child sexual abuse with new tools and support"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/strengthening-online-child-safety"
+      },
+      {
+        "title": {
+          "en": "Science at the Frontier: How scientists use ChatGPT",
+          "zh": "Science at the Frontier: How scientists use ChatGPT"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/science-at-the-frontier"
+      },
+      {
+        "title": {
+          "en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "zh": "LVMH’s Media Division announces strategic partnership with OpenAI"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/lvmh-media-division-partnership"
+      },
+      {
+        "title": {
+          "en": "Our first phase of embedded assessments",
+          "zh": "Our first phase of embedded assessments"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/our-first-phase-of-embedded-assessments"
+      },
+      {
+        "title": {
+          "en": "Introducing Gemini 4 Hydrogen",
+          "zh": "Introducing Gemini 4 Hydrogen"
+        },
+        "source": "Google DeepMind",
+        "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "https://openai.com/index/strengthening-online-child-safety",
+    "https://openai.com/index/science-at-the-frontier",
+    "https://openai.com/index/lvmh-media-division-partnership",
+    "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "https://huggingface.co/blog/openrouter",
+    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "https://huggingface.co/blog/allenai/xybench",
+    "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+    "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+    "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+    "https://latent.space/p/bfl/",
+    "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+    "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+    "https://latent.space/p/artcraft/",
+    "https://latent.space/p/ainews-d-day-decision-models-day/",
+    "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://simonwillison.net/2026/Nov/16/llm/",
+    "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+    "https://simonwillison.net/2026/Nov/15/datasette/",
+    "https://simonwillison.net/2026/Nov/15/datasette-2/",
+    "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+    "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+    "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+    "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+    "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+    "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+    "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+    "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+    "https://www.404media.co/ai-powered-copyright-hell/",
+    "https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/",
+    "https://www.404media.co/this-comic-kills-technofascists/",
+    "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
+    "https://www.404media.co/behind-the-blog-priorities-priorities/",
+    "https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/airbnb-castle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/aws-emulator-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.cs.cmu.edu/learn/",
+    "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "https://www.bugmenot.com/",
+    "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "https://opencode.ai/product/browse"
+  ]
+}
