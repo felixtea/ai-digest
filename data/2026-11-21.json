@@ -1,0 +1,136 @@
+{
+  "date_id": "2026-11-21",
+  "total_sources": 85,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+          "zh": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings"
+        },
+        "source": "Interconnects",
+        "link": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber"
+      },
+      {
+        "title": {
+          "en": "Language Models for Text Classification: From Bag-of-Words to Jev",
+          "zh": "Language Models for Text Classification: From Bag-of-Words to Jev"
+        },
+        "source": "Ahead of AI",
+        "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev"
+      },
+      {
+        "title": {
+          "en": "The AI Hype Index: AI is everywhere",
+          "zh": "The AI Hype Index: AI is everywhere"
+        },
+        "source": "MIT Tech Review (AI)",
+        "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+      },
+      {
+        "title": {
+          "en": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+          "zh": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too"
+        },
+        "source": "TechCrunch (AI)",
+        "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+      },
+      {
+        "title": {
+          "en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "zh": "Hebbia sees improvements in financial research with GPT-6 Astra"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/business/customer-stories/hebbia"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/combatting-adversarial-distillation",
+    "https://openai.com/business/customer-stories/hebbia",
+    "https://openai.com/index/introducing-medchembench",
+    "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "https://openai.com/business/learn/codex-security-plugin-demo",
+    "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "https://deepmind.google/blog/genie-4-is-now-available/",
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "https://huggingface.co/blog/inkling2mini",
+    "https://huggingface.co/blog/harness-adapters-at-scale",
+    "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+    "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+    "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+    "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "https://latent.space/p/formal-verification/",
+    "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+    "https://latent.space/p/linear-scaling/",
+    "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+    "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+    "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+    "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+    "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+    "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+    "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+    "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+    "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+    "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+    "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+    "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+    "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+    "https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/",
+    "https://www.404media.co/behind-the-blog-keeping-it-together/",
+    "https://www.404media.co/ransomware-fraud-attack-fbi-indictment/",
+    "https://www.404media.co/high-end-furniture-marketplace-aptdeco-is-taking-peoples-furniture-and-not-paying-them/",
+    "https://www.404media.co/redlining-ai-data-centers-and-race-study/",
+    "https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/ai-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+    "https://alpo.ge/remark.pdf",
+    "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "https://ninlive.com/",
+    "https://manidoraisamy.com/developer-to-architect.html",
+    "https://arxiv.org/abs/2611.23322",
+    "https://arxiv.org/abs/2611.23365",
+    "https://arxiv.org/abs/2611.23375",
+    "https://arxiv.org/abs/2611.23398",
+    "https://arxiv.org/abs/2611.23410"
+  ]
+}
