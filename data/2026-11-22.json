@@ -1,0 +1,131 @@
+{
+  "date_id": "2026-11-22",
+  "total_sources": 80,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+          "zh": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings"
+        },
+        "source": "Interconnects",
+        "link": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber"
+      },
+      {
+        "title": {
+          "en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "zh": "Hebbia sees improvements in financial research with GPT-6 Astra"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/business/customer-stories/hebbia"
+      },
+      {
+        "title": {
+          "en": "Can AI help scientists identify promising drug candidates?",
+          "zh": "Can AI help scientists identify promising drug candidates?"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/introducing-medchembench"
+      },
+      {
+        "title": {
+          "en": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "zh": "How OpenAI’s Performance Factory keeps ChatGPT fast"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+      },
+      {
+        "title": {
+          "en": "Explore the Codex Security Plugin",
+          "zh": "Explore the Codex Security Plugin"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/business/learn/codex-security-plugin-demo"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/combatting-adversarial-distillation",
+    "https://openai.com/business/customer-stories/hebbia",
+    "https://openai.com/index/introducing-medchembench",
+    "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "https://openai.com/business/learn/codex-security-plugin-demo",
+    "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "https://deepmind.google/blog/genie-4-is-now-available/",
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "https://huggingface.co/blog/inkling2mini",
+    "https://huggingface.co/blog/harness-adapters-at-scale",
+    "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+    "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+    "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+    "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+    "https://latent.space/p/formal-verification/",
+    "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+    "https://latent.space/p/linear-scaling/",
+    "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+    "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://simonwillison.net/2026/Nov/21/muru/",
+    "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+    "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+    "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+    "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+    "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.normaltech.ai/p/p-doom",
+    "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+    "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+    "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+    "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+    "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+    "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
+    "https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/",
+    "https://www.404media.co/behind-the-blog-keeping-it-together/",
+    "https://www.404media.co/ransomware-fraud-attack-fbi-indictment/",
+    "https://www.404media.co/high-end-furniture-marketplace-aptdeco-is-taking-peoples-furniture-and-not-paying-them/",
+    "https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/ai-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "https://stulle.app/",
+    "https://github.com/ItsNotRexed/Leonida"
+  ]
+}
