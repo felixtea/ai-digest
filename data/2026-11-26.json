@@ -1,0 +1,141 @@
+{
+  "date_id": "2026-11-26",
+  "total_sources": 90,
+  "curated": {
+    "top_articles": [],
+    "honorable_mentions": [
+      {
+        "title": {
+          "en": "The Dot and the Swarm",
+          "zh": "The Dot and the Swarm"
+        },
+        "source": "One Useful Thing",
+        "link": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm"
+      },
+      {
+        "title": {
+          "en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "zh": "GPT-6 models demonstrate intrinsic protein-design capabilities"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+      },
+      {
+        "title": {
+          "en": "Searching for distant planets with Astra",
+          "zh": "Searching for distant planets with Astra"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/index/searching-for-distant-planets-with-astra"
+      },
+      {
+        "title": {
+          "en": "How Intentful uses dots to make more time for growth",
+          "zh": "How Intentful uses dots to make more time for growth"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/business/customer-stories/intentful-dots"
+      },
+      {
+        "title": {
+          "en": "How iFood scales coding agents across 15,000 repositories",
+          "zh": "How iFood scales coding agents across 15,000 repositories"
+        },
+        "source": "OpenAI News",
+        "link": "https://openai.com/business/customer-stories/ifood"
+      }
+    ]
+  },
+  "raw_links": [
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "https://openai.com/business/customer-stories/intentful-dots",
+    "https://openai.com/business/customer-stories/ifood",
+    "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "https://deepmind.google/blog/genie-4-is-now-available/",
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "https://huggingface.co/blog/agentic-evals",
+    "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+    "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+    "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+    "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+    "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+    "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+    "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+    "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+    "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+    "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+    "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "https://www.oneusefulthing.org/p/the-overhang",
+    "https://www.oneusefulthing.org/p/agency-and-agents",
+    "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+    "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+    "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+    "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+    "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+    "https://www.normaltech.ai/p/management-consulting-is-not-a-thin",
+    "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
+    "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+    "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+    "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+    "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+    "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+    "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+    "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+    "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "https://www.404media.co/the-birds-are-listening-scientists-used-seabirds-to-track-hidden-ships/",
+    "https://www.404media.co/podcast-the-ai-tool-hacking-the-planet/",
+    "https://www.404media.co/let-the-beat-drop/",
+    "https://www.404media.co/groove-thing-review/",
+    "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/",
+    "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/vercel-board-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/openai-spark-fleet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering-news",
+    "https://scottaaronson.blog/?p=10379",
+    "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "https://github.com/lsernau/grh-lean",
+    "https://www.friedgil.com/vpvnp",
+    "https://progrium.github.io/minipg/",
+    "https://arxiv.org/abs/2611.31284",
+    "https://arxiv.org/abs/2611.31301",
+    "https://arxiv.org/abs/2611.31329",
+    "https://arxiv.org/abs/2611.31345",
+    "https://arxiv.org/abs/2611.31346",
+    "https://arxiv.org/abs/2611.33173",
+    "https://arxiv.org/abs/2611.33174",
+    "https://arxiv.org/abs/2611.33175",
+    "https://arxiv.org/abs/2611.33176",
+    "https://arxiv.org/abs/2611.33195"
+  ]
+}
